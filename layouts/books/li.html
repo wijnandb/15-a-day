@@ -1,0 +1,7 @@
+<li>
+  <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+  <!--span class="date">{{ with .Page.Params.Authors }}{{ partial "taxonomy/authors.html" . }}{{ end }}</span-->
+  <span>{{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}</span>
+  
+</li>
+
