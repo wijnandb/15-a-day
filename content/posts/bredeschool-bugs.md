@@ -3,7 +3,7 @@ draft: true
 title: "Bredeschool bugs"
 date: "2021-09-08T11:13:36+0200"
 layout: post
-tags: ["project", "bredeschool", "ToDo", "notes", "private"]
+tags: ["project", "brede school", "ToDo", "notes", "private"]
 slug: "bredeschool-bugs"
 ---
 
@@ -33,6 +33,7 @@ During the import, when the emial addresses are addded, lowercase them.
 - upload the file
 
 ```ERROR: 'NoneType' object has no attribute 'lower'```
+
 Problem is that it fails when there is no emailaddress. Fixed it, it works.
 
 - check if letters have been lowercased
@@ -43,7 +44,16 @@ Yes, they are.
 
 No. This is because of the order of events. There is a check when a new parent account is created, and there is a check when a new student account has been created.
 
+I don't know how to fix this, I'm leaving it open. This means that if new students are uploaded and their parent's email address contains upercase letters, the child will not be added to the parent's account.
 
+# ToDo
+A way to solve this is to update the registered e-mail addresses, set them all to lowercase. I also want to update the Usernames, set them to the mailaddress. I need to check if there is a conflict if I do so, so check if an emailaddress exists more than once.
+
+Or, when someone creates a new account, only allow lowercase.
+
+
+### Allauth Settings 
+[ACCOUNT_AUTHENTICATION_METHOD (=”username” | “email” | “username_email”)](https://django-allauth.readthedocs.io/en/latest/configuration.html)
 
 ### Layouts in the /templates/account/ section are not displaying as they should
 

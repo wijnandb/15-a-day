@@ -1,0 +1,1 @@
+This is the contact page, straight in the content folder

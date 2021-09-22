@@ -3,7 +3,7 @@ draft: true
 title: "Scotch whisky Sassenheim"
 date: "2021-09-06T09:22:42+0200"
 layout: post
-tags: ["business", "platform", "notes"]
+tags: ["business", "platform", "notes","scotch","whisky"]
 slug: "scotch-whisky-sassenheim"
 ---
 

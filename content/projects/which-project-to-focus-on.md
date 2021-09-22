@@ -12,17 +12,17 @@ I have determined a number of projects that I want/could/might build.
 Here's the list:
 1. [bredeschool]()
 1. [mijnwerk]()
-1. [v-bucks]()
-1. [speech tables of multiplication]()
-1. [speech reading]()
-1. [in game predictions]()
-1. [stockmarket football competition]()
-1. [news site]()
-1. [readability score calculator]()
-1. [free reading for schools]()
-1. [what's for dinner]()
-1. [cycling game]()
-1. [virtual personal trainer]()
+2. [v-bucks](../v-bucks/)
+3. [speech tables of multiplication]()
+4. [speech reading]()
+5. [in game predictions]()
+6. [stockmarket football competition]()
+7. [news site]()
+8. [readability score calculator]()
+9. [free reading for schools]()
+10. [what's for dinner]()
+11. [cycling game]()
+12. [virtual personal trainer]()
 
 Linking to separate posts to describe the projects in detail is a good idea, I could even put them under the "projects" link, with dedicated separate pages, ideally showing posts with the project-name as a tag underneath. Something I could figure out how that is done.
 
@@ -41,9 +41,9 @@ Optional questions include:
 
 
 
-[bredeschool]:(https://bredeschoolzuidoost.nl)
-[mijnwerk]:
-[v-bucks]:
+[bredeschool]:(bredeschool/)
+[mijnwerk]:(mijnwerk/)
+
 [speech tables of multiplication]:()
 [speech reading]:()
 [in game predictions]:()
