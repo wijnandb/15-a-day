@@ -29,7 +29,7 @@ First, there are the 5 regions:
 
 Within each of the regions, there are the distilleries, both the ones that still exist, as well as the ones that no onger exist, but from which there might be some rare whisky out there.
 
-Knowing the prices of the whiskies as they are offered by the distilleries is useful. This means getting the addresses of the sites on which they sell their whisky and scraping ythem on a regular basis (weekly should be fine).
+Knowing the prices of the whiskies as they are offered by the distilleries is useful. This means getting the addresses of the sites on which they sell their whisky and scraping them on a regular basis (weekly should be fine).
 
 Getting images and descriptions is useful, as well as reviews.
 
@@ -55,6 +55,15 @@ Other sites to consider:
 - https://whiskyauction.com/
 - https://whisky.auction/
 - https://whiskyauctioneer.com/
+- https://drankdozijn.nl/
+- https://www.scotchwhiskyauctions.com/
+- https://www.winecalgary.com/
+- https://www.wine-searcher.com/grape-1746-whisky-whiskey-malt
+- https://hedonism.co.uk/spirits/scotch?items_per_page=100
+- https://www.whiskykoning.nl/
+- https://www.lovescotch.com/
+- https://www.whiskyzone.de/
+- https://www.catawiki.com/
 - 
 
 
