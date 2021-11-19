@@ -3,7 +3,7 @@ draft: true
 title: "Determine readability score of a text"
 date: "2021-09-03T09:17:00+0200"
 layout: post
-tags: ["reading", "readabilty", "leestmeer"]
+tags: ["reading", "readability", "leestmeer"]
 slug: "determine-readability-score-of-a-text"
 ---
 
