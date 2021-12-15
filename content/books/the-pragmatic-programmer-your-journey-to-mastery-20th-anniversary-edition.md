@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: book
 title: "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition"
 template: book

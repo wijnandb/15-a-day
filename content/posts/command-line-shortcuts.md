@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 title: "Command line shortcuts"
 date: "2021-10-08T08:12:29+0200"
 layout: post

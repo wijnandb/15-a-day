@@ -16,9 +16,9 @@ For that reason, I have also looked at [Pelican] because it is written in [Pytho
 
 That made me circle back to Jekyll: easy to launch a site on Github pages, what more do you need?
 
-Well, there are some things left to desire if you look at Jekyll. And that brought me to Hugo.
+Well, there are some things left to desire if you look at Jekyll. And that brought me to [Hugo].
 
-First of all, the community around it seems very active, it has 53.9K stars on Github. It also seems to be aiming at providing a solid solution for building a static site, and not jsut a blog (like Jekyll seems to be doing). 
+First of all, the community around it seems very active, it has 53.9K stars on Github. It also seems to be aiming at providing a solid solution for building a static site, and not just a blog (like Jekyll seems to be doing). It's written in [Go] and is supposedly blazingly fast.
 
 Whatever, I am trying to justify that I am looking into Hugo, let's just have a go and tell you what I'm coming across.
 
@@ -27,14 +27,25 @@ Whatever, I am trying to justify that I am looking into Hugo, let's just have a 
 - create new hugo site: hugo new site name_of_new_site
 - git init
 - git add .
-- add a theme: ```bash $ git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder ```
+- add a theme: 
+  ``` bash 
+  $ git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder 
+  ```
 - fill out _config.toml
-- Build and launch site: ```bash $ hugo server -D ```
+- Build and launch site: 
+  ``` 
+  $ hugo server -D 
+  ```
   
+  {{< notice info >}}
+    You are reading this, so it works!
+    Site been build and deployed.
+    Very enthusiastic about Hugo, it *is* blazing fast
+  {{< /notice >}}
 
+Getting the site fully working on AWS S3 was not completely trouble free, main problem turned out to be the fact that S3 isn't a webserver, so you can't tell it to look for index.html if it gets to a directory. Hugo has a solution for this, called uglyURLs, so etting that to true fixed the issue partially. New problem I then encountered was the very good caching that Cloudfront uses: the changes to uglyURLs was in effect, but I was still seeing the old (wrong) URLs, which gave errors.
 
-
-
+Luckily there is a way of clearing the cache, which is called *Invalidation* on Cloudfront. Not a vbery intuitive name, I would say, but once you know that, you ca make it work.
 
 [Hugo]: https://gohugo.io/
 [Go]: https://golang.org/

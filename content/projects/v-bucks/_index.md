@@ -14,4 +14,8 @@ tags: ["project", "v-bucks"]
 
 Parents all over the world have experienced this kind of annoyances on a daily basis. So it is time to find a solution to this.
 
+To find a solution, we have to study the problem.
+
+Teenagers 
+
 

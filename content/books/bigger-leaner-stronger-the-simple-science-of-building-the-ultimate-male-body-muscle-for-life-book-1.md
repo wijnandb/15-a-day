@@ -5,7 +5,7 @@ title: "Bigger Leaner Stronger: The Simple Science of Building the Ultimate Male
 template: book
 date: 2020-09-09
 cover: /images/bookcovers/small/B006XF5BTG.jpg
-tags:  ['book']
+tags:  ['book', 'fitness']
 authors: ['Matthews, Michael']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B006XF5BTG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B006XF5BTG"

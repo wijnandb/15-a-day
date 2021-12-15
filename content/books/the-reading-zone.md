@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: book
 title: "The Reading Zone"
 template: book

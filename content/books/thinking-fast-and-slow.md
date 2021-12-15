@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: book
 title: "Thinking, Fast and Slow"
 template: book

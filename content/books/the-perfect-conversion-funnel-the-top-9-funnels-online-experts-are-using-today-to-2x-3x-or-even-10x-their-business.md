@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: book
 title: "The Perfect Conversion Funnel: The Top 9 Funnels Online Experts are Using Today to 2x, 3x, or Even 10x Their Business"
 template: book

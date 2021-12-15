@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: book
 title: "The Undoing Project: A Friendship That Changed Our Minds"
 template: book

@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 title: "Command line: moving files"
 date: "2021-09-16T08:36:24+0200"
 layout: post

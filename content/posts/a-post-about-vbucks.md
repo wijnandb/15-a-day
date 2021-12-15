@@ -1,7 +1,10 @@
 ---
+draft: false
 title: V-Bucks explained
-layout: post
 date: "2021-09-16T09:59:24+0200"
+layout: post
+tags: ["project", "vbucks"]
+slug: "a-post-about-vbucks"
 ---
 
 The V-Bucks project (or better yet, in this phase: idea) has originated at home, because my sons would like to earn money (to spend on V-bucks, the virtual currency used in Fortnite) and I would like them to do some chores in and around the house.

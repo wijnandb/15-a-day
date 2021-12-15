@@ -5,7 +5,7 @@ date: 2021-9-16 09:59
 
 These are the projects I am thinking about or working on. It serves as a place where I can dump my thoughts, notes, project-plans, the works.
 
-[Wielerspel](wielerspel/)
+[Wielerspel](projects/wielerspel.html)
 
 
-[V-Bucks](v-bucks/)
+[V-Bucks](projects/v-bucks.html)

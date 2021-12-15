@@ -5,7 +5,7 @@ title: "Build your first website with Python and Django: Build and Deploy a webs
 template: book
 date: 2017-06-01
 cover: /images/bookcovers/small/B07776RRYR.jpg
-tags:  ['book']
+tags:  ['book','python','django','web']
 authors: ['George, Nigel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07776RRYR/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07776RRYR"
