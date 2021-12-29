@@ -7,7 +7,7 @@ draft: false
 ---
 
 Ok, that worked. I can now create new posts from the command line by simply calling the bash script I have created. 
-Calling ./new-post.sh asks for a title and keywords (tags) and creates anew post for me in the desired directory (~/15-1-day/posts).
+Calling ./new-post.sh asks for a title and keywords (tags) and creates a new post for me in the desired directory (~/15-a-day/posts).
 
 This is a good beginning, there are however some steps left. First, let me document what I have created by adding the contents of the bash script to this post.
 
