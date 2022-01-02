@@ -1,5 +1,5 @@
 ---
-title: 'Let us see if this works: creating a new post from the command line'
+title: 'Creating a new post from the command line'
 date: 2021-08-31
 layout: post
 tags: ["productivity", "bash", "automation", "tags"]
