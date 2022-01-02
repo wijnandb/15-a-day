@@ -1,6 +1,6 @@
 --- 
 draft: true
-title: "Wielerspel 2021"
+title: "Rust zacht Arne"
 date: "2021-11-15T21:14:48+0100"
 layout: post
 tags: ["wielerspel", "prive", "notes"]
@@ -21,9 +21,7 @@ Stilletjes hoop ik dat de allerlaatste wedstrijd van het seizoen ook door Arne M
 Aan het einde van de middag zoek ik de uitslag op. Niet gewonnen, zie ik meteen. Maar kijk, wel hoog geeindigd. Vijfde.
 Ik klik door naar het Wielerspel. 
 
-En daar staat Arne. Voor de verdeling van de Jackpotpunten, na de allerlaatste wedstrijd in het allerlaatste seizoen dat hij meedoet, in het allerlaatste klassement waarin zijn naam voorkomt, op de vijfde plaats.
-
-Net als Arne Marit in de allerlaatste wedstrijd van het allerlaatste seizoen waarin we met z'n vijftienen zijn.
+En daar staat Arne. Voor de verdeling van de Jackpotpunten, na de allerlaatste wedstrijd in het allerlaatste seizoen dat hij meedoet, in het allerlaatste klassement waarin zijn naam voorkomt, op de vijfde plaats. Net als Arne Marit in de allerlaatste wedstrijd van het allerlaatste seizoen waarin we met z'n vijftienen zijn.
 
 Hartverscheurend mooie tragiek.
 Een traan drupt op m'n toetsenbord.
