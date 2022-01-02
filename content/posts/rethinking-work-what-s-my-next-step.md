@@ -7,9 +7,9 @@ tags: ["personal", "job search", "career"]
 slug: "rethinking-work-what-s-my-next-step"
 ---
 
-The issue I am dealing with is choosing between being an entrepreneur or getting a job. Being an entrepreneur has been both a succes and a failure, although the success has been way bigger than the failure. 
+The issue I am dealing with is choosing between being an entrepreneur or getting a job. Being an entrepreneur has been both a succes and a failure, although the success has been way bigger than the failure (financially), although in terms of learning I think the failure has taught me more. 
 
-As for "getting a job", there are some issues there for me as well. I keep putting it off, although every time I really seem to want to work at an actual company ;-).
+As for "getting a job", there are some issues there for me as well. I keep putting it off, although every now and then I really seem to want to work at an actual company ;-).
 
 So this post should turn out in two more: "how to be a successful entrepreneur" and "how to get a good job".
 

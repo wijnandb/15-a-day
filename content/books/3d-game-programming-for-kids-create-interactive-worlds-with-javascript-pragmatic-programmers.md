@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: book
 title: "3D Game Programming for Kids: Create Interactive Worlds with JavaScript (Pragmatic Programmers)"
 template: book
