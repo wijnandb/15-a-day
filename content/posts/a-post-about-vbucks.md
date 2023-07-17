@@ -13,11 +13,11 @@ The idea is that, because teens seem to forget about everything except checking 
 
 There were "son-specific" chores and there were "open chores", the first to do the chore would earn the V-Bucks. Recurring chores, epic chores, all kinds of ideas floated around. 
 
-The underlying thought was that they would create a habit of doing certain things. It is basically a way of determining the amount of your pocket-money, while helping out you mom and dad, developing some good habits along the way. An dbecause we figured the same problem 
+The underlying thought was that they would create a habit of doing certain things. It is basically a way of determining the amount of your pocket-money, while helping out your mom and dad, developing some good habits along the way. And because we figured the same problem would be experienced by other parents, why not try to solve this for all of us.
 
-We started out "low-tech", just a list on paper where chores could be claimed. Then we moved to a spreadsheet and a form. It clearly worked, so it is time to move on and create a Minimum Viable Product (MVP).
+We started out "low-tech", just a list on paper where chores could be claimed. Then we moved to a spreadsheet and a form. It clearly worked, so it is time to move on and create a Minimum Viable Product (MVP)[^1].
 
-Since I am working with Django, that is the goto platform to develop this on. 
+Since I like working with Django, that is the goto platform to develop this on. 
 
 A login functionality will be needed, but this is baked into Django, so that's taken care of. Once a user logs in, they see their chores that are due. We will use a push mechanism to push new chores, so if all chores (for that moment) are done, something nice will be shown (a random cat or something) with a text saying "You are all done!".
 
@@ -41,3 +41,5 @@ More difficult to deal with tasks that are aimed at more than one person, althou
 
 Interesting ideas:
 - [Use a Telegram bot](https://core.telegram.org/bots)
+
+[^1]: Technically we already had a MVP with the spreadsheet and the form, it's just that I want to avoid "going under water" to build an extended version without simultaneously using and therefore testing it. 
