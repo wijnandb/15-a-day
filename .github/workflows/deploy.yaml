@@ -1,9 +1,6 @@
 name: GitHub Pages
 
 on:
-  push:
-    branches:
-      - main  # Set a branch to deploy
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
