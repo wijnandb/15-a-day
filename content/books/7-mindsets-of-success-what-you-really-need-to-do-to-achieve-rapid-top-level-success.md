@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: book
 title: "7 Mindsets of Success: What You Really Need to Do to Achieve Rapid, Top-Level Success"
 template: book
