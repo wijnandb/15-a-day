@@ -8,7 +8,7 @@ slug: "git-create-new-branch"
 ---
 
 
-How do you create a new branch from the ccommand line?
+How do you create a new branch from the command line?
 
 If you are not on the main branch, go there first by typing:
 ```bash
@@ -28,5 +28,6 @@ Imagine you fixed the issue and committed it to the "issue40" branch by
 $ git commit -a -m "Fixed a bug [issue 40]"
 ```
 
-Now the master branch and the HEAD 
+You are now ready to merge the issue40 branch into the main branch. You can eitehr do this locally, or do it on Github.
+
 

@@ -37,13 +37,13 @@ Whatever, I am trying to justify that I am looking into Hugo, let's just have a 
   $ hugo server -D 
   ```
   
-  {{% notice info %}}
+  {{< notice info >}}
     You are reading this, so it works!
     Site been build and deployed.
-    Very enthusiastic about Hugo, it *is* blazing fast
-  {{% /notice %}}
+    Very enthusiastic about Hugo, it is blazing fast
+  {{< /notice >}}
 
-Getting the site fully working on AWS S3 was not completely trouble free, main problem turned out to be the fact that S3 isn't a webserver, so you can't tell it to look for index.html if it gets to a directory. Hugo has a solution for this, called uglyURLs, so etting that to true fixed the issue partially. New problem I then encountered was the very good caching that Cloudfront uses: the changes to uglyURLs was in effect, but I was still seeing the old (wrong) URLs, which gave errors.
+Getting the site fully working on AWS S3 was not completely trouble free, main problem turned out to be the fact that S3 isn't a webserver, so you can't tell it to look for index.html if it gets to a directory. Hugo has a solution for this, called uglyURLs, so setting that to true fixed the issue partially. New problem I then encountered was the very good caching that Cloudfront uses: the changes to uglyURLs was in effect, but I was still seeing the old (wrong) URLs, which gave errors.
 
 Luckily there is a way of clearing the cache, which is called *Invalidation* on Cloudfront. Not a vbery intuitive name, I would say, but once you know that, you ca make it work.
 
