@@ -1,5 +1,5 @@
 --- 
-draft: false
+draft: true
 title: "Setting up a new Django project"
 date: "2021-12-20T14:06:02+0100"
 layout: post
