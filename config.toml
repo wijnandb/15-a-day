@@ -3,7 +3,6 @@ title = "15 minutes a day"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 15
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
@@ -11,6 +10,9 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 uglyURLs = true
+
+[pagination]
+pagerSize = 15
 
 [params]
 author = "wijnandb"
