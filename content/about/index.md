@@ -1,6 +1,6 @@
 ---
 title: 'About this site'
-date: 2021-8-31T11:35:23+02:00
+date: 2024-11-13
 layout: post
 author: wijnandb
 tags: ["shell", "linux", "static sites", "markdown", "automation"]
