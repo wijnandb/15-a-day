@@ -31,7 +31,7 @@ Is this a question?
 {{< /notice >}}
 
 {{< notice info >}}
-Notice that this box contain information.
+Notice that this box contains information.
 {{< /notice >}}
 
 {{< notice warning >}}
