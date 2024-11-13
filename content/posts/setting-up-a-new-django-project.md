@@ -22,8 +22,8 @@ Questions:
    - Locally installed that version as well, Python3.10
 2. Which Django version can be run on Heroku?
 3. Which Postgres version can be run on Heroku?
-4. How can I have choose between different versions of Python locally?
+4. How can I choose between different versions of Python locally?
 
 Well, this little exercise has gotten me in all kinds of shit. I can't get my existing Django projects to run locally, I have really messed up.
 
-I tried getting an existing Django project running with venv, which didn't work. For some reason my .env cariables weren't loaded, and I haven't been able to figure out why that is. It might have to do with the creation of an "env" directory. Deleting it didn't solbve the problem though. 
+I tried getting an existing Django project running with venv, which didn't work. For some reason my .env variables weren't loaded, and I haven't been able to figure out why that is. It might have to do with the creation of an "env" directory. Deleting it didn't solve the problem though. 
