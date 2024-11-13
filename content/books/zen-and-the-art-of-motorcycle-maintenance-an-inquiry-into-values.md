@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: book
 title: "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values"
 template: book
