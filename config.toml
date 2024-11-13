@@ -12,7 +12,7 @@ enableEmoji = true
 uglyURLs = true
 
 [pagination]
-pagerSize = 15
+pagerSize = 10
 
 [params]
 author = "wijnandb"
