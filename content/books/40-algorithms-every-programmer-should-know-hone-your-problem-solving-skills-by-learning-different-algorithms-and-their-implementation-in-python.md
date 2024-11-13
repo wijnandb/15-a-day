@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: book
 title: "40 Algorithms Every Programmer Should Know: Hone your problem-solving skills by learning different algorithms and their implementation in Python"
 template: book
