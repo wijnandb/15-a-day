@@ -6,6 +6,11 @@ layout: post
 tags: ["project", "vbucks"]
 slug: "a-post-about-vbucks"
 ---
+November 2024 update. Read below for the idea of V-bucks.
+Revisiting this old post, I ask ChatGPT to help: https://chatgpt.com/share/67351ff2-8f14-800a-a499-0120b9518c78 
+
+This is still an interesting and nice idea to build a MVP for.
+
 
 The V-Bucks project (or better yet, in this phase: idea) has originated at home, because my sons would like to earn money (to spend on V-bucks, the virtual currency used in Fortnite) and I would like them to do some chores in and around the house.
 
@@ -37,6 +42,7 @@ What about using the Telegram interface? Send a task when it's due, like "make y
 If no reply, re-send an hour before task-window closes.
 
 More difficult to deal with tasks that are aimed at more than one person, although what we could do, is just let it dissapear when it is done by someone. That would also mean that having a Javascript powered website more suitable.
+
 
 
 Interesting ideas:
