@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Who Rules the World? (The American Empire Project)"
 template: book
