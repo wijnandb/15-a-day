@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Tactical Barbell Presents: Ageless Athlete"
-template: book
 date: 2017-12-10
 cover: /images/bookcovers/small/B06XQCJXJH.jpg
 tags:  ['book']

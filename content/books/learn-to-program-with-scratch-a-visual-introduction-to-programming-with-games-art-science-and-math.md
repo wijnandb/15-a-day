@@ -2,10 +2,9 @@
 draft: true
 layout: book
 title: "Learn to Program with Scratch: A Visual Introduction to Programming with Games, Art, Science, and Math"
-template: book
 date: 2019-09-11
 cover: /images/bookcovers/small/B00IE94WY4.jpg
-tags:  ['book', 'programming', 'education']
+tags: ['programming', 'education']
 authors: ['Marji, Majed']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00IE94WY4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00IE94WY4"
@@ -25,10 +24,10 @@ Sure, here's a concise overview of the book "Learn to Program with Scratch: A Vi
 The book is celebrated for its approachable and enjoyable methodology of teaching programming to novices. It excels at breaking down complex concepts into manageable and digestible pieces, using Scratch’s graphical interface to demystify the process of creating functional programs. One of the book's strengths is its project-based approach that emphasizes practical application over theoretical exposition. A noted critique might be that it doesn't delve deeply into advanced programming concepts, but this is consistent with its introductory nature.
 
 ## Key Takeaways
-- **Visual Learning:** Understanding programming concepts through visual representation can make the learning process more intuitive and less daunting for beginners.
-- **Project-Based Approach:** Engaging with practical projects helps reinforce learning and makes the concepts more relatable.
-- **Integrated Disciplines:** Programming can be applied creatively across various fields like games, art, science, and math, showcasing the interdisciplinary potential of coding skills.
-- **Step-by-step Guidance:** Detailed instructions combined with visual aids can facilitate self-paced learning and problem-solving.
+- **Visual Learning**: Understanding programming concepts through visual representation can make the learning process more intuitive and less daunting for beginners.
+- **Project-Based Approach**: Engaging with practical projects helps reinforce learning and makes the concepts more relatable.
+- **Integrated Disciplines**: Programming can be applied creatively across various fields like games, art, science, and math, showcasing the interdisciplinary potential of coding skills.
+- **Step-by-step Guidance**: Detailed instructions combined with visual aids can facilitate self-paced learning and problem-solving.
 
 ## Recommendation
 "Learn to Program with Scratch" is highly recommended for beginners who are interested in learning programming in a fun and engaging way. It is particularly suitable for young learners, educators, and parents looking to introduce coding concepts in a structured yet enjoyable format. The book's project-based lessons make it an ideal choice for classrooms or individual learning.

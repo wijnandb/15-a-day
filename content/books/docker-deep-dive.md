@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Docker Deep Dive"
-template: book
 date: 2018-04-01
 cover: /images/bookcovers/small/B01LXWQUFF.jpg
 tags:  ['book']
@@ -23,12 +22,12 @@ categories: ['book']
 Nigel Poulton's "Docker Deep Dive" is praised for its clear, concise writing and practical approach to learning Docker. The emphasis on real-world applications and step-by-step tutorials makes it an invaluable resource for IT professionals and developers looking to harness container technology. While the book is comprehensive, advanced users might find some sections basic, as it focuses more on foundational knowledge and skills. Nonetheless, its authoritative coverage of Docker makes it a strong teaching tool and a useful reference.
 
 ## Key Takeaways
-- **Understanding Containers:** Comprehend what containers are, how they function, and how they differ from virtual machines.
-- **Working with Docker Images:** Learn how to create, manage, and deploy Docker images effectively.
-- **Networking:** Gain insights into Docker networking and how it enables containers to communicate with each other and external networks.
-- **Storage Solutions:** Explore Docker volumes and other storage options for persisting data.
-- **Orchestration with Docker Compose and Swarm:** Grasp the basics of managing multi-container applications and scaling with Swarm.
-- **Real-world Application:** Exercise the application of Docker in a variety of scenarios, from development environments to production.
+- **Understanding Containers**: Comprehend what containers are, how they function, and how they differ from virtual machines.
+- **Working with Docker Images**: Learn how to create, manage, and deploy Docker images effectively.
+- **Networking**: Gain insights into Docker networking and how it enables containers to communicate with each other and external networks.
+- **Storage Solutions**: Explore Docker volumes and other storage options for persisting data.
+- **Orchestration with Docker Compose and Swarm**: Grasp the basics of managing multi-container applications and scaling with Swarm.
+- **Real-world Application**: Exercise the application of Docker in a variety of scenarios, from development environments to production.
 
 ## Recommendation
 "Docker Deep Dive" is highly recommended for software developers, system administrators, and IT professionals who are new to Docker and want a structured introduction. It will also serve as a strong refresher for those already familiar with Docker concepts but seeking a deeper understanding. The book's practical focus makes it suitable for those who prefer learning by doing, as it aligns theoretical knowledge with hands-on exercises.

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto Book 1)"
-template: book
 date: 2021-06-08
 cover: /images/bookcovers/small/B001FA0W5W.jpg
 tags:  ['book']
@@ -25,11 +24,11 @@ categories: ['book']
 
 ## Key Takeaways
 
-1. **The Role of Randomness:** Success can often be attributed to luck, not just skill. Recognizing the impact of randomness can prevent overconfidence.
-2. **Survivorship Bias:** People tend to focus on successful individuals without considering those who failed, which skews perception.
-3. **Hindsight Bias:** After an event, individuals often see it as having been predictable, despite its randomness.
-4. **Black Swans:** Significant, unpredictable events that have massive impact—what Taleb explores further in later works.
-5. **Monte Carlo Simulations:** A method used to understand the impact of risk and uncertainty in prediction and forecasting models.
+1. **The Role of Randomness**: Success can often be attributed to luck, not just skill. Recognizing the impact of randomness can prevent overconfidence.
+2. **Survivorship Bias**: People tend to focus on successful individuals without considering those who failed, which skews perception.
+3. **Hindsight Bias**: After an event, individuals often see it as having been predictable, despite its randomness.
+4. **Black Swans**: Significant, unpredictable events that have massive impact—what Taleb explores further in later works.
+5. **Monte Carlo Simulations**: A method used to understand the impact of risk and uncertainty in prediction and forecasting models.
 
 ## Recommendation
 

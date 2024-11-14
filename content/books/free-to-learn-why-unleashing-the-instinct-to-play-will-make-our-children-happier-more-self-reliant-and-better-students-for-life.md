@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Free to Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life"
-template: book
 date: 2020-03-05
 cover: /images/bookcovers/small/B00B3M3KZG.jpg
 tags:  ['book']

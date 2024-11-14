@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Practical Programming for Strength Training"
-template: book
 date: 2019-08-18
 cover: /images/bookcovers/small/B00IU8YETW.jpg
 tags:  ['book']
@@ -25,15 +24,15 @@ categories: ['book']
 
 ## Key Takeaways
 
-1. **Progressive Overload:** The cornerstone of strength training, emphasizing gradual increases in stress to facilitate adaptation and growth.
+1. **Progressive Overload**: The cornerstone of strength training, emphasizing gradual increases in stress to facilitate adaptation and growth.
    
-2. **Periodization:** Understanding the importance of structuring training cycles to optimize performance and recovery over time.
+2. **Periodization**: Understanding the importance of structuring training cycles to optimize performance and recovery over time.
    
-3. **Individualization:** Adapting programs to the lifter’s age, experience, and goals to maximize training efficiency and effectiveness.
+3. **Individualization**: Adapting programs to the lifter’s age, experience, and goals to maximize training efficiency and effectiveness.
    
-4. **Recovery:** Highlighting the critical role of rest and nutrition in a successful strength training program.
+4. **Recovery**: Highlighting the critical role of rest and nutrition in a successful strength training program.
    
-5. **Training Phases:** Differentiation between novice, intermediate, and advanced programming strategies, facilitating continual progression.
+5. **Training Phases**: Differentiation between novice, intermediate, and advanced programming strategies, facilitating continual progression.
 
 ## Recommendation
 

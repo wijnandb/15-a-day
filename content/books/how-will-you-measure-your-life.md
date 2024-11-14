@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "How Will You Measure Your Life?"
-template: book
 date: 2020-09-25
 cover: /images/bookcovers/small/B006ID0CH4.jpg
 tags:  ['book']

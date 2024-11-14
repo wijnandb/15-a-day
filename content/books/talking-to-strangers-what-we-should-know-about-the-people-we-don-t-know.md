@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Talking to Strangers: What We Should Know about the People We Don't Know"
-template: book
 date: 2016-07-16
 cover: /images/bookcovers/small/B07NDKVWZW.jpg
 tags:  ['book']

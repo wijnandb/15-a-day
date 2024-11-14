@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Five Figure Funnels: How To Sell Marketing Funnel Services To Your Customers For Five Figures In Any Market, No Matter Your Experience"
-template: book
 date: 2015-10-02
 cover: /images/bookcovers/small/B08CKYHNN9.jpg
 tags:  ['book']

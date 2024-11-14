@@ -1,7 +1,6 @@
 ---
 layout: book
 title: "Astrophysics for People in a Hurry"
-template: book
 date: 2018-03-12
 cover: /images/bookcovers/small/B01MAWT2MO.jpg
 tags:  ['astrophysics']

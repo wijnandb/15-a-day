@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Dying for a Paycheck: How Modern Management Harms Employee Health and Company Performance&#8212;and What We Can Do About It"
-template: book
 date: 2017-11-04
 cover: /images/bookcovers/small/B071VR9313.jpg
 tags:  ['book']

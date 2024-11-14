@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets"
-template: book
 date: 2018-09-24
 cover: /images/bookcovers/small/B015MOJ80G.jpg
 tags:  ['book']

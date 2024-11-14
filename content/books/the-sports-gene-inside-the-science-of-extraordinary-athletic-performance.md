@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Sports Gene: Inside the Science of Extraordinary Athletic Performance"
-template: book
 date: 2020-04-02
 cover: /images/bookcovers/small/B00AEDDQKE.jpg
 tags:  ['book']

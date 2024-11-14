@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Scaling Up: How a Few Companies Make It...and Why the Rest Don't (Rockefeller Habits 2.0)"
-template: book
 date: 2019-03-27
 cover: /images/bookcovers/small/B00O5RR7QO.jpg
 tags:  ['book']
@@ -22,10 +21,10 @@ categories: ['book']
 "Scaling Up" has been well-received for its clear, actionable advice tailored for small to mid-sized companies striving to grow. A key strength is its pragmatic approach, with Harnish incorporating real-world examples and easy-to-understand frameworks that executives can apply immediately. Some critiques point out the book's density and the overwhelming amount of information that may require digesting over multiple readings. Additionally, while the book is comprehensive, some readers feel it might be more beneficial for leaders who have foundational knowledge in business management rather than complete novices.
 
 ## Key Takeaways
-- **People:** Building a strong team culture and getting the right people in the right roles are crucial to scaling.
-- **Strategy:** Developing a clear and differentiated strategy helps maintain competitive advantage.
-- **Execution:** Consistent and efficient execution of strategy is necessary to turn plans into results.
-- **Cash:** Ensuring a company’s financial health underpins long-term growth and sustainability.
+- **People**: Building a strong team culture and getting the right people in the right roles are crucial to scaling.
+- **Strategy**: Developing a clear and differentiated strategy helps maintain competitive advantage.
+- **Execution**: Consistent and efficient execution of strategy is necessary to turn plans into results.
+- **Cash**: Ensuring a company’s financial health underpins long-term growth and sustainability.
 - Tools like the One-Page Strategic Plan and the Rockefeller Habits Checklist provide structured approaches for implementing the concepts.
 - The importance of having a vivid and compelling company vision that drives all organizational efforts.
 

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Monetizing Innovation: How Smart Companies Design the Product Around the Price"
-template: book
 date: 2018-06-08
 cover: /images/bookcovers/small/B01F4DYY1I.jpg
 tags:  ['book']

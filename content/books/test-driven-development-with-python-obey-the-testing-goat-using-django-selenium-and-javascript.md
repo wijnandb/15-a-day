@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript"
-template: book
 date: 2017-09-01
 cover: /images/bookcovers/small/B074HXXXLS.jpg
 tags:  ['book']

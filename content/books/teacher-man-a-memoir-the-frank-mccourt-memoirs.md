@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Teacher Man: A Memoir (The Frank McCourt Memoirs)"
-template: book
 date: 2021-08-27
 cover: /images/bookcovers/small/B000FCKI7I.jpg
 tags:  ['book']

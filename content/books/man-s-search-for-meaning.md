@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Man's Search for Meaning"
-template: book
 date: 2020-05-04
 cover: /images/bookcovers/small/B009U9S6FI.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Disaster Inc"
-template: book
 date: 2016-09-10
 cover: /images/bookcovers/small/B07HDV9WLG.jpg
 tags:  ['book']

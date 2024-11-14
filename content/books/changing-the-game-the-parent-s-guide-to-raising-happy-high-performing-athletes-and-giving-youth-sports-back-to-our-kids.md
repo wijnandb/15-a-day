@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Changing the Game: The Parent's Guide to Raising Happy, High Performing Athletes, and Giving Youth Sports Back to our Kids"
-template: book
 date: 2019-12-08
 cover: /images/bookcovers/small/B00DZC25LW.jpg
 tags:  ['book']

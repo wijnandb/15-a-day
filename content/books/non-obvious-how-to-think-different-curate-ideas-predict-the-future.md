@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Non-Obvious: How to Think Different, Curate Ideas & Predict The Future"
-template: book
 date: 2019-01-06
 cover: /images/bookcovers/small/B00TB1TE0Q.jpg
 tags:  ['book']

@@ -2,10 +2,9 @@
 draft: true
 layout: book
 title: "Driving Digital: The Leader's Guide to Business Transformation Through Technology"
-template: book
 date: 2018-02-20
 cover: /images/bookcovers/small/B01N10Y94E.jpg
-tags:  ['book', 'digital transformation']
+tags: ['digital transformation']
 authors: ['Sacolick, Isaac']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01N10Y94E/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01N10Y94E"
@@ -22,11 +21,11 @@ categories: ['book']
 Isaac Sacolick’s "Driving Digital" is well-regarded for its pragmatic approach to digital transformation, especially in its clear, structured guidance for business executives. The book is praised for blending real-world examples with actionable advice, making complex technological changes seem manageable. Some critiques mention that certain sections could benefit from more depth, particularly when addressing industry-specific challenges. Nonetheless, the book’s strength lies in its straightforward, accessible language and the comprehensive framework it provides.
 
 ## Key Takeaways
-- **Prioritize Culture and Change Management:** Effective digital transformation requires a shift in organizational culture and the adoption of continuous change management practices.
-- **Leverage Data and Analytics:** Utilizing data-driven insights is crucial for making informed business decisions and gaining a competitive edge.
-- **Embrace Agile Practices:** Implementing agile methodologies can accelerate innovation and improve responsiveness to market changes.
-- **Foster Collaborative Environments:** Collaboration across departments and with external partners enhances the effectiveness of digital initiatives.
-- **Customer-Centric Focus:** Aligning digital strategies with customer needs and experiences is essential for sustaining business success.
+- **Prioritize Culture and Change Management**: Effective digital transformation requires a shift in organizational culture and the adoption of continuous change management practices.
+- **Leverage Data and Analytics**: Utilizing data-driven insights is crucial for making informed business decisions and gaining a competitive edge.
+- **Embrace Agile Practices**: Implementing agile methodologies can accelerate innovation and improve responsiveness to market changes.
+- **Foster Collaborative Environments**: Collaboration across departments and with external partners enhances the effectiveness of digital initiatives.
+- **Customer-Centric Focus**: Aligning digital strategies with customer needs and experiences is essential for sustaining business success.
 
 ## Recommendation
 "Driving Digital" is highly recommended for business leaders, CTOs, and managers who are tasked with overseeing digital transformation initiatives. Its practical guidance and strategic insights make it an invaluable resource for anyone looking to modernize their organization's operations and embrace new technologies. The book is particularly beneficial for those who seek a clear, actionable framework to adapt their business practices to the digital age.

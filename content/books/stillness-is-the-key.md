@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Stillness Is the Key"
-template: book
 date: 2016-07-28
 cover: /images/bookcovers/small/B07MJ3TDCZ.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture"
-template: book
 date: 2017-02-09
 cover: /images/bookcovers/small/B079WN554H.jpg
 tags:  ['book']

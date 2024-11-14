@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Originals: How Non-Conformists Move the World"
-template: book
 date: 2018-12-01
 cover: /images/bookcovers/small/B00XIYGCDO.jpg
 tags:  ['book']

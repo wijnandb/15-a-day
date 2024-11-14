@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "When: The Scientific Secrets of Perfect Timing"
-template: book
 date: 2017-10-15
 cover: /images/bookcovers/small/B072Q985YX.jpg
 tags:  ['book']

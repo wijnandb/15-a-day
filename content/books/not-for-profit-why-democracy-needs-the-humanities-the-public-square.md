@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Not for Profit: Why Democracy Needs the Humanities (The Public Square)"
-template: book
 date: 2020-08-20
 cover: /images/bookcovers/small/B0073X0JFI.jpg
 tags:  ['book']

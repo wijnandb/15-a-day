@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "HBR Guide to Persuasive Presentations (HBR Guide Series)"
-template: book
 date: 2020-05-24
 cover: /images/bookcovers/small/B009G1W9JO.jpg
 tags:  ['book']

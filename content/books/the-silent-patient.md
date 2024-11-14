@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Silent Patient"
-template: book
 date: 2016-11-25
 cover: /images/bookcovers/small/B07D2C6J4K.jpg
 tags:  ['book']

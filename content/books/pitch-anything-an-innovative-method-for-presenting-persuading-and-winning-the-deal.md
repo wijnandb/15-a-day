@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal"
-template: book
 date: 2021-01-11
 cover: /images/bookcovers/small/B004H4XL7E.jpg
 tags:  ['book']

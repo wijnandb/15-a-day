@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Trust Me, I'm Lying: Confessions of a Media Manipulator"
-template: book
 date: 2020-08-16
 cover: /images/bookcovers/small/B0074VTHH0.jpg
 tags:  ['book']

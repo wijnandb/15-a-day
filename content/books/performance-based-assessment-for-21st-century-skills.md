@@ -20,10 +20,10 @@ categories: ['book']
 Todd Stanley's book is well-regarded among educators for its practical approach to rethinking assessment strategies in education. It effectively addresses the gap between traditional assessments and the skills students need in the 21st century. The strength of the book lies in its actionable insights and real-world examples, making it easy for teachers to adopt the suggested methods. One potential weakness is that some educators might find the implementation of these strategies challenging due to existing curricular constraints or lack of administrative support.
 
 ## Key Takeaways
-- **Emphasis on Real-World Skills:** Performance-based assessments can better prepare students for life beyond school by focusing on skills that are applicable in real-world scenarios.
-- **Integration into Curriculum:** Stanley provides numerous examples and strategies for seamlessly integrating performance-based assessments into existing curricula.
-- **Development of Critical Skills:** The book highlights the importance of developing students' critical thinking, creativity, collaboration, and communication skills.
-- **Practical Guidance:** Includes step-by-step instructions and real-life examples to help educators design and implement effective assessments.
+- **Emphasis on Real-World Skills**: Performance-based assessments can better prepare students for life beyond school by focusing on skills that are applicable in real-world scenarios.
+- **Integration into Curriculum**: Stanley provides numerous examples and strategies for seamlessly integrating performance-based assessments into existing curricula.
+- **Development of Critical Skills**: The book highlights the importance of developing students' critical thinking, creativity, collaboration, and communication skills.
+- **Practical Guidance**: Includes step-by-step instructions and real-life examples to help educators design and implement effective assessments.
 
 ## Recommendation
 "Performance-Based Assessment for 21st-Century Skills" is an invaluable resource for educators who wish to move beyond traditional testing methods and foster a more dynamic and relevant learning environment. It is particularly beneficial for teachers, curriculum designers, and educational leaders interested in adopting innovative assessment strategies that align with the skills needed in the modern world.

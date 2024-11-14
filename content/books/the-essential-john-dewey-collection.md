@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Essential John Dewey Collection"
-template: book
 date: 2020-03-17
 cover: /images/bookcovers/small/B00ASP8DKQ.jpg
 tags:  ['book']
@@ -22,9 +21,9 @@ categories: ['book']
 This comprehensive collection offers an insightful look into Dewey's philosophy, showcasing both his visionary thinking and his ability to address complex social issues with clarity. The book effectively encapsulates Dewey's impact on progressive education and thought. One notable strength is the breadth of topics covered, providing a holistic understanding of his ideals. However, readers might find some essays dense or challenging due to the philosophical language and historical context of certain pieces. Despite this, Dewey's commitment to practical solutions for societal improvement resonates throughout the collection.
 
 ## Key Takeaways
-- **Experiential Learning:** Dewey advocates for educational systems that prioritize hands-on experiences and critical thinking over rote memorization.
-- **Democratic Participation:** He emphasizes the need for education to foster active participation and communication in democratic societies.
-- **Philosophical Pragmatism:** Dewey's pragmatism focuses on the practical application of ideas and the continuous adaptation of thought to solve real-world problems.
+- **Experiential Learning**: Dewey advocates for educational systems that prioritize hands-on experiences and critical thinking over rote memorization.
+- **Democratic Participation**: He emphasizes the need for education to foster active participation and communication in democratic societies.
+- **Philosophical Pragmatism**: Dewey's pragmatism focuses on the practical application of ideas and the continuous adaptation of thought to solve real-world problems.
 
 ## Recommendation
 This collection is highly recommended for educators, students of philosophy, and anyone interested in educational reform and democratic theory. The insights provided by Dewey's work serve as a foundation for understanding modern educational practices and the importance of cultivating critical, engaged citizens.

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Hooked: How to Build Habit-Forming Products"
-template: book
 date: 2019-06-11
 cover: /images/bookcovers/small/B00LMGLXTS.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Competing Against Luck: The Story of Innovation and Customer Choice"
-template: book
 date: 2018-07-26
 cover: /images/bookcovers/small/B01BBPZIHM.jpg
 tags:  ['book']

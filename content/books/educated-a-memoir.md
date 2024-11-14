@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Educated: A Memoir"
-template: book
 date: 2017-10-27
 cover: /images/bookcovers/small/B072BLVM83.jpg
 tags:  ['book']
@@ -24,10 +23,10 @@ categories: ['book']
 Critics have noted that while the book is powerful and intensely personal, it occasionally presents a one-sided perspective on complex familial relationships. Nonetheless, it is celebrated for its compelling portrayal of resilience and the pursuit of enlightenment.
 
 ## Key Takeaways
-- **The Value of Education:** The memoir illustrates how education has the power to transform lives, offering new opportunities and perspectives.
-- **Resilience and Determination:** Westover’s journey is a testament to the strength needed to overcome deeply ingrained familial and cultural constraints.
-- **The Complexity of Family Dynamics:** It highlights the challenges of maintaining family bonds in the face of diverging beliefs and lifestyles.
-- **Identity and Self-Discovery:** The book encapsulates the struggle and triumph of discovering one's path and identity outside of family expectations.
+- **The Value of Education**: The memoir illustrates how education has the power to transform lives, offering new opportunities and perspectives.
+- **Resilience and Determination**: Westover’s journey is a testament to the strength needed to overcome deeply ingrained familial and cultural constraints.
+- **The Complexity of Family Dynamics**: It highlights the challenges of maintaining family bonds in the face of diverging beliefs and lifestyles.
+- **Identity and Self-Discovery**: The book encapsulates the struggle and triumph of discovering one's path and identity outside of family expectations.
 
 ## Recommendation
 "Educated" is highly recommended for readers who appreciate memoirs, especially those interested in themes of education, personal growth, and overcoming adversity. It offers valuable insights for anyone curious about the process of forging one's destiny against significant odds and is particularly inspiring for those who value the transformative power of learning.

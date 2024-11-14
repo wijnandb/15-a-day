@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child"
-template: book
 date: 2017-10-31
 cover: /images/bookcovers/small/B071Y2BTT4.jpg
 tags:  ['book']

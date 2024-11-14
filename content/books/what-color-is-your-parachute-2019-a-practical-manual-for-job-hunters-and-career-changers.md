@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "What Color Is Your Parachute? 2019: A Practical Manual for Job-Hunters and Career-Changers"
-template: book
 date: 2017-05-08
 cover: /images/bookcovers/small/B077LNSK9Z.jpg
 tags:  ['employment']
@@ -22,11 +21,11 @@ categories: ['book']
 The 2019 edition of "What Color Is Your Parachute?" continues to uphold the book's reputation as a seminal work in career guidance. Bolles' profound understanding of career dynamics resonates throughout, offering timeless advice while integrating contemporary job search techniques. The book is praised for its clear, actionable strategies and empathetic tone, making it accessible and encouraging for job seekers. Some critiques highlight that while the book covers many strategies, the abundance of information may feel overwhelming to some readers. Nevertheless, its blend of self-assessment tools and tactical advice makes it a valuable resource for those at any stage of their career journey.
 
 ## Key Takeaways
-- **Self-Discovery:** The importance of understanding your interests, values, and skills before embarking on a job hunt.
-- **The Flower Exercise:** A core exercise that helps readers pinpoint their ideal job by examining factors like skills, work location, and desired salary.
-- **Networking:** Practical advice on how to effectively build and utilize networks to uncover job opportunities that are not advertised publicly.
-- **Modern Job Search Techniques:** Guidance on crafting resumes and using online platforms to enhance job search efforts.
-- **Attitude and Adaptability:** Encouragement to maintain a positive and flexible outlook, seeing every setback as a learning opportunity.
+- **Self-Discovery**: The importance of understanding your interests, values, and skills before embarking on a job hunt.
+- **The Flower Exercise**: A core exercise that helps readers pinpoint their ideal job by examining factors like skills, work location, and desired salary.
+- **Networking**: Practical advice on how to effectively build and utilize networks to uncover job opportunities that are not advertised publicly.
+- **Modern Job Search Techniques**: Guidance on crafting resumes and using online platforms to enhance job search efforts.
+- **Attitude and Adaptability**: Encouragement to maintain a positive and flexible outlook, seeing every setback as a learning opportunity.
 
 ## Recommendation
 "What Color Is Your Parachute? 2019" is an essential read for anyone entering the job market or contemplating a career change. The book is particularly beneficial for individuals seeking a structured approach to exploring their career options and those looking to refine their job-hunting tactics. Its combination of introspective exercises and practical advice makes it a suitable guide for both recent graduates and seasoned professionals seeking new opportunities.

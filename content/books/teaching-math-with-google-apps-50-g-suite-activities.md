@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Teaching Math with Google Apps: 50 G Suite Activities"
-template: book
 date: 2017-12-02
 cover: /images/bookcovers/small/B06Y3ZBDM2.jpg
 tags:  ['book']

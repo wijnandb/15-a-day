@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Squat Every Day: Thoughts on Overtraining and Recovery in Strength Training"
-template: book
 date: 2020-02-02
 cover: /images/bookcovers/small/B00CE5BCFG.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Tactical Barbell: Definitive Strength Training for the Operational Athlete"
-template: book
 date: 2018-05-27
 cover: /images/bookcovers/small/B01G195QU2.jpg
 tags:  ['book']

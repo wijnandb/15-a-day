@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Daily Five, The (Second Edition): Fostering Literacy in the Elementary Grades"
-template: book
 date: 2019-08-22
 cover: /images/bookcovers/small/B00ITQDBNK.jpg
 tags:  ['book']

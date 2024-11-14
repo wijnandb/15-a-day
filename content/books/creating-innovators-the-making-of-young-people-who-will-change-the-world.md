@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Creating Innovators: The Making of Young People Who Will Change the World"
-template: book
 date: 2020-11-12
 cover: /images/bookcovers/small/B005GG0NFU.jpg
 tags:  ['book']

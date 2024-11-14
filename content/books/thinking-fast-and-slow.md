@@ -2,7 +2,6 @@
 draft: false
 layout: book
 title: "Thinking, Fast and Slow"
-template: book
 date: 2020-12-02
 cover: /images/bookcovers/small/B00555X8OA.jpg
 tags:  ['book']

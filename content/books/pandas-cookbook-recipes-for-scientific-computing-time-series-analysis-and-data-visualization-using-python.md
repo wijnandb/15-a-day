@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Pandas Cookbook: Recipes for Scientific Computing, Time Series Analysis and Data Visualization using Python"
-template: book
 date: 2018-01-19
 cover: /images/bookcovers/small/B06W2LXLQK.jpg
 tags:  ['book']

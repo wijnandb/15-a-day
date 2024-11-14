@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Helping Children Succeed: What Works and Why"
-template: book
 date: 2018-06-04
 cover: /images/bookcovers/small/B01F8KF240.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Language Two"
-template: book
 date: 2018-03-08
 cover: /images/bookcovers/small/B01MQKDL6Z.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living"
-template: book
 date: 2018-05-03
 cover: /images/bookcovers/small/B01HNJIJB2.jpg
 tags:  ['book']
@@ -15,7 +14,7 @@ categories: ['book']
 ---
 # The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living
 
-**Authors:** Ryan Holiday, Stephen Hanselman
+**Authors**: Ryan Holiday, Stephen Hanselman
 
 ## Summary
 
@@ -27,11 +26,11 @@ The book is well-regarded for effectively distilling complex Stoic concepts into
 
 ## Key Takeaways
 
-1. **Focus on What You Can Control:** Emphasizes the importance of distinguishing between what is within our control and what is not, and only investing energy in the former.
-2. **Practice Mindfulness and Reflection:** Encourages daily reflection on thoughts and actions to foster personal growth and self-discipline.
-3. **Embrace Discomfort as Growth:** Highlights the value of accepting challenges and embracing discomfort as pathways to personal improvement and resilience.
-4. **Cultivate Virtue:** Stresses the significance of developing virtues like wisdom, justice, courage, and temperance as a foundation for a fulfilling life.
-5. **Live in Accordance with Nature:** Advises aligning one's life with nature and reason, promoting harmony with the world and oneself.
+1. **Focus on What You Can Control**: Emphasizes the importance of distinguishing between what is within our control and what is not, and only investing energy in the former.
+2. **Practice Mindfulness and Reflection**: Encourages daily reflection on thoughts and actions to foster personal growth and self-discipline.
+3. **Embrace Discomfort as Growth**: Highlights the value of accepting challenges and embracing discomfort as pathways to personal improvement and resilience.
+4. **Cultivate Virtue**: Stresses the significance of developing virtues like wisdom, justice, courage, and temperance as a foundation for a fulfilling life.
+5. **Live in Accordance with Nature**: Advises aligning one's life with nature and reason, promoting harmony with the world and oneself.
 
 ## Recommendation
 

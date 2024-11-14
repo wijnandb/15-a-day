@@ -3,7 +3,7 @@ layout: book
 title: "Bayes' Theorem: A Visual Introduction For Beginners with Examples"
 date: 2018-03-28
 cover: /images/bookcovers/small/B01LZ1T9IX.jpg
-tags:  ['education', 'novel']
+tags:  ['education', 'logic']
 authors: ['Morris, Dan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01LZ1T9IX/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01LZ1T9IX"

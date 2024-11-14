@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Marketing: A Love Story: How to Matter to Your Customers"
-template: book
 date: 2019-04-08
 cover: /images/bookcovers/small/B00O3597M0.jpg
 tags:  ['book']

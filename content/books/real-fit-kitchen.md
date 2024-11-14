@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Real Fit Kitchen"
-template: book
 date: 2018-06-12
 cover: /images/bookcovers/small/B01EXVBVMW.jpg
 tags:  ['book']

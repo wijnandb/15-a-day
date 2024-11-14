@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Husband's Secret"
-template: book
 date: 2020-01-05
 cover: /images/bookcovers/small/B00D7Z4GQY.jpg
 tags:  ['book']
@@ -24,10 +23,10 @@ Tess has returned to Sydney following a betrayal by her husband and cousin, whil
 "The Husband's Secret" is praised for its engaging and suspenseful plot, marked by Moriarty's signature narrative style that unearths deep emotional truths through vibrant and relatable characters. The novel's pacing is effective, maintaining a balance between drama and introspection. Critical reception often highlights the intricate plot and the deft handling of multiple perspectives as major strengths. Some critiques mention that the story occasionally relies on coincidences and can feel melodramatic. However, the emotional gravity and thought-provoking moral dilemmas resonate with readers, offering an insightful look at how secrets can alter lives.
 
 ## Key Takeaways
-- **Secrecy and Honesty:** Moriarty demonstrates the immense burden of secrets and the importance of honesty in relationships.
-- **Forgiveness and Redemption:** The book explores how characters seek forgiveness and redemption in the wake of betrayal and personal failure.
-- **Impact of Past on Present:** The narrative highlights how the past continuously shapes and impacts present relationships and decisions.
-- **Complexity of Human Relationships:** The story examines the multifaceted nature of human connections, questioning how well we truly know those around us.
+- **Secrecy and Honesty**: Moriarty demonstrates the immense burden of secrets and the importance of honesty in relationships.
+- **Forgiveness and Redemption**: The book explores how characters seek forgiveness and redemption in the wake of betrayal and personal failure.
+- **Impact of Past on Present**: The narrative highlights how the past continuously shapes and impacts present relationships and decisions.
+- **Complexity of Human Relationships**: The story examines the multifaceted nature of human connections, questioning how well we truly know those around us.
 
 ## Recommendation
 "The Husband's Secret" is recommended for readers who enjoy contemporary fiction with strong character development and a blend of suspense and emotional depth. Fans of domestic dramas and morally complex narratives will find the book particularly engaging. It offers an introspective look at marriage, family, and the secrets people keep, making it an excellent choice for book club discussions or readers interested in psychological and relational explorations.

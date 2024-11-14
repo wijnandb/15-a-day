@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Four Steps to the Epiphany"
-template: book
 date: 2019-11-14
 cover: /images/bookcovers/small/B00FLZKNUQ.jpg
 tags:  ['book']

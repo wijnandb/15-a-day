@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Solve for Happy: Engineer Your Path to Joy"
-template: book
 date: 2018-05-15
 cover: /images/bookcovers/small/B01H0IOZQ4.jpg
 tags:  ['book']

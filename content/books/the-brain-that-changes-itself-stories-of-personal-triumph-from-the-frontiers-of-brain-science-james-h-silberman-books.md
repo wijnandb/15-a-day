@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science (James H. Silberman Books)"
-template: book
 date: 2021-07-26
 cover: /images/bookcovers/small/B000QCTNIW.jpg
 tags:  ['book']
@@ -25,11 +24,11 @@ Norman Doidge's book has been praised for making complex scientific concepts acc
 
 ## Key Takeaways
 
-1. **Neuroplasticity's Power:** The brain is not static; it can reorganize itself by forming new neural connections throughout life.
-2. **Therapeutic Interventions:** Innovative therapies can help individuals recover from significant neurological impairments.
-3. **Personal Growth:** Engaging in new and challenging activities can physically change brain structure and function.
-4. **Limitless Learning:** Age does not significantly restrict the ability to learn new skills or concepts due to the brain's plasticity.
-5. **Individual Stories:** Personal experiences and case studies reveal the emotional and practical impacts of neuroplasticity in real-life scenarios.
+1. **Neuroplasticity's Power**: The brain is not static; it can reorganize itself by forming new neural connections throughout life.
+2. **Therapeutic Interventions**: Innovative therapies can help individuals recover from significant neurological impairments.
+3. **Personal Growth**: Engaging in new and challenging activities can physically change brain structure and function.
+4. **Limitless Learning**: Age does not significantly restrict the ability to learn new skills or concepts due to the brain's plasticity.
+5. **Individual Stories**: Personal experiences and case studies reveal the emotional and practical impacts of neuroplasticity in real-life scenarios.
 
 ## Recommendation
 

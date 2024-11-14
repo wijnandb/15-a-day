@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Innovation Biome: A Sustained Business Environment Where Innovation Thrives"
-template: book
 date: 2017-05-16
 cover: /images/bookcovers/small/B077H64QJM.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you"
-template: book
 date: 2018-05-11
 cover: /images/bookcovers/small/B01H4G2J1U.jpg
 tags:  ['book']

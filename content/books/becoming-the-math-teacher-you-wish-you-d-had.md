@@ -1,7 +1,6 @@
 ---
 layout: book
 title: "Becoming the Math Teacher You Wish You'd Had"
-template: book
 date: 2017-11-08
 cover: /images/bookcovers/small/B071V9JW69.jpg
 tags:  ['math', 'teaching']

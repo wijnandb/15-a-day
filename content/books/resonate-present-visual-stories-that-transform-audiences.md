@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Resonate: Present Visual Stories that Transform Audiences"
-template: book
 date: 2019-11-30
 cover: /images/bookcovers/small/B00F0U74IQ.jpg
 tags:  ['book']

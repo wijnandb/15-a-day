@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Irresistible Consultant's Guide to Winning Clients: 6 Steps to Unlimited Clients & Financial Freedom"
-template: book
 date: 2018-01-15
 cover: /images/bookcovers/small/B06WVGXT6H.jpg
 tags:  ['book']

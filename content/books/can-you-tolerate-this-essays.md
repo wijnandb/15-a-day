@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Can You Tolerate This?: Essays"
-template: book
 date: 2017-05-28
 cover: /images/bookcovers/small/B077CRCDK9.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Peak: Secrets from the New Science of Expertise"
-template: book
 date: 2018-10-26
 cover: /images/bookcovers/small/B011H56MKS.jpg
 tags:  ['book']

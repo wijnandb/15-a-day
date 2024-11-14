@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It"
-template: book
 date: 2020-11-20
 cover: /images/bookcovers/small/B005ERIRZE.jpg
 tags:  ['book']

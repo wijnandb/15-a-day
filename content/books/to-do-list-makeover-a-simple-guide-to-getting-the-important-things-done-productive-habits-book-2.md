@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "To-Do List Makeover: A Simple Guide to Getting the Important Things Done (Productive Habits Book 2)"
-template: book
 date: 2019-07-05
 cover: /images/bookcovers/small/B00KEELWJU.jpg
 tags:  ['book']

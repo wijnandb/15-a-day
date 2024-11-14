@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Innovator's Solution: Creating and Sustaining Successful Growth"
-template: book
 date: 2019-12-04
 cover: /images/bookcovers/small/B00E257S7C.jpg
 tags:  ['book']

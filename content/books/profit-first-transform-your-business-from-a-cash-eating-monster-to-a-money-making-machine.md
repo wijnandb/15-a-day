@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Profit First: Transform Your Business from a Cash-Eating Monster to a Money-Making Machine"
-template: book
 date: 2018-05-07
 cover: /images/bookcovers/small/B01HCGYTH4.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Make It Stick"
-template: book
 date: 2019-08-02
 cover: /images/bookcovers/small/B00JQ3FN7M.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Will to Meaning: Foundations and Applications of Logotherapy"
-template: book
 date: 2019-05-10
 cover: /images/bookcovers/small/B00N21QACQ.jpg
 tags:  ['book']

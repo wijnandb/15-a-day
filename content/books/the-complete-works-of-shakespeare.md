@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Complete Works of Shakespeare"
-template: book
 date: 2020-11-08
 cover: /images/bookcovers/small/B005LSCQ4Y.jpg
 tags:  ['book']

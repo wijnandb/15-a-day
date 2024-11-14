@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "How I Built This: The Unexpected Paths to Success from the World's Most Inspiring Entrepreneurs"
-template: book
 date: 2016-01-22
 cover: /images/bookcovers/small/B081TTXD8F.jpg
 tags:  ['book']
@@ -15,7 +14,7 @@ categories: ['book']
 ---
 # How I Built This: The Unexpected Paths to Success from the World's Most Inspiring Entrepreneurs
 
-**Author:** Guy Raz
+**Author**: Guy Raz
 
 ## Summary
 
@@ -27,15 +26,15 @@ Guy Raz's "How I Built This" effectively compiles a wide array of inspiring stor
 
 ## Key Takeaways
 
-1. **Embrace Failure:** Many successful entrepreneurs faced significant failures before succeeding. Viewing failures as learning experiences can be pivotal.
+1. **Embrace Failure**: Many successful entrepreneurs faced significant failures before succeeding. Viewing failures as learning experiences can be pivotal.
 
-2. **Be Adaptable:** The ability to pivot and adapt to changing circumstances often distinguishes successful businesses.
+2. **Be Adaptable**: The ability to pivot and adapt to changing circumstances often distinguishes successful businesses.
 
-3. **Follow Your Passion:** Many entrepreneurs succeeded by pursuing what they were genuinely passionate about, which sustained them through challenges.
+3. **Follow Your Passion**: Many entrepreneurs succeeded by pursuing what they were genuinely passionate about, which sustained them through challenges.
 
-4. **Perseverance is Key:** Success often requires persistence and grit, even when the odds seem insurmountable.
+4. **Perseverance is Key**: Success often requires persistence and grit, even when the odds seem insurmountable.
 
-5. **Value of Networking:** Building strong relationships and networks can open doors to opportunities that might otherwise remain inaccessible.
+5. **Value of Networking**: Building strong relationships and networks can open doors to opportunities that might otherwise remain inaccessible.
 
 ## Recommendation
 

@@ -1,7 +1,6 @@
 ---
 layout: book
 title: "POP!: Create the Perfect Pitch, Title, and Tagline for Anything"
-template: book
 date: 2021-08-11
 cover: /images/bookcovers/small/B000OCXFXS.jpg
 tags:  ['book']

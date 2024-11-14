@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Entrepreneur Mind: 100 Essential Beliefs, Characteristics, and Habits of Elite Entrepreneurs"
-template: book
 date: 2020-01-29
 cover: /images/bookcovers/small/B00CHRPUWM.jpg
 tags:  ['book']

@@ -1,7 +1,6 @@
 ---
 layout: book
 title: "Bigger Leaner Stronger: The Simple Science of Building the Ultimate Male Body (Muscle for Life Book 1)"
-template: book
 date: 2020-09-09
 cover: /images/bookcovers/small/B006XF5BTG.jpg
 tags:  ['fitness', 'strength']

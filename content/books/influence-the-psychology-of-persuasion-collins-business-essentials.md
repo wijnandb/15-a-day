@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Influence: The Psychology of Persuasion (Collins Business Essentials)"
-template: book
 date: 2021-04-29
 cover: /images/bookcovers/small/B002BD2UUC.jpg
 tags:  ['book']

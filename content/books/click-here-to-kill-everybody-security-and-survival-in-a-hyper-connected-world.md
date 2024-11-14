@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Click Here to Kill Everybody: Security and Survival in a Hyper-connected World"
-template: book
 date: 2017-01-16
 cover: /images/bookcovers/small/B07BLMQKZK.jpg
 tags:  ['book']

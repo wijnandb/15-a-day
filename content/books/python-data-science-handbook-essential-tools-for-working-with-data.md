@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Python Data Science Handbook: Essential Tools for Working with Data"
-template: book
 date: 2018-02-12
 cover: /images/bookcovers/small/B01N2JT3ST.jpg
 tags:  ['book']

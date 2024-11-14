@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Team of Rivals: The Political Genius of Abraham Lincoln"
-template: book
 date: 2021-08-15
 cover: /images/bookcovers/small/B000N2HBSO.jpg
 tags:  ['book']

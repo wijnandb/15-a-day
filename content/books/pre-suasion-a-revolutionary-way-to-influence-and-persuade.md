@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Pre-Suasion: A Revolutionary Way to Influence and Persuade"
-template: book
 date: 2018-07-02
 cover: /images/bookcovers/small/B01C36E2YS.jpg
 tags:  ['book']

@@ -2,10 +2,9 @@
 draft: true
 layout: book
 title: "The 4 Disciplines of Execution: Achieving Your Wildly Important Goals"
-template: book
 date: 2020-11-16
 cover: /images/bookcovers/small/B005FLODJ8.jpg
-tags:  ['book', 'productivity']
+tags: ['productivity']
 authors: ['McChesney, Chris', 'Huling, Jim', 'Covey, Sean']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B005FLODJ8/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B005FLODJ8"
@@ -18,13 +17,13 @@ categories: ['book']
 ## Summary
 "The 4 Disciplines of Execution: Achieving Your Wildly Important Goals" by Chris McChesney, Jim Huling, and Sean Covey is a business management book that introduces a framework for successfully executing strategic business goals. The book centers around four core disciplines:
 
-1. **Focus on the Wildly Important Goals (WIGs):** Emphasizes identifying the most crucial objectives that will have the greatest impact on the organization.
+1. **Focus on the Wildly Important Goals (WIGs)**: Emphasizes identifying the most crucial objectives that will have the greatest impact on the organization.
    
-2. **Act on Lead Measures:** Stresses the importance of distinguishing between lag and lead measures and focusing on activities that drive goal achievement.
+2. **Act on Lead Measures**: Stresses the importance of distinguishing between lag and lead measures and focusing on activities that drive goal achievement.
 
-3. **Keep a Compelling Scoreboard:** Encourages creating clear and simple scoreboards that help team members see where they stand in relation to their goals.
+3. **Keep a Compelling Scoreboard**: Encourages creating clear and simple scoreboards that help team members see where they stand in relation to their goals.
 
-4. **Create a Cadence of Accountability:** Suggests establishing a consistent rhythm of meetings where team members hold each other accountable for their commitments and progress.
+4. **Create a Cadence of Accountability**: Suggests establishing a consistent rhythm of meetings where team members hold each other accountable for their commitments and progress.
 
 The book is designed to guide leaders and teams in executing their highest priority goals amidst the whirlwind of daily tasks and distractions.
 

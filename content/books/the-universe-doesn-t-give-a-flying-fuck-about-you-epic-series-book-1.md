@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Universe Doesn't Give a Flying Fuck About You (Epic series Book 1)"
-template: book
 date: 2020-10-27
 cover: /images/bookcovers/small/B005OMBTKY.jpg
 tags:  ['book']

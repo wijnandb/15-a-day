@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Platform: The Art and Science of Personal Branding"
-template: book
 date: 2016-10-08
 cover: /images/bookcovers/small/B07FS88RG1.jpg
 tags:  ['book']

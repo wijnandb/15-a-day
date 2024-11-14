@@ -2,10 +2,9 @@
 draft: true
 layout: book
 title: "The Little Book of Talent: 52 Tips for Improving Your Skills"
-template: book
 date: 2020-07-15
 cover: /images/bookcovers/small/B007JC1RM2.jpg
-tags:  ['book', 'education']
+tags: ['education']
 authors: ['Coyle, Daniel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007JC1RM2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007JC1RM2"
@@ -25,17 +24,17 @@ Daniel Coyle's book is highly regarded for its clear and straightforward approac
 
 ### Key Takeaways
 
-1. **Embrace Deep Practice:** Focus on repetitive practice with a concentration on technique and form to build strong neural connections.
+1. **Embrace Deep Practice**: Focus on repetitive practice with a concentration on technique and form to build strong neural connections.
 
-2. **Chunk It Up:** Break down skills into small, manageable chunks, and master each one before moving on to the next.
+2. **Chunk It Up**: Break down skills into small, manageable chunks, and master each one before moving on to the next.
 
-3. **Find a Coach or Mentor:** The guidance of experienced individuals can accelerate learning and provide valuable insights.
+3. **Find a Coach or Mentor**: The guidance of experienced individuals can accelerate learning and provide valuable insights.
 
-4. **Use Visualization:** Visualizing skills and outcomes can effectively enhance performance and motivation.
+4. **Use Visualization**: Visualizing skills and outcomes can effectively enhance performance and motivation.
 
-5. **Emphasize Consistency:** Regular practice, even in small amounts, is often more effective than sporadic, intensive efforts.
+5. **Emphasize Consistency**: Regular practice, even in small amounts, is often more effective than sporadic, intensive efforts.
 
-6. **Embrace Mistakes:** View mistakes as learning opportunities and an essential part of the skill acquisition process.
+6. **Embrace Mistakes**: View mistakes as learning opportunities and an essential part of the skill acquisition process.
 
 ### Recommendation
 

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Einstein's Dreams"
-template: book
 date: 2020-10-19
 cover: /images/bookcovers/small/B005RZB6C4.jpg
 tags:  ['book']

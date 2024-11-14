@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Philosophy Book (Big Ideas Simply Explained)"
-template: book
 date: 2019-01-02
 cover: /images/bookcovers/small/B00TK7U4A0.jpg
 tags:  ['book']

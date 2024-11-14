@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Feel Free: Essays"
-template: book
 date: 2017-09-25
 cover: /images/bookcovers/small/B073NNRSYV.jpg
 tags:  ['book']
@@ -22,10 +21,10 @@ categories: ['book']
 "Feel Free: Essays" has been praised for its intellectual depth and Smith's ability to articulate complex ideas in an accessible manner. Her essays are a testament to her versatility as a writer, blending personal anecdotes with cultural critique. A notable strength is her ability to engage with diverse subjects without losing coherence or focus. Some critiques mention that a few essays may feel less connected or impactful compared to others, but overall, the collection is celebrated for its thought-provoking content and Smith's distinctive voice.
 
 ## Key Takeaways
-- **Cultural Observation:** Zadie Smith provides keen insights into contemporary issues, encouraging readers to view them from multiple perspectives.
-- **Personal Reflection:** Through her essays, she highlights the importance of self-awareness and reflection in understanding broader societal dynamics.
-- **Art and Identity:** The collection underscores the role of art and literature in shaping identity and society.
-- **Diverse Perspectives:** Emphasizes the value of diverse viewpoints in enrichening cultural and personal understanding.
+- **Cultural Observation**: Zadie Smith provides keen insights into contemporary issues, encouraging readers to view them from multiple perspectives.
+- **Personal Reflection**: Through her essays, she highlights the importance of self-awareness and reflection in understanding broader societal dynamics.
+- **Art and Identity**: The collection underscores the role of art and literature in shaping identity and society.
+- **Diverse Perspectives**: Emphasizes the value of diverse viewpoints in enrichening cultural and personal understanding.
 
 ## Recommendation
 "Feel Free: Essays" is recommended for readers interested in cultural critiques and personal essays that explore the intersections of art, politics, and personal morality. It is particularly beneficial for those who appreciate thought-provoking discourse and wish to gain deeper insights into contemporary society through the lens of a skilled and observant writer like Zadie Smith.

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Some Remarks: Essays and Other Writing"
-template: book
 date: 2020-08-04
 cover: /images/bookcovers/small/B0078XFRM8.jpg
 tags:  ['book']

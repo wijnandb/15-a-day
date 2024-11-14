@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Graceful"
-template: book
 date: 2021-01-27
 cover: /images/bookcovers/small/B0047ZFFEA.jpg
 tags:  ['book']

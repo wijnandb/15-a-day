@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Book of Why: The New Science of Cause and Effect"
-template: book
 date: 2017-07-31
 cover: /images/bookcovers/small/B075CR9QBJ.jpg
 tags:  ['book']

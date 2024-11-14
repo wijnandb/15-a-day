@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Don Quijote (Spanish Edition)"
-template: book
 date: 2020-12-10
 cover: /images/bookcovers/small/B004UIY0F4.jpg
 tags:  ['book']

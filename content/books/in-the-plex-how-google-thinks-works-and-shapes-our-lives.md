@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "In The Plex: How Google Thinks, Works, and Shapes Our Lives"
-template: book
 date: 2021-02-28
 cover: /images/bookcovers/small/B003UYUP6M.jpg
 tags:  ['book']

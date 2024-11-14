@@ -1,11 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Brave New World"
-template: book
 date: 2019-07-25
 cover: /images/bookcovers/small/B00JTYQJ3K.jpg
-tags:  ['book','fiction']
+tags:  ['novel', 'fiction']
 authors: ['Huxley, Aldous']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00JTYQJ3K/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00JTYQJ3K"
@@ -24,10 +22,10 @@ The plot revolves around Bernard Marx, an outsider in this conformist world due 
 "Brave New World" has been critically acclaimed for its visionary exploration of a future dominated by technology and state control. Huxley's portrayal of a dystopian world questions the balance between technological advancement and moral decay. One of the book's strengths is its insightful critique of consumerism, genetic engineering, and the use of technology to enforce conformity. However, some critiques point to the novel's somewhat dated language and the characters’ occasionally lackluster depth. Despite this, the novel remains a powerful reflection on, and warning about, the potential excesses of state power and technological reliance.
 
 ## Key Takeaways
-- **Control and Stability:** The novel illustrates how technological control can create an artificial sense of stability while destroying individual freedom.
-- **Conformity vs. Individuality:** It highlights the tension between societal pressure to conform and the desire for individual autonomy.
-- **The Role of Technology:** Huxley critiques the potential over-reliance on technology and the sacrifice of human emotions and connections for efficiency and harmony.
-- **The Pursuit of Happiness:** The book questions whether true happiness is achievable through artificial means and at what cost.
+- **Control and Stability**: The novel illustrates how technological control can create an artificial sense of stability while destroying individual freedom.
+- **Conformity vs. Individuality**: It highlights the tension between societal pressure to conform and the desire for individual autonomy.
+- **The Role of Technology**: Huxley critiques the potential over-reliance on technology and the sacrifice of human emotions and connections for efficiency and harmony.
+- **The Pursuit of Happiness**: The book questions whether true happiness is achievable through artificial means and at what cost.
 
 ## Recommendation
 "Brave New World" is recommended for readers interested in classic dystopian literature and those who appreciate social and political critiques. Fans of works like George Orwell's "1984" or Ray Bradbury's "Fahrenheit 451" will likely find "Brave New World" equally thought-provoking. It is particularly suitable for those interested in discussions about the implications of technological advancements and ethical considerations in modern society.

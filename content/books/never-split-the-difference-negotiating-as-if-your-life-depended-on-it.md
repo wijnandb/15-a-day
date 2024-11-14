@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Never Split the Difference: Negotiating As If Your Life Depended On It"
-template: book
 date: 2018-10-06
 cover: /images/bookcovers/small/B014DUR7L2.jpg
 tags:  ['book']

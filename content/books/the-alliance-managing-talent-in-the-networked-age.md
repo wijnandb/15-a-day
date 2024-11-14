@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Alliance: Managing Talent in the Networked Age"
-template: book
 date: 2019-07-29
 cover: /images/bookcovers/small/B00JTJ84EW.jpg
 tags:  ['book']
@@ -22,11 +21,11 @@ categories: ['book']
 The book has been well-received for its fresh perspective on talent management and its application to contemporary work environments. Utilizing the authors' experiences, particularly Reid Hoffman's, as a co-founder of LinkedIn, it provides practical insights that resonate with both employers and employees. While some critics argue that the concept may not be universally applicable to all industries, the book's strengths lie in its innovative ideas and the actionable framework it provides. The Alliance is praised for its relevance in addressing the dynamic nature of the modern workforce.
 
 ## Key Takeaways
-- **Redefining Employment:** Traditional notions of lifetime employment are replaced by flexible, project-based engagements that benefit both parties.
-- **Tours of Duty:** Structuring work around specific, clearly defined periods of mutual commitment allows both employers and employees to align goals and expectations.
-- **Adaptability and Learning:** Encouraging continuous skill development and adaptability to keep pace with rapid industry changes is essential in the new employment model.
-- **Open Communication:** Honest discussions about career objectives and company needs strengthen the employer-employee relationship.
-- **Network Building:** Employees are encouraged to develop their professional networks, benefiting both their career aspirations and the company's objectives.
+- **Redefining Employment**: Traditional notions of lifetime employment are replaced by flexible, project-based engagements that benefit both parties.
+- **Tours of Duty**: Structuring work around specific, clearly defined periods of mutual commitment allows both employers and employees to align goals and expectations.
+- **Adaptability and Learning**: Encouraging continuous skill development and adaptability to keep pace with rapid industry changes is essential in the new employment model.
+- **Open Communication**: Honest discussions about career objectives and company needs strengthen the employer-employee relationship.
+- **Network Building**: Employees are encouraged to develop their professional networks, benefiting both their career aspirations and the company's objectives.
 
 ## Recommendation
 "The Alliance: Managing Talent in the Networked Age" is recommended for business leaders, HR professionals, and employees keen on understanding and navigating the changing landscape of work relationships. It's particularly useful for those looking to foster innovation and adaptability within their organizations while ensuring mutual growth. The book's strategies are valuable for companies operating in fast-paced, technology-driven environments.

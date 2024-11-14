@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Positive Intelligence: Why Only 20% of Teams and Individuals Achieve Their True Potential AND HOW YOU CAN ACHIEVE YOURS"
-template: book
 date: 2020-07-03
 cover: /images/bookcovers/small/B007R0IQ70.jpg
 tags:  ['book']

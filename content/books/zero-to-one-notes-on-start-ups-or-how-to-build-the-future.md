@@ -1,7 +1,6 @@
 ---
 layout: book
 title: "Zero to One: Notes on Start Ups, or How to Build the Future"
-template: book
 date: 2019-07-01
 cover: /images/bookcovers/small/B00KHX0II4.jpg
 tags:  ['startup']

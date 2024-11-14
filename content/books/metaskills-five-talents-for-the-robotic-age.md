@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Metaskills: Five Talents for the Robotic Age"
-template: book
 date: 2020-04-26
 cover: /images/bookcovers/small/B009W5YA0U.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Teach Like a Champion 2.0: 62 Techniques that Put Students on the Path to College"
-template: book
 date: 2019-03-07
 cover: /images/bookcovers/small/B00OQAFRBW.jpg
 tags:  ['book']

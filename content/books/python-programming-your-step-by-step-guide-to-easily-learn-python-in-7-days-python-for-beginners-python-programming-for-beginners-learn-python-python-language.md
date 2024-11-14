@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Python: Programming: Your Step By Step Guide To Easily Learn Python in 7 Days (Python for Beginners, Python Programming for Beginners, Learn Python, Python Language)"
-template: book
 date: 2018-02-16
 cover: /images/bookcovers/small/B01N1ZXVPL.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success"
-template: book
 date: 2019-03-15
 cover: /images/bookcovers/small/B00OO2LJS2.jpg
 tags:  ['book']

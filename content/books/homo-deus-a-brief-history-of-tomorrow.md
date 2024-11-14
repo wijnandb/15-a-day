@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Homo Deus: A Brief History of Tomorrow"
-template: book
 date: 2018-07-22
 cover: /images/bookcovers/small/B01BBQ33VE.jpg
 tags:  ['book']

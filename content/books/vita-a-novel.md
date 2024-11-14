@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Vita: A Novel"
-template: book
 date: 2021-03-20
 cover: /images/bookcovers/small/B003GFIWKQ.jpg
 tags:  ['book']

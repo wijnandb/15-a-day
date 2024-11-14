@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Raising Kids Who Read: What Parents and Teachers Can Do"
-template: book
 date: 2019-02-03
 cover: /images/bookcovers/small/B00QL31EU0.jpg
 tags:  ['book']
@@ -22,11 +21,11 @@ categories: ['book']
 Willingham's book is praised for its clarity, scientific approach, and practical advice. His background as a cognitive scientist allows him to present a well-researched framework that is both accessible and engaging. One of the strengths of the work is its focus on actionable strategies that are easy to implement by parents and teachers alike. However, some critiques suggest that while the book deeply explores the "how" of reading, it could benefit from more anecdotal evidence or real-life examples to illustrate the successful application of these strategies. Overall, the book is valued for its depth of knowledge and practical guidance.
 
 ## Key Takeaways
-- **Cognitive Skills:** Understanding and nurturing the cognitive skills necessary for reading is crucial.
-- **Environment:** Creating a supportive reading environment at home and in school encourages a lifelong interest in reading.
-- **Development Stages:** Tailoring strategies to suit the different developmental stages of reading ensures more effective learning.
-- **Parental Involvement:** Active involvement from parents in reading activities can significantly boost a child's reading abilities and motivation.
-- **Avoiding Pressure:** Encouraging reading enjoyment over pressure helps foster a natural interest in reading.
+- **Cognitive Skills**: Understanding and nurturing the cognitive skills necessary for reading is crucial.
+- **Environment**: Creating a supportive reading environment at home and in school encourages a lifelong interest in reading.
+- **Development Stages**: Tailoring strategies to suit the different developmental stages of reading ensures more effective learning.
+- **Parental Involvement**: Active involvement from parents in reading activities can significantly boost a child's reading abilities and motivation.
+- **Avoiding Pressure**: Encouraging reading enjoyment over pressure helps foster a natural interest in reading.
 
 ## Recommendation
 "Raising Kids Who Read" is particularly beneficial for parents, educators, and caregivers looking for scientifically grounded strategies to foster reading skills in children. It is ideal for those wanting to understand the cognitive aspects of reading development and who are eager to implement practical techniques to improve and encourage reading in their daily interactions with children.

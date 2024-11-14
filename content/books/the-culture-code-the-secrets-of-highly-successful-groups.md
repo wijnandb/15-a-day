@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Culture Code: The Secrets of Highly Successful Groups"
-template: book
 date: 2018-02-28
 cover: /images/bookcovers/small/B01MSY1Y6Z.jpg
 tags:  ['book']

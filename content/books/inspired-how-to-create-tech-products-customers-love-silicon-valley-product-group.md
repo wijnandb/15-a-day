@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Inspired: How to Create Tech Products Customers Love (Silicon Valley Product Group)"
-template: book
 date: 2017-05-04
 cover: /images/bookcovers/small/B077NRB36N.jpg
 tags:  ['book']

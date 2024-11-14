@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Finishing the Job: Real-World Policy Solutions in Health, Housing, Education and Transport"
-template: book
 date: 2019-09-27
 cover: /images/bookcovers/small/B00I9CANXU.jpg
 tags:  ['book']

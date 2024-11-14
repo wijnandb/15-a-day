@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Welcome to the Funnel: Proven Tactics to Turn Your Social and Content Marketing up to 11"
-template: book
 date: 2019-02-19
 cover: /images/bookcovers/small/B00PDHRO6S.jpg
 tags:  ['book']

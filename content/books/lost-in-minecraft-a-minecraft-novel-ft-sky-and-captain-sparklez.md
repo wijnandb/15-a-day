@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Lost In Minecraft: A Minecraft Novel Ft Sky and Captain Sparklez"
-template: book
 date: 2019-11-06
 cover: /images/bookcovers/small/B00FPQM7FU.jpg
 tags:  ['book']

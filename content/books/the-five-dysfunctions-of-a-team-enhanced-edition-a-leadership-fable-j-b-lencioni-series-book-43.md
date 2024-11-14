@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Five Dysfunctions of a Team, Enhanced Edition: A Leadership Fable (J-B Lencioni Series Book 43)"
-template: book
 date: 2020-10-03
 cover: /images/bookcovers/small/B006960LQW.jpg
 tags:  ['book']

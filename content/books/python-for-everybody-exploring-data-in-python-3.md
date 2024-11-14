@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Python for Everybody: Exploring Data in Python 3"
-template: book
 date: 2018-04-29
 cover: /images/bookcovers/small/B01IA5VIFM.jpg
 tags:  ['book']

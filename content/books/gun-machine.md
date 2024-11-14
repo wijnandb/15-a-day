@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Gun Machine"
-template: book
 date: 2020-06-21
 cover: /images/bookcovers/small/B007ZFIMC6.jpg
 tags:  ['book']

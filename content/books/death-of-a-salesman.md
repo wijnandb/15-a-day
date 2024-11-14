@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Death of a Salesman"
-template: book
 date: 2018-02-08
 cover: /images/bookcovers/small/B01N2TY7EN.jpg
 tags:  ['book']

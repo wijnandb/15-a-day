@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Seven Good Years: A Memoir"
-template: book
 date: 2019-03-03
 cover: /images/bookcovers/small/B00OYXWKDY.jpg
 tags:  ['book']
@@ -22,10 +21,10 @@ categories: ['book']
 The memoir has been praised for its authentic voice and the unique way Keret blends the personal with the universal. His writing is characterized by its brevity and poignancy, often wrapping profound truths within deceptively simple narratives. Critics have lauded Keret for his ability to find humor in the mundane and tragic aspects of life, thus making his reflections both accessible and deeply resonant. However, some readers might find the non-linear storytelling and lack of a singular narrative thread challenging. On the whole, the memoir is celebrated for its heartfelt honesty and insightful commentary on everyday life in juxtaposition with broader existential themes.
 
 ## Key Takeaways
-- **Embrace the Absurd:** Life’s unpredictability and inherent absurdities can be approached with humor and acceptance.
-- **Cherish Personal Relationships:** Family and close relationships provide a crucial anchor and source of meaning amidst chaos.
-- **Balancing Dualities:** Happiness and sorrow, life and death are intertwined and accepting this complexity is essential for growth.
-- **Cultural and Political Insight:** The memoir provides snapshots of Israeli life that offer deeper cultural and political understanding.
+- **Embrace the Absurd**: Life’s unpredictability and inherent absurdities can be approached with humor and acceptance.
+- **Cherish Personal Relationships**: Family and close relationships provide a crucial anchor and source of meaning amidst chaos.
+- **Balancing Dualities**: Happiness and sorrow, life and death are intertwined and accepting this complexity is essential for growth.
+- **Cultural and Political Insight**: The memoir provides snapshots of Israeli life that offer deeper cultural and political understanding.
 
 ## Recommendation
 This memoir is well-suited for readers interested in a blend of humor and profound personal reflection. Those who appreciate short, impactful narratives and seek insights into contemporary Israeli culture will find "The Seven Good Years" rewarding. It's a compelling read for anyone who enjoys memoirs that capture the complex tapestry of life with both wit and wisdom.

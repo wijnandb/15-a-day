@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Myths of Innovation"
-template: book
 date: 2021-05-07
 cover: /images/bookcovers/small/B0026OR2PE.jpg
 tags:  ['book']
@@ -25,11 +24,11 @@ Certainly! Below is an overview of "The Myths of Innovation" by Scott Berkun pre
 Scott Berkun's "The Myths of Innovation" is a critical, insightful examination of the narratives that surround the concept of innovation. It challenges the often-glorified perception of breakthroughs and provides a grounded perspective backed by historical and contemporary examples. The book is praised for its engaging writing style and thorough research, making complex topics accessible. Some critiques mention that it can become repetitive as it drills down into the debunking of myths. Overall, it serves as a valuable resource for anyone interested in understanding the realities of bringing new ideas to fruition.
 
 ## Key Takeaways
-- **Innovation is Iterative:** True innovation stems from a series of incremental improvements rather than sudden, transformative moments.
-- **Collaboration Over Isolation:** Many of history's greatest innovations were collaborative efforts involving diverse teams and perspectives.
-- **Ideas vs. Execution:** Execution is just as important, if not more so, than the idea itself.
-- **The Role of Failure:** Embracing and learning from failure is a crucial component of the innovation process.
-- **Challenging the Status Quo:** Innovation often requires questioning and pushing against established norms and beliefs.
+- **Innovation is Iterative**: True innovation stems from a series of incremental improvements rather than sudden, transformative moments.
+- **Collaboration Over Isolation**: Many of history's greatest innovations were collaborative efforts involving diverse teams and perspectives.
+- **Ideas vs. Execution**: Execution is just as important, if not more so, than the idea itself.
+- **The Role of Failure**: Embracing and learning from failure is a crucial component of the innovation process.
+- **Challenging the Status Quo**: Innovation often requires questioning and pushing against established norms and beliefs.
 
 ## Recommendation
 "The Myths of Innovation" is recommended for entrepreneurs, managers, educators, and students interested in innovation, creativity, and business strategy. It provides a more realistic perspective on what it takes to innovate successfully and corrects common misconceptions that could impede progress in creative endeavors.

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Stories That Stick: How Storytelling Can Captivate Customers, Influence Audiences, and Transform Your Business"
-template: book
 date: 2016-08-17
 cover: /images/bookcovers/small/B07KF2328Z.jpg
 tags:  ['book']

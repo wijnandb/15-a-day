@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Program or Be Programmed"
-template: book
 date: 2021-01-23
 cover: /images/bookcovers/small/B004ELAPME.jpg
 tags:  ['book']

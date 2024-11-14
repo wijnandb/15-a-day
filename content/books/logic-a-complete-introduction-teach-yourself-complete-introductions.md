@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Logic: A Complete Introduction: Teach Yourself (Complete Introductions)"
-template: book
 date: 2018-04-21
 cover: /images/bookcovers/small/B01J24WGYW.jpg
 tags:  ['book']

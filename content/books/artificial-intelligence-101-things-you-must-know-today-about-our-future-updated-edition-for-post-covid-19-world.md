@@ -1,7 +1,6 @@
 ---
 layout: book
 title: "Artificial Intelligence: 101 Things You Must Know Today About Our Future - Updated Edition for Post-Covid-19 World"
-template: book
 date: 2017-02-21
 cover: /images/bookcovers/small/B079JXCVGS.jpg
 tags:  ['AI','artificial intelligence']

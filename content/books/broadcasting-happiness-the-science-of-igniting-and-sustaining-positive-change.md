@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Broadcasting Happiness: The Science of Igniting and Sustaining Positive Change"
-template: book
 date: 2019-02-11
 cover: /images/bookcovers/small/B00PSSEG22.jpg
 tags:  ['book','change']

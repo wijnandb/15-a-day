@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand"
-template: book
 date: 2020-04-22
 cover: /images/bookcovers/small/B00A58ANAE.jpg
 tags:  ['book']

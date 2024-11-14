@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Superintelligence: Paths, Dangers, Strategies"
-template: book
 date: 2019-06-03
 cover: /images/bookcovers/small/B00LOOCGB2.jpg
 tags:  ['book']

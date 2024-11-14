@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Simplicity Cycle: A Field Guide to Making Things Better Without Making Them Worse"
-template: book
 date: 2019-05-22
 cover: /images/bookcovers/small/B00MTS3LUC.jpg
 tags:  ['book']

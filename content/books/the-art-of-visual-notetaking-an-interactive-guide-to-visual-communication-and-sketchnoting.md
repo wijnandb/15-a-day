@@ -2,10 +2,9 @@
 draft: true
 layout: book
 title: "The Art of Visual Notetaking:An interactive guide to visual communication and sketchnoting"
-template: book
 date: 2016-06-14
 cover: /images/bookcovers/small/B07PGQY9L4.jpg
-tags:  ['book', 'note-taking', 'productivity']
+tags: ['note-taking', 'productivity']
 authors: ['Mills, Emily']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07PGQY9L4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07PGQY9L4"
@@ -25,11 +24,11 @@ Emily Mills’ book is an invaluable resource for individuals interested in enha
 
 ### Key Takeaways
 
-1. **Combining Visuals and Text:** Utilizing visuals alongside traditional text notes enhances comprehension and memory retention.
-2. **Basic Sketchnoting Techniques:** Understanding and practicing fundamental drawing skills, such as lines, shapes, and shading, is crucial for effective sketchnoting.
-3. **Essential Tools:** Simple tools like pens, markers, and notebooks can be used to create impactful sketchnotes.
-4. **Organizational Skills:** Effective layout and organization of notes can improve clarity and readability.
-5. **Personal Style Development:** Encouragement to discover and evolve one's unique style of sketchnoting through consistent practice and experimentation.
+1. **Combining Visuals and Text**: Utilizing visuals alongside traditional text notes enhances comprehension and memory retention.
+2. **Basic Sketchnoting Techniques**: Understanding and practicing fundamental drawing skills, such as lines, shapes, and shading, is crucial for effective sketchnoting.
+3. **Essential Tools**: Simple tools like pens, markers, and notebooks can be used to create impactful sketchnotes.
+4. **Organizational Skills**: Effective layout and organization of notes can improve clarity and readability.
+5. **Personal Style Development**: Encouragement to discover and evolve one's unique style of sketchnoting through consistent practice and experimentation.
 
 ### Recommendation
 

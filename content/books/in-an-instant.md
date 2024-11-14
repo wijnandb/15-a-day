@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "In an Instant"
-template: book
 date: 2016-07-04
 cover: /images/bookcovers/small/B07NVD1276.jpg
 tags:  ['book']
@@ -22,10 +21,10 @@ categories: ['book']
 Suzanne Redfearn's "In an Instant" is a poignant and thought-provoking exploration of tragedy and its far-reaching consequences. The novel's strength lies in its emotional depth and the author’s ability to portray raw human emotions authentically. The use of Finn as a narrator provides a unique vantage point, allowing readers an omniscient view of the unfolding drama. Some critiques may highlight the somewhat detached nature of the narrative since it comes from a character in an observational role rather than actively participating in the events. However, the book is widely praised for its compelling storytelling and the depth of character development.
 
 ## Key Takeaways
-- **Perspective on Grief:** The book emphasizes the multifaceted nature of grief and how individuals process tragedy in different ways.
-- **Moral Complexity:** It delves into the difficult moral choices that arise in critical situations, prompting reflection on what it means to do the right thing.
-- **Impact of Trauma:** Highlights how a single moment can alter the trajectory of lives, showcasing the long-term impact of trauma.
-- **Human Resilience:** While dealing with heavy themes, the story also illustrates the capability of human resilience and hope amidst despair.
+- **Perspective on Grief**: The book emphasizes the multifaceted nature of grief and how individuals process tragedy in different ways.
+- **Moral Complexity**: It delves into the difficult moral choices that arise in critical situations, prompting reflection on what it means to do the right thing.
+- **Impact of Trauma**: Highlights how a single moment can alter the trajectory of lives, showcasing the long-term impact of trauma.
+- **Human Resilience**: While dealing with heavy themes, the story also illustrates the capability of human resilience and hope amidst despair.
 
 ## Recommendation
 "In an Instant" is recommended for readers who appreciate character-driven narratives and are interested in psychological and emotional explorations of family dynamics and tragedy. It is particularly poignant for those who enjoy stories of survival and the complex moral dilemmas faced in life-altering situations. The book offers both a compelling narrative and a deep, introspective look at the nature of human relationships.

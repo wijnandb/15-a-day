@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Athletic Skills Model: Optimizing Talent Development Through Movement Education"
-template: book
 date: 2017-06-17
 cover: /images/bookcovers/small/B076DPVHXT.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
-template: book
 date: 2020-08-08
 cover: /images/bookcovers/small/B0076DDBJ6.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Game Changer: How Augmented Reality Will Transform the World of Sports"
-template: book
 date: 2017-11-28
 cover: /images/bookcovers/small/B06Y48QKTN.jpg
 tags:  ['book']

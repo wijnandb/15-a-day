@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Teaching Minds: How Cognitive Science Can Save Our Schools"
-template: book
 date: 2020-02-06
 cover: /images/bookcovers/small/B00CDSTBFC.jpg
 tags:  ['book']

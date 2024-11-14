@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Business Model Navigator: 55 Models That Will Revolutionise Your Business"
-template: book
 date: 2019-02-15
 cover: /images/bookcovers/small/B00PFZ9I8A.jpg
 tags:  ['book']

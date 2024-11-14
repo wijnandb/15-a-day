@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Art of Strategy: A Game Theorist's Guide to Success in Business and Life"
-template: book
 date: 2021-06-12
 cover: /images/bookcovers/small/B001FA0NOM.jpg
 tags:  ['book']

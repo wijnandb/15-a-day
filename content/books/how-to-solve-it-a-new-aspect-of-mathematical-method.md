@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "How to Solve It: A New Aspect of Mathematical Method"
-template: book
 date: 2020-08-24
 cover: /images/bookcovers/small/B0073X0IOA.jpg
 tags:  ['book']

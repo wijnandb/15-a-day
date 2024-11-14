@@ -2,10 +2,9 @@
 draft: false
 layout: book
 title: "The Reading Zone"
-template: book
 date: 2020-02-14
 cover: /images/bookcovers/small/B00BQFJF18.jpg
-tags:  ['book', 'reading']
+tags: ['reading']
 authors: ['Atwell, Nancie']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00BQFJF18/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00BQFJF18"

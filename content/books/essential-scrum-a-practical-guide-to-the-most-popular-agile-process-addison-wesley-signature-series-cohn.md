@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Essential Scrum: A Practical Guide to the Most Popular Agile Process (Addison-Wesley Signature Series (Cohn))"
-template: book
 date: 2020-06-09
 cover: /images/bookcovers/small/B008NAKA5O.jpg
 tags:  ['book']

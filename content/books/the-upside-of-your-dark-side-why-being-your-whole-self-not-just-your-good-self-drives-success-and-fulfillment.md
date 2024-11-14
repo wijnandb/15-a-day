@@ -1,7 +1,6 @@
 ---
 layout: book
 title: "The Upside of Your Dark Side: Why Being Your Whole Self--Not Just Your Good Self--Drives Success and Fulfillment"
-template: book
 date: 2019-08-26
 cover: /images/bookcovers/small/B00INIXMZG.jpg
 tags:  ['book']
@@ -14,7 +13,7 @@ categories: ['book']
 ---
 # The Upside of Your Dark Side
 
-**Authors:** Robert Biswas-Diener and Todd Kashdan
+**Authors**: Robert Biswas-Diener and Todd Kashdan
 
 ## Summary
 

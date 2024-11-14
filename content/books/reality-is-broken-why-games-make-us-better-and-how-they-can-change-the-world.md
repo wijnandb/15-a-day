@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Reality Is Broken: Why Games Make Us Better and How They Can Change the World"
-template: book
 date: 2021-01-19
 cover: /images/bookcovers/small/B004G8Q1Q4.jpg
 tags:  ['book']

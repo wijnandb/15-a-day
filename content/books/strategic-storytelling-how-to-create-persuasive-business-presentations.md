@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Strategic Storytelling: How to Create Persuasive Business Presentations"
-template: book
 date: 2019-02-07
 cover: /images/bookcovers/small/B00PWE81VE.jpg
 tags:  ['book']

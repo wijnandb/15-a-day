@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Ego Is the Enemy"
-template: book
 date: 2018-09-20
 cover: /images/bookcovers/small/B015NTIXWE.jpg
 tags:  ['book']

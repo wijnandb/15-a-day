@@ -20,11 +20,11 @@ categories: ['book']
 Marina Umaschi Bers' work is a significant contribution to the field of early childhood education and technology integration. The book is praised for its practical approach to teaching coding through play and creativity, making a compelling case for the inclusion of computational thinking in early education curricula. Readers appreciate the concrete examples and case studies that illustrate successful implementations of the framework. However, some critics might point out a need for more detailed strategies on handling diverse classroom environments or varying access to resources.
 
 ## Key Takeaways:
-- **Coding as Play:** Incorporating programming activities in early education should mirror play-based learning, focusing on exploration and creativity.
-- **Educator's Role:** Teachers are crucial in guiding young learners through structured and unstructured coding activities, fostering both creativity and problem-solving skills.
-- **Inclusivity and Accessibility:** Ensuring all children, regardless of background, have access to learning computational thinking is essential.
-- **Developmental Appropriateness:** Coding activities should be tailored to be developmentally appropriate, meeting children at their individual learning levels.
-- **Integration and Flexibility:** Coding should be integrated into various aspects of the curriculum, allowing for flexibility and adaptation to individual classroom needs.
+- **Coding as Play**: Incorporating programming activities in early education should mirror play-based learning, focusing on exploration and creativity.
+- **Educator's Role**: Teachers are crucial in guiding young learners through structured and unstructured coding activities, fostering both creativity and problem-solving skills.
+- **Inclusivity and Accessibility**: Ensuring all children, regardless of background, have access to learning computational thinking is essential.
+- **Developmental Appropriateness**: Coding activities should be tailored to be developmentally appropriate, meeting children at their individual learning levels.
+- **Integration and Flexibility**: Coding should be integrated into various aspects of the curriculum, allowing for flexibility and adaptation to individual classroom needs.
 
 ## Recommendation:
 This book is highly recommended for early childhood educators, curriculum developers, and educational policymakers interested in integrating technology and computational thinking into early learning environments. Parents who are keen to understand the educational benefits of coding for young children may also find this book valuable. It provides both theoretical insight and practical strategies, making it a useful resource for anyone involved in the evolving field of early childhood education.

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Hegel's Philosophy of Mind"
-template: book
 date: 2020-07-19
 cover: /images/bookcovers/small/B007HT0QAQ.jpg
 tags:  ['book']

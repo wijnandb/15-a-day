@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Good Liar"
-template: book
 date: 2017-10-07
 cover: /images/bookcovers/small/B073D5NK69.jpg
 tags:  ['book']

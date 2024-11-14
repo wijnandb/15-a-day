@@ -1,7 +1,6 @@
 ---
 layout: book
 title: "Starting Strength"
-template: book
 date: 2020-09-05
 cover: /images/bookcovers/small/B006XJR5ZA.jpg
 tags:  ['fitness', 'strength training']

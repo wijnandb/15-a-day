@@ -1,7 +1,6 @@
 ---
 layout: book
 title: "Anything You Want: 40 Lessons for a New Kind of Entrepreneur"
-template: book
 date: 2019-01-14
 cover: /images/bookcovers/small/B00SI0B5FS.jpg
 tags:  ['entrepreneurship']

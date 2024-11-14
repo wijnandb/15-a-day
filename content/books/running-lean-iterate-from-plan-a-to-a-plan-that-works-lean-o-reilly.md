@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Running Lean: Iterate from Plan A to a Plan That Works (Lean (O'Reilly))"
-template: book
 date: 2020-09-13
 cover: /images/bookcovers/small/B006UKFFE0.jpg
 tags:  ['book']

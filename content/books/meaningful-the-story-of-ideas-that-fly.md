@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Meaningful: The Story of Ideas That Fly"
-template: book
 date: 2018-09-12
 cover: /images/bookcovers/small/B016CUPB5K.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Compound Effect"
-template: book
 date: 2020-10-23
 cover: /images/bookcovers/small/B005P1YCNK.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Forbes Quote Bible: Inspiring, Eye-Opening And Motivational Words For Success"
-template: book
 date: 2019-06-07
 cover: /images/bookcovers/small/B00LMOSHOO.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Mastermind Dinners: Build Lifelong Relationships by Connecting Experts, Influencers, and Linchpins"
-template: book
 date: 2019-01-26
 cover: /images/bookcovers/small/B00RDAPXZ2.jpg
 tags:  ['book']
@@ -22,11 +21,11 @@ categories: ['book']
 The book has been well received for its practical approach to networking, emphasizing quality over quantity in building relationships. Gaignard's personal anecdotes and step-by-step guidance provide readers with an actionable framework to replicate these beneficial gatherings in their own lives. One of the book's strengths is its focus on the human aspect of networking, encouraging genuine connections rather than transactional relationships. However, some critiques note that the concept, while effective, may cater particularly to those who already have a base level of social or professional connections, potentially overlooking beginners in the networking space.
 
 ## Key Takeaways
-- **Quality Over Quantity:** Prioritize building a small number of deep, meaningful relationships rather than accumulating a large network of superficial contacts.
-- **Curated Gatherings:** Thoughtfully curate the guest list to encourage diverse perspectives and enrich the conversation.
-- **Authenticity is Key:** Focus on authentic interactions and adding value to others, which can lead to mutual growth and opportunities.
-- **Proactive Engagement:** Take the initiative to host or organize events as a means to cultivate and strengthen connections.
-- **Long-term Investment:** Building relationships is a long-term endeavor requiring consistent effort and genuine interest in others.
+- **Quality Over Quantity**: Prioritize building a small number of deep, meaningful relationships rather than accumulating a large network of superficial contacts.
+- **Curated Gatherings**: Thoughtfully curate the guest list to encourage diverse perspectives and enrich the conversation.
+- **Authenticity is Key**: Focus on authentic interactions and adding value to others, which can lead to mutual growth and opportunities.
+- **Proactive Engagement**: Take the initiative to host or organize events as a means to cultivate and strengthen connections.
+- **Long-term Investment**: Building relationships is a long-term endeavor requiring consistent effort and genuine interest in others.
 
 ## Recommendation
 "Mastermind Dinners" is recommended for professionals, entrepreneurs, and anyone interested in enhancing their networking skills through meaningful engagement. Those who value authentic relationships and are willing to invest time and effort in building a robust personal and professional network will particularly benefit from Gaignard's insights and strategies.

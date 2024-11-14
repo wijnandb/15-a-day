@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Power of Pull: How Small Moves, Smartly Made, Can Set Big Things in Motion"
-template: book
 date: 2021-04-05
 cover: /images/bookcovers/small/B0039KO9ZK.jpg
 tags:  ['book']

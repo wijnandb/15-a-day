@@ -1,7 +1,6 @@
 ---
 layout: book
 title: "The Power of Reading: Insights from the Research, 2nd Edition: Insights from the Research"
-template: book
 date: 2018-08-19
 cover: /images/bookcovers/small/B017S4QP9U.jpg
 tags:  ['reading']
@@ -21,11 +20,11 @@ categories: ['book']
 Stephen Krashen meticulously combines empirical research with insightful analysis to craft a persuasive argument in favor of reading as a central educational practice. His clear, evidence-based narrative successfully underscores the transformative power of reading in educational settings. A notable strength of the book is its ability to make complex research accessible to educators and policymakers. However, some critics might argue that its focus on reading could overshadow other essential pedagogical strategies that also contribute to comprehensive education.
 
 ## Key Takeaways
-1. **Extensive Reading Benefits:** Reading extensively is one of the most effective ways to improve literacy skills and language acquisition.
-2. **Reading Engagement:** Engagement in voluntary, pleasurable reading significantly enhances one’s linguistic proficiency and comprehension abilities.
-3. **Impact on Academic Achievement:** A strong correlation exists between reading habits and academic success across various disciplines.
-4. **Role of Libraries:** Libraries and access to diverse reading materials play a crucial role in promoting literacy, indicating the importance of funding and support for public and school libraries.
-5. **Resisting Traditional Drills:** Krashen critiques traditional literacy education methods such as drills and rote memorization, advocating instead for integrative reading experiences.
+1. **Extensive Reading Benefits**: Reading extensively is one of the most effective ways to improve literacy skills and language acquisition.
+2. **Reading Engagement**: Engagement in voluntary, pleasurable reading significantly enhances one’s linguistic proficiency and comprehension abilities.
+3. **Impact on Academic Achievement**: A strong correlation exists between reading habits and academic success across various disciplines.
+4. **Role of Libraries**: Libraries and access to diverse reading materials play a crucial role in promoting literacy, indicating the importance of funding and support for public and school libraries.
+5. **Resisting Traditional Drills**: Krashen critiques traditional literacy education methods such as drills and rote memorization, advocating instead for integrative reading experiences.
 
 ## Recommendation
 This book is highly recommended for educators, librarians, policymakers, and language acquisition researchers. Anyone interested in understanding the critical role of reading in education and literacy development will find Krashen’s insights invaluable. It offers practical guidance for those looking to enhance learning outcomes through reading-based strategies.

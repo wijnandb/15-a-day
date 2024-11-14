@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Sapiens: A Brief History of Humankind"
-template: book
 date: 2019-09-19
 cover: /images/bookcovers/small/B00ICN066A.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Range: Why Generalists Triumph in a Specialized World"
-template: book
 date: 2016-09-22
 cover: /images/bookcovers/small/B07H1ZYWTM.jpg
 tags:  ['book']

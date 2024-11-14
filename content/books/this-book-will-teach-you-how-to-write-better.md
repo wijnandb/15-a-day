@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "This book will teach you how to write better"
-template: book
 date: 2019-11-22
 cover: /images/bookcovers/small/B00F209U6S.jpg
 tags:  ['book']

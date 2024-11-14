@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising"
-template: book
 date: 2019-08-30
 cover: /images/bookcovers/small/B00INIXL3O.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Growth Mindset Playbook: A Teacher's Guide to Promoting Student Success"
-template: book
 date: 2017-09-29
 cover: /images/bookcovers/small/B073LVPRKV.jpg
 tags:  ['book']

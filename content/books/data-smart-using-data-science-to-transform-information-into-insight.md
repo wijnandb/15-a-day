@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Data Smart: Using Data Science to Transform Information into Insight"
-template: book
 date: 2019-11-26
 cover: /images/bookcovers/small/B00F0WRXI0.jpg
 tags:  ['book']

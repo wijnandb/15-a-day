@@ -2,7 +2,6 @@
 draft: false
 layout: book
 title: "The Undoing Project: A Friendship That Changed Our Minds"
-template: book
 date: 2018-05-23
 cover: /images/bookcovers/small/B01GI6S7EK.jpg
 tags:  ['book']

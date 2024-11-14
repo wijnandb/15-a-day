@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "You Took the Last Bus Home: The Poems of Brian Bilston"
-template: book
 date: 2018-04-13
 cover: /images/bookcovers/small/B01K6ROZ6G.jpg
 tags:  ['poetry']

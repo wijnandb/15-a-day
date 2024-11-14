@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Factfulness: Ten Reasons We're Wrong About the World--and Why Things Are Better Than You Think"
-template: book
 date: 2017-08-16
 cover: /images/bookcovers/small/B0756J1LLV.jpg
 tags:  ['book']
@@ -25,15 +24,15 @@ categories: ['book']
 
 ## Key Takeaways
 
-1. **Challenge Common Misconceptions:** Many beliefs about the world's state are influenced by outdated data and cognitive biases.
+1. **Challenge Common Misconceptions**: Many beliefs about the world's state are influenced by outdated data and cognitive biases.
    
-2. **Global Improvement:** Contrary to pessimistic views, substantial progress has been made in areas like health, education, and poverty reduction.
+2. **Global Improvement**: Contrary to pessimistic views, substantial progress has been made in areas like health, education, and poverty reduction.
 
-3. **Critical Thinking:** Engaging with data critically can offer a more informed and balanced perspective on global issues.
+3. **Critical Thinking**: Engaging with data critically can offer a more informed and balanced perspective on global issues.
 
-4. **Instincts Framework:** Recognizing the ten instincts that shape our worldview can help guard against inaccuracies and misunderstandings.
+4. **Instincts Framework**: Recognizing the ten instincts that shape our worldview can help guard against inaccuracies and misunderstandings.
 
-5. **Data Interpretation:** Use reliable, up-to-date data to form opinions rather than relying on sensational media or anecdotal evidence.
+5. **Data Interpretation**: Use reliable, up-to-date data to form opinions rather than relying on sensational media or anecdotal evidence.
 
 ## Recommendation
 

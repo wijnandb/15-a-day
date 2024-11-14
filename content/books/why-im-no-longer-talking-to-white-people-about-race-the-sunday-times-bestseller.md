@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Why I’m No Longer Talking to White People About Race: The Sunday Times Bestseller"
-template: book
 date: 2018-01-07
 cover: /images/bookcovers/small/B06WWPX2YF.jpg
 tags:  ['book']

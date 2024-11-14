@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Negotiating for Success: Essential Strategies and Skills"
-template: book
 date: 2019-03-19
 cover: /images/bookcovers/small/B00OE85SDS.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Less (Winner of the Pulitzer Prize): A Novel"
-template: book
 date: 2018-03-04
 cover: /images/bookcovers/small/B01MSICPW3.jpg
 tags:  ['book']

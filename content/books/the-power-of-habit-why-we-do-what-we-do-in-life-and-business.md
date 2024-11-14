@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Power of Habit: Why We Do What We Do in Life and Business"
-template: book
 date: 2020-11-28
 cover: /images/bookcovers/small/B0055PGUYU.jpg
 tags:  ['book']

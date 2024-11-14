@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Choose: The Single Most Important Decision Before Starting Your Business"
-template: book
 date: 2016-08-25
 cover: /images/bookcovers/small/B07K3STK3G.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "KNOWN: The Handbook for Building and Unleashing Your Personal Brand in the Digital Age"
-template: book
 date: 2018-02-24
 cover: /images/bookcovers/small/B01MUVMPQP.jpg
 tags:  ['book']

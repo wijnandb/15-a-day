@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Myth of Sisyphus And Other Essays (Vintage International)"
-template: book
 date: 2020-04-30
 cover: /images/bookcovers/small/B009UAO2H8.jpg
 tags:  ['book']

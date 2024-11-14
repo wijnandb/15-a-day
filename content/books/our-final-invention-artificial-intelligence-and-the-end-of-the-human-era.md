@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Our Final Invention: Artificial Intelligence and the End of the Human Era"
-template: book
 date: 2020-01-17
 cover: /images/bookcovers/small/B00CQYAWRY.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Artist's Way: 25th Anniversary Edition"
-template: book
 date: 2020-09-29
 cover: /images/bookcovers/small/B006H19H3M.jpg
 tags:  ['book']

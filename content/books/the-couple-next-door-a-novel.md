@@ -2,10 +2,9 @@
 draft: true
 layout: book
 title: "The Couple Next Door: A Novel"
-template: book
 date: 2018-07-18
 cover: /images/bookcovers/small/B01BD1SUBU.jpg
-tags:  ['book', 'fiction']
+tags: ['fiction']
 authors: ['Lapena, Shari']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01BD1SUBU/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01BD1SUBU"

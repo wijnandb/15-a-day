@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Content Machine: Use Content Marketing to Build a 7-figure Business With Zero Advertising"
-template: book
 date: 2018-10-14
 cover: /images/bookcovers/small/B013M5FWX4.jpg
 tags:  ['book']

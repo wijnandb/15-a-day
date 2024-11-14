@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Misbehaving: The Making of Behavioral Economics"
-template: book
 date: 2019-04-20
 cover: /images/bookcovers/small/B00NUB4GFQ.jpg
 tags:  ['book']

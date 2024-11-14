@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Drive: The Surprising Truth About What Motivates Us"
-template: book
 date: 2020-12-26
 cover: /images/bookcovers/small/B004P1JDJO.jpg
 tags:  ['book']

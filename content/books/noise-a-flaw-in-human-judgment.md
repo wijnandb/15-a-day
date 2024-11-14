@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Noise: A Flaw in Human Judgment"
-template: book
 date: 2015-08-07
 cover: /images/bookcovers/small/B08KQ2FKBX.jpg
 tags:  ['book']
@@ -25,13 +24,13 @@ categories: ['book']
 
 ## Key Takeaways
 
-1. **Noise vs. Bias:** Understand the distinction between noise (random variability) and bias (systematic deviation), and recognize that addressing both is necessary for improved decision-making.
+1. **Noise vs. Bias**: Understand the distinction between noise (random variability) and bias (systematic deviation), and recognize that addressing both is necessary for improved decision-making.
    
-2. **Decision Hygiene:** Implement techniques—such as checklists, structured protocols, and group decision frameworks—to reduce noise in judgment processes.
+2. **Decision Hygiene**: Implement techniques—such as checklists, structured protocols, and group decision frameworks—to reduce noise in judgment processes.
 
-3. **Noise Audit:** Organizations should conduct "noise audits" to measure the consistency of judgments among decision-makers and identify areas for improvement.
+3. **Noise Audit**: Organizations should conduct "noise audits" to measure the consistency of judgments among decision-makers and identify areas for improvement.
 
-4. **Diverse Perspectives:** Incorporate a variety of perspectives and independent judgments to counteract noise and enhance decision quality.
+4. **Diverse Perspectives**: Incorporate a variety of perspectives and independent judgments to counteract noise and enhance decision quality.
 
 ## Recommendation
 

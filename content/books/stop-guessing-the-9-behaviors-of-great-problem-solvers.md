@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Stop Guessing: The 9 Behaviors of Great Problem Solvers"
-template: book
 date: 2018-02-04
 cover: /images/bookcovers/small/B01N5HVJ8M.jpg
 tags:  ['book']
@@ -22,15 +21,15 @@ categories: ['book']
 Greene's "Stop Guessing" receives praise for its clear, practical, and actionable advice. The book is noted for being accessible to a wide audience, providing insights that are grounded in real-world applications. One of its strengths is the blend of theoretical concepts with relatable examples, making the material both engaging and applicable. However, some readers may find that the repetition of key ideas might detract from the book's overall pacing. Despite this, the concise nature and focus on actionable behaviors make it a valuable resource for anyone looking to enhance their problem-solving capabilities.
 
 ## Key Takeaways
-- **Stop Guessing:** Avoid relying on assumptions; pursue evidence-based decision-making.
-- **Smell the Problem:** Recognize and define the real problem before jumping to conclusions.
-- **Embrace Your Ignorance:** Acknowledge what you don't know and be open to learning.
-- **Know What Problem You’re Solving:** Clearly state the problem to prevent scope drift.
-- **Dig into the Fundamentals:** Investigate foundational aspects to uncover root causes.
-- **Don’t Rely on Experts:** Instead, use them as resources while maintaining your independent thought.
-- **Believe in Simple Solutions:** Often, the best solutions are not overly complex.
-- **Focus on What Matters:** Prioritize and concentrate on aspects that have significant impacts.
-- **Challenge Your Constraints:** Identify and question assumptions that limit your thinking.
+- **Stop Guessing**: Avoid relying on assumptions; pursue evidence-based decision-making.
+- **Smell the Problem**: Recognize and define the real problem before jumping to conclusions.
+- **Embrace Your Ignorance**: Acknowledge what you don't know and be open to learning.
+- **Know What Problem You’re Solving**: Clearly state the problem to prevent scope drift.
+- **Dig into the Fundamentals**: Investigate foundational aspects to uncover root causes.
+- **Don’t Rely on Experts**: Instead, use them as resources while maintaining your independent thought.
+- **Believe in Simple Solutions**: Often, the best solutions are not overly complex.
+- **Focus on What Matters**: Prioritize and concentrate on aspects that have significant impacts.
+- **Challenge Your Constraints**: Identify and question assumptions that limit your thinking.
 
 ## Recommendation
 "Stop Guessing: The 9 Behaviors of Great Problem Solvers" is highly recommended for managers, team leaders, and professionals across various sectors who are keen on refining their problem-solving skills. Its practical advice is beneficial for anyone seeking to break free from ineffective habits and adopt a more strategic approach in both personal and professional contexts. The book offers value to individuals aiming to enhance their decision-making efficacy by promoting a methodical and evidence-based mindset.

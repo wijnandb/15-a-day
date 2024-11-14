@@ -1,7 +1,6 @@
 ---
 layout: book
 title: "Seven Brief Lessons on Physics"
-template: book
 date: 2018-11-15
 cover: /images/bookcovers/small/B00Z8VTMYG.jpg
 tags:  ['book']

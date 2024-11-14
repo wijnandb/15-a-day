@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Mindset: The New Psychology of Success"
-template: book
 date: 2021-08-23
 cover: /images/bookcovers/small/B000FCKPHG.jpg
 tags:  ['book']
@@ -22,11 +21,11 @@ categories: ['book']
 The book has been widely praised for its transformative perspective on achievement and personal development. Dweck's work is grounded in extensive research, making it a valuable resource for educators, business leaders, parents, and individuals seeking self-improvement. The clear distinction between fixed and growth mindsets provides readers with a practical framework for understanding and changing their own mindsets. Some critics, however, have pointed out that the book can be repetitive, as it reinforces its core themes across different scenarios and fields without offering a deeper dive into the nuances of mindset application.
 
 ## Key Takeaways
-- **Mindset Matters:** Our beliefs about our abilities significantly influence our behavior and achievement. Embracing a growth mindset can lead to higher achievements and greater fulfillment.
-- **Learning from Failure:** Failures should be viewed as opportunities for growth rather than as evidence of unchangeable incompetence.
-- **Importance of Effort:** Success stems more from persistent effort and learning strategies than from innate talent or intelligence.
-- **Encouragement and Feedback:** Providing specific praise for effort, strategy, and process encourages growth mindset behaviors, while praise focused on innate abilities can reinforce a fixed mindset.
-- **Lifelong Application:** Mindsets can affect many areas of life, including education, business, sports, and personal relationships.
+- **Mindset Matters**: Our beliefs about our abilities significantly influence our behavior and achievement. Embracing a growth mindset can lead to higher achievements and greater fulfillment.
+- **Learning from Failure**: Failures should be viewed as opportunities for growth rather than as evidence of unchangeable incompetence.
+- **Importance of Effort**: Success stems more from persistent effort and learning strategies than from innate talent or intelligence.
+- **Encouragement and Feedback**: Providing specific praise for effort, strategy, and process encourages growth mindset behaviors, while praise focused on innate abilities can reinforce a fixed mindset.
+- **Lifelong Application**: Mindsets can affect many areas of life, including education, business, sports, and personal relationships.
 
 ## Recommendation
 "Mindset: The New Psychology of Success" is recommended for anyone interested in personal growth, self-improvement, or motivation. Educators and leaders may find it particularly useful for developing strategies to foster growth mindsets in students and teams. Parents might also benefit from insights on how to encourage a growth mindset in their children. The book's clear and accessible writing makes it suitable for a broad audience, though those seeking in-depth scientific exploration may find the book more of a starting point than a comprehensive resource.

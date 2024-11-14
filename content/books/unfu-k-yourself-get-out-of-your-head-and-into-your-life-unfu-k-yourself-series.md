@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Unfu*k Yourself: Get Out of Your Head and into Your Life (Unfu*k Yourself series)"
-template: book
 date: 2017-11-20
 cover: /images/bookcovers/small/B071F7C5NQ.jpg
 tags:  ['book']
@@ -22,11 +21,11 @@ categories: ['book']
 Gary John Bishop's "Unfu*k Yourself" is celebrated for its candid, relatable tone and practical advice. The author's straightforward approach allows readers to confront their inner critic and self-doubt without being overwhelmed by psychological jargon. The book is often praised for its actionable steps and motivational style, making it an accessible entry point for those new to self-help literature. However, some critics note that the book's concepts might feel basic or repetitive for seasoned readers of the genre. Overall, it is valued for its no-pretenses approach to inspiring change and self-improvement.
 
 ## Key Takeaways
-- **Own Your Life:** Accept responsibility for your actions and outcomes to empower yourself.
-- **Embrace Uncertainty:** Recognize that living involves inherent risks and uncertainties; use them to grow.
-- **Positive Self-talk:** Shift your internal dialogue to overcome negativity and self-doubt.
-- **Action-Oriented Mindset:** Focus on actions rather than thoughts alone to effect real change in life.
-- **Prepare to Fail:** Understand that failure is a natural part of the process towards success and learning.
+- **Own Your Life**: Accept responsibility for your actions and outcomes to empower yourself.
+- **Embrace Uncertainty**: Recognize that living involves inherent risks and uncertainties; use them to grow.
+- **Positive Self-talk**: Shift your internal dialogue to overcome negativity and self-doubt.
+- **Action-Oriented Mindset**: Focus on actions rather than thoughts alone to effect real change in life.
+- **Prepare to Fail**: Understand that failure is a natural part of the process towards success and learning.
 
 ## Recommendation
 "Unfu*k Yourself" is well-suited for individuals seeking a direct and practical guide to self-improvement. It's particularly beneficial for those who feel stuck, overwhelmed by negative thinking, or who are new to personal development literature. The book's straightforward style and actionable advice make it an excellent choice for readers looking for tangible steps towards personal and professional growth.

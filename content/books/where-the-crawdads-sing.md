@@ -1,9 +1,8 @@
 ---
 title: "Where the Crawdads Sing"
-template: book
 date: 2017-03-29
 cover: /images/bookcovers/small/B078GD3DRG.jpg
-tags:  ['book', 'fiction']
+tags: ['fiction']
 authors: ['Owens, Delia']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B078GD3DRG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B078GD3DRG"
@@ -24,10 +23,10 @@ The novel transitions between Kya’s coming-of-age story in the 1950s and 1960s
 However, some critiques have noted the pacing can be uneven, particularly the shift between the narrative timelines. Additionally, aspects of the plot can feel contrived to some readers, particularly the resolution of the mystery. Despite these critiques, the book has resonated widely, becoming a bestseller and sparking much discussion.
 
 ## Key Takeaways
-- **Resilience and Independence:** Kya's journey emphasizes the strength found in self-reliance and adaptation in the face of abandonment and adversity.
-- **Connection to Nature:** The novel highlights the profound symbiotic relationship between humans and the natural environment.
-- **Prejudice and Misunderstanding:** It addresses societal judgments and the impact of isolation as seen in Kya's ostracization by the townspeople.
-- **Understanding and Forgiveness:** Throughout her life, Kya learns the importance of understanding others’ actions and ultimately, the power of forgiveness.
+- **Resilience and Independence**: Kya's journey emphasizes the strength found in self-reliance and adaptation in the face of abandonment and adversity.
+- **Connection to Nature**: The novel highlights the profound symbiotic relationship between humans and the natural environment.
+- **Prejudice and Misunderstanding**: It addresses societal judgments and the impact of isolation as seen in Kya's ostracization by the townspeople.
+- **Understanding and Forgiveness**: Throughout her life, Kya learns the importance of understanding others’ actions and ultimately, the power of forgiveness.
 
 ## Recommendation
 *"Where the Crawdads Sing"* is recommended for readers who appreciate atmospheric storytelling enriched with detailed descriptions of nature and complex character arcs. Fans of literary fiction that delves into themes of solitude, human emotion, and mystery would find this novel compelling. It is particularly appealing to those who enjoy introspective narratives that challenge social conventions and explore the depths of human resilience.

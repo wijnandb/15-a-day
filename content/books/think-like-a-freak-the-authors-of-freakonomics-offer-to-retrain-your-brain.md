@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Think Like a Freak: The Authors of Freakonomics Offer to Retrain Your Brain"
-template: book
 date: 2020-02-22
 cover: /images/bookcovers/small/B00BATINVS.jpg
 tags:  ['book']

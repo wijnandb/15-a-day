@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Selfie: How We Became So Self-Obsessed and What It's Doing To Us"
-template: book
 date: 2017-04-22
 cover: /images/bookcovers/small/B077YS4TF4.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The End of Jobs: Money, Meaning and Freedom Without the 9-to-5"
-template: book
 date: 2018-11-07
 cover: /images/bookcovers/small/B010L8SYRG.jpg
 tags:  ['book']

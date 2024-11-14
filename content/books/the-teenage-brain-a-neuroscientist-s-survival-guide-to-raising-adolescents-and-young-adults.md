@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Teenage Brain: A Neuroscientist's Survival Guide to Raising Adolescents and Young Adults"
-template: book
 date: 2019-10-21
 cover: /images/bookcovers/small/B00GQZPHC4.jpg
 tags:  ['book']

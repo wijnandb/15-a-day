@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Fifth Vital"
-template: book
 date: 2015-11-19
 cover: /images/bookcovers/small/B087BC3L43.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Project Management for the Unofficial Project Manager: A FranklinCovey Title"
-template: book
 date: 2019-01-22
 cover: /images/bookcovers/small/B00RTYMOQS.jpg
 tags:  ['book']

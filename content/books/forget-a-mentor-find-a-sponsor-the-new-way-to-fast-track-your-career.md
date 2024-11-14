@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Forget a Mentor, Find a Sponsor: The New Way to Fast-Track Your Career"
-template: book
 date: 2020-02-10
 cover: /images/bookcovers/small/B00C4GRK5G.jpg
 tags:  ['book']
@@ -22,11 +21,11 @@ categories: ['book']
 Sylvia Ann Hewlett's work is impactful, breaking away from traditional views of mentorship by underscoring the more pragmatic and actionable benefits that sponsorship offers. The book successfully blends empirical research with storytelling, making the content engaging and relatable. One of the strengths of the book is its focus on diversity and inclusion, addressing how sponsorship can bridge gaps for underrepresented groups. However, some critiques point out that the execution of finding a sponsor can be context-specific and challenging to generalize from case studies alone.
 
 ## Key Takeaways
-- **Defining Sponsorship:** Sponsors differ from mentors in that they use their influence to actively advocate for and facilitate their protégés' career advancement.
-- **Strategic Relationship Building:** Building a relationship with potential sponsors requires strategic effort and the demonstration of unique value.
-- **Diversity and Inclusion:** Sponsorship is an essential mechanism for leveling the playing field, providing underrepresented groups with equitable access to opportunities.
-- **Career Advancement:** A sponsor can provide visibility, endorsement, and direct pathways to career opportunities that might otherwise remain inaccessible.
-- **Action-Oriented Steps:** The book provides actionable advice on how to identify, secure, and maintain a sponsorship relationship.
+- **Defining Sponsorship**: Sponsors differ from mentors in that they use their influence to actively advocate for and facilitate their protégés' career advancement.
+- **Strategic Relationship Building**: Building a relationship with potential sponsors requires strategic effort and the demonstration of unique value.
+- **Diversity and Inclusion**: Sponsorship is an essential mechanism for leveling the playing field, providing underrepresented groups with equitable access to opportunities.
+- **Career Advancement**: A sponsor can provide visibility, endorsement, and direct pathways to career opportunities that might otherwise remain inaccessible.
+- **Action-Oriented Steps**: The book provides actionable advice on how to identify, secure, and maintain a sponsorship relationship.
 
 ## Recommendation
 This book is particularly beneficial for professionals seeking to advance their careers, including those in mid-career looking to break through to higher management levels. It's also highly recommended for individuals from underrepresented groups who are navigating complex workplace dynamics. Additionally, corporate leaders and HR professionals can gain insights into how fostering sponsorships within their organizations can contribute to a more inclusive and dynamic workplace.

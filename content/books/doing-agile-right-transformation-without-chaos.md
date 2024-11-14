@@ -2,10 +2,9 @@
 draft: true
 layout: book
 title: "Doing Agile Right: Transformation Without Chaos"
-template: book
 date: 2016-04-15
 cover: /images/bookcovers/small/B07V81614Z.jpg
-tags:  ['book', 'digital transformation']
+tags: ['digital transformation']
 authors: ['Berez, Steve', 'Elk, Sarah', 'Rigby, Darrell']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07V81614Z/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07V81614Z"
@@ -27,11 +26,11 @@ Critically, while the book offers insightful strategies, some may find its recom
 
 ## Key Takeaways
 
-- **Agile is a Mindset:** Successful Agile adoption requires a shift in mindset and culture beyond just implementing Agile practices or frameworks.
-- **Balanced Approach:** Organizations should maintain a balance between Agile and traditional management to support both innovation and operational efficiency.
-- **Strategic Alignment:** Agile efforts should align with the company’s strategic objectives to ensure meaningful outcomes and sustainable competitive advantage.
-- **Cultural Change:** Fostering a culture of trust, adaptation, and psychological safety is critical to support Agile transformation and continuous improvement.
-- **Pilot and Scale:** Start with small, cross-functional teams to pilot Agile practices and scale gradually based on early successes and learnings.
+- **Agile is a Mindset**: Successful Agile adoption requires a shift in mindset and culture beyond just implementing Agile practices or frameworks.
+- **Balanced Approach**: Organizations should maintain a balance between Agile and traditional management to support both innovation and operational efficiency.
+- **Strategic Alignment**: Agile efforts should align with the company’s strategic objectives to ensure meaningful outcomes and sustainable competitive advantage.
+- **Cultural Change**: Fostering a culture of trust, adaptation, and psychological safety is critical to support Agile transformation and continuous improvement.
+- **Pilot and Scale**: Start with small, cross-functional teams to pilot Agile practices and scale gradually based on early successes and learnings.
 
 ## Recommendation
 

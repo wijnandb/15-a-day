@@ -2,10 +2,9 @@
 draft: true
 layout: book
 title: "Python Automation Cookbook: 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more, 2nd Edition"
-template: book
 date: 2015-10-26
 cover: /images/bookcovers/small/B088NBRT6Z.jpg
-tags:  ['book', 'python', 'programming']
+tags: ['python', 'programming']
 authors: ['Buelta, Jaime']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B088NBRT6Z/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B088NBRT6Z"
@@ -25,11 +24,11 @@ The book has been well-received for its clear and concise approach to presenting
 
 ## Key Takeaways
 
-- **Web Scraping:** Techniques using libraries like Beautiful Soup and requests to automate the retrieval of web data.
-- **Data Wrangling:** Efficient handling of large datasets and transforming data structures using pandas and other libraries.
-- **Excel Automation:** Automating tasks involving Excel spreadsheets through libraries like openpyxl and pandas.
-- **Email Handling:** Automating email processes including sending and parsing email contents using smtplib and imaplib.
-- **Task Scheduling:** Using Python scripts in combination with schedulers like cron for routine task automation.
+- **Web Scraping**: Techniques using libraries like Beautiful Soup and requests to automate the retrieval of web data.
+- **Data Wrangling**: Efficient handling of large datasets and transforming data structures using pandas and other libraries.
+- **Excel Automation**: Automating tasks involving Excel spreadsheets through libraries like openpyxl and pandas.
+- **Email Handling**: Automating email processes including sending and parsing email contents using smtplib and imaplib.
+- **Task Scheduling**: Using Python scripts in combination with schedulers like cron for routine task automation.
 
 ## Recommendation
 

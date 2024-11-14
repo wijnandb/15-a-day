@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "This Is Marketing: You Can't Be Seen Until You Learn to See"
-template: book
 date: 2016-11-09
 cover: /images/bookcovers/small/B07DBR1V9S.jpg
 tags:  ['book']

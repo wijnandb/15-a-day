@@ -3,7 +3,7 @@ layout: book
 title: "Beyond the Hole in the Wall: Discover the Power of Self-Organized Learning (Kindle Single) (TED Books)"
 date: 2020-09-01
 cover: /images/bookcovers/small/B0070YZSFQ.jpg
-tags:  ['book', 'education']
+tags: ['education']
 authors: ['Mitra, Sugata']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0070YZSFQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0070YZSFQ"

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Top Dog: The Science of Winning and Losing"
-template: book
 date: 2020-02-18
 cover: /images/bookcovers/small/B00BFTV2X4.jpg
 tags:  ['book']

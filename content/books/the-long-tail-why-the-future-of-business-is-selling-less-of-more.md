@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Long Tail: Why the Future of Business Is Selling Less of More"
-template: book
 date: 2021-08-19
 cover: /images/bookcovers/small/B000JMKSE2.jpg
 tags:  ['book']

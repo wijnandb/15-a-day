@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Talent Is Overrated: What Really Separates World-Class Performers from Everybody Else"
-template: book
 date: 2021-06-04
 cover: /images/bookcovers/small/B001HD8NZ8.jpg
 tags:  ['book']

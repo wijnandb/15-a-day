@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "How to Talk So Teens Will Listen and Listen So Teens Will Talk"
-template: book
 date: 2021-02-24
 cover: /images/bookcovers/small/B003V1WW2O.jpg
 tags:  ['book']

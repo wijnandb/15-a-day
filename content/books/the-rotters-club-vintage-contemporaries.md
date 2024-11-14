@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Rotters' Club (Vintage Contemporaries)"
-template: book
 date: 2021-06-28
 cover: /images/bookcovers/small/B000XUAD5Y.jpg
 tags:  ['book']

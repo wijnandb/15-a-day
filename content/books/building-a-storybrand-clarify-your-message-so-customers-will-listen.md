@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Building a StoryBrand: Clarify Your Message So Customers Will Listen"
-template: book
 date: 2017-12-26
 cover: /images/bookcovers/small/B06XFJ2JGR.jpg
 tags:  ['book']

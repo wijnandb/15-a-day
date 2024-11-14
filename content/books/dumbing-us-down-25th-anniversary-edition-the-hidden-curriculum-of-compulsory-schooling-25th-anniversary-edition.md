@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Dumbing Us Down -25th Anniversary Edition: The Hidden Curriculum of Compulsory Schooling - 25th Anniversary Edition"
-template: book
 date: 2017-10-19
 cover: /images/bookcovers/small/B072F9VRZP.jpg
 tags:  ['book']

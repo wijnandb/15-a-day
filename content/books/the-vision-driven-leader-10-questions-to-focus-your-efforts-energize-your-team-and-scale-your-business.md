@@ -2,10 +2,9 @@
 draft: true
 layout: book
 title: "The Vision Driven Leader: 10 Questions to Focus Your Efforts, Energize Your Team, and Scale Your Business"
-template: book
 date: 2016-04-11
 cover: /images/bookcovers/small/B07VNHC41J.jpg
-tags:  ['book', 'leadership']
+tags: ['leadership']
 authors: ['Hyatt, Michael']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07VNHC41J/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07VNHC41J"
@@ -15,7 +14,7 @@ categories: ['book']
 ---
 # The Vision Driven Leader: 10 Questions to Focus Your Efforts, Energize Your Team, and Scale Your Business
 
-**Author:** Michael Hyatt
+**Author**: Michael Hyatt
 
 ## Summary
 
@@ -27,11 +26,11 @@ Michael Hyatt's "The Vision Driven Leader" is widely praised for its pragmatic a
 
 ## Key Takeaways
 
-- **Importance of Vision:** A clear vision is crucial for directing organizational energy and resources effectively.
-- **10 Questions Framework:** Leaders can develop a compelling and actionable vision by addressing ten specific questions that cover various aspects of vision creation and implementation.
-- **Alignment and Execution:** Aligning the team around a shared vision can lead to enhanced motivation, coherence, and productivity.
-- **Scalability:** A well-crafted vision facilitates scaling by providing a guiding star for decision-making and development.
-- **Communication:** Effectively communicating the vision to the team and stakeholders is as important as crafting the vision itself, ensuring buy-in and commitment at all levels.
+- **Importance of Vision**: A clear vision is crucial for directing organizational energy and resources effectively.
+- **10 Questions Framework**: Leaders can develop a compelling and actionable vision by addressing ten specific questions that cover various aspects of vision creation and implementation.
+- **Alignment and Execution**: Aligning the team around a shared vision can lead to enhanced motivation, coherence, and productivity.
+- **Scalability**: A well-crafted vision facilitates scaling by providing a guiding star for decision-making and development.
+- **Communication**: Effectively communicating the vision to the team and stakeholders is as important as crafting the vision itself, ensuring buy-in and commitment at all levels.
 
 ## Recommendation
 

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"
-template: book
 date: 2017-12-14
 cover: /images/bookcovers/small/B06XPJML5D.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Road to React: Your journey to master plain yet pragmatic React.js (2020 Edition)"
-template: book
 date: 2017-05-12
 cover: /images/bookcovers/small/B077HJFCQX.jpg
 tags:  ['book']

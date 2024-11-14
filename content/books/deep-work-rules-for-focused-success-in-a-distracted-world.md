@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Deep Work: Rules for Focused Success in a Distracted World"
-template: book
 date: 2018-12-05
 cover: /images/bookcovers/small/B00X47ZVXM.jpg
 tags:  ['book']

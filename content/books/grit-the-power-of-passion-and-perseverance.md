@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Grit: The Power of Passion and Perseverance"
-template: book
 date: 2018-10-30
 cover: /images/bookcovers/small/B010MH9V3W.jpg
 tags:  ['book']

@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "The Tipping Point: How Little Things Can Make a Big Difference"
-template: book
 date: 2021-08-03
 cover: /images/bookcovers/small/B000OT8GD0.jpg
 tags:  ['book']
