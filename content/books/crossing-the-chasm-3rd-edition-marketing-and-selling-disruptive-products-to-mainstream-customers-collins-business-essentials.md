@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers (Collins Business Essentials)"
 date: 2020-01-01
 cover: /images/bookcovers/small/B00DB3D81G.jpg
-tags:  ['book']
+tags:  ['marketing']
 authors: ['Moore, Geoffrey A.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00DB3D81G/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00DB3D81G"

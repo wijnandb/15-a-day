@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Creating Tomorrow's Schools Today: Education - Our Children - Their Futures"
 date: 2019-05-18
@@ -13,8 +12,6 @@ affiliatelink: https://www.amazon.com/dp/B00MUUPZYY?tag=brtt-20
 categories: ['book']
 ---
 # Creating Tomorrow's Schools Today: Education - Our Children - Their Futures
-
-**Author**: Richard Gerver
 
 ## Summary
 "Creating Tomorrow's Schools Today" by Richard Gerver is a visionary exploration of the education system and its need for transformation to better meet the evolving demands of the 21st century. Gerver draws from his experience as a teacher and educator to propose a shift away from traditional, standardized methods of teaching towards more innovative, personalized approaches that focus on the holistic development of children. The book discusses how schools can foster creativity, resilience, and a love for learning in students to prepare them effectively for an unpredictable future. Through anecdotes, case studies, and practical advice, Gerver champions the idea of a flexible curriculum that nurtures individual talents and embraces change as a constant driver of progress.

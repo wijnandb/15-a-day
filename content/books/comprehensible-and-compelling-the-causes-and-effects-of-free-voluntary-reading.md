@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Comprehensible and Compelling: The Causes and Effects of Free Voluntary Reading"
 date: 2017-06-13
 cover: /images/bookcovers/small/B076QVBQY5.jpg
-tags:  ['book']
+tags:  ['reading']
 authors: ['Lee, Sy-Ying', 'Lao, Christy', 'Krashen, Stephen']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B076QVBQY5/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B076QVBQY5"

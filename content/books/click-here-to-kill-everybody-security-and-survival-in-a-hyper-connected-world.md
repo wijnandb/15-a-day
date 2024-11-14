@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Click Here to Kill Everybody: Security and Survival in a Hyper-connected World"
 date: 2017-01-16
 cover: /images/bookcovers/small/B07BLMQKZK.jpg
-tags:  ['book']
+tags:  ['cybersecurity']
 authors: ['Schneier, Bruce']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07BLMQKZK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07BLMQKZK"

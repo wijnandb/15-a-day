@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World"
 date: 2016-07-24

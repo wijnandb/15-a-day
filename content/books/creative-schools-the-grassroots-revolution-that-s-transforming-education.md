@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Creative Schools: The Grassroots Revolution That's Transforming Education"
 date: 2019-02-27

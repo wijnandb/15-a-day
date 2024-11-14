@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Crafting Test-Driven Software with Python: Write test suites that scale with your applications' needs and complexity using Python and PyTest"
 date: 2015-07-14

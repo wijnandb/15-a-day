@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Cracked it!: How to solve big problems and sell solutions like top strategy consultants"
 date: 2016-11-01
@@ -12,7 +11,6 @@ ASIN: B07DMFYH2R
 affiliatelink: https://www.amazon.com/dp/B07DMFYH2R?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # Cracked it!: How to Solve Big Problems and Sell Solutions Like Top Strategy Consultants
 
 ## Summary
@@ -31,4 +29,3 @@ categories: ['book']
 
 ## Recommendation
 "Cracked it!" is highly recommended for business professionals, consultants, and managers who are looking to enhance their problem-solving and strategic thinking skills. It is particularly beneficial for individuals who need to address complex business challenges and effectively communicate solutions within their organizations. Those new to strategy consulting might find it advantageous to familiarize themselves with basic consulting principles to fully appreciate the insights the book offers.
-```

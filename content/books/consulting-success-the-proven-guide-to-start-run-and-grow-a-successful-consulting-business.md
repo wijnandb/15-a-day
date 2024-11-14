@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Consulting Success: The Proven Guide to Start, Run and Grow a Successful Consulting Business"
 date: 2016-09-18

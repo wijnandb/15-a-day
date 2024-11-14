@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Critical Knowledge Transfer: Tools for Managing Your Company's Deep Smarts"
 date: 2019-03-23
 cover: /images/bookcovers/small/B00O92Q6BM.jpg
-tags:  ['book']
+tags:  ['knowledge transfer']
 authors: ['Swap, Walter C.', 'Leonard, Dorothy', 'Barton, Gavin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00O92Q6BM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00O92Q6BM"

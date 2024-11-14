@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Competing Against Luck: The Story of Innovation and Customer Choice"
 date: 2018-07-26
