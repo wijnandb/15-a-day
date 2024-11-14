@@ -1,0 +1,62 @@
+.covers-grid {
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+    /* Base layout for small screens */
+    grid-template-columns: repeat(1, 1fr);
+}
+
+/* Medium screens: 2 columns */
+@media (min-width: 576px) {
+    .covers-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Larger screens: 3 columns */
+@media (min-width: 768px) {
+    .covers-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* Large screens: 3 columns */
+@media (min-width: 992px) {
+    .covers-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* Extra large screens: 4 columns */
+@media (min-width: 1200px) {
+    .covers-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.book-cover img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.book-cover img:hover {
+    transform: scale(1.05);
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination a {
+    margin: 0 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
