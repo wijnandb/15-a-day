@@ -2,7 +2,6 @@
 draft: true
 layout: book
 title: "Betty: A novel"
-template: book
 date: 2016-02-19
 cover: /images/bookcovers/small/B07ZC7SV5H.jpg
 tags:  ['fiction','novel']

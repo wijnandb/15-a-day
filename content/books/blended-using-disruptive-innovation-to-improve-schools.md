@@ -1,11 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Blended: Using Disruptive Innovation to Improve Schools"
-template: book
 date: 2019-05-30
 cover: /images/bookcovers/small/B00MFPZASU.jpg
-tags:  ['book', 'education', 'blended learning']
+tags:  ['education', 'blended learning']
 authors: ['Staker, Heather', 'Horn, Michael B.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00MFPZASU/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00MFPZASU"
@@ -13,7 +11,6 @@ ASIN: B00MFPZASU
 affiliatelink: https://www.amazon.com/dp/B00MFPZASU?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # Blended: Using Disruptive Innovation to Improve Schools
 
 ## Summary:
@@ -30,4 +27,3 @@ The book is widely regarded as a significant contribution to the conversation ab
 
 ## Recommendation:
 "Blended: Using Disruptive Innovation to Improve Schools" is recommended for educators, administrators, and policymakers who seek to understand and leverage the power of technology in education. It is also beneficial for those interested in educational reform and looking for practical methods to enhance student engagement and learning outcomes through blended learning models.
-```

@@ -3,7 +3,7 @@ layout: book
 title: "Be the Go-To: How to Own Your Competitive Market, Charge More, and Have Customers Love You For It"
 date: 2015-10-18
 cover: /images/bookcovers/small/B088RKV1WF.jpg
-tags:  ['']
+tags:  ['entrepreneurship']
 authors: ['Lina, Theresa M.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B088RKV1WF/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B088RKV1WF"

@@ -1,11 +1,10 @@
 ---
-draft: true
 layout: book
 title: "Astrophysics for People in a Hurry"
 template: book
 date: 2018-03-12
 cover: /images/bookcovers/small/B01MAWT2MO.jpg
-tags:  ['book', 'astrophysics']
+tags:  ['astrophysics']
 authors: ['de Grasse Tyson, Neil']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01MAWT2MO/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01MAWT2MO"
@@ -13,10 +12,6 @@ ASIN: B01MAWT2MO
 affiliatelink: https://www.amazon.com/dp/B01MAWT2MO?tag=brtt-20
 categories: ['book']
 ---
-Sure! Below is a markdown-formatted overview of "Astrophysics for People in a Hurry" by Neil deGrasse Tyson:
-
----
-
 # Astrophysics for People in a Hurry by Neil deGrasse Tyson
 
 ## Summary
@@ -37,5 +32,3 @@ The book has been praised for its clarity, wit, and ability to simplify complex 
 ## Recommendation
 
 "Astrophysics for People in a Hurry" is highly recommended for anyone with an interest in astronomy, space, or science in general who is looking for a quick, thought-provoking read. It's particularly suitable for those new to the subject, or for readers who appreciate the work of Neil deGrasse Tyson. Students, casual readers, and anyone aiming to gain a better understanding of the universe in a short amount of time will find this book both beneficial and entertaining.
-
----

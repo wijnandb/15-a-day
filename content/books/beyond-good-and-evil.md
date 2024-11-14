@@ -1,8 +1,6 @@
 ---
-draft: true
 layout: book
 title: "Beyond Good and Evil"
-template: book
 date: 2018-01-03
 cover: /images/bookcovers/small/B06XBK358J.jpg
 tags:  ['book','philiosophy']

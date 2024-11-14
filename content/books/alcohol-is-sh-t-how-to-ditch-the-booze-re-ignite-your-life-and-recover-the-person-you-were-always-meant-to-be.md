@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Alcohol is SH!T: How to Ditch the Booze, Re-ignite Your Life, and Recover the Person you Were Always Meant to be."
 date: 2016-03-26
 cover: /images/bookcovers/small/B07W39ZSHV.jpg
-tags:  ['book', 'health']
+tags:  ['health']
 authors: ['Churchill, Paul']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07W39ZSHV/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07W39ZSHV"
@@ -12,10 +11,6 @@ ASIN: B07W39ZSHV
 affiliatelink: https://www.amazon.com/dp/B07W39ZSHV?tag=brtt-20
 categories: ['book']
 ---
-Certainly! Below is an overview of "Alcohol is SH!T: How to Ditch the Booze, Re-ignite Your Life, and Recover the Person you Were Always Meant to be" by Paul Churchill in markdown format.
-
----
-
 ## Overview of "Alcohol is SH!T: How to Ditch the Booze, Re-ignite Your Life, and Recover the Person You Were Always Meant to be"
 
 ### Summary
@@ -32,7 +27,3 @@ Certainly! Below is an overview of "Alcohol is SH!T: How to Ditch the Booze, Re-
 
 ### Recommendation
 "Alcohol is SH!T" is particularly beneficial for those at the beginning of their journey toward sobriety or individuals contemplating a life without alcohol. It will resonate well with readers who appreciate personal stories and motivational content over clinical or academic approaches. Those seeking inspiration and encouragement rather than detailed addiction science or psychological analysis will find it most useful.
-
---- 
-
-This markdown format makes it easy to incorporate into a website or other text-based platforms where markdown is supported.

@@ -3,7 +3,7 @@ layout: book
 title: "A World Without Work: Technology, Automation, and How We Should Respond"
 date: 2016-05-21
 cover: /images/bookcovers/small/B07R5HTCGL.jpg
-tags:  ['book']
+tags:  ['work']
 authors: ['Susskind, Daniel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07R5HTCGL/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07R5HTCGL"

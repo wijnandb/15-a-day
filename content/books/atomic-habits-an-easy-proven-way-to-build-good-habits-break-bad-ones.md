@@ -1,8 +1,6 @@
 ---
-draft: true
 layout: book
 title: "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
-template: book
 date: 2016-12-03
 cover: /images/bookcovers/small/B07D23CFGR.jpg
 tags:  ['book', 'habits']

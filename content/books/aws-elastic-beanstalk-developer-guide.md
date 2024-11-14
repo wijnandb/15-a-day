@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "AWS Elastic Beanstalk: Developer Guide"
 date: 2017-07-03

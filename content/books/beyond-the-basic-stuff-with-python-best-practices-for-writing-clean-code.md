@@ -1,11 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code"
-template: book
 date: 2016-05-09
 cover: /images/bookcovers/small/B07S2N8Q48.jpg
-tags:  ['book', 'python', 'programming']
+tags:  ['python', 'programming']
 authors: ['Sweigart, Al']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07S2N8Q48/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07S2N8Q48"
@@ -13,7 +11,6 @@ ASIN: B07S2N8Q48
 affiliatelink: https://www.amazon.com/dp/B07S2N8Q48?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code
 
 ## Summary
@@ -31,4 +28,4 @@ The book is praised for its practical focus and straightforward explanations, ma
 
 ## Recommendation
 "Beyond the Basic Stuff with Python" is particularly useful for self-taught programmers or those who have completed introductory Python courses and are looking to enhance their coding proficiency. Developers who wish to improve their understanding of Python best practices will find this book valuable. It's also a good resource for anyone aiming to write code that is clean, efficient, and professional-grade.
-```
+

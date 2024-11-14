@@ -13,7 +13,6 @@ ASIN: B00H1W9I6C
 affiliatelink: https://www.amazon.com/dp/B00H1W9I6C?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # A Smarter Way to Learn JavaScript: The New Approach That Uses Technology to Cut Your Effort in Half
 
 ## Summary
@@ -30,4 +29,3 @@ Myers' book is well-received for its practicality and engaging teaching style, c
 
 ## Recommendation
 "A Smarter Way to Learn JavaScript" is ideally suited for beginners with little to no programming background who prefer a hands-on learning approach. It is recommended for self-learners looking for an interactive and accessible introduction to JavaScript that allows them to progress at their own pace. Readers who learn best by doing, and those who appreciate reading combined with exercises, will find this book particularly beneficial.
-```
