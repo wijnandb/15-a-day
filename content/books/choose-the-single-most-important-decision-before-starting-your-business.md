@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Choose: The Single Most Important Decision Before Starting Your Business"
 date: 2016-08-25
