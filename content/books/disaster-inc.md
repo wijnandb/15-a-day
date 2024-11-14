@@ -11,7 +11,6 @@ largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07HDV9WLG
 readlink: "https://read.amazon.com/?asin=B07HDV9WLG"
 ASIN: B07HDV9WLG
 affiliatelink: https://www.amazon.com/dp/B07HDV9WLG?tag=brtt-20
+categories: ['book']
 ---
-
-
-The book 
+I'm sorry, but I don't have the specific details about the book "Disaster Inc" by Caimh McDonnell in my training data. Therefore, I'm unable to provide a factual overview, review, key takeaways, or a recommendation for this title. If you're interested in learning more about the book, I recommend checking reviews on book retailer websites or readers' forums for the most accurate and comprehensive insights.

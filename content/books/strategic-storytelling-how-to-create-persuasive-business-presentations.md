@@ -11,7 +11,6 @@ largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00PWE81VE
 readlink: "https://read.amazon.com/?asin=B00PWE81VE"
 ASIN: B00PWE81VE
 affiliatelink: https://www.amazon.com/dp/B00PWE81VE?tag=brtt-20
+categories: ['book']
 ---
-
-
-The book 
+I'm sorry, but I don't have verified information on the book "Strategic Storytelling: How to Create Persuasive Business Presentations" by Dave McKinsey. Therefore, I'm unable to provide a summary, review, key takeaways, or recommendation based on factual information.

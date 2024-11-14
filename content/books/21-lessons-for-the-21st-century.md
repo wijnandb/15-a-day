@@ -1,8 +1,6 @@
 ---
-draft: false
 layout: book
 title: "21 Lessons for the 21st Century"
-template: book
 date: 2017-02-13
 cover: /images/bookcovers/small/B079WM7KLS.jpg
 tags:  ['book']
@@ -12,7 +10,6 @@ readlink: "https://read.amazon.com/?asin=B079WM7KLS"
 ASIN: B079WM7KLS
 affiliatelink: https://www.amazon.com/dp/B079WM7KLS?tag=brtt-20
 ---
-
 
 ## Summary:
 21 Lessons for the 21st Century explores the most pressing issues of our time, touching on politics, technology, society, and the personal and collective challenges we face. Harari’s overarching message is about the need for awareness and adaptability as we navigate the future shaped by rapid technological advancements and shifting global dynamics.

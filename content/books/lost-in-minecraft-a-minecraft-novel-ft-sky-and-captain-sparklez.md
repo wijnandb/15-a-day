@@ -12,6 +12,3 @@ readlink: "https://read.amazon.com/?asin=B00FPQM7FU"
 ASIN: B00FPQM7FU
 affiliatelink: https://www.amazon.com/dp/B00FPQM7FU?tag=brtt-20
 ---
-
-
-The book 
