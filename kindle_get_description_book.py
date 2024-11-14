@@ -4,7 +4,7 @@ books =[["B000FBJCJE", "Snow Crash: A Novel", "fiction", "Stephenson, Neal:Steph
 ["B000FCKPHG", "Mindset: The New Psychology of Success", "", "Dweck, Carol S.:Dweck, Carol S.:", "https://m.media-amazon.com/images/I/41vS70Qo3rL._SY600_.jpg", "https://read.amazon.com/?asin=B000FCKPHG", "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000FCKPHG/images/cover.jpg"]
 ]
 
-# scrape the contant of a book from Amazon
+# scrape the content of a book from Amazon
 # Links: for book in books:
 #           storelink = "https://www.amazon.com/dp/" + book[0]
 
