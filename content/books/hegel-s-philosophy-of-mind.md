@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Hegel's Philosophy of Mind"
 date: 2020-07-19
 cover: /images/bookcovers/small/B007HT0QAQ.jpg
-tags:  ['book']
+tags:  ['philosophy']
 authors: ['Hegel, Georg Wilhelm Friedrich ']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007HT0QAQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007HT0QAQ"

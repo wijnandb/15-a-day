@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Impractical Python Projects: Playful Programming Activities to Make You Smarter"
 date: 2017-04-30

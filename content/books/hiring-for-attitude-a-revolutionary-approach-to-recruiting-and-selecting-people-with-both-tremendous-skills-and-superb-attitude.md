@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Hiring for Attitude: A Revolutionary Approach to Recruiting and Selecting People with Both Tremendous Skills and Superb Attitude"
 date: 2020-10-31

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Human + Machine: Reimagining Work in the Age of AI"
 date: 2017-07-27

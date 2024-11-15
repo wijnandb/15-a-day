@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "High Performance Python: Practical Performant Programming for Humans"
 date: 2015-11-07

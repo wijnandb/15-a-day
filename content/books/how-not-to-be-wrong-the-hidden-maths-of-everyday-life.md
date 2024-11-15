@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "How Not to Be Wrong: The Hidden Maths of Everyday Life"
 date: 2019-07-09

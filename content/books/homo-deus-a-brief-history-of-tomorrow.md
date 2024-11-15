@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Homo Deus: A Brief History of Tomorrow"
 date: 2018-07-22

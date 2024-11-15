@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "How Learning Works: Seven Research-Based Principles for Smart Teaching"
 date: 2021-03-16

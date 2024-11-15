@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "HBR's 10 Must Reads on AI, Analytics, and the New Machine Age"
 date: 2016-11-21

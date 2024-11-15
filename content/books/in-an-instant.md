@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "In an Instant"
 date: 2016-07-04
 cover: /images/bookcovers/small/B07NVD1276.jpg
-tags:  ['book']
+tags:  ['novel', 'fiction']
 authors: ['Redfearn, Suzanne']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07NVD1276/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07NVD1276"

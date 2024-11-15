@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "He's Not Lazy: Empowering Your Son to Believe In Himself"
 date: 2017-08-04

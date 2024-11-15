@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "How Emotions Are Made: The Secret Life of the Brain"
 date: 2019-01-30
 cover: /images/bookcovers/small/B00QPHURT6.jpg
-tags:  ['book']
+tags:  ['brain', 'emotions']
 authors: ['Barrett, Lisa Feldman']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00QPHURT6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00QPHURT6"
@@ -12,7 +11,6 @@ ASIN: B00QPHURT6
 affiliatelink: https://www.amazon.com/dp/B00QPHURT6?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # How Emotions Are Made: The Secret Life of the Brain by Lisa Feldman Barrett
 
 ## Summary
@@ -29,4 +27,3 @@ Barrett’s work is a groundbreaking contribution to the understanding of emotio
 
 ## Recommendation
 This book is recommended for anyone interested in psychology, neuroscience, or the study of emotions. It would greatly benefit readers seeking to expand their understanding of how emotions work, particularly those in fields like psychology, cognitive science, and anthropology. While the book offers profound insights, readers with a non-scientific background might need to invest additional effort to fully appreciate its depth and complexity. Lisa Feldman Barrett provides a thought-provoking exploration that challenges conventional wisdom, making it a compelling read for those eager to explore a transformative view of emotions.
-```

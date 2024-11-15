@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "How to Raise Successful People: Simple Lessons for Radical Results"
 date: 2016-10-16

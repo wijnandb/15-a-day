@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "How to Teach Anything: Break Down Complex Topics and Explain with Clarity, While Keeping Engagement and Motivation (Learning how to Learn Book 13)"
 date: 2015-07-10

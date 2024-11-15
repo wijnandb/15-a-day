@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Real Fit Kitchen"
 date: 2018-06-12
 cover: /images/bookcovers/small/B01EXVBVMW.jpg
-tags:  ['book']
+tags:  ['fitness', 'health']
 authors: ['C.H.C., Kate Weiler', 'Mardigan R.D., Tara']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01EXVBVMW/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01EXVBVMW"

@@ -28,4 +28,3 @@ Peggy McKee's book is well-regarded for its straightforward and insightful appro
 
 ## Recommendation
 This book is highly recommended for job seekers who are preparing for interviews across various industries, especially those entering or transitioning in their careers. It is particularly valuable for individuals who need help in handling nerve-wracking interview situations or those who wish to improve their communication of their qualifications and experiences effectively. The practical advice McKee provides can help build confidence and competence in interview settings.
-

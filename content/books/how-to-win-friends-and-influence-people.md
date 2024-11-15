@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "How To Win Friends and Influence People"
 date: 2021-02-16
 cover: /images/bookcovers/small/B003WEAI4E.jpg
-tags:  ['book']
+tags:  ['communication', 'personal development', 'leadership']
 authors: ['Carnegie, Dale']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B003WEAI4E/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B003WEAI4E"

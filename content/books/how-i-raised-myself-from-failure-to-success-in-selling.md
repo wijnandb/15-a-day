@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "How I Raised Myself From Failure To Success In Selling"
 date: 2021-04-13

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "How We Learn: The Surprising Truth About When, Where, and Why It Happens"
 date: 2019-08-14

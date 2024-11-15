@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease"
 date: 2018-11-19

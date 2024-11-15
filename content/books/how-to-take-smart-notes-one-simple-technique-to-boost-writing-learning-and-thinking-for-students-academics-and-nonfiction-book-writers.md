@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers"
 date: 2018-01-11
@@ -12,7 +11,6 @@ ASIN: B06WVYW33Y
 affiliatelink: https://www.amazon.com/dp/B06WVYW33Y?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers
 
 ## Summary
@@ -30,4 +28,3 @@ Ahrens' work has been praised for its clarity and actionable advice. The book ef
 
 ## Recommendation
 "How to Take Smart Notes" is particularly beneficial for students, academics, researchers, and nonfiction writers striving to improve their organization and productivity in writing. Those looking for a structured approach to handling complex information and boosting their creativity will find this book invaluable. It offers a practical guide to transforming how one interacts with and utilizes their notes for academic and creative pursuits.
-```
