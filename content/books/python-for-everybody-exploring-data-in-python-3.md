@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Python for Everybody: Exploring Data in Python 3"
 date: 2018-04-29
 cover: /images/bookcovers/small/B01IA5VIFM.jpg
-tags:  ['book']
+tags:  ['python', 'programming']
 authors: ['Severance, Charles']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01IA5VIFM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01IA5VIFM"

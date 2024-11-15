@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Disciplined Entrepreneurship: 24 Steps to a Successful Startup"
 date: 2019-12-16

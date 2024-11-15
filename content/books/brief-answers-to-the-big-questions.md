@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Brief Answers to the Big Questions"
 date: 2016-11-17

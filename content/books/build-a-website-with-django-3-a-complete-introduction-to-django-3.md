@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Build a Website With Django 3: A complete introduction to Django 3"
 date: 2016-01-10

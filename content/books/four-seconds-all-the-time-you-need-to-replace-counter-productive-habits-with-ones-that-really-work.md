@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Four Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work"
 date: 2019-04-16

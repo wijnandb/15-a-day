@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"
 date: 2017-12-14
@@ -29,3 +28,4 @@ Martin Kleppmann's "Designing Data-Intensive Applications" is highly regarded fo
 
 ## Recommendation
 "Designing Data-Intensive Applications" is highly recommended for software engineers, architects, and technical leaders responsible for building or maintaining data-centric systems. Its in-depth analysis of data management principles makes it an ideal resource for anyone looking to enhance their understanding of distributed systems and data engineering. The book's comprehensive nature also makes it a suitable reference for academia and those involved in teaching or learning about data system design.
+

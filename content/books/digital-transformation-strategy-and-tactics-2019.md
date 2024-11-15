@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Digital Transformation: Strategy and Tactics - 2019"
 date: 2018-12-21
 cover: /images/bookcovers/small/B00UCB2NK2.jpg
-tags: ['digital transformation']
+tags: ['digital transformation', 'data driven']
 authors: ['Wood, Andrew']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00UCB2NK2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00UCB2NK2"

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner"
 date: 2015-12-25
@@ -30,3 +29,4 @@ However, some readers might find that certain sections could benefit from more d
 
 ## Recommendation
 "Dive Into Algorithms" is highly recommended for beginners who are interested in learning about algorithms and are already familiar with basic Python programming. It’s an excellent resource for students, self-taught programmers, or hobbyists looking to deepen their understanding of algorithms in a practical, engaging way. Additionally, educators may find it a valuable supplementary resource for introductory computer science courses.
+

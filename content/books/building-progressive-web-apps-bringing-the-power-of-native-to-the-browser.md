@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Building Progressive Web Apps: Bringing the Power of Native to the Browser"
 date: 2017-07-19

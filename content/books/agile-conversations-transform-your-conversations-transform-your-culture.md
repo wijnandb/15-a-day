@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Agile Conversations: Transform Your Conversations, Transform Your Culture"
 date: 2016-03-02
 cover: /images/bookcovers/small/B07YZP8LC9.jpg
-tags:  ['agile']
+tags:  ['agile', 'communication']
 authors: ['Fredrick, Jeffrey', 'Squirrel, Douglas']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07YZP8LC9/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07YZP8LC9"

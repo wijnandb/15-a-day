@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Building Background Knowledge for Academic Achievement: Research on What Works in Schools (Professional Development)"
 date: 2019-06-27
 cover: /images/bookcovers/small/B00KTMHJ6C.jpg
-tags:  ['book']
+tags:  ['education']
 authors: ['Marzano, Robert J.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00KTMHJ6C/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00KTMHJ6C"
@@ -13,8 +12,6 @@ affiliatelink: https://www.amazon.com/dp/B00KTMHJ6C?tag=brtt-20
 categories: ['book']
 ---
 # Building Background Knowledge for Academic Achievement: Research on What Works in Schools
-
-**Author**: Robert J. Marzano
 
 ## Summary
 "Building Background Knowledge for Academic Achievement" by Robert J. Marzano examines the critical role that background knowledge plays in student achievement. The book explores how disparities in knowledge acquisition impact learning and offers insights into effectively cultivating and enriching students' background knowledge. Marzano presents a comprehensive analysis backed by research on how educators can bridge gaps through strategic interventions, vocabulary development, and resource utilization. The publication serves as a guide for implementing practices that build a strong foundation for academic success across diverse student demographics.

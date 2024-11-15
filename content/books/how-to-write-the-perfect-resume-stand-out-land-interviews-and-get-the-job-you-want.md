@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "How to Write the Perfect Resume: Stand Out, Land Interviews, and Get the Job You Want"
 date: 2016-11-05

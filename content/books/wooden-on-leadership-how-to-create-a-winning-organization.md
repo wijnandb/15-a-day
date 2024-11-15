@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Wooden on Leadership: How to Create a Winning Organization"
 date: 2021-07-14

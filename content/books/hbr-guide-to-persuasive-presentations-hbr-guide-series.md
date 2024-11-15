@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "HBR Guide to Persuasive Presentations (HBR Guide Series)"
 date: 2020-05-24

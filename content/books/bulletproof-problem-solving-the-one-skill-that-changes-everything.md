@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Bulletproof Problem Solving: The One Skill That Changes Everything"
 date: 2016-06-22
@@ -29,3 +28,4 @@ The book is well-regarded for its clear, structured approach to problem solving,
 
 ## Recommendation
 "Bulletproof Problem Solving" is particularly beneficial for professionals and leaders in business, consultation, and education sectors who seek to enhance their analytical decision-making capabilities. It is an excellent resource for anyone interested in improving their ability to approach and solve problems systematically and effectively. With its action-oriented framework, the book is also useful for individuals who enjoy structured methodologies in tackling everyday challenges.
+
