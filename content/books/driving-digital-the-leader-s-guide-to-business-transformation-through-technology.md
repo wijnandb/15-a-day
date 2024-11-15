@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Driving Digital: The Leader's Guide to Business Transformation Through Technology"
 date: 2018-02-20
 cover: /images/bookcovers/small/B01N10Y94E.jpg
-tags: ['digital transformation']
+tags: ['digital transformation', 'leadership']
 authors: ['Sacolick, Isaac']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01N10Y94E/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01N10Y94E"

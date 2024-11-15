@@ -4,7 +4,7 @@ layout: book
 title: "Disciplined Entrepreneurship: 24 Steps to a Successful Startup"
 date: 2019-12-16
 cover: /images/bookcovers/small/B00DQ97TWO.jpg
-tags: ['startup']
+tags: ['startup', 'entrepreneurship']
 authors: ['Aulet, Bill']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00DQ97TWO/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00DQ97TWO"
@@ -12,7 +12,6 @@ ASIN: B00DQ97TWO
 affiliatelink: https://www.amazon.com/dp/B00DQ97TWO?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # Disciplined Entrepreneurship: 24 Steps to a Successful Startup
 
 ### Summary
@@ -31,5 +30,3 @@ The book has been widely praised for its systematic approach, making complex ent
 
 ### Recommendation
 "Disciplined Entrepreneurship" is highly recommended for aspiring entrepreneurs, business students, and anyone involved in startup ecosystems who seek a structured and methodical approach to business creation. It is also useful for educators and professionals who guide startups, as it provides a comprehensive framework that can be adapted to various industries and business types. Its step-by-step blueprint and actionable insights make it a valuable reference for anyone looking to turn a promising idea into a successful business.
-
-```

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Football Hackers: The Science and Art of a Data Revolution"
 date: 2016-07-12

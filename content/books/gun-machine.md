@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Gun Machine"
 date: 2020-06-21
 cover: /images/bookcovers/small/B007ZFIMC6.jpg
-tags:  ['book']
+tags:  ['novel', 'fiction']
 authors: ['Ellis, Warren']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007ZFIMC6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007ZFIMC6"

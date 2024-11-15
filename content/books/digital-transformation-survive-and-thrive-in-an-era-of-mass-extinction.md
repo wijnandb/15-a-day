@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Digital Transformation: Survive and Thrive in an Era of Mass Extinction"
 date: 2015-08-11

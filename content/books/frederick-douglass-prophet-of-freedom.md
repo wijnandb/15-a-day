@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Frederick Douglass: Prophet of Freedom"
 date: 2016-12-27

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Digital Transformation: A Model to Master Digital Disruption"
 date: 2017-02-05

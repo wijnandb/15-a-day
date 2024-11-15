@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Fast Times: How Digital Winners Set Direction, Learn, and Adapt"
 date: 2016-03-06

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "#EdJourney: A Roadmap to the Future of Education"
 date: 2019-05-26

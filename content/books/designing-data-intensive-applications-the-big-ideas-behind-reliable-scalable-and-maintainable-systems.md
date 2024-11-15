@@ -4,7 +4,7 @@ layout: book
 title: "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"
 date: 2017-12-14
 cover: /images/bookcovers/small/B06XPJML5D.jpg
-tags:  ['book']
+tags:  ['data', 'software engineering']
 authors: ['Kleppmann, Martin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B06XPJML5D/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B06XPJML5D"

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content"
 date: 2019-06-15

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Getting Started in Consulting"
 date: 2021-05-19

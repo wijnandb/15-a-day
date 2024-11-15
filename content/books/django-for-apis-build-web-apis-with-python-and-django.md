@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Django for APIs: Build web APIs with Python and Django"
 date: 2015-09-12

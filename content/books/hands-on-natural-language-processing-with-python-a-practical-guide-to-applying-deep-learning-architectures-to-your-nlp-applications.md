@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Hands-On Natural Language Processing with Python: A practical guide to applying deep learning architectures to your NLP applications"
 date: 2016-11-13

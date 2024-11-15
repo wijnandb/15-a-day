@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Dear Martin"
 date: 2018-01-23
 cover: /images/bookcovers/small/B01N9U3ALR.jpg
-tags:  ['book']
+tags:  ['novel', 'fiction']
 authors: ['Stone, Nic']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01N9U3ALR/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01N9U3ALR"

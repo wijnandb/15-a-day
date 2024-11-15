@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Getting to Know Vue.js: Learn to Build Single Page Applications in Vue from Scratch"
 date: 2016-10-20

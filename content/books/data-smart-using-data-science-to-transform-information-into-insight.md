@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Data Smart: Using Data Science to Transform Information into Insight"
 date: 2019-11-26
 cover: /images/bookcovers/small/B00F0WRXI0.jpg
-tags:  ['book']
+tags:  ['data', 'data science']
 authors: ['Foreman, John W.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00F0WRXI0/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00F0WRXI0"

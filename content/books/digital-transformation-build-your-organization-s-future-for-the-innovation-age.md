@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Digital Transformation: Build Your Organization's Future for the Innovation Age"
 date: 2017-06-25

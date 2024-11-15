@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series)"
 date: 2016-02-15

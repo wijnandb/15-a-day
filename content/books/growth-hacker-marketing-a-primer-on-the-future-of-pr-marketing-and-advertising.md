@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising"
 date: 2019-08-30
 cover: /images/bookcovers/small/B00INIXL3O.jpg
-tags:  ['book']
+tags:  ['marketing', 'growth hacking']
 authors: ['Holiday, Ryan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00INIXL3O/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00INIXL3O"

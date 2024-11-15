@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Django for Professionals: Production websites with Python & Django"
 date: 2015-09-08

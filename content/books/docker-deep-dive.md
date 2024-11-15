@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Docker Deep Dive"
 date: 2018-04-01
 cover: /images/bookcovers/small/B01LXWQUFF.jpg
-tags:  ['book']
+tags:  ['docker']
 authors: ['Poulton, Nigel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01LXWQUFF/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01LXWQUFF"
@@ -12,7 +11,6 @@ ASIN: B01LXWQUFF
 affiliatelink: https://www.amazon.com/dp/B01LXWQUFF?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # Docker Deep Dive by Nigel Poulton
 
 ## Summary
@@ -31,4 +29,3 @@ Nigel Poulton's "Docker Deep Dive" is praised for its clear, concise writing and
 
 ## Recommendation
 "Docker Deep Dive" is highly recommended for software developers, system administrators, and IT professionals who are new to Docker and want a structured introduction. It will also serve as a strong refresher for those already familiar with Docker concepts but seeking a deeper understanding. The book's practical focus makes it suitable for those who prefer learning by doing, as it aligns theoretical knowledge with hands-on exercises.
-```

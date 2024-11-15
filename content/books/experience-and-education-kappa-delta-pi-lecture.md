@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Experience And Education (Kappa Delta Pi Lecture)"
 date: 2021-06-16

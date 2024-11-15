@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Flask Web Development: Developing Web Applications with Python"
 date: 2019-07-17

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it)"
 date: 2019-03-11

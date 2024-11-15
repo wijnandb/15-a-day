@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Free Voluntary Reading"
 date: 2020-11-24
@@ -12,10 +11,6 @@ ASIN: B005CGUMT6
 affiliatelink: https://www.amazon.com/dp/B005CGUMT6?tag=brtt-20
 categories: ['book']
 ---
-Sure, here's a formatted overview of "Free Voluntary Reading" by Stephen D. Krashen:
-
----
-
 ## Free Voluntary Reading by Stephen D. Krashen
 
 ### Summary
@@ -32,5 +27,3 @@ Stephen Krashen's "Free Voluntary Reading" is well-regarded in the fields of edu
 
 ### Recommendation
 This book is highly recommended for educators, librarians, parents, and policymakers who are interested in promoting literacy and enhancing educational outcomes. By presenting a strong case for the transformative power of allowing individuals to select their reading material, "Free Voluntary Reading" provides valuable insights and practical guidance for those looking to implement more learner-centered approaches to literacy education.
-
----

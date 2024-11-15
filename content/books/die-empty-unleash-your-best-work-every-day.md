@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Die Empty: Unleash Your Best Work Every Day"
 date: 2020-04-06
 cover: /images/bookcovers/small/B00AEBEWMC.jpg
-tags:  ['book']
+tags:  ['productivity']
 authors: ['Henry, Todd']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00AEBEWMC/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00AEBEWMC"

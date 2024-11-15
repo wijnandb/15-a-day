@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Essentials of Assessing, Preventing, and Overcoming Reading Difficulties (Essentials of Psychological Assessment)"
 date: 2018-10-10

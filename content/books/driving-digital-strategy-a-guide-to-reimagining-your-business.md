@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Driving Digital Strategy: A Guide to Reimagining Your Business"
 date: 2017-03-09
 cover: /images/bookcovers/small/B078YCJPW6.jpg
-tags: ['digital transformation']
+tags: ['digital transformation', 'strategy']
 authors: ['Gupta, Sunil']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B078YCJPW6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B078YCJPW6"
@@ -12,7 +11,6 @@ ASIN: B078YCJPW6
 affiliatelink: https://www.amazon.com/dp/B078YCJPW6?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # Driving Digital Strategy: A Guide to Reimagining Your Business
 
 ## Summary
@@ -30,4 +28,3 @@ Sunil Gupta's "Driving Digital Strategy" is highly regarded for its practical in
 
 ## Recommendation
 "Driving Digital Strategy" is recommended for business leaders, strategists, and anyone involved in digital transformation projects. It serves as an excellent guide for those looking to understand and implement digital initiatives effectively. The book's insights are particularly valuable for mid to large-sized organizations aiming to integrate digital approaches into their core business strategy.
-```

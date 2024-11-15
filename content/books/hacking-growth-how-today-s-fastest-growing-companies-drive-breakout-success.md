@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success"
 date: 2018-04-25
 cover: /images/bookcovers/small/B01IZTCF6Y.jpg
-tags:  ['book']
+tags:  ['growth hacking', 'marketing']
 authors: ['Ellis, Sean', 'Brown, Morgan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01IZTCF6Y/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01IZTCF6Y"

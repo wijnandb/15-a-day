@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Deep Work: Rules for Focused Success in a Distracted World"
 date: 2018-12-05
 cover: /images/bookcovers/small/B00X47ZVXM.jpg
-tags:  ['book']
+tags:  ['habits', 'productivity']
 authors: ['Newport, Cal']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00X47ZVXM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00X47ZVXM"

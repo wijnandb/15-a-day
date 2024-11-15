@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Daily Five, The (Second Edition): Fostering Literacy in the Elementary Grades"
 date: 2019-08-22
 cover: /images/bookcovers/small/B00ITQDBNK.jpg
-tags:  ['book']
+tags:  ['reading']
 authors: ['Boushey, Gail', 'Moser, Joan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00ITQDBNK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00ITQDBNK"

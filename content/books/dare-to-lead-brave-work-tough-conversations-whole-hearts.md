@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Dare to Lead: Brave Work. Tough Conversations. Whole Hearts."
 date: 2016-12-11

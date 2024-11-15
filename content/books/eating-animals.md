@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Eating Animals"
 date: 2021-04-09

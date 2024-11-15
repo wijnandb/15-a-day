@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Decision Trees and Random Forests: A Visual Introduction For Beginners: A Simple Guide to Machine Learning with Decision Trees"
 date: 2017-03-25

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Django 3 Web Development Cookbook: Actionable solutions to common problems in Python web development, 4th Edition"
 date: 2015-12-21

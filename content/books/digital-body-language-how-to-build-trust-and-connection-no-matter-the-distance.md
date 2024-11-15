@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Digital Body Language: How to Build Trust and Connection, No Matter the Distance"
 date: 2015-08-31

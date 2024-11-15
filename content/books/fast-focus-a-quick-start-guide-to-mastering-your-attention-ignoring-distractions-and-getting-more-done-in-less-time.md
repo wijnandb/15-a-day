@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Fast Focus: A Quick-Start Guide To Mastering Your Attention, Ignoring Distractions, And Getting More Done In Less Time!"
 date: 2018-01-27
 cover: /images/bookcovers/small/B01N9NG27E.jpg
-tags:  ['book']
+tags:  ['productivity', 'mindfulness']
 authors: ['Zahariades, Damon']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01N9NG27E/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01N9NG27E"

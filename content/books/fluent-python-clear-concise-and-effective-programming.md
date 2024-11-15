@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Fluent Python: Clear, Concise, and Effective Programming"
 date: 2018-10-18
@@ -12,7 +11,6 @@ ASIN: B0131L3PW4
 affiliatelink: https://www.amazon.com/dp/B0131L3PW4?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # Fluent Python: Clear, Concise, and Effective Programming
 
 ## Summary
@@ -30,4 +28,3 @@ Fluent Python is widely praised for its depth and clarity, making it a valuable 
 
 ## Recommendation
 "Fluent Python" is highly recommended for intermediate to advanced programmers who want to deepen their understanding of Python and write more Pythonic code. It is particularly beneficial for developers who are familiar with the basics of the language but wish to explore advanced features and idiomatic usage to improve code efficiency, readability, and maintainability. Beginners might benefit from accessing more introductory resources before diving into this detailed and comprehensive guide.
-```

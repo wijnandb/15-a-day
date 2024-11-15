@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Getting Things Done: The Art of Stress-Free Productivity"
 date: 2021-07-02
@@ -13,8 +12,6 @@ affiliatelink: https://www.amazon.com/dp/B000WH7PKY?tag=brtt-20
 categories: ['book']
 ---
 # Getting Things Done: The Art of Stress-Free Productivity
-
-**Author**: David Allen
 
 ## Summary
 "Getting Things Done: The Art of Stress-Free Productivity" by David Allen is a comprehensive guide on personal and professional productivity. The book introduces a productivity system known as GTD (Getting Things Done), which emphasizes organizing and tracking tasks and projects to achieve a clear mind and efficient workflow. Allen presents a framework for capturing ideas, setting priorities, and streamlining tasks, enabling individuals to manage workload without feeling overwhelmed. The core of GTD involves five steps: Capture, Clarify, Organize, Reflect, and Engage.
