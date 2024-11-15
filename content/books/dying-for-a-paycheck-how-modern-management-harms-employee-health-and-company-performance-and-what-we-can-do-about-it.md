@@ -1,6 +1,6 @@
 ---
 layout: book
-title: "Dying for a Paycheck: How Modern Management Harms Employee Health and Company Performance&#8212;and What We Can Do About It"
+title: "Dying for a Paycheck: How Modern Management Harms Employee Health and Company Performance and What We Can Do About It"
 date: 2017-11-04
 cover: /images/bookcovers/small/B071VR9313.jpg
 tags:  ['employment']
@@ -11,7 +11,7 @@ ASIN: B071VR9313
 affiliatelink: https://www.amazon.com/dp/B071VR9313?tag=brtt-20
 categories: ['book']
 ---
-# Dying for a Paycheck: How Modern Management Harms Employee Health and Company Performance&#8212;and What We Can Do About It
+# Dying for a Paycheck: How Modern Management Harms Employee Health and Company Performance and What We Can Do About It
 
 ## Summary
 
