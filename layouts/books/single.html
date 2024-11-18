@@ -9,7 +9,7 @@
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="{{ .Permalink | safeURL }}">
+            <a class="title-link" href="{{ .RelPermalink | safeURL }}">
               {{ .Title }}
             </a>
           </h1>
@@ -54,7 +54,7 @@
       <!-- Additional Links -->
       <div class="post-links">
         <a href="{{ .Params.readlink }}" target="_blank">Read book online</a>
-        <a href="{{ .Params.affiliatelink }}" target="_blank">See {{ .Title }} in Amazon store</a>
+        <!--a href="{{ .Params.affiliatelink }}" target="_blank">See {{ .Title }} in Amazon store</a-->
       </div>
 
       <nav class="book-navigation">

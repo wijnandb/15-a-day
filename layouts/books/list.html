@@ -5,7 +5,7 @@
     <div class="covers-grid">
         {{ range .Paginator.Pages }}
             <div class="book-cover">
-                <a href="{{ .Permalink }}">
+                <a href="{{ .RelPermalink }}">
                     <img src="{{ .Params.cover }}" alt="{{ .Title }}">
                 </a>
             </div>
