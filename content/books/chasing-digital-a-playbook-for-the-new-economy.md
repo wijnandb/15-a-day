@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Chasing Digital: A Playbook for the New Economy"
 date: 2016-10-04

@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The End of Jobs: Money, Meaning and Freedom Without the 9-to-5"
 date: 2018-11-07
 cover: /images/bookcovers/small/B010L8SYRG.jpg
-tags:  ['book']
+tags:  ['entrepreneurship', 'mindset']
 authors: ['Pearson, Taylor']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B010L8SYRG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B010L8SYRG"

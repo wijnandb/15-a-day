@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Winning Mindset: What Sport Can Teach Us About Great Leadership"
 date: 2018-07-14
 cover: /images/bookcovers/small/B01BLGAQAU.jpg
-tags: ['sport', 'leadership']
+tags: ['sport', 'leadership', 'mindset']
 authors: ['Hughes, Damian']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01BLGAQAU/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01BLGAQAU"
@@ -12,10 +12,6 @@ ASIN: B01BLGAQAU
 affiliatelink: https://www.amazon.com/dp/B01BLGAQAU?tag=brtt-20
 categories: ['book']
 ---
-Certainly! Here's an overview of the book *The Winning Mindset: What Sport Can Teach Us About Great Leadership* by Damian Hughes, formatted in Markdown:
-
----
-
 # The Winning Mindset: What Sport Can Teach Us About Great Leadership
 
 ## Summary
@@ -33,5 +29,3 @@ Damian Hughes effectively combines his expertise in sport and business psycholog
 
 ## Recommendation
 *The Winning Mindset* is recommended for leaders, managers, and professionals looking to enhance their leadership skills by leveraging techniques from the sports arena. It's particularly beneficial for those interested in understanding how mental strategies can be translated across disciplines to improve team dynamics and personal performance.
-
----

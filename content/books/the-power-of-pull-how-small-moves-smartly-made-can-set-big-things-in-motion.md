@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "The Power of Pull: How Small Moves, Smartly Made, Can Set Big Things in Motion"
 date: 2021-04-05
@@ -13,8 +13,6 @@ affiliatelink: https://www.amazon.com/dp/B0039KO9ZK?tag=brtt-20
 categories: ['book']
 ---
 # The Power of Pull: How Small Moves, Smartly Made, Can Set Big Things in Motion
-
-**Authors**: Lang Davison, John Hagel III, John Seely Brown
 
 ## Summary:
 "The Power of Pull" explores how individuals and organizations can harness the power of pull to navigate the complexities of the modern world. The book discusses the shift from traditional "push" frameworks—where information and resources are centrally controlled and pushed to users—to "pull" models that enable people to access resources and knowledge when they are needed. The authors examine how technology and social networks have democratized access to information and opportunities, fostering a culture where small, strategic moves can lead to significant changes and innovations.

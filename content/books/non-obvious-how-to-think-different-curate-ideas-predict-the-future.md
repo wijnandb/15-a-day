@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Non-Obvious: How to Think Different, Curate Ideas & Predict The Future"
 date: 2019-01-06

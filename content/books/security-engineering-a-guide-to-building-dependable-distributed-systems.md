@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Security Engineering: A Guide to Building Dependable Distributed Systems"
 date: 2015-07-22

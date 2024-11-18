@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Learn More Python 3 the Hard Way: The Next Step for New Python Programmers (Zed Shaw's Hard Way Series)"
 date: 2017-08-08

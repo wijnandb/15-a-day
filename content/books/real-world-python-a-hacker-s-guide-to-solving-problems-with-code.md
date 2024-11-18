@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Real-World Python: A Hacker's Guide to Solving Problems with Code"
 date: 2015-12-17
 cover: /images/bookcovers/small/B0852P29NJ.jpg
-tags: ['python', 'programming']
+tags: ['python', 'programming', 'problem-solving']
 authors: ['Vaughan, Lee']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0852P29NJ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0852P29NJ"

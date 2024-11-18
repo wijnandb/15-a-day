@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Pre-Suasion: A Revolutionary Way to Influence and Persuade"
 date: 2018-07-02
 cover: /images/bookcovers/small/B01C36E2YS.jpg
-tags:  ['book']
+tags:  ['marketing', 'sales', 'leadership', 'communication']
 authors: ['Cialdini, Robert B.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01C36E2YS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01C36E2YS"

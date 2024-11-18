@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Viral Startup: A Guide to Designing Viral Loops"
 date: 2020-03-13
 cover: /images/bookcovers/small/B00B10MBJQ.jpg
-tags: ['startup']
+tags: ['startup', 'viral', 'entrepreneurship', 'marketing']
 authors: ['Chen, Andrew']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00B10MBJQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00B10MBJQ"
@@ -28,7 +28,3 @@ Andrew Chen's "The Viral Startup" is well-regarded for its practical and analyti
 
 ## Recommendation
 "The Viral Startup" is highly recommended for entrepreneurs, startup founders, and marketers who are keen to understand and leverage viral dynamics for growth. Those interested in growth hacking, product management, and digital marketing will find this book particularly useful. Its strategic insights offer value to both new ventures and established businesses looking to innovate their growth tactics.
-
----
-
-The content above has been compiled based on known information about "The Viral Startup: A Guide to Designing Viral Loops" by Andrew Chen.

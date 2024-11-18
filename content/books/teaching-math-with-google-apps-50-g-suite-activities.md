@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Teaching Math with Google Apps: 50 G Suite Activities"
 date: 2017-12-02
 cover: /images/bookcovers/small/B06Y3ZBDM2.jpg
-tags:  ['book']
+tags:  ['teaching', 'math']
 authors: ['Herrington, Diana', 'Keeler, Alice']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B06Y3ZBDM2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B06Y3ZBDM2"

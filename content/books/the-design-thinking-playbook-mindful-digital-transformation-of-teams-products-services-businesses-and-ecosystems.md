@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Design Thinking Playbook: Mindful Digital Transformation of Teams, Products, Services, Businesses and Ecosystems"
 date: 2016-12-15
 cover: /images/bookcovers/small/B07CVPG1S3.jpg
-tags: ['digital transformation']
+tags: ['digital transformation', 'design thinking', 'customer-centric']
 authors: ['Link, Patrick', 'Leifer, Larry', 'Lewrick, Michael']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07CVPG1S3/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07CVPG1S3"

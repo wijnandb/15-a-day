@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Shake Up Learning: Practical Ideas to Move Learning from Static to Dynamic"
 date: 2017-01-08
 cover: /images/bookcovers/small/B07BR59WWY.jpg
-tags: ['education']
+tags: ['education', 'learning']
 authors: ['Bell, Kasey']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07BR59WWY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07BR59WWY"

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework"
 date: 2016-10-28

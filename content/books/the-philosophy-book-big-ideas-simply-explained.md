@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The Philosophy Book (Big Ideas Simply Explained)"
 date: 2019-01-02
 cover: /images/bookcovers/small/B00TK7U4A0.jpg
-tags:  ['book']
+tags:  ['philosophy', 'history']
 authors: ['Buckingham, Will', 'Peter J. King', 'Marcus Weeks', 'Douglas Burnham', 'John Marenbon', 'Clive Hill']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00TK7U4A0/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00TK7U4A0"
@@ -29,3 +28,5 @@ The book's major strength lies in its ability to condense complex philosophical 
 
 ## Recommendation
 "The Philosophy Book (Big Ideas Simply Explained)" is highly recommended for those who are either beginning their journey into philosophy or interested in a broad overview of philosophical thought. It is particularly beneficial for students, educators, or anyone with a curiosity about the fundamental questions of life and the development of philosophical ideas. The book's accessible language and engaging format make it a suitable introductory resource that sets the foundation for further exploration into specific philosophical subjects.
+
+---

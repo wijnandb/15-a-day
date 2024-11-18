@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Poke the Box"
 date: 2021-01-03
 cover: /images/bookcovers/small/B004J4XG0O.jpg
-tags: ['marketing']
+tags: ['marketing', 'entrepreneurship', 'personal development']
 authors: ['Godin, Seth']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B004J4XG0O/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B004J4XG0O"

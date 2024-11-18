@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Influence: The Psychology of Persuasion (Collins Business Essentials)"
 date: 2021-04-29

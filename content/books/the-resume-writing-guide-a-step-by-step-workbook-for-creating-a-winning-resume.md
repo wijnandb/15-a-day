@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "The Resume Writing Guide: A Step-by-Step Workbook for Creating a Winning Resume"
 date: 2020-01-25

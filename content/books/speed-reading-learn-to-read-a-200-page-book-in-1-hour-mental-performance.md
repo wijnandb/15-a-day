@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Speed Reading: Learn to Read a 200+ Page Book in 1 Hour (Mental Performance)"
 date: 2016-09-06

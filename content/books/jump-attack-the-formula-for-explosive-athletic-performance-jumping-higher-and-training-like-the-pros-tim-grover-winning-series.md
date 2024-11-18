@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Jump Attack: The Formula for Explosive Athletic Performance, Jumping Higher, and Training Like the Pros (Tim Grover Winning Series)"
 date: 2020-05-08
 cover: /images/bookcovers/small/B009R4KNMU.jpg
-tags:  ['book']
+tags:  ['fitness', 'strength']
 authors: ['Grover, Tim S.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B009R4KNMU/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B009R4KNMU"

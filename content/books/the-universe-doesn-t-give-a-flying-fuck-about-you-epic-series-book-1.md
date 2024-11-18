@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Universe Doesn't Give a Flying Fuck About You (Epic series Book 1)"
 date: 2020-10-27
 cover: /images/bookcovers/small/B005OMBTKY.jpg
-tags:  ['book']
+tags:  ['personal development', 'philosophy']
 authors: ['Truant, Johnny']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B005OMBTKY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B005OMBTKY"

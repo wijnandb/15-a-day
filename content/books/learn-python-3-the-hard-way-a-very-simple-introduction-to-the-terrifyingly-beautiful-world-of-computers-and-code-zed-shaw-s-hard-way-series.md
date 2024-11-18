@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series)"
 date: 2017-10-11

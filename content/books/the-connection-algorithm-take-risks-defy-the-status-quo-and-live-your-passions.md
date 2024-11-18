@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "The Connection Algorithm: Take Risks, Defy the Status Quo, and Live Your Passions"
 date: 2018-11-23

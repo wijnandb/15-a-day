@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Million Dollar Consulting: The Professional's Guide to Growing a Practice, Fifth Edition"
 date: 2018-06-20

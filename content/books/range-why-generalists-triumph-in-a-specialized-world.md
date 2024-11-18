@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Range: Why Generalists Triumph in a Specialized World"
 date: 2016-09-22
 cover: /images/bookcovers/small/B07H1ZYWTM.jpg
-tags:  ['book']
+tags:  ['generalist']
 authors: ['Epstein, David J.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07H1ZYWTM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07H1ZYWTM"

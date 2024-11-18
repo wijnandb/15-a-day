@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "The Plant-Based Athlete: A Game-Changing Approach to Peak Performance"
 date: 2015-08-19
@@ -28,3 +27,5 @@ The book has been praised for its comprehensive approach and practical advice, e
 
 ## Recommendation
 *The Plant-Based Athlete* is highly recommended for athletes looking to improve their performance through dietary changes, as well as for individuals curious about the benefits of plant-based nutrition. It's a valuable resource for anyone interested in nutrition, health, and fitness, offering well-researched insights and practical advice on adopting a plant-based lifestyle.
+
+---

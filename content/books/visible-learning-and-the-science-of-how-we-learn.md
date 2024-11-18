@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Visible Learning and the Science of How We Learn"
 date: 2019-11-10
 cover: /images/bookcovers/small/B00FPHYN7Y.jpg
-tags: ['education']
+tags: ['education', 'learning']
 authors: ['Hattie, John', 'Yates, Gregory C. R.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00FPHYN7Y/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00FPHYN7Y"

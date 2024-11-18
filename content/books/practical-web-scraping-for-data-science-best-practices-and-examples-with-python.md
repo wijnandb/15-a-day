@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Practical Web Scraping for Data Science: Best Practices and Examples with Python"
 date: 2016-12-31

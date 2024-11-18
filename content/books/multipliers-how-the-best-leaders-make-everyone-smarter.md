@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Multipliers: How the Best Leaders Make Everyone Smarter"
 date: 2021-03-08

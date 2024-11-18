@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "The Vegan Cookbook for Athletes: 101 Recipes and 3 Meal Plans to Build Endurance and Strength"
 date: 2015-10-14

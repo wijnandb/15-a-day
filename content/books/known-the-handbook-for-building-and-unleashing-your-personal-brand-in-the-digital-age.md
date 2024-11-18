@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "KNOWN: The Handbook for Building and Unleashing Your Personal Brand in the Digital Age"
 date: 2018-02-24
 cover: /images/bookcovers/small/B01MUVMPQP.jpg
-tags:  ['book']
+tags:  ['personal brand', 'marketing']
 authors: ['Schaefer, Mark']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01MUVMPQP/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01MUVMPQP"

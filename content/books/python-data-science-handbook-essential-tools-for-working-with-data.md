@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Python Data Science Handbook: Essential Tools for Working with Data"
 date: 2018-02-12
 cover: /images/bookcovers/small/B01N2JT3ST.jpg
-tags:  ['book']
+tags:  ['python', 'programming', 'data']
 authors: ['VanderPlas, Jake']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01N2JT3ST/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01N2JT3ST"

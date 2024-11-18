@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Lean Product Management: Successful products from fuzzy business ideas"
 date: 2017-01-04
 cover: /images/bookcovers/small/B07BWFF3F9.jpg
-tags:  ['book']
+tags:  ['customer-centric', 'data-driven']
 authors: ['Nandakumar, Mangalam']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07BWFF3F9/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07BWFF3F9"

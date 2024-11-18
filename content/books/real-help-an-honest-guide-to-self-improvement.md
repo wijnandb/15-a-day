@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Real Help: An Honest Guide to Self-Improvement"
 date: 2016-01-14
 cover: /images/bookcovers/small/B082RH235W.jpg
-tags:  ['book']
+tags:  ['personal development']
 authors: ['Awosika, Ayodeji']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B082RH235W/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B082RH235W"

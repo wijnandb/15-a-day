@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Solve for Happy: Engineer Your Path to Joy"
 date: 2018-05-15
 cover: /images/bookcovers/small/B01H0IOZQ4.jpg
-tags:  ['book']
+tags:  ['happiness']
 authors: ['Gawdat, Mo']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01H0IOZQ4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01H0IOZQ4"

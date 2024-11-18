@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Prediction Machines: The Simple Economics of Artificial Intelligence"
 date: 2017-07-23
 cover: /images/bookcovers/small/B075GXJPFS.jpg
-tags: ['Ai']
+tags: ['AI', 'decision making', 'business']
 authors: ['Goldfarb, Avi', 'Agrawal, Ajay', 'Gans, Joshua']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B075GXJPFS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B075GXJPFS"

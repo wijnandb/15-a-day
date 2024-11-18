@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "To Sell Is Human: The Surprising Truth About Moving Others"
 date: 2020-06-13

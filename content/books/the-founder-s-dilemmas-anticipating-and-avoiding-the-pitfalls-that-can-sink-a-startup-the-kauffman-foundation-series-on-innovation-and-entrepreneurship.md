@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup (The Kauffman Foundation Series on Innovation and Entrepreneurship)"
 date: 2020-07-27
 cover: /images/bookcovers/small/B007AIXKUM.jpg
-tags: ['startup']
+tags: ['startup', 'entrepreneurship']
 authors: ['Wasserman, Noam']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007AIXKUM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007AIXKUM"
@@ -29,3 +29,5 @@ Noam Wasserman's "The Founder's Dilemmas" is praised for its empirical approach,
 
 ## Recommendation
 "The Founder's Dilemmas" is particularly well-suited for new and aspiring entrepreneurs, startup advisors, and investors who seek a deeper understanding of the initial stages of founding a company. Its detailed analysis and strategic insights into navigating early-stage challenges make it a valuable tool for those looking to anticipate and avoid common pitfalls in order to build a successful startup.
+
+---

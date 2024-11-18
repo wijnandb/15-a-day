@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Gamification of Learning and Instruction: Game-based Methods and Strategies for Training and Education"
 date: 2020-06-25
 cover: /images/bookcovers/small/B007XA3ME6.jpg
-tags: ['education']
+tags: ['education', 'gamification', 'game-based learning']
 authors: ['Kapp, Karl M.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007XA3ME6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007XA3ME6"
@@ -29,3 +29,5 @@ Karl M. Kapp’s work is a scholarly yet accessible guide that successfully brid
 
 ## Recommendation
 This book is highly recommended for educators, instructional designers, corporate trainers, and anyone involved in the field of learning sciences who wishes to incorporate gamification into their curricula or training programs. Its detailed analysis of game-based methods can provide valuable insights and practical strategies for leveraging gamification to create more engaging and effective learning environments.
+
+---

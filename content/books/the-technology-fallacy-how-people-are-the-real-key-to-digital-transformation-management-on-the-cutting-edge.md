@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Technology Fallacy: How People Are the Real Key to Digital Transformation (Management on the Cutting Edge)"
 date: 2016-05-25
 cover: /images/bookcovers/small/B07QK2SXYC.jpg
-tags: ['digital transformation']
+tags: ['digital transformation', 'leadership']
 authors: ['Phillips, Anh Nguyen', 'Kane, Gerald C.', 'Copulsky, Jonathan R.', 'Andrus, Garth R.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07QK2SXYC/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07QK2SXYC"

@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Invisible Solutions: 25 Lenses that Reframe and Help Solve Difficult Business Problems"
 date: 2015-12-13
 cover: /images/bookcovers/small/B0855C79BS.jpg
-tags:  ['book']
+tags:  ['business']
 authors: ['Shapiro, Stephen']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0855C79BS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0855C79BS"

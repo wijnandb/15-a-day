@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Invent To Learn: Making, Tinkering, and Engineering in the Classroom"
 date: 2020-01-21

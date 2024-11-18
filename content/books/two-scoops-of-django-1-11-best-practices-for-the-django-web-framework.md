@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Two Scoops of Django 1.11: Best Practices for the Django Web Framework"
 date: 2017-06-21

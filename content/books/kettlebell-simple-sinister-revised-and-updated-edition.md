@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Kettlebell Simple & Sinister: Revised and Updated Edition"
 date: 2016-02-11
 cover: /images/bookcovers/small/B07ZQKWMKR.jpg
-tags: ['health']
+tags: ['health', 'fitness', 'strength']
 authors: ['Tsatsouline, Pavel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07ZQKWMKR/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07ZQKWMKR"

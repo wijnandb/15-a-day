@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Refactoring: Improving the Design of Existing Code (Addison-Wesley Signature Series (Fowler))"
 date: 2016-08-05

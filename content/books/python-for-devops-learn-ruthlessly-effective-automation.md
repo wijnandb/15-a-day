@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Python for DevOps: Learn Ruthlessly Effective Automation"
 date: 2016-01-18

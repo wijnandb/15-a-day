@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Running Lean: Iterate from Plan A to a Plan That Works (Lean (O'Reilly))"
 date: 2020-09-13
 cover: /images/bookcovers/small/B006UKFFE0.jpg
-tags:  ['book']
+tags:  ['startup', 'entrepreneurship']
 authors: ['Maurya, Ash']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B006UKFFE0/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B006UKFFE0"
@@ -13,9 +13,6 @@ affiliatelink: https://www.amazon.com/dp/B006UKFFE0?tag=brtt-20
 categories: ['book']
 ---
 # Running Lean: Iterate from Plan A to a Plan That Works
-
-### Author
-Ash Maurya
 
 ### Summary
 "Running Lean" offers a systematic approach to developing successful products by aligning with the principles of Lean Startup methodology. Authored by Ash Maurya, the book focuses on iterating a business plan until you achieve a version that works. It provides practical techniques for identifying a viable business model and emphasizes the importance of validating ideas through real-world testing and customer feedback. This approach aims to minimize risk and resources typically involved in launching a startup.

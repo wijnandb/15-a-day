@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Project Management for Humans: Helping People Get Things Done"
 date: 2017-08-12
 cover: /images/bookcovers/small/B0759QS26P.jpg
-tags:  ['book']
+tags:  ['communication', 'productivity', 'project management']
 authors: ['Harned, Brett']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0759QS26P/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0759QS26P"

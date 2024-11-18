@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "What Every BODY is Saying: An Ex-FBI Agent’s Guide to Speed-Reading People"
 date: 2021-06-24
 cover: /images/bookcovers/small/B0010SKSTO.jpg
-tags:  ['book']
+tags:  ['communication']
 authors: ['Karlins, Marvin', 'Navarro, Joe']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0010SKSTO/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0010SKSTO"
@@ -13,8 +13,6 @@ affiliatelink: https://www.amazon.com/dp/B0010SKSTO?tag=brtt-20
 categories: ['book']
 ---
 # What Every BODY is Saying: An Ex-FBI Agent’s Guide to Speed-Reading People
-
-**Authors**: Marvin Karlins, Joe Navarro
 
 ## Summary
 "What Every BODY is Saying" is a guide to understanding nonverbal communication by Joe Navarro, a former FBI counterintelligence officer, with contributions from Marvin Karlins. The book is structured around introducing readers to the fundamental role that body language plays in conveying emotions and intentions. Navarro delves into various involuntary physical cues ranging from facial expressions to foot placement, interpreting how these can indicate underlying thoughts and feelings. The book details the importance of context in understanding nonverbal signals and stresses situational awareness.
@@ -30,3 +28,4 @@ The book has been well-received for its pragmatic approach to decoding body lang
 
 ## Recommendation
 "What Every BODY is Saying" is highly recommended for anyone interested in mastering the art of nonverbal communication, from professionals in law enforcement to anyone looking to improve personal relationships. The book provides actionable insights that can be beneficial in various settings — from negotiations to social gatherings — helping readers better understand and respond to unspoken messages.
+

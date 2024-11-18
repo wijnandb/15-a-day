@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Presentation Zen: Simple Ideas on Presentation Design and Delivery (Voices That Matter)"
 date: 2020-09-17
 cover: /images/bookcovers/small/B006R4H5FG.jpg
-tags:  ['book']
+tags:  ['presentation', 'pitch']
 authors: ['Reynolds, Garr']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B006R4H5FG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B006R4H5FG"

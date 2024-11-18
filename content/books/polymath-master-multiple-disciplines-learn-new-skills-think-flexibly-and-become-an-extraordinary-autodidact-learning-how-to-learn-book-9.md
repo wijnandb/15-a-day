@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Polymath: Master Multiple Disciplines, Learn New Skills, Think Flexibly, and Become an Extraordinary Autodidact (Learning how to Learn Book 9)"
 date: 2015-11-15
 cover: /images/bookcovers/small/B087BNHHHC.jpg
-tags: ['education']
+tags: ['education', 'learning']
 authors: ['Hollins, Peter']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B087BNHHHC/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B087BNHHHC"

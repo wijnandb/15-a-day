@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Nudge: Improving Decisions About Health, Wealth, and Happiness"
 date: 2020-04-18
 cover: /images/bookcovers/small/B00A5DCALY.jpg
-tags:  ['book']
+tags:  ['nudging']
 authors: ['Sunstein, Cass R.', 'Thaler, Richard H.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00A5DCALY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00A5DCALY"

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Lenses on Reading, Third Edition: An Introduction to Theories and Models"
 date: 2017-11-12

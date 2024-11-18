@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Startup Studio Playbook: For entrepreneurs, pioneers and creators who want to build ventures faster and with higher chance of success. Master the studio framework and start building."
 date: 2016-06-26

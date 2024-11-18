@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Python for Kids: A Playful Introduction To Programming"
 date: 2020-04-10

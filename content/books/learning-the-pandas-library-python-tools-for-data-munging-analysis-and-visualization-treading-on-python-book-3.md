@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visualization (Treading on Python Book 3)"
 date: 2018-05-19

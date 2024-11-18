@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Essential John Dewey Collection"
 date: 2020-03-17
 cover: /images/bookcovers/small/B00ASP8DKQ.jpg
-tags:  ['book']
+tags:  ['education', 'philosophy', 'psychology']
 authors: ['Dewey, John']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00ASP8DKQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00ASP8DKQ"
@@ -27,3 +27,4 @@ This comprehensive collection offers an insightful look into Dewey's philosophy,
 
 ## Recommendation
 This collection is highly recommended for educators, students of philosophy, and anyone interested in educational reform and democratic theory. The insights provided by Dewey's work serve as a foundation for understanding modern educational practices and the importance of cultivating critical, engaged citizens.
+---

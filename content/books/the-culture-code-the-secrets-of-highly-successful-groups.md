@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The Culture Code: The Secrets of Highly Successful Groups"
 date: 2018-02-28
 cover: /images/bookcovers/small/B01MSY1Y6Z.jpg
-tags:  ['book']
+tags:  ['culture', 'leadership']
 authors: ['Coyle, Daniel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01MSY1Y6Z/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01MSY1Y6Z"

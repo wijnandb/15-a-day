@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days"
 date: 2018-11-03
 cover: /images/bookcovers/small/B010MH1DAQ.jpg
-tags: ['startup']
+tags: ['startup', 'problem-solving', 'entrepreneurship']
 authors: ['Zeratsky, John', 'Knapp, Jake', 'Kowitz, Braden']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B010MH1DAQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B010MH1DAQ"

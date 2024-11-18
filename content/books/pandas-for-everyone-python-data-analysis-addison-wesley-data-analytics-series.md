@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Pandas for Everyone: Python Data Analysis (Addison-Wesley Data & Analytics Series)"
 date: 2017-04-06

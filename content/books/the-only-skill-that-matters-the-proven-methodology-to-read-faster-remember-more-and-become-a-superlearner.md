@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "The Only Skill that Matters: The Proven Methodology to Read Faster, Remember More, and Become a SuperLearner"
 date: 2016-03-18
@@ -28,3 +27,5 @@ The book is celebrated for its practical approach and clear explanation of compl
 
 ## Recommendation
 This book is highly recommended for students, professionals, or anyone interested in optimizing their learning processes. Readers looking to improve their cognitive skills in a practical, systematic manner would find Levi's insights particularly beneficial. The actionable strategies presented are suitable for those who wish to implement effective learning habits in their personal or professional lives.
+
+---

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Broadcasting Happiness: The Science of Igniting and Sustaining Positive Change"
 date: 2019-02-11

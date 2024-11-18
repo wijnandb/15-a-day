@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career"
 date: 2016-08-21
 cover: /images/bookcovers/small/B07K6MF8MD.jpg
-tags: ['education']
+tags: ['education', 'learning']
 authors: ['Young, Scott']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07K6MF8MD/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07K6MF8MD"

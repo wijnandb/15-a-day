@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Python for Informatics: Exploring Information: Exploring Information"
 date: 2019-07-13

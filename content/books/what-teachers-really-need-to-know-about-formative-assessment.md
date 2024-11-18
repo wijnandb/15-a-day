@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "What Teachers Really Need to Know About Formative Assessment"
 date: 2021-02-20
 cover: /images/bookcovers/small/B003VPWX6U.jpg
-tags: ['education']
+tags: ['education', 'learning']
 authors: ['Greenstein, Laura']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B003VPWX6U/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B003VPWX6U"

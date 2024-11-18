@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Storytelling with Data: A Data Visualization Guide for Business Professionals"
 date: 2018-09-08
 cover: /images/bookcovers/small/B016DHQSM2.jpg
-tags: ['data']
+tags: ['data', 'storytelling']
 authors: ['Knaflic, Cole Nussbaumer']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B016DHQSM2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B016DHQSM2"

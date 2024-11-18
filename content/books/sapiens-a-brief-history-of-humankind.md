@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Sapiens: A Brief History of Humankind"
 date: 2019-09-19
 cover: /images/bookcovers/small/B00ICN066A.jpg
-tags:  ['book']
+tags:  ['history']
 authors: ['Harari, Yuval Noah']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00ICN066A/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00ICN066A"

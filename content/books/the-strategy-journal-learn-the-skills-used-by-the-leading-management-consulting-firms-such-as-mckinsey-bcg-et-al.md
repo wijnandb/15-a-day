@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The Strategy Journal: Learn the skills used by the leading management consulting firms, such as McKinsey, BCG, et al."
 date: 2015-08-23
 cover: /images/bookcovers/small/B08H2L9G9K.jpg
-tags: ['consultancy']
+tags: ['consultancy', 'problem-solving', 'strategy']
 authors: ['Kristina, Safarova']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08H2L9G9K/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08H2L9G9K"
@@ -29,3 +28,5 @@ Safarova's *The Strategy Journal* is particularly noted for its practical approa
 
 ## Recommendation
 *The Strategy Journal* is particularly suited for individuals aiming to develop or enhance their strategic thinking capabilities, including MBA students, aspiring consultants, and business professionals. Its focus on practical application also makes it beneficial for those looking to gain a competitive edge in management consulting interviews or careers. Readers interested in learning frameworks and methods that can be directly applied to various business challenges would find significant value in this book.
+
+---

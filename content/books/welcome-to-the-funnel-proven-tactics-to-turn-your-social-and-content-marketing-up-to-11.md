@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Welcome to the Funnel: Proven Tactics to Turn Your Social and Content Marketing up to 11"
 date: 2019-02-19
 cover: /images/bookcovers/small/B00PDHRO6S.jpg
-tags:  ['book']
+tags:  ['business', 'marketing']
 authors: ['Miller, Jason']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00PDHRO6S/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00PDHRO6S"

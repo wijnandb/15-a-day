@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Fourth Transformation: How Augmented Reality & Artificial Intelligence Will Change Everything"
 date: 2018-03-20
 cover: /images/bookcovers/small/B01M5JKW3Z.jpg
-tags:  ['book']
+tags:  ['AI', 'emerging technology']
 authors: ['Scoble, Robert', 'Israel, Shel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01M5JKW3Z/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01M5JKW3Z"

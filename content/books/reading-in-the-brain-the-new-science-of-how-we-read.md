@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Reading in the Brain: The New Science of How We Read"
 date: 2021-04-17

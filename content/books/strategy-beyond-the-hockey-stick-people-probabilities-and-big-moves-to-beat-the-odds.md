@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Strategy Beyond the Hockey Stick: People, Probabilities, and Big Moves to Beat the Odds"
 date: 2017-03-05
@@ -13,8 +13,6 @@ affiliatelink: https://www.amazon.com/dp/B078YH2W7H?tag=brtt-20
 categories: ['book']
 ---
 # Overview of *Strategy Beyond the Hockey Stick: People, Probabilities, and Big Moves to Beat the Odds*
-
-**Authors**: Sven Smit, Chris Bradley, Martin Hirt
 
 ## Summary:
 *Strategy Beyond the Hockey Stick* explores strategic decision-making in businesses with a focus on making bold moves to foster significant growth. The book challenges the traditional "hockey stick" growth projections by combining a rigorous analysis of corporate performance data with behavioral insights. It advocates for strategies that include recognizing biases, understanding probabilities, and making decisive investments or changes. Smit, Bradley, and Hirt propose that companies need to focus on a combination of empirical data and strategic foresight to truly break out from the norm and achieve outstanding performance.

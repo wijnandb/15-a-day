@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Save the Cat! Writes a Novel: The Last Book On Novel Writing You'll Ever Need"
 date: 2017-03-17

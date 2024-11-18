@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "jQuery Pocket Reference: Read Less, Learn More"
 date: 2021-01-15

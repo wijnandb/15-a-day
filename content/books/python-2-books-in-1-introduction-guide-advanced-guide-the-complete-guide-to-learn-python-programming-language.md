@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Python: 2 Books in 1: Introduction Guide + Advanced Guide - The Complete guide to Learn Python Programming Language"
 date: 2016-01-30
@@ -13,8 +13,6 @@ affiliatelink: https://www.amazon.com/dp/B081TKS4P5?tag=brtt-20
 categories: ['book']
 ---
 # Python: 2 Books in 1: Introduction Guide + Advanced Guide - The Complete Guide to Learn Python Programming Language
-
-**Author**: Jason Crash
 
 ## Summary
 "Python: 2 Books in 1" by Jason Crash serves as a comprehensive guide to mastering Python programming. The book is structured into two main parts: an Introduction Guide and an Advanced Guide. The Introduction Guide covers fundamental concepts such as variables, data types, control structures, functions, and basic object-oriented programming. It is designed to help beginners establish a solid foundation in Python. The Advanced Guide delves into more complex topics including advanced data structures, file manipulation, error handling, and sophisticated aspects of Python's object-oriented features. Together, these sections aim to empower readers to confidently tackle both basic and advanced programming challenges using Python.

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Succeeding as a Management Consultant: Learn the skills used by the leading management consulting firms, such as McKinsey, BCG, et al."
 date: 2015-12-05

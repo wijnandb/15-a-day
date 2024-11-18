@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Reader, Come Home: The Reading Brain in a Digital World"
 date: 2017-09-05

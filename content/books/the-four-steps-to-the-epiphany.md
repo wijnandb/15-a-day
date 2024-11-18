@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Four Steps to the Epiphany"
 date: 2019-11-14
 cover: /images/bookcovers/small/B00FLZKNUQ.jpg
-tags:  ['book']
+tags:  ['startup']
 authors: ['Blank, Steve']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00FLZKNUQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00FLZKNUQ"

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Web Scraping with Python: Collecting More Data from the Modern Web"
 date: 2017-01-12

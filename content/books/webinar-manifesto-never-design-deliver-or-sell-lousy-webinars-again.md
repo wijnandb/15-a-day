@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Webinar Manifesto: Never design, deliver, or sell lousy webinars again"
 date: 2020-05-16
 cover: /images/bookcovers/small/B009NMU9X4.jpg
-tags:  ['book']
+tags:  ['webinar', 'marketing']
 authors: ['Muller, Treion', 'Murdoch, Matthew']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B009NMU9X4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B009NMU9X4"
@@ -13,8 +13,6 @@ affiliatelink: https://www.amazon.com/dp/B009NMU9X4?tag=brtt-20
 categories: ['book']
 ---
 # Webinar Manifesto: Never Design, Deliver, or Sell Lousy Webinars Again
-
-**Authors**: Treion Muller, Matthew Murdoch
 
 ## Summary
 "Webinar Manifesto: Never Design, Deliver, or Sell Lousy Webinars Again" presents a comprehensive guide on enhancing the quality and effectiveness of webinars. The authors, Treion Muller and Matthew Murdoch, draw upon their extensive experience to provide actionable strategies for creating engaging and impactful webinars. The book focuses on the entire lifecycle of a webinar, from conceptualization and design to delivery and sales strategies. Key themes include improving audience interaction, leveraging technology effectively, and maximizing the marketing potential of webinars.

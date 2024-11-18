@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "The Five Great Philosophies of Life"
 date: 2020-07-11
@@ -12,12 +12,6 @@ ASIN: B007K0QA70
 affiliatelink: https://www.amazon.com/dp/B007K0QA70?tag=brtt-20
 categories: ['book']
 ---
-Certainly! Below is an overview of "The Five Great Philosophies of Life" by William De Witt Hyde.
-
----
-
-## Overview of "The Five Great Philosophies of Life" by William De Witt Hyde
-
 ### Summary
 "The Five Great Philosophies of Life" is a thoughtful exploration of the philosophical frameworks and beliefs that shape human lives. Hyde discusses five major world philosophies: Epicureanism, Stoicism, Platonism, Aristotelianism, and Christianity. Each philosophy is examined in terms of how it addresses existential questions and offers insights into leading a meaningful life. Hyde aims to convey the practical applications of these philosophies, illustrating how they can provide guidance and a road map to living well.
 
@@ -35,5 +29,3 @@ William De Witt Hyde's "The Five Great Philosophies of Life" is a clear and acce
 This book is recommended for readers who are new to philosophy and interested in gaining a foundational understanding of major philosophical approaches to life. It can also be beneficial for those looking for practical insights to apply in personal growth and ethical decision-making. Given its clear exposition and accessible language, it serves as a valuable resource for both general readers and students seeking an introduction to philosophical thought.
 
 --- 
-
-This concludes the overview of "The Five Great Philosophies of Life."

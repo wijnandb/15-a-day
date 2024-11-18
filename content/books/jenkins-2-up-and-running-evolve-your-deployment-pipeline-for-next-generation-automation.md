@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation"
 date: 2016-12-19

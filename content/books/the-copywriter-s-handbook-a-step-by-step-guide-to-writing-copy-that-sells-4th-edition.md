@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "The Copywriter's Handbook: A Step-By-Step Guide To Writing Copy That Sells (4th Edition)"
 date: 2016-05-05

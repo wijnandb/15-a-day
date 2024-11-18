@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Python Testing with pytest: Simple, Rapid, Effective, and Scalable"
 date: 2017-06-05

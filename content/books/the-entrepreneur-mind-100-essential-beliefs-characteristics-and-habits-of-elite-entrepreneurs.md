@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The Entrepreneur Mind: 100 Essential Beliefs, Characteristics, and Habits of Elite Entrepreneurs"
 date: 2020-01-29
 cover: /images/bookcovers/small/B00CHRPUWM.jpg
-tags:  ['book']
+tags:  ['entrepreneurship', 'mindset', 'habits', 'customer-centric']
 authors: ['Johnson, Kevin D.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00CHRPUWM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00CHRPUWM"

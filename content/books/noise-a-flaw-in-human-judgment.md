@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Noise: A Flaw in Human Judgment"
 date: 2015-08-07

@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The Power of Habit: Why We Do What We Do in Life and Business"
 date: 2020-11-28
 cover: /images/bookcovers/small/B0055PGUYU.jpg
-tags:  ['book']
+tags:  ['habit']
 authors: ['Duhigg, Charles']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0055PGUYU/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0055PGUYU"
@@ -29,3 +28,5 @@ The book has been widely praised for its engaging narrative and practical insigh
 
 ## Recommendation
 "The Power of Habit" is highly recommended for anyone interested in personal development, psychology, or business. It provides actionable insights and a framework for understanding and altering habits, making it particularly useful for leaders, marketers, self-help enthusiasts, and anyone looking to implement effective change in their personal or professional life.
+
+---

@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Program or Be Programmed"
 date: 2021-01-23
 cover: /images/bookcovers/small/B004ELAPME.jpg
-tags:  ['book']
+tags:  ['programming']
 authors: ['Rushkoff, Douglas']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B004ELAPME/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B004ELAPME"

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Python One-Liners: Write Concise, Eloquent Python Like a Professional"
 date: 2016-02-07

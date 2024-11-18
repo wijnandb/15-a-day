@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Ready Player One"
 date: 2021-01-07
 cover: /images/bookcovers/small/B004J4WKUQ.jpg
-tags: ['fiction']
+tags: ['fiction', 'science fiction', 'novel']
 authors: ['Cline, Ernest']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B004J4WKUQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B004J4WKUQ"

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "What Color Is Your Parachute? 2019: A Practical Manual for Job-Hunters and Career-Changers"
 date: 2017-05-08

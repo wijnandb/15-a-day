@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Never Split the Difference: Negotiating As If Your Life Depended On It"
 date: 2018-10-06
 cover: /images/bookcovers/small/B014DUR7L2.jpg
-tags:  ['book']
+tags:  ['negotiating']
 authors: ['Voss, Chris', 'Raz, Tahl']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B014DUR7L2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B014DUR7L2"

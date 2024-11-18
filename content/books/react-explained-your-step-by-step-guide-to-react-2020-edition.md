@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "React Explained: Your Step-by-Step Guide to React (2020 Edition)"
 date: 2016-06-10

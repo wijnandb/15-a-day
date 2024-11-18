@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Trust Me, I'm Lying: Confessions of a Media Manipulator"
 date: 2020-08-16

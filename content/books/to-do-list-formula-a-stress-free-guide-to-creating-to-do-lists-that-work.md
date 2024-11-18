@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work!"
 date: 2018-04-17

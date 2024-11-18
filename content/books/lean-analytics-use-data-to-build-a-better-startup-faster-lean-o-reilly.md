@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Lean Analytics: Use Data to Build a Better Startup Faster (Lean (O'Reilly))"
 date: 2020-03-25
 cover: /images/bookcovers/small/B00AG66LTM.jpg
-tags: ['startup']
+tags: ['startup', 'data']
 authors: ['Yoskovitz, Benjamin', 'Croll, Alistair']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00AG66LTM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00AG66LTM"

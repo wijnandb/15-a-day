@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Digital Transformation Playbook: Rethink Your Business for the Digital Age (Columbia Business School Publishing)"
 date: 2018-06-28
 cover: /images/bookcovers/small/B01C3I2ESM.jpg
-tags: ['digital transformation']
+tags: ['digital transformation', 'customer-centric', 'business']
 authors: ['Rogers, David L.', 'Rogers, David']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01C3I2ESM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01C3I2ESM"

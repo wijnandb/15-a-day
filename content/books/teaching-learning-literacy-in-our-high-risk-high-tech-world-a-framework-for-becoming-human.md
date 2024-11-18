@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "Teaching, Learning, Literacy in Our High-Risk High-Tech World: A Framework for Becoming Human"
 date: 2017-10-23
 cover: /images/bookcovers/small/B072BQ26SK.jpg
-tags:  ['book']
+tags:  ['teaching', 'learning', 'reading']
 authors: ['Gee, James Paul']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B072BQ26SK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B072BQ26SK"

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Python Cookbook: Recipes for Mastering Python 3"
 date: 2019-12-12

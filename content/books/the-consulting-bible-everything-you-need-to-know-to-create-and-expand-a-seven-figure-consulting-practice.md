@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "The Consulting Bible: Everything You Need to Know to Create and Expand a Seven-Figure Consulting Practice"
 date: 2020-12-22

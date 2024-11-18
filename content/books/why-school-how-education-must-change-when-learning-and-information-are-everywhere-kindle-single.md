@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Why School?: How Education Must Change When Learning and Information Are Everywhere (Kindle Single)"
 date: 2020-06-01

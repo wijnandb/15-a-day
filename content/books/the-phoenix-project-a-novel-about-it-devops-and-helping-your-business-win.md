@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"
 date: 2017-03-13
 cover: /images/bookcovers/small/B078Y98RG8.jpg
-tags: ['devops', 'strategy']
+tags: ['devops', 'strategy', 'novel', 'business', 'leadership']
 authors: ['Spafford, George', 'Kim, Gene', 'Behr, Kevin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B078Y98RG8/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B078Y98RG8"
@@ -29,3 +28,5 @@ categories: ['book']
 
 ## Recommendation
 *The Phoenix Project* is highly recommended for IT professionals, managers, and executives who are interested in understanding and implementing DevOps principles. It is particularly useful for those looking to improve IT efficiency, enhance collaboration, and foster a culture of continuous improvement within their organizations. By addressing common industry challenges through a compelling narrative, this book appeals to both technical audiences and business leaders seeking to bridge the gap between IT and business objectives.
+
+---

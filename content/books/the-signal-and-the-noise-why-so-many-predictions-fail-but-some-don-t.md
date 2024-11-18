@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Signal and the Noise: Why So Many Predictions Fail-but Some Don't"
 date: 2020-06-29
 cover: /images/bookcovers/small/B007V65R54.jpg
-tags:  ['book']
+tags:  ['statistics', 'math', 'data']
 authors: ['Silver, Nate']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007V65R54/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007V65R54"

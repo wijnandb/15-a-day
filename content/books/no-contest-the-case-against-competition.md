@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "No Contest: The Case Against Competition"
 date: 2019-10-25
 cover: /images/bookcovers/small/B00GQDOD7Q.jpg
-tags:  ['book']
+tags:  ['cooperation', 'education']
 authors: ['Kohn, Alfie']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00GQDOD7Q/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00GQDOD7Q"

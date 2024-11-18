@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The Sports Gene: Inside the Science of Extraordinary Athletic Performance"
 date: 2020-04-02
 cover: /images/bookcovers/small/B00AEDDQKE.jpg
-tags:  ['book']
+tags:  ['sport']
 authors: ['Epstein, David']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00AEDDQKE/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00AEDDQKE"
@@ -33,3 +32,4 @@ David Epstein's "The Sports Gene" is a compelling, insightful exploration of the
 ## Recommendation
 
 "The Sports Gene" is recommended for sports enthusiasts, coaches, athletes, and anyone interested in the science behind athletic performance. It will particularly benefit those curious about the interplay between genetics and environment in shaping athletes and for individuals involved in talent identification and coaching, providing them with a balanced perspective on fostering athletic talent.
+---

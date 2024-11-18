@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Top Dog: The Science of Winning and Losing"
 date: 2020-02-18

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Startup Idea Action Plan: Validate Your Startup And Get Customers in 7 Days, When All You Have is a Business Idea"
 date: 2018-08-23

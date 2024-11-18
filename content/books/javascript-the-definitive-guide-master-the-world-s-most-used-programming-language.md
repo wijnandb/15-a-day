@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language"
 date: 2015-10-22

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "The Power of Your Subconscious Mind"
 date: 2016-06-06

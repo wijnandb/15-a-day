@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Knock Em Dead Resumes 11th edition: A Killer Resume Gets More Job Interviews"
 date: 2018-09-16

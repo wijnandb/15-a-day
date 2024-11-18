@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"
 date: 2017-07-11

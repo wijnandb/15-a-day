@@ -1,10 +1,10 @@
 ---
-draft: true
+
 layout: book
 title: "The Will to Meaning: Foundations and Applications of Logotherapy"
 date: 2019-05-10
 cover: /images/bookcovers/small/B00N21QACQ.jpg
-tags:  ['book']
+tags:  ['logotherapy']
 authors: ['Frankl, Viktor E.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00N21QACQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00N21QACQ"

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Information Rules: A Strategic Guide to the Network Economy"
 date: 2020-12-30

@@ -1,5 +1,5 @@
 ---
-draft: true
+
 layout: book
 title: "Python Tricks: A Buffet of Awesome Python Features"
 date: 2017-04-14
