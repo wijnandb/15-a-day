@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Influencing Virtual Teams: 17 Tactics That Get Things Done with Your Remote Employees"
 date: 2019-06-19
