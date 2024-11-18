@@ -1,7 +1,7 @@
 ---
 layout: book
 title: "Getting Started in Consulting"
-date: 2021-05-19
+date: 2021-05-20
 cover: /images/bookcovers/small/B0023SDQUS.jpg
 tags: ['consultancy']
 authors: ['Weiss, Alan']
