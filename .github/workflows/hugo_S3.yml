@@ -78,4 +78,3 @@ jobs:
       - name: Sync to S3
         id: deployment
         run: aws s3 sync ./public/ s3://${{ secrets.S3_BUCKET }} --delete --cache-control max-age=60
-
