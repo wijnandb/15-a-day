@@ -1,9 +1,11 @@
 {{ define "title" }}
   {{ .Title }} · {{ .Site.Title }}
 {{ end }}
+
 {{ define "content" }}
   <section class="container post">
     <article>
+      <!-- Full-Width Title -->
       <header>
         <div class="post-title">
           <h1 class="title">
@@ -12,67 +14,73 @@
             </a>
           </h1>
         </div>
-        <div class="post-meta">
-          <div class="date">
-            <span class="posted-on">
-              <i class="fa fa-calendar" aria-hidden="true"></i>
-              <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-                {{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006") }}
-              </time>
-            </span>
-        
-            <!-- Debugging: Display all possible variables -->
-            <div class="debug-info">
-              {{ printf "Debugging Information:<br>" | safeHTML }}
-              {{ printf "Date: %v<br>" .Date | safeHTML }}
-              {{ printf "Lastmod: %v<br>" .Lastmod | safeHTML }}
-              {{ printf "Params.lastmod: %v<br>" .Params.lastmod | safeHTML }}
-              {{ with .GitInfo }}
-                {{ printf "GitInfo exists.<br>" | safeHTML }}
-                {{ with .Lastmod }}
-                  {{ printf "GitInfo.Lastmod: %v<br>" . | safeHTML }}
-                {{ else }}
-                  {{ printf "GitInfo.Lastmod is unavailable.<br>" | safeHTML }}
-                {{ end }}
-              {{ else }}
-                {{ printf "GitInfo is unavailable.<br>" | safeHTML }}
-              {{ end }}
-            </div>
-        
-            <!-- Resolve final lastmod -->
-            {{ $lastmod := .Lastmod | default .Params.lastmod | default (and .GitInfo .GitInfo.Lastmod) | default .Date }}
-        
-            <!-- Debugging: Show final selected lastmod -->
-            {{ printf "Final Lastmod: %v<br>" $lastmod | safeHTML }}
-        
-            <!-- Check if .Lastmod (or fallback) differs from .Date -->
-            {{ if and $lastmod (ne $lastmod .Date) }}
-              <span class="date-info italic">
-                <br> edited on {{ $lastmod.Format (.Site.Params.dateFormat | default "January 2, 2006") }}
-              </span>
-            {{ end }}
-          </div>
-        </div>
-        
-        
-        
-          {{ with .GetTerms "authors" }}{{ partial "taxonomy/authors.html" . }}{{ end }}
-          {{ with .GetTerms "categories" }}{{ partial "taxonomy/categories.html" . }}{{ end }}
-          {{ with .GetTerms "tags" }}{{ partial "taxonomy/tags.html" . }}{{ end }}
-        </div>
       </header>
 
-      <div>
-        <a href="{{ .Params.affiliatelink }}" target="_blank"><img src='{{ .Params.cover }}' alt="Book cover"/></a>
+      <!-- Two-Column Layout -->
+      <div class="post-header">
+        <!-- Left Column: Metadata -->
+        <div class="post-info">
+          <div class="post-meta">
+            <div class="date">
+              <span class="posted-on">
+                <i class="fa fa-calendar" aria-hidden="true"></i>
+                <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                  {{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006") }}
+                </time>
+              </span>
+              {{ if ne .Params.Lastmod .Date }}
+                <span class="date-info italic"> <br> edited on {{ .Params.Lastmod.Format (.Site.Params.dateFormat | default "January 2, 2006") }}</span>
+              {{ end }}
+            </div>
+            {{ with .GetTerms "authors" }}{{ partial "taxonomy/authors.html" . }}{{ end }}
+            {{ with .GetTerms "categories" }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+            {{ with .GetTerms "tags" }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+          </div>
+        </div>
+
+        <!-- Right Column: Cover Image -->
+        <div class="post-cover">
+          <a href="{{ .Params.affiliatelink }}" target="_blank">
+            <img src="{{ .Params.cover }}" alt="Book cover">
+          </a>
+        </div>
+      </div>
+
+      <!-- Main Content -->
+      <div class="post-content">
         {{ .Content }}
       </div>
-      <div>
-          <a href="{{ .Params.readlink }}" target="_blank">Read book online</a>
-      </div>
-      <div>
-        <a href="{{ .Params.affiliatelink }}" target="_blank">See {{ .Title }} in Amazon store</a>
-    </div>
 
+      <!-- Additional Links -->
+      <div class="post-links">
+        <a href="{{ .Params.readlink }}" target="_blank">Read book online</a>
+        <a href="{{ .Params.affiliatelink }}" target="_blank">See {{ .Title }} in Amazon store</a>
+      </div>
+
+      <nav class="book-navigation">
+        <div class="nav-links">
+            {{ if .Prev }}
+            <a href="{{ .Prev.RelPermalink }}" class="nav-button prev-book" title="Previous: {{ .Prev.Title }} by {{ .Prev.Params.authors }}">
+                <img src="{{ .Prev.Params.cover }}" alt="{{ .Prev.Title }} by {{ .Prev.Params.authors }}" class="book-cover">
+                <div class="nav-text">
+                    ← Previous
+                </div>
+            </a>
+            {{ end }}
+            {{ if .Next }}
+            <a href="{{ .Next.RelPermalink }}" class="nav-button next-book" title="Next: {{ .Next.Title }} by {{ .Next.Params.authors }}">
+                <img src="{{ .Next.Params.cover }}" alt="{{ .Next.Title }} by {{ .Next.Params.authors }}" class="book-cover">
+                <div class="nav-text">
+                    Next →
+                </div>
+            </a>
+            {{ end }}
+        </div>
+      </nav>
+    
+    
+    
+      <!-- Footer -->
       <footer>
         {{ partial "related.html" . }}
         {{ partial "posts/series.html" . }}

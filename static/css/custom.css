@@ -60,3 +60,113 @@
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+
+/* Full-width title */
+.post-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Two-column layout */
+.post-header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+/* Left column: Metadata */
+.post-info {
+  flex: 1 1 60%; /* 60% width for larger screens */
+}
+
+/* Right column: Cover */
+.post-cover {
+  flex: 1 1 35%; /* 35% width for larger screens */
+  text-align: center;
+}
+
+.post-cover img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Single-column layout for small screens */
+@media (max-width: 768px) {
+  .post-header {
+    flex-direction: column;
+  }
+
+  .post-info,
+  .post-cover {
+    flex: 1 1 100%; /* Full width for smaller screens */
+  }
+}
+
+/* Content below columns */
+.post-content {
+  margin-top: 20px;
+}
+
+/* Additional links */
+.post-links {
+  margin-top: 20px;
+}
+
+.post-links a {
+  display: block;
+  margin-bottom: 10px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.post-links a:hover {
+  text-decoration: underline;
+}
+
+/* Book navigation, previous and next book */
+.book-navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 1rem; /* Add space between the two buttons */
+}
+
+.nav-button {
+    display: flex;
+    flex-direction: column; /* Stack cover image and text */
+    align-items: center;
+    text-decoration: none;
+    max-width: 150px; /* Limit the width of each navigation button */
+}
+
+.nav-button img.book-cover {
+    width: 100px; /* Adjust size of the cover */
+    height: auto;
+    border-radius: 3px;
+    object-fit: cover;
+    margin-bottom: 0.5rem; /* Add spacing between the image and text */
+}
+
+.nav-text {
+    font-size: 1.2rem; /* Larger text for better visibility */
+    font-weight: bold;
+    color: #333;
+    text-align: center; /* Center-align the text under the cover */
+}
+
+.nav-button:hover .nav-text {
+    color: #007BFF; /* Optional: Change color on hover */
+}
+
+.nav-button:hover img.book-cover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Add hover effect for image */
+}
