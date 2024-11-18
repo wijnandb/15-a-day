@@ -1,3 +1,5 @@
+base = "https://www.baretta.nl"
+rootPageId = 1
 baseURL = "https://www.baretta.nl"
 title = "15 minutes a day"
 theme = "hugo-coder"
@@ -242,3 +244,5 @@ gzip = true
 [[deployment.matchers]]
 pattern = "^.+\\.(html|xml|json)$"
 gzip = true
+
+enableGitInfo = true
