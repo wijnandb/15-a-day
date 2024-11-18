@@ -11,7 +11,6 @@ ASIN: B0026772N8
 affiliatelink: https://www.amazon.com/dp/B0026772N8?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values
 
 ## Summary
@@ -30,4 +29,3 @@ Since its publication in 1974, Pirsig's book has left a significant cultural imp
 
 ## Recommendation
 "Zen and the Art of Motorcycle Maintenance" is ideal for readers interested in philosophy and those who enjoy narratives that challenge conventional thinking. It is especially recommended for those intrigued by the intersection of personal storytelling and philosophical exploration. Its blend of narrative and intellectual discourse offers insightful reflections for anyone seeking deeper meaning in the everyday aspects of life.
-```

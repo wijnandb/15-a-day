@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Monetizing Innovation: How Smart Companies Design the Product Around the Price"
 date: 2018-06-08
@@ -12,7 +11,7 @@ ASIN: B01F4DYY1I
 affiliatelink: https://www.amazon.com/dp/B01F4DYY1I?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # Monetizing Innovation: How Smart Companies Design the Product Around the Price
 
 ## Summary
@@ -30,4 +29,3 @@ The book has been well-received for its practical approach and actionable insigh
 
 ## Recommendation
 "Monetizing Innovation" is an essential read for product managers, entrepreneurs, and business leaders seeking to enhance their understanding of pricing strategies within product development. Large corporations and smaller businesses alike can benefit from the insights offered, though the book’s focus tends toward established companies. It's a valuable resource for anyone looking to foster a more profitable and market-aligned innovation process.
-```

@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It"
 date: 2020-11-20
 cover: /images/bookcovers/small/B005ERIRZE.jpg
-tags:  ['book']
+tags:  ['self control', 'mindfulness']
 authors: ['McGonigal Ph.D., Kelly']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B005ERIRZE/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B005ERIRZE"
@@ -14,7 +13,7 @@ categories: ['book']
 ---
 Sure, here's an overview of "The Willpower Instinct" formatted in markdown:
 
-```markdown
+
 # The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It by Kelly McGonigal, Ph.D.
 
 ## Summary
@@ -32,4 +31,3 @@ Kelly McGonigal's "The Willpower Instinct" provides a practical and scientifical
 
 ## Recommendation
 "The Willpower Instinct" is recommended for individuals seeking to understand the science behind self-control and anyone interested in enhancing their personal and professional lives through better willpower management. It's particularly beneficial for students, professionals, and anyone looking to adopt healthier habits or achieve challenging goals.
-```

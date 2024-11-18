@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Some Remarks: Essays and Other Writing"
 date: 2020-08-04
@@ -14,7 +13,7 @@ categories: ['book']
 ---
 Certainly! Here is an overview of the book "Some Remarks: Essays and Other Writing" by Neal Stephenson in markdown format:
 
-```markdown
+
 # Some Remarks: Essays and Other Writing
 
 ## Summary
@@ -31,4 +30,4 @@ Neal Stephenson's "Some Remarks" showcases his ability to dissect complex subjec
 
 ## Recommendation
 "Some Remarks: Essays and Other Writing" is recommended for readers interested in technology, science fiction, and cultural analysis. Fans of Neal Stephenson’s fiction will find this collection particularly enlightening as it provides context and background to the themes explored in his novels. Additionally, those with an interest in the intersection of science, technology, and culture will enjoy Stephenson's insightful commentary and unique perspective.
-```
+

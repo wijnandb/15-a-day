@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Soccermatics: Mathematical Adventures in the Beautiful Game (Bloomsbury Sigma)"
 date: 2018-08-03
@@ -12,9 +11,6 @@ ASIN: B01AIB7YKE
 affiliatelink: https://www.amazon.com/dp/B01AIB7YKE?tag=brtt-20
 categories: ['book']
 ---
-Certainly! Here's an overview of "Soccermatics: Mathematical Adventures in the Beautiful Game" by David Sumpter, formatted in markdown:
-
-```markdown
 # Soccermatics: Mathematical Adventures in the Beautiful Game
 
 ## Summary
@@ -32,6 +28,3 @@ David Sumpter successfully bridges the gap between mathematics and soccer in "So
 
 ## Recommendation
 "Soccermatics" is an excellent read for soccer enthusiasts, mathematicians, and anyone curious about how math can intersect with everyday life. People interested in sports analytics or those looking to enhance their strategic understanding of soccer will find this book particularly beneficial. It offers a unique blend of entertainment and education, making it suitable for both those who revel in numbers and those who are passionate about the beautiful game.
-```
-
-This structured overview provides a well-rounded snapshot of the book without diving into speculative details.

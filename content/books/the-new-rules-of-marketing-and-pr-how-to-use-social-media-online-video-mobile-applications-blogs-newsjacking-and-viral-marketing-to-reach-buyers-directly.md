@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The New Rules of Marketing and PR: How to Use Social Media, Online Video, Mobile Applications, Blogs, Newsjacking, and Viral Marketing to Reach Buyers Directly"
 date: 2017-09-17
 cover: /images/bookcovers/small/B073X84D6W.jpg
-tags:  ['book']
+tags:  ['marketing']
 authors: ['Scott, David Meerman']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B073X84D6W/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B073X84D6W"
@@ -12,7 +11,7 @@ ASIN: B073X84D6W
 affiliatelink: https://www.amazon.com/dp/B073X84D6W?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # The New Rules of Marketing and PR by David Meerman Scott
 
 ## Summary
@@ -30,5 +29,3 @@ David Meerman Scott's book has been well-received for its practical approach and
 
 ## Recommendation
 This book is highly recommended for marketing professionals, entrepreneurs, small business owners, and anyone interested in understanding the potential of digital marketing tools. It provides actionable strategies for engaging with audiences and staying relevant in a rapidly changing marketing environment. Readers new to digital marketing will especially benefit from its accessible style and practical examples.
-
-```

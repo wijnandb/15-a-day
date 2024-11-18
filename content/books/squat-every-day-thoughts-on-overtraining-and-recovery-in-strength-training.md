@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Squat Every Day: Thoughts on Overtraining and Recovery in Strength Training"
 date: 2020-02-02
 cover: /images/bookcovers/small/B00CE5BCFG.jpg
-tags:  ['book']
+tags:  ['fitness', 'strength']
 authors: ['Perryman, Matt']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00CE5BCFG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00CE5BCFG"
@@ -12,7 +11,7 @@ ASIN: B00CE5BCFG
 affiliatelink: https://www.amazon.com/dp/B00CE5BCFG?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # Squat Every Day: Thoughts on Overtraining and Recovery in Strength Training by Matt Perryman
 
 ## Summary
@@ -30,4 +29,3 @@ The book has made a significant impact within the strength training community by
 
 ## Recommendation
 This book is particularly well-suited for experienced athletes and fitness enthusiasts who are interested in exploring alternative strength training methodologies. Strength coaches, sports scientists, and individuals questioning conventional training protocols might find Perryman's insights beneficial in optimizing their training strategies and achieving better results.
-```

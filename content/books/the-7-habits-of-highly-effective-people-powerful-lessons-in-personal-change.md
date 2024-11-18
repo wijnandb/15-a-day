@@ -12,7 +12,7 @@ ASIN: B01069X4H0
 affiliatelink: https://www.amazon.com/dp/B01069X4H0?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
 ## Summary
@@ -40,4 +40,4 @@ Covey's book has been celebrated for its timeless and intuitive framework that h
 
 ## Recommendation
 "The 7 Habits of Highly Effective People" is highly recommended for individuals seeking personal growth and enhanced productivity. It's suitable for professionals, students, leaders, and anyone interested in building effective life and work habits. By focusing on principles rather than quick fixes, Covey's book offers a sustainable path to achieving significant and lasting change.
-```
+

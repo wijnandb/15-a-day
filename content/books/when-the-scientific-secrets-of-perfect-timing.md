@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "When: The Scientific Secrets of Perfect Timing"
 date: 2017-10-15
 cover: /images/bookcovers/small/B072Q985YX.jpg
-tags:  ['book']
+tags:  ['self improvement']
 authors: ['Pink, Daniel H.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B072Q985YX/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B072Q985YX"
@@ -12,7 +11,7 @@ ASIN: B072Q985YX
 affiliatelink: https://www.amazon.com/dp/B072Q985YX?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # When: The Scientific Secrets of Perfect Timing by Daniel H. Pink
 
 ## Summary
@@ -30,4 +29,3 @@ Daniel H. Pink's "When" has been praised for its accessible writing style and ab
 
 ## Recommendation
 "When: The Scientific Secrets of Perfect Timing" is highly recommended for individuals looking to optimize their productivity, decision-making, and personal lives by understanding and leveraging the science of timing. Professionals, students, and anyone interested in self-improvement can benefit from the actionable insights and easy-to-understand explanations that Pink provides.
-```

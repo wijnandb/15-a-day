@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "The Barbell Prescription: Strength Training for Life After 40"
 date: 2017-11-24
@@ -12,7 +11,7 @@ ASIN: B06Y4LXFCK
 affiliatelink: https://www.amazon.com/dp/B06Y4LXFCK?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # The Barbell Prescription: Strength Training for Life After 40
 
 **Authors**: Andy Baker, Jonathon M. Sullivan
@@ -32,4 +31,4 @@ The book is well-received for its clear, pragmatic approach to strength training
 
 ## Recommendation
 "The Barbell Prescription" is highly recommended for individuals over 40 who are new to strength training, as well as fitness enthusiasts seeking to adapt their current routines. It provides valuable insights not only for practitioners but also for fitness professionals working with older clients. The book's focus on evidence-based practices makes it a reliable resource for anyone interested in safe and effective strength training for longevity and health preservation.
-```
+

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Reinvent Your Business Model: How to Seize the White Space for Transformative Growth"
 date: 2017-03-21
@@ -12,7 +11,7 @@ ASIN: B078S98BN3
 affiliatelink: https://www.amazon.com/dp/B078S98BN3?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # Reinvent Your Business Model: How to Seize the White Space for Transformative Growth
 
 ## Summary
@@ -30,4 +29,4 @@ Mark W. Johnson's book is well-regarded for its clear and actionable approach to
 
 ## Recommendation
 "Reinvent Your Business Model" is highly recommended for business leaders, strategists, entrepreneurs, and anyone interested in business innovation. It is especially valuable for those who want to understand how to maneuver through changing markets and leverage white space opportunities for substantial growth. The book provides both a theoretical and practical roadmap, making it suitable for readers looking to implement transformative changes in their organizations.
-```
+

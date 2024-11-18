@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Peak: Secrets from the New Science of Expertise"
 date: 2018-10-26
@@ -12,7 +11,7 @@ ASIN: B011H56MKS
 affiliatelink: https://www.amazon.com/dp/B011H56MKS?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # Peak: Secrets from the New Science of Expertise
 
 ### Summary:
@@ -30,4 +29,4 @@ categories: ['book']
 
 ### Recommendation:
 "Peak" is an excellent read for individuals seeking to improve their skills, whether in a professional, athletic, or personal context. Educators, coaches, and mentors will find the insights on structured practice and feedback particularly useful. It's also recommended for anyone interested in understanding the science behind achieving excellence, aiming to dispel myths around natural-born talent.
-```
+

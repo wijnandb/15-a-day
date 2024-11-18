@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The Hate U Give"
 date: 2018-03-24
 cover: /images/bookcovers/small/B01M0614T9.jpg
-tags:  ['fiction']
+tags:  ['fiction', 'novel']
 authors: ['Thomas, Angie']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01M0614T9/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01M0614T9"
@@ -12,7 +11,7 @@ ASIN: B01M0614T9
 affiliatelink: https://www.amazon.com/dp/B01M0614T9?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # The Hate U Give by Angie Thomas
 
 ## Summary
@@ -29,4 +28,4 @@ Angie Thomas's *The Hate U Give* is widely praised for its authentic portrayal o
 
 ## Recommendation
 *The Hate U Give* is highly recommended for young adults, educators, and anyone interested in contemporary social justice issues. It offers profound insights into racial inequality and encourages critical discussions about systemic injustice and personal responsibility. The book is an excellent resource for educational settings to facilitate conversations about race, identity, and activism.
-```
+

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers"
 date: 2020-10-07
@@ -12,7 +11,7 @@ ASIN: B005Z67EI0
 affiliatelink: https://www.amazon.com/dp/B005Z67EI0?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers
 
 ## Summary
@@ -29,4 +28,3 @@ John MacCormick's book is lauded for its clear, engaging writing style that make
 
 ## Recommendation
 "Nine Algorithms That Changed the Future" is highly recommended for readers interested in technology, digital innovation, or history of computing. It is particularly beneficial for those without a technical background who wish to gain insight into the powerful algorithms shaping today's online and technological infrastructure. Educators, students, and tech enthusiasts will find great value in the clarity and breadth of knowledge presented in this work.
-```

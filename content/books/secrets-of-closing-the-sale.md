@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Secrets of Closing the Sale"
 date: 2020-02-26
@@ -12,7 +11,7 @@ ASIN: B00B856D16
 affiliatelink: https://www.amazon.com/dp/B00B856D16?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # Secrets of Closing the Sale by Zig Ziglar
 
 ## Summary
@@ -30,4 +29,3 @@ categories: ['book']
 
 ## Recommendation
 "Secrets of Closing the Sale" is highly recommended for sales professionals at any stage of their career, as well as entrepreneurs and business leaders looking to enhance their selling capabilities. Ziglar's insights are particularly useful for those seeking to improve their interpersonal skills and develop a more customer-focused sales approach. Whether you're new to the field or a seasoned salesperson, the book provides valuable lessons that can be applied in various sales contexts.
-```

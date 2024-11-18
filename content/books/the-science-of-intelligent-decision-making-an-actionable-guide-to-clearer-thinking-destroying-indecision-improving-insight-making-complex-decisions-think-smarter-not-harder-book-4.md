@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The Science of Intelligent Decision Making: An Actionable Guide to Clearer Thinking, Destroying Indecision, Improving Insight, & Making Complex Decisions ... (Think Smarter, Not Harder Book 4)"
 date: 2017-02-01
 cover: /images/bookcovers/small/B07B6TZNC4.jpg
-tags:  ['book']
+tags:  ['science']
 authors: ['Hollins, Peter']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07B6TZNC4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07B6TZNC4"
@@ -14,7 +13,7 @@ categories: ['book']
 ---
 Sure, here's the requested format in markdown:
 
-```markdown
+
 ### Summary
 *The Science of Intelligent Decision Making: An Actionable Guide to Clearer Thinking, Destroying Indecision, Improving Insight, & Making Complex Decisions* by Peter Hollins provides a practical framework for enhancing decision-making skills. The book delves into cognitive science and psychology to offer readers strategies for addressing complex issues, overcoming indecision, and enhancing clarity in thought processes. It covers various aspects of decision-making, including identifying cognitive biases, employing analytical techniques, and improving emotional intelligence. The goal is to equip readers with tools to make more informed decisions in both personal and professional contexts.
 
@@ -29,6 +28,3 @@ The book has been praised for its practical approach and the way it distills com
 
 ### Recommendation
 This book is highly recommended for anyone looking to refine their decision-making skills, particularly professionals who face complex decisions regularly and individuals who struggle with indecision or impulsivity. It is also beneficial for those interested in psychological techniques to improve their personal and professional life by thinking smarter, not harder.
-```
-
-This format presents a comprehensive overview without speculating on unverified details.

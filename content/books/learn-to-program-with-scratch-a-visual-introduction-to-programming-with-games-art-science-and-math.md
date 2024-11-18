@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Learn to Program with Scratch: A Visual Introduction to Programming with Games, Art, Science, and Math"
 date: 2019-09-11
@@ -12,9 +11,6 @@ ASIN: B00IE94WY4
 affiliatelink: https://www.amazon.com/dp/B00IE94WY4?tag=brtt-20
 categories: ['book']
 ---
-Sure, here's a concise overview of the book "Learn to Program with Scratch: A Visual Introduction to Programming with Games, Art, Science, and Math" by Majed Marji in markdown format:
-
-```markdown
 # Learn to Program with Scratch: A Visual Introduction to Programming with Games, Art, Science, and Math
 
 ## Summary
@@ -31,6 +27,3 @@ The book is celebrated for its approachable and enjoyable methodology of teachin
 
 ## Recommendation
 "Learn to Program with Scratch" is highly recommended for beginners who are interested in learning programming in a fun and engaging way. It is particularly suitable for young learners, educators, and parents looking to introduce coding concepts in a structured yet enjoyable format. The book's project-based lessons make it an ideal choice for classrooms or individual learning.
-```
-
-This markdown-formatted overview captures the essence of the book, its reception, key insights, and recommendations without speculative or unverifiable information.

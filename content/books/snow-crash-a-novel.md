@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "Snow Crash: A Novel"
 date: 2021-09-04
 cover: /images/bookcovers/small/B000FBJCJE.jpg
-tags: ['fiction']
+tags: ['fiction', 'novel', 'science fiction']
 authors: ['Stephenson, Neal']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000FBJCJE/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B000FBJCJE"
@@ -12,9 +11,6 @@ ASIN: B000FBJCJE
 affiliatelink: https://www.amazon.com/dp/B000FBJCJE?tag=brtt-20
 categories: ['book']
 ---
-Certainly! Here's an overview of "Snow Crash: A Novel" by Neal Stephenson in markdown format:
-
-```markdown
 # Snow Crash: A Novel by Neal Stephenson
 
 ## Summary:
@@ -31,4 +27,4 @@ Certainly! Here's an overview of "Snow Crash: A Novel" by Neal Stephenson in mar
 
 ## Recommendation:
 "Snow Crash" is a must-read for fans of science fiction and cyberpunk genres, especially those interested in the interplay between technology and society. It is particularly recommended for readers who enjoy speculative fiction that encourages them to think critically about current and future technological trends. The book's imaginative scope and thought-provoking themes make it an engaging read for anyone interested in the potential implications of virtual realities and digital cultures.
-```
+

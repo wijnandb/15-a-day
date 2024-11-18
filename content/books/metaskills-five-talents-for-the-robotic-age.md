@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Metaskills: Five Talents for the Robotic Age"
 date: 2020-04-26
@@ -12,7 +11,7 @@ ASIN: B009W5YA0U
 affiliatelink: https://www.amazon.com/dp/B009W5YA0U?tag=brtt-20
 categories: ['book']
 ---
-```markdown
+
 # Metaskills: Five Talents for the Robotic Age
 
 ## Summary
@@ -30,4 +29,3 @@ Neumeier's book is an insightful consideration of the human capabilities needed 
 
 ## Recommendation
 "Metaskills: Five Talents for the Robotic Age" is recommended for professionals, educators, students, and anyone seeking to enhance their personal and professional development in an increasingly automated world. Those interested in the intersection of technology and human potential will find the book particularly valuable for its forward-thinking insights into personal growth and career resilience.
-```

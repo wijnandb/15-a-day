@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: book
 title: "The Myths of Innovation"
 date: 2021-05-07
 cover: /images/bookcovers/small/B0026OR2PE.jpg
-tags:  ['book']
+tags:  ['innovation']
 authors: ['Berkun, Scott']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0026OR2PE/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0026OR2PE"
@@ -14,7 +13,7 @@ categories: ['book']
 ---
 Certainly! Below is an overview of "The Myths of Innovation" by Scott Berkun presented in markdown format:
 
-```markdown
+
 # The Myths of Innovation by Scott Berkun
 
 ## Summary
@@ -32,6 +31,3 @@ Scott Berkun's "The Myths of Innovation" is a critical, insightful examination o
 
 ## Recommendation
 "The Myths of Innovation" is recommended for entrepreneurs, managers, educators, and students interested in innovation, creativity, and business strategy. It provides a more realistic perspective on what it takes to innovate successfully and corrects common misconceptions that could impede progress in creative endeavors.
-```
-
-This markdown text provides an accurate and well-rounded overview of the book, aligning with the request for factual and precise information.

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: book
 title: "Leading Digital: Turning Technology into Business Transformation"
 date: 2019-05-02
@@ -12,7 +11,6 @@ ASIN: B00NE6MG0Y
 affiliatelink: https://www.amazon.com/dp/B00NE6MG0Y?tag=brtt-20
 categories: ['book']
 ---
-```markdown
 # Leading Digital: Turning Technology into Business Transformation
 
 ## Summary
@@ -33,4 +31,4 @@ categories: ['book']
 
 ## Recommendation
 "Leading Digital" is highly recommended for business leaders, technology managers, and executives in large and mid-sized companies who are looking to understand the digital landscape and lead successful transformations. Educators and students in business and management courses might also find this book valuable for its insights and real-world examples. Those interested in the intersection of technology and business strategy will benefit from the structured approach the authors use to demystify digital transformation.
-```
+
