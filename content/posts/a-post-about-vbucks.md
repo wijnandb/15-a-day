@@ -3,7 +3,7 @@ draft: false
 title: V-Bucks explained
 date: "2021-09-16T09:59:24+0200"
 layout: post
-tags: ["project", "vbucks"]
+tags: ["project", "v-bucks"]
 slug: "a-post-about-vbucks"
 ---
 November 2024 update. Read below for the idea of V-bucks.
