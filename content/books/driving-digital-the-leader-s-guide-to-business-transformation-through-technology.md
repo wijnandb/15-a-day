@@ -12,6 +12,7 @@ affiliatelink: https://www.amazon.com/dp/B01N10Y94E?tag=brtt-20
 categories: ['book']
 ---
 # Driving Digital: The Leader's Guide to Business Transformation Through Technology
+by Isaac Sacolick
 
 ## Summary
 "Driving Digital: The Leader's Guide to Business Transformation Through Technology" by Isaac Sacolick offers a strategic roadmap for business leaders to navigate the complex process of digital transformation. The book emphasizes the necessity for leaders to adopt new technologies and implement agile practices that foster innovation and maintain competitiveness. Sacolick outlines how businesses can leverage data analytics, cloud services, and other digital tools to drive efficiency and meet evolving customer expectations.
