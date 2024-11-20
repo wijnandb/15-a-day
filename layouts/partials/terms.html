@@ -11,10 +11,18 @@
     </h1>
   </header>
   {{ .Content }}
-  <ul>
-    {{ range (first 50 $.Site.Taxonomies.tags.ByCount) }}
-    {{ $count := len .Pages }}
-    <li><a href="/tags/{{ .Name | urlize }}.html">{{ .Name }}</a> <sup>{{ $count }}</sup></li>
+  <ul class="taxonomy-list">
+    {{ $tags := $.Site.Taxonomies.tags.ByCount }}
+    {{ $v1 := where $tags "Count" ">=" 3 }}
+    {{ $v2 := where $v1 "Term" "not in" (slice "book" "tags" "rss") }}
+    {{ range $v2 }}
+      {{ if .Term }}
+        <li class="taxonomy-item">
+          <a href="{{ printf "tags/%s" .Term | urlize }}.html" class="taxonomy-link">
+            {{ .Term }} <span class="badge">({{ .Count }})</span>
+          </a>
+        </li>
+      {{ end }}
     {{ end }}
   </ul>
 </section>
