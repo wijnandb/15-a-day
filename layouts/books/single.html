@@ -59,26 +59,44 @@
 
       <nav class="book-navigation">
         <div class="nav-links">
-            {{ if .Prev }}
-            <a href="{{ .Prev.RelPermalink }}" class="nav-button prev-book" title="Previous: {{ .Prev.Title }} by {{ .Prev.Params.authors }}">
-                <img src="{{ .Prev.Params.cover }}" alt="{{ .Prev.Title }} by {{ .Prev.Params.authors }}" class="book-cover">
-                <div class="nav-text">
-                    ← Previous
-                </div>
-            </a>
+            {{ $section := .Section }} <!-- Get the current section -->
+    
+            <!-- Previous Book (acts as the 'next' item in reverse order) -->
+            {{ if .NextInSection }}
+                <a href="{{ .NextInSection.RelPermalink }}" class="nav-button prev-book" 
+                   title="Previous: {{ .NextInSection.Title }} by {{ .NextInSection.Params.authors }}">
+                    <img src="{{ .NextInSection.Params.cover }}" 
+                         alt="{{ .NextInSection.Title }} by {{ .NextInSection.Params.authors }}" 
+                         class="book-cover">
+                    <div class="nav-text">
+                        ← Previous
+                    </div>
+                </a>
+            {{ else }}
+              <div class="nav-text">
+                
+              </div>
             {{ end }}
-            {{ if .Next }}
-            <a href="{{ .Next.RelPermalink }}" class="nav-button next-book" title="Next: {{ .Next.Title }} by {{ .Next.Params.authors }}">
-                <img src="{{ .Next.Params.cover }}" alt="{{ .Next.Title }} by {{ .Next.Params.authors }}" class="book-cover">
-                <div class="nav-text">
-                    Next →
-                </div>
-            </a>
+    
+            <!-- Next Book (acts as the 'previous' item in reverse order) -->
+            {{ if .PrevInSection }}
+                <a href="{{ .PrevInSection.RelPermalink }}" class="nav-button next-book" 
+                   title="Next: {{ .PrevInSection.Title }} by {{ .PrevInSection.Params.authors }}">
+                    <img src="{{ .PrevInSection.Params.cover }}" 
+                         alt="{{ .PrevInSection.Title }} by {{ .PrevInSection.Params.authors }}" 
+                         class="book-cover">
+                    <div class="nav-text">
+                        Next →
+                    </div>
+                </a>
+            {{ else }}
+              <div class="nav-text">
+                
+              </div>
             {{ end }}
         </div>
       </nav>
-    
-    
+   
     
       <!-- Footer -->
       <footer>
