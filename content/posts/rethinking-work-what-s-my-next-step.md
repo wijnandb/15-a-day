@@ -15,7 +15,7 @@ So this post should turn out in two more: "how to be a successful entrepreneur" 
 
 Before writing these separate posts, let's address some points that influence the decision between the two, since both have advantages.
 
-(at this poiont my ADHD kicks in. In don't want to write anymore, I want to get to work and try to ghte some interviews, which will make it easier for me to make a decision. As long as I don't get an interview or even better an offer, there is nothing to compare or decide. But see, I'm still here, so let's continue)
+(at this poiont my ADHD kicks in. In don't want to write anymore, I want to get to work and try to get some interviews, which will make it easier for me to make a decision. As long as I don't get an interview or even better an offer, there is nothing to compare or decide. But see, I'm still here, so let's continue)
 
 To get a better idea of my options, there are some steps I need to take. My biggets roadblock is a fear of reaching out (applying for a job) in combnation with a reluctance to write a resume. Being in touch with a recruiter could potentially help solve that. My reasoning goes a bit like this: they can make money by getting me a job, so they arte invested in that sense. On the other hand, if they don't see an opportunity to get me hired, they will not do anything. Good thing though: there are more jobs than there are candidates, and there are a lot of recruiters. Reach out to recruiters, tell them what you want ("I'm interested in working for company ABC and I see you are recruiting for them. Here's my resume/LinkedIn profile, could we have a chat about which open positions would fit me?")
 
@@ -28,14 +28,14 @@ Let's go over some scenario's:
   -  there is no suitable job for me
   -  thanks for reaching out, please send me your resume
 
-Obviously I left out the response that I'm looking for, but that's because I'm trying to overcome my fears. I have added the lasst response, because I'm dreading that response too. I'm not totally sure why, but I have a lot of trouble of puting together and sending out my resume. Maybe because I'm unhappy about the way my career unfolded over the last years, fact is I'm sidestepping this whenever I can.
+Obviously I left out the response that I'm looking for, but that's because I'm trying to overcome my fears. I have added the last response, because I'm dreading that response too. I'm not totally sure why, but I have a lot of trouble of puting together and sending out my resume. Maybe because I'm unhappy about the way my career unfolded over the last years, fact is I'm sidestepping this whenever I can.
 
 So, 
 1. I want to update my LinkedIn and my resume. 
 2. I want to reach out to recruiters.
 3. I want to appply for a job.
 
-For step 1 I want to have a look at the tips LinkedIn is providng on writing resumes. [insert it here]()
+For step 1 I want to have a look at the tips LinkedIn is providng on writing resumes. [insert it here](https://www.linkedin.com/business/learning/blog/career-success-tips/how-to-write-a-resume-that-will-actually-get-a-recruiter-s-atten)
 The LinkedIn resume part is okay, might need some tweaking. It does need a (better) headline/about section.
 
 For step 2, I want to connect with recruiters. Searching for tech recruiters in general is a good start, searching for recruiters who are with companies I'd like to work for is maybe evne better.

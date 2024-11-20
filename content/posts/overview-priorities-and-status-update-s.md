@@ -8,7 +8,7 @@ slug: "overview-priorities-and-status-update-s"
 ---
 
 
-Pffff, I'm getting a bit stuck here. Started the day well, by taking Molly for a walk on the beach. Even had a nice cup of coffee afterwards. Now sitting down to figure out how to get going. There is a number of projects that seem to never end. In a different post, I even concluded that I shouldn't look at it that way, a project wasn't about ending it, finishing it, it was a process in which I had to constantly improve the product while getting paid for it. 
+Pffff, I'm getting a bit stuck here. Started the day well, by taking Molly for a walk on the beach. Even had a nice cup of coffee afterwards. Now sitting down to figure out how to get going. There is a number of projects that seem to never end. In a [different post]({{% ref "mindset-for-work" %}}), I even concluded that I shouldn't look at it that way, a project wasn't about ending it, finishing it, it was a process in which I had to constantly improve the product while getting paid for it. 
 
 Problem is, or might be, that there are projects that occupy my mind which aren't moving forward nor am I getting paid for them.
 
@@ -71,7 +71,7 @@ Skills or topics you would like to highlight:
 - python
 - full stack developer
 - MVP
-- educuation
+- education
 - math
 - cloud computing
 - CI/CD
@@ -82,6 +82,6 @@ And then there is getting the site live. You have more or less decided that it w
 
 Have a look at https://docs.aws.amazon.com/AmazonS3/latest/userguide/EnableWebsiteHosting.html
 
-Cool. Took me some time, but it's up at https://baretta.nl
+Cool. Took me some time, but it's up at https://www.baretta.nl
 
 Very happy with this. Even though I started out writing about all the different things I wanted to do and then ending up being distracted by one, still happy because I pushed through and finished it.

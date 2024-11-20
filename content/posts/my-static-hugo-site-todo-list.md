@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 title: "My static Hugo site: ToDo list"
 date: "2021-09-07T09:24:42+0200"
 layout: post

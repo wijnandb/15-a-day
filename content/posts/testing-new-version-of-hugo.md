@@ -17,10 +17,9 @@ Moving the file required sudo, because I can't acccess /usr/local/ without sudo,
 ```bash
 $ sudo mv ~/Downloads/hugo /usr/local/
 ```
-Checking if it worked by looking up teh version:
+Checking if it worked by looking up the version:
 ```bash
 $ hugo version
 
 ```
 The reason I needed a new version of Hugo was because I had trouble making it work on S3.
-

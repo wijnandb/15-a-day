@@ -3,7 +3,7 @@ draft: true
 title: "Which project to focus on?"
 date: "2021-09-03T09:47:59+0200"
 layout: post
-tags: ["project","productivity"]
+tags: ["project","productivity","TODO"]
 slug: "which-project-to-focus-on"
 ---
 
