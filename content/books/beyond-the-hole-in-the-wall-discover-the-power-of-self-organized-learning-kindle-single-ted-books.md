@@ -30,4 +30,8 @@ Sugata Mitra’s book is both inspiring and thought-provoking, providing a compe
 This book is recommended for educators, policymakers, and anyone interested in innovative teaching methods and educational reform. It is particularly beneficial for those looking to implement technology-driven learning solutions or improve education accessibility for marginalized communities. By providing insights into self-organization in learning, the book offers valuable strategies for fostering independence and motivation among students.
 Next to giving you a synopsis of the book, I'd like to point you to the 2013 winning TED talk:
 
-{{< youtube id=“zpcEpmNbHds” >}}
+{{< youtube "zpcEpmNbHds" >}}
+
+{{< youtube id="CMtN_LUpeLg" >}}
+
+{{< youtube 0RKpf3rK57I >}}

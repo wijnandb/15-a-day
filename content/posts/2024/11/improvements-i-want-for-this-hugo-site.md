@@ -3,7 +3,7 @@ draft: true
 title: "Improvements I want for this Hugo site"
 date: "2024-11-20T10:49:03+0100"
 layout: post
-tags: ["website","todo"]
+tags: ["website", "todo", "hugo"]
 slug: "improvements-i-want-for-this-hugo-site"
 ---
 
@@ -23,6 +23,7 @@ What I want to add/change:
 - [ ] fix problem with links not working on [live version](http://www.baretta.nl)
 - [ ] related posts (this is working for the books, but not for posts)
 - [x] enable to see the draft posts as well when running locally
+
 ```bash
 $ hugo server --buildDrafts
 ```
