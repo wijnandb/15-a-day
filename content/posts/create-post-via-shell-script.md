@@ -39,7 +39,7 @@ There are some other concerns as well:
 
 So, in order to achieve that, I will have git in place (keeping track of any changes) and I will have a (private) Github repository to sync data to. Ideally, I will have either the commmands written down/remembered to puish changes to the Github repository, or I wil have a script that does it for me.
 
-OK, a script that generates a new post for me, with the metadat for the markdown file already filled out. 
+OK, a script that generates a new post for me, with the metadata for the markdown file already filled out. 
 
 The scenario for this script is something like this:
 
@@ -52,18 +52,27 @@ The scenario for this script is something like this:
 
 The metadata will consist of:
 
-\-\-\-
 
+```markdown
+---
 title: The title of the post as filled out by the user
-
 date: DD/MM/YYYY HH:MM
-
 tags: optional tags as filled out by user
-
 category: optional category as filled out by user, defaults to "15 a day"
-
 draft: True
+---
+```
 
-\-\-\-
+#### 2024 Update: 
+Done.
+I can open a terminal and type 
+```bash
+$ new-post.sh
+```
+
+The script will run, no matter from where I call it. It will ask for a title, then for some tags (optional). It will create a new post, store it in the right directory (to be able to keep an overview it will store it in content/posts/YYYY/MM/).
+It will then open the file in VS code and I can start writing.
+
+Boom! :fire:
 
 
