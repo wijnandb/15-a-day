@@ -1,6 +1,6 @@
-base = "https://www.baretta.nl"
+base = "https://baretta.nl"
 rootPageId = 1
-baseURL = "https://www.baretta.nl"
+baseURL = "https://baretta.nl"
 title = "15 minutes a day"
 theme = "hugo-coder"
 languageCode = "en"
