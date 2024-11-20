@@ -15,8 +15,9 @@ while [ -n "$1" ]; do # while loop starts
 	esac
 
 	shift
-
+# idea of these option was that I could specify for which site I wanted to create a new post
 done
+
 echo "What's the name of todays post?"
 read title
 
@@ -32,16 +33,16 @@ slug="$(echo -n "${title}" | iconv -t ascii//TRANSLIT | sed -r s/[^a-zA-Z0-9]+/-
 echo "Converted title of post is:"
 echo "$slug"
 
-#today=`date +%Y-%m-%d`
-#echo "Today is:"
-#echo "$today"
-#echo "And the time today is:"
-timestamp=`date +%Y-%m-%dT%T%z`
-echo "$timestamp"
+year=$(date +%Y)
+month=$(date +%m)
+timestamp=$(date +%Y-%m-%dT%H:%M:%S%z)
+# Define the directory path
+directory="content/posts/$year/$month"
 
-#opslaan="${today}-${slug}"
-#echo "$opslaan"
-filename="${HOME}/sites/github/15-a-day-hugo/content/posts/${slug}.md"
+# Create the directory if it doesn't exist
+mkdir -p "$directory"
+
+filename="${HOME}/sites/15-a-day/content/posts/$year/$month/${slug}.md"
 
 echo "Creating file: ${filename}"
 
@@ -64,7 +65,5 @@ echo >> $filename
 code $filename
 
 # cd into directory where site reides and run hugo 
-cd /${HOME}/sites/github/15-a-day-hugo/ 
+cd /${HOME}/sites/15-a-day/ 
 hugo server -D
-xdg-settings set default-web-browser chrome.desktop
-chrome "http://localhost:1313/posts"
