@@ -42,7 +42,6 @@ Optional questions include:
 
 
 [bredeschool]:(bredeschool/)
-[mijnwerk]:(mijnwerk/)
 
 [speech tables of multiplication]:()
 [speech reading]:()
