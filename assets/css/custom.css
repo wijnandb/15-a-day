@@ -170,3 +170,42 @@
 .nav-button:hover img.book-cover {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Add hover effect for image */
 }
+
+/* Taxonomy Section Styling */
+.container.taxonomy .taxonomy-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.container.taxonomy .taxonomy-item {
+  margin: 0;
+}
+
+.container.taxonomy .taxonomy-link {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--link-color, #007BFF);
+  background-color: var(--background-color, #f9f9f9);
+  border: 1px solid var(--border-color, #ccc);
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.container.taxonomy .taxonomy-link:hover {
+  background-color: var(--link-color, #007BFF);
+  color: var(--background-color, #fff);
+}
+
+.container.taxonomy .taxonomy-link .badge {
+  font-size: 2rem;
+  font-weight: 400;
+  margin-left: 0.3rem;
+  color: var(--secondary-text-color, #999);
+}
