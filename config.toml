@@ -1,7 +1,7 @@
 base = "https://wijnandbaretta.nl/"
 rootPageId = 1
-baseURL = "https://www.baretta.nl/"
-title = "15 minutes a day"
+baseURL= "{{ .Env.HUGO_BASE_URL }}"
+title = "wijnandb"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -11,7 +11,7 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
-uglyURLs = true
+uglyURLs = false
 
 [pagination]
 pagerSize = 12
