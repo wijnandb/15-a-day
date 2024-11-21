@@ -31,8 +31,10 @@ During the import, when the emial addresses are addded, lowercase them.
 #### Check if it works
 - create an upload CSV containing addresses with uppercase letters
 - upload the file
-
-```ERROR: 'NoneType' object has no attribute 'lower'```
+Unfortunately, this gives an error:
+```python
+ERROR: 'NoneType' object has no attribute 'lower'
+```
 
 Problem is that it fails when there is no emailaddress. Fixed it, it works.
 
@@ -60,8 +62,6 @@ Or, when someone creates a new account, only allow lowercase.
 
 
 ### Automatic placement algorithm not working as it should
-
-
 
 ## Performance:
 
