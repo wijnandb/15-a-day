@@ -1,7 +1,7 @@
 base = "https://wijnandbaretta.nl/"
 rootPageId = 1
 # baseURL is hardcoded in the Github secrets, so this oone isn't being used
-baseURL = "https://www.baretta.nl/"
+baseURL = "https://baretta.nl/"
 title = "15 minutes a day"
 theme = "hugo-coder"
 languageCode = "en"
@@ -12,7 +12,7 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
-uglyURLs = true
+uglyURLs = false
 
 [pagination]
 pagerSize = 12
