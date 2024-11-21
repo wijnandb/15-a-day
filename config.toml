@@ -1,7 +1,8 @@
 base = "https://wijnandbaretta.nl/"
 rootPageId = 1
-baseURL= "{{ .Env.HUGO_BASE_URL }}"
-title = "wijnandb"
+# baseURL is hardcoded in the Github secrets, so this oone isn't being used
+baseURL = "https://www.baretta.nl/"
+title = "15 minutes a day"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
