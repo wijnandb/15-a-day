@@ -66,4 +66,4 @@ code $filename
 
 # cd into directory where site reides and run hugo 
 cd /${HOME}/sites/15-a-day/ 
-hugo server -D
+hugo server -D --buildDrafts
