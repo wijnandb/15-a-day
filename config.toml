@@ -12,7 +12,7 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
-uglyURLs = false
+uglyURLs = true
 
 [pagination]
 pagerSize = 12
