@@ -35,6 +35,11 @@
             {{ with .GetTerms "authors" }}{{ partial "taxonomy/authors.html" . }}{{ end }}
             {{ with .GetTerms "categories" }}{{ partial "taxonomy/categories.html" . }}{{ end }}
             {{ with .GetTerms "tags" }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+
+              <!-- Centered Read Online Button -->
+            <div class="read-online">
+              <a class="read-online-button" href="{{ .Params.readlink }}" target="_blank">Read Online</a>
+            </div>
           </div>
         </div>
 
@@ -49,12 +54,6 @@
       <!-- Main Content -->
       <div class="post-content">
         {{ .Content }}
-      </div>
-
-      <!-- Additional Links -->
-      <div class="post-links">
-        <a href="{{ .Params.readlink }}" target="_blank">Read book online</a>
-        <!--a href="{{ .Params.affiliatelink }}" target="_blank">See {{ .Title }} in Amazon store</a-->
       </div>
 
       <nav class="book-navigation">
