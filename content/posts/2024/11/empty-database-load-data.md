@@ -16,6 +16,8 @@ What do we nwant to populate the database with?
 - schools
 - companies
 - activities
+- skills
+- rubrics
 - teachers
 - students
 - parent(s)
