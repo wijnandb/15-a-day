@@ -595,7 +595,7 @@ for book in books:
     authors = list(distinctwriters)
 
     storelink = "https://www.amazon.com/dp/" + book[0]
-    affiliatelink = storelink + "?tag=brtt-20"
+    affiliatelink = storelink + "?tag=brtt-21"
 
     cover = "/images/bookcovers/small/" + book[0] +".jpg"
     # create the front matter for the markdown files
