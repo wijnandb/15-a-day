@@ -8,7 +8,7 @@ authors: ['Mitra, Sugata']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0070YZSFQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0070YZSFQ"
 ASIN: B0070YZSFQ
-affiliatelink: https://www.amazon.com/dp/B0070YZSFQ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0070YZSFQ?tag=prcptm-20
 categories: ['book']
 ---
 # Beyond the Hole in the Wall: Discover the Power of Self-Organized Learning
@@ -28,10 +28,13 @@ Sugata Mitra’s book is both inspiring and thought-provoking, providing a compe
 
 ## Recommendation
 This book is recommended for educators, policymakers, and anyone interested in innovative teaching methods and educational reform. It is particularly beneficial for those looking to implement technology-driven learning solutions or improve education accessibility for marginalized communities. By providing insights into self-organization in learning, the book offers valuable strategies for fostering independence and motivation among students.
+
 Next to giving you a synopsis of the book, I'd like to point you to the 2013 winning TED talk:
 
 {{< youtube "zpcEpmNbHds" >}}
 
-{{< youtube id="CMtN_LUpeLg" >}}
 
-{{< youtube 0RKpf3rK57I >}}
+
+
+---
+
