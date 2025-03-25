@@ -1,0 +1,16 @@
+{{ define "content" }}
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Content }}</p>
+
+    <h2>Related Posts</h2>
+    <ul>
+        {{ $projectTags := .Params.tags }}
+        {{ range .Site.Pages }}
+            {{ if intersect .Params.tags $projectTags }}
+                <li>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </li>
+            {{ end }}
+        {{ end }}
+    </ul>
+{{ end }}

@@ -1,8 +1,8 @@
 ---
 title: "Project: V-Bucks"
 date: "2021-09-16T08:36:24+0200"
-layout: post
-tags: ["project", "v-bucks"]
+layout: project
+tags: [programming]
 ---
 
 > "You haven't made your bed."
@@ -16,6 +16,6 @@ Parents all over the world have experienced this kind of annoyances on a daily b
 
 To find a solution, we have to study the problem.
 
-Teenagers 
+Teenagers are glued to their phone and are ()
 
 
