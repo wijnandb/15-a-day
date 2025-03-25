@@ -187,9 +187,14 @@ weight = 1
 url = "tags.html"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Contact"
 weight = 5
 url = "contact.html"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 4
+url = "projects.html"
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
