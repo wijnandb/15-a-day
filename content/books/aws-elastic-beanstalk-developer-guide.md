@@ -8,7 +8,7 @@ authors: ['Amazon Web Services']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B076453JXW/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B076453JXW"
 ASIN: B076453JXW
-affiliatelink: https://www.amazon.com/dp/B076453JXW?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B076453JXW?tag=prcptm-20
 categories: ['book']
 ---
 # AWS Elastic Beanstalk: Developer Guide by Amazon Web Services

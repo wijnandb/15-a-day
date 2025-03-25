@@ -9,7 +9,7 @@ authors: ['Cialdini, Robert B.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01C36E2YS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01C36E2YS"
 ASIN: B01C36E2YS
-affiliatelink: https://www.amazon.com/dp/B01C36E2YS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01C36E2YS?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Pre-Suasion: A Revolutionary Way to Influence and Persuade" by Robert B. Cialdini

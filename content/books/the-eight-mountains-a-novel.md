@@ -9,7 +9,7 @@ authors: ['Cognetti, Paolo']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B074ZN61S1/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B074ZN61S1"
 ASIN: B074ZN61S1
-affiliatelink: https://www.amazon.com/dp/B074ZN61S1?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B074ZN61S1?tag=prcptm-20
 categories: ['book']
 ---
 # The Eight Mountains: A Novel by Paolo Cognetti

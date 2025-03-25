@@ -8,7 +8,7 @@ authors: ['Grinberg, Miguel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00K00W9LI/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00K00W9LI"
 ASIN: B00K00W9LI
-affiliatelink: https://www.amazon.com/dp/B00K00W9LI?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00K00W9LI?tag=prcptm-20
 categories: ['book']
 ---
 # Flask Web Development: Developing Web Applications with Python

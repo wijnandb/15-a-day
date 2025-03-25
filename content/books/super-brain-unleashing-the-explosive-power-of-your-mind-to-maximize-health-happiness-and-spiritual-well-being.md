@@ -9,7 +9,7 @@ authors: ['Chopra, Deepak', 'Tanzi, Rudolph E.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B008ZPG4MK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B008ZPG4MK"
 ASIN: B008ZPG4MK
-affiliatelink: https://www.amazon.com/dp/B008ZPG4MK?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B008ZPG4MK?tag=prcptm-20
 categories: ['book']
 ---
 # Super Brain: Unleashing the Explosive Power of Your Mind to Maximize Health, Happiness, and Spiritual Well-Being

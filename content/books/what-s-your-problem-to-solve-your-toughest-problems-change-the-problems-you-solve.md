@@ -8,7 +8,7 @@ authors: ['Wedell-Wedellsborg, Thomas']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07V4TB9GX/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07V4TB9GX"
 ASIN: B07V4TB9GX
-affiliatelink: https://www.amazon.com/dp/B07V4TB9GX?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07V4TB9GX?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *What's Your Problem?: To Solve Your Toughest Problems, Change the Problems You Solve* by Thomas Wedell-Wedellsborg

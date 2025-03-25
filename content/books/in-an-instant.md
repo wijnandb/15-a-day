@@ -8,7 +8,7 @@ authors: ['Redfearn, Suzanne']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07NVD1276/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07NVD1276"
 ASIN: B07NVD1276
-affiliatelink: https://www.amazon.com/dp/B07NVD1276?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07NVD1276?tag=prcptm-20
 categories: ['book']
 ---
 # In an Instant by Suzanne Redfearn

@@ -9,7 +9,7 @@ authors: ['Truant, Johnny']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B005OMBTKY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B005OMBTKY"
 ASIN: B005OMBTKY
-affiliatelink: https://www.amazon.com/dp/B005OMBTKY?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B005OMBTKY?tag=prcptm-20
 categories: ['book']
 ---
 # The Universe Doesn't Give a Flying Fuck About You (Epic Series Book 1)

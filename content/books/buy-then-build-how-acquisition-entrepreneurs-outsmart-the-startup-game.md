@@ -8,7 +8,7 @@ authors: ['Deibel, Walker']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07JKM2F5Q/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07JKM2F5Q"
 ASIN: B07JKM2F5Q
-affiliatelink: https://www.amazon.com/dp/B07JKM2F5Q?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07JKM2F5Q?tag=prcptm-20
 categories: ['book']
 ---
 # Book Overview: *Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game* by Walker Deibel

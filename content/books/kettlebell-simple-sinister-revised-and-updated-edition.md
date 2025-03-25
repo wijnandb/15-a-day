@@ -9,7 +9,7 @@ authors: ['Tsatsouline, Pavel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07ZQKWMKR/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07ZQKWMKR"
 ASIN: B07ZQKWMKR
-affiliatelink: https://www.amazon.com/dp/B07ZQKWMKR?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07ZQKWMKR?tag=prcptm-20
 categories: ['book']
 ---
 # Kettlebell Simple & Sinister: Revised and Updated Edition by Pavel Tsatsouline

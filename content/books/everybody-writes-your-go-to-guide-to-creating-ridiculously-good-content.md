@@ -8,7 +8,7 @@ authors: ['Handley, Ann']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00LMB5P0G/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00LMB5P0G"
 ASIN: B00LMB5P0G
-affiliatelink: https://www.amazon.com/dp/B00LMB5P0G?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00LMB5P0G?tag=prcptm-20
 categories: ['book']
 ---
 # Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content

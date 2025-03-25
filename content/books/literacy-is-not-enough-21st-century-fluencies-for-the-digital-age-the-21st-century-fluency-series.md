@@ -8,7 +8,7 @@ authors: ['Churches, Andrew', 'Crockett, Lee', 'Jukes, Ian']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00NA1VQ1S/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00NA1VQ1S"
 ASIN: B00NA1VQ1S
-affiliatelink: https://www.amazon.com/dp/B00NA1VQ1S?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00NA1VQ1S?tag=prcptm-20
 categories: ['book']
 ---
 # Literacy Is NOT Enough: 21st Century Fluencies for the Digital Age

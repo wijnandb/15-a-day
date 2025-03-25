@@ -8,7 +8,7 @@ authors: ['Pirsig, Robert M.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0026772N8/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0026772N8"
 ASIN: B0026772N8
-affiliatelink: https://www.amazon.com/dp/B0026772N8?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0026772N8?tag=prcptm-20
 categories: ['book']
 ---
 # Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values

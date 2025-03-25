@@ -8,7 +8,7 @@ authors: ['McGonigal Ph.D., Kelly']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B005ERIRZE/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B005ERIRZE"
 ASIN: B005ERIRZE
-affiliatelink: https://www.amazon.com/dp/B005ERIRZE?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B005ERIRZE?tag=prcptm-20
 categories: ['book']
 ---
 Sure, here's an overview of "The Willpower Instinct" formatted in markdown:

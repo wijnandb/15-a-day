@@ -9,7 +9,7 @@ authors: ['Scoble, Robert', 'Israel, Shel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01M5JKW3Z/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01M5JKW3Z"
 ASIN: B01M5JKW3Z
-affiliatelink: https://www.amazon.com/dp/B01M5JKW3Z?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01M5JKW3Z?tag=prcptm-20
 categories: ['book']
 ---
 # The Fourth Transformation: How Augmented Reality & Artificial Intelligence Will Change Everything

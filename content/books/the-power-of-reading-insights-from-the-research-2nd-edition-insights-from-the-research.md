@@ -8,7 +8,7 @@ authors: ['Krashen, Stephen']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B017S4QP9U/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B017S4QP9U"
 ASIN: B017S4QP9U
-affiliatelink: https://www.amazon.com/dp/B017S4QP9U?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B017S4QP9U?tag=prcptm-20
 categories: ['book']
 ---
 # The Power of Reading: Insights from the Research, 2nd Edition by Stephen Krashen

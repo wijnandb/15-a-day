@@ -8,7 +8,7 @@ authors: ['Jain, Shayank']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08739XSF4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08739XSF4"
 ASIN: B08739XSF4
-affiliatelink: https://www.amazon.com/dp/B08739XSF4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08739XSF4?tag=prcptm-20
 categories: ['book']
 ---
 # Designing Microservices Using Django by Shayank Jain

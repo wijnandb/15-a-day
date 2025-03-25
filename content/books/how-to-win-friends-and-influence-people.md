@@ -8,7 +8,7 @@ authors: ['Carnegie, Dale']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B003WEAI4E/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B003WEAI4E"
 ASIN: B003WEAI4E
-affiliatelink: https://www.amazon.com/dp/B003WEAI4E?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B003WEAI4E?tag=prcptm-20
 categories: ['book']
 ---
 # How To Win Friends and Influence People by Dale Carnegie

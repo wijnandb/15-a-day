@@ -9,7 +9,7 @@ authors: ['Hannah, Kristin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00JO8PEN2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00JO8PEN2"
 ASIN: B00JO8PEN2
-affiliatelink: https://www.amazon.com/dp/B00JO8PEN2?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00JO8PEN2?tag=prcptm-20
 categories: ['book']
 ---
 # The Nightingale: A Novel by Kristin Hannah

@@ -8,7 +8,7 @@ authors: ['Chomsky, Noam']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01AGIOEGG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01AGIOEGG"
 ASIN: B01AGIOEGG
-affiliatelink: https://www.amazon.com/dp/B01AGIOEGG?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01AGIOEGG?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Who Rules the World?" by Noam Chomsky

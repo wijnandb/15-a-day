@@ -8,7 +8,7 @@ authors: ['Severance, Charles']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01IA5VIFM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01IA5VIFM"
 ASIN: B01IA5VIFM
-affiliatelink: https://www.amazon.com/dp/B01IA5VIFM?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01IA5VIFM?tag=prcptm-20
 categories: ['book']
 ---
 # Python for Everybody: Exploring Data in Python 3

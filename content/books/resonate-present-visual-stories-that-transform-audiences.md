@@ -9,7 +9,7 @@ authors: ['Duarte, Nancy']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00F0U74IQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00F0U74IQ"
 ASIN: B00F0U74IQ
-affiliatelink: https://www.amazon.com/dp/B00F0U74IQ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00F0U74IQ?tag=prcptm-20
 categories: ['book']
 ---
 # Resonate: Present Visual Stories that Transform Audiences

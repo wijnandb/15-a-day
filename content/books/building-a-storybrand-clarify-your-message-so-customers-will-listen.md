@@ -8,7 +8,7 @@ authors: ['Miller, Donald']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B06XFJ2JGR/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B06XFJ2JGR"
 ASIN: B06XFJ2JGR
-affiliatelink: https://www.amazon.com/dp/B06XFJ2JGR?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B06XFJ2JGR?tag=prcptm-20
 categories: ['book']
 ---
 # Building a StoryBrand: Clarify Your Message So Customers Will Listen

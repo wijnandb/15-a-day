@@ -8,7 +8,7 @@ authors: ['Gatto, John Taylor']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B072F9VRZP/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B072F9VRZP"
 ASIN: B072F9VRZP
-affiliatelink: https://www.amazon.com/dp/B072F9VRZP?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B072F9VRZP?tag=prcptm-20
 categories: ['book']
 ---
 # Dumbing Us Down - 25th Anniversary Edition: The Hidden Curriculum of Compulsory Schooling by John Taylor Gatto

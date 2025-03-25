@@ -8,7 +8,7 @@ authors: ['Garner, Jameson']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08FDYQLRN/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08FDYQLRN"
 ASIN: B08FDYQLRN
-affiliatelink: https://www.amazon.com/dp/B08FDYQLRN?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08FDYQLRN?tag=prcptm-20
 categories: ['book']
 ---
 # GIT: The Ultimate Guide for Beginners: Learn Git Version Control by Jameson Garner

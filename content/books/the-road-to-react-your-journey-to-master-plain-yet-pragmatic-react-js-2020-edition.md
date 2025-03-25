@@ -9,7 +9,7 @@ authors: ['Wieruch, Robin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B077HJFCQX/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B077HJFCQX"
 ASIN: B077HJFCQX
-affiliatelink: https://www.amazon.com/dp/B077HJFCQX?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B077HJFCQX?tag=prcptm-20
 categories: ['book']
 ---
 # The Road to React: Your Journey to Master Plain Yet Pragmatic React.js (2020 Edition)

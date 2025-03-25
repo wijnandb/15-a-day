@@ -8,7 +8,7 @@ authors: ['Carter, Alexandra']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07Z44ZCJK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07Z44ZCJK"
 ASIN: B07Z44ZCJK
-affiliatelink: https://www.amazon.com/dp/B07Z44ZCJK?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07Z44ZCJK?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Ask for More: 10 Questions to Negotiate Anything" by Alexandra Carter

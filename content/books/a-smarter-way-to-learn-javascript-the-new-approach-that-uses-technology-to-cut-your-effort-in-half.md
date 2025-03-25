@@ -8,7 +8,7 @@ authors: ['Myers, Mark']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00H1W9I6C/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00H1W9I6C"
 ASIN: B00H1W9I6C
-affiliatelink: https://www.amazon.com/dp/B00H1W9I6C?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00H1W9I6C?tag=prcptm-20
 categories: ['book']
 ---
 # A Smarter Way to Learn JavaScript: The New Approach That Uses Technology to Cut Your Effort in Half

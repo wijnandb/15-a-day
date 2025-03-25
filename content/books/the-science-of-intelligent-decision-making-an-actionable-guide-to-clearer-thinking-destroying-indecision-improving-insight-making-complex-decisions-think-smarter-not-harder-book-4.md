@@ -8,7 +8,7 @@ authors: ['Hollins, Peter']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07B6TZNC4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07B6TZNC4"
 ASIN: B07B6TZNC4
-affiliatelink: https://www.amazon.com/dp/B07B6TZNC4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07B6TZNC4?tag=prcptm-20
 categories: ['book']
 ---
 Sure, here's the requested format in markdown:

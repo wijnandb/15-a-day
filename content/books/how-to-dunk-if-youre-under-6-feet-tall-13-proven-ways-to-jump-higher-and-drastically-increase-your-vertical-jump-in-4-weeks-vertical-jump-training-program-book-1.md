@@ -8,7 +8,7 @@ authors: ['Wilson, James']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00HWKVE2Y/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00HWKVE2Y"
 ASIN: B00HWKVE2Y
-affiliatelink: https://www.amazon.com/dp/B00HWKVE2Y?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00HWKVE2Y?tag=prcptm-20
 categories: ['book']
 ---
 # How to Dunk if You’re Under 6 Feet Tall

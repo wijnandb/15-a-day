@@ -9,7 +9,7 @@ authors: ['Jones, Brian K.', 'Beazley, David']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00DQV4GGY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00DQV4GGY"
 ASIN: B00DQV4GGY
-affiliatelink: https://www.amazon.com/dp/B00DQV4GGY?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00DQV4GGY?tag=prcptm-20
 categories: ['book']
 ---
 # Python Cookbook: Recipes for Mastering Python 3

@@ -8,7 +8,7 @@ authors: ['Harari, Yuval Noah']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01BBQ33VE/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01BBQ33VE"
 ASIN: B01BBQ33VE
-affiliatelink: https://www.amazon.com/dp/B01BBQ33VE?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01BBQ33VE?tag=prcptm-20
 categories: ['book']
 ---
 # Homo Deus: A Brief History of Tomorrow

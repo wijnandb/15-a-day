@@ -8,7 +8,7 @@ authors: ['Holiday, Ryan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B015NTIXWE/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B015NTIXWE"
 ASIN: B015NTIXWE
-affiliatelink: https://www.amazon.com/dp/B015NTIXWE?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B015NTIXWE?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Ego Is the Enemy" by Ryan Holiday

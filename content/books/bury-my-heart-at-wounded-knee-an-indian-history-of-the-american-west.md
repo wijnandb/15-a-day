@@ -9,7 +9,7 @@ authors: ['Brown, Dee']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B009KY5OGC/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B009KY5OGC"
 ASIN: B009KY5OGC
-affiliatelink: https://www.amazon.com/dp/B009KY5OGC?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B009KY5OGC?tag=prcptm-20
 categories: ['book']
 ---
 # Bury My Heart at Wounded Knee: An Indian History of the American West

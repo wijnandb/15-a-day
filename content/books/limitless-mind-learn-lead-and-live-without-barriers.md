@@ -9,7 +9,7 @@ authors: ['Boaler, Jo']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07CRH312M/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07CRH312M"
 ASIN: B07CRH312M
-affiliatelink: https://www.amazon.com/dp/B07CRH312M?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07CRH312M?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *Limitless Mind: Learn, Lead, and Live Without Barriers* by Jo Boaler

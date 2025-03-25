@@ -8,7 +8,7 @@ authors: ['Wojcicki, Esther']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07FKDX2C6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07FKDX2C6"
 ASIN: B07FKDX2C6
-affiliatelink: https://www.amazon.com/dp/B07FKDX2C6?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07FKDX2C6?tag=prcptm-20
 categories: ['book']
 ---
 # How to Raise Successful People: Simple Lessons for Radical Results

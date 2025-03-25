@@ -8,7 +8,7 @@ authors: ['Dewey, John']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0082ZJ6WS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0082ZJ6WS"
 ASIN: B0082ZJ6WS
-affiliatelink: https://www.amazon.com/dp/B0082ZJ6WS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0082ZJ6WS?tag=prcptm-20
 categories: ['book']
 ---
 # Democracy and Education: An Introduction to the Philosophy of Education by John Dewey

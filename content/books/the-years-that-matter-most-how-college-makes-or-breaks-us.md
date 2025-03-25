@@ -9,7 +9,7 @@ authors: ['Tough, Paul']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07LC92MH2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07LC92MH2"
 ASIN: B07LC92MH2
-affiliatelink: https://www.amazon.com/dp/B07LC92MH2?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07LC92MH2?tag=prcptm-20
 categories: ['book']
 ---
 # The Years That Matter Most: How College Makes or Breaks Us by Paul Tough

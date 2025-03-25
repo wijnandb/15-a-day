@@ -9,7 +9,7 @@ authors: ['McGonigal, Jane']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B004G8Q1Q4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B004G8Q1Q4"
 ASIN: B004G8Q1Q4
-affiliatelink: https://www.amazon.com/dp/B004G8Q1Q4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B004G8Q1Q4?tag=prcptm-20
 categories: ['book']
 ---
 # Reality Is Broken: Why Games Make Us Better and How They Can Change the World

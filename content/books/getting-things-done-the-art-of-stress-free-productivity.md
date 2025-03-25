@@ -8,7 +8,7 @@ authors: ['Allen, David']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000WH7PKY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B000WH7PKY"
 ASIN: B000WH7PKY
-affiliatelink: https://www.amazon.com/dp/B000WH7PKY?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B000WH7PKY?tag=prcptm-20
 categories: ['book']
 ---
 # Getting Things Done: The Art of Stress-Free Productivity

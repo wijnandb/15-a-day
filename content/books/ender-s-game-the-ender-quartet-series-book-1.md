@@ -8,7 +8,7 @@ authors: ['Card, Orson Scott']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B003G4W49C/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B003G4W49C"
 ASIN: B003G4W49C
-affiliatelink: https://www.amazon.com/dp/B003G4W49C?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B003G4W49C?tag=prcptm-20
 categories: ['book']
 ---
 # Ender's Game (The Ender Quartet series Book 1) by Orson Scott Card

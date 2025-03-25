@@ -9,7 +9,7 @@ authors: ['Olsen, Dan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00SZ638C8/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00SZ638C8"
 ASIN: B00SZ638C8
-affiliatelink: https://www.amazon.com/dp/B00SZ638C8?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00SZ638C8?tag=prcptm-20
 categories: ['book']
 ---
 # The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback by Dan Olsen

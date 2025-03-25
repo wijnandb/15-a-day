@@ -9,7 +9,7 @@ authors: ["O'Reilly, Bill", 'Dugard, Martin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B06XFGWZZ2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B06XFGWZZ2"
 ASIN: B06XFGWZZ2
-affiliatelink: https://www.amazon.com/dp/B06XFGWZZ2?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B06XFGWZZ2?tag=prcptm-20
 categories: ['book']
 ---
 # Killing England: The Brutal Struggle for American Independence

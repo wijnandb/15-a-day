@@ -9,7 +9,7 @@ authors: ['McKeown, Greg', 'Wiseman, Liz']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B003M69A4Q/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B003M69A4Q"
 ASIN: B003M69A4Q
-affiliatelink: https://www.amazon.com/dp/B003M69A4Q?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B003M69A4Q?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *Multipliers: How the Best Leaders Make Everyone Smarter*

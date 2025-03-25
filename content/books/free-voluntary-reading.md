@@ -8,7 +8,7 @@ authors: ['Krashen, Stephen D.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B005CGUMT6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B005CGUMT6"
 ASIN: B005CGUMT6
-affiliatelink: https://www.amazon.com/dp/B005CGUMT6?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B005CGUMT6?tag=prcptm-20
 categories: ['book']
 ---
 ## Free Voluntary Reading by Stephen D. Krashen

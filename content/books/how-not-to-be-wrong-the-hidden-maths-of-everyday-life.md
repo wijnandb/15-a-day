@@ -8,7 +8,7 @@ authors: ['Ellenberg, Jordan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00K8J3VC2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00K8J3VC2"
 ASIN: B00K8J3VC2
-affiliatelink: https://www.amazon.com/dp/B00K8J3VC2?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00K8J3VC2?tag=prcptm-20
 categories: ['book']
 ---
 # How Not to Be Wrong: The Hidden Maths of Everyday Life

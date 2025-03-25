@@ -8,7 +8,7 @@ authors: ['Godin, Seth']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0047ZFFEA/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0047ZFFEA"
 ASIN: B0047ZFFEA
-affiliatelink: https://www.amazon.com/dp/B0047ZFFEA?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0047ZFFEA?tag=prcptm-20
 categories: ['book']
 ---
 # Graceful by Seth Godin

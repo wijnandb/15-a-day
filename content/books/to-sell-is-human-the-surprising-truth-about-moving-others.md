@@ -9,7 +9,7 @@ authors: ['Pink, Daniel H.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0087GJ8KM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0087GJ8KM"
 ASIN: B0087GJ8KM
-affiliatelink: https://www.amazon.com/dp/B0087GJ8KM?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0087GJ8KM?tag=prcptm-20
 categories: ['book']
 ---
 # To Sell Is Human: The Surprising Truth About Moving Others by Daniel H. Pink

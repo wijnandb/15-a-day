@@ -9,7 +9,7 @@ authors: ['Fried, Jason', 'Heinemeier Hansson, David']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B002MUAJ2A/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B002MUAJ2A"
 ASIN: B002MUAJ2A
-affiliatelink: https://www.amazon.com/dp/B002MUAJ2A?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B002MUAJ2A?tag=prcptm-20
 categories: ['book']
 ---
 # Rework by Jason Fried and David Heinemeier Hansson

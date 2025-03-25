@@ -8,7 +8,7 @@ authors: ['Price, Adam']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0759YFDBJ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0759YFDBJ"
 ASIN: B0759YFDBJ
-affiliatelink: https://www.amazon.com/dp/B0759YFDBJ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0759YFDBJ?tag=prcptm-20
 categories: ['book']
 ---
 # He's Not Lazy: Empowering Your Son to Believe In Himself by Adam Price

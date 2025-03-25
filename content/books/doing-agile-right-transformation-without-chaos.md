@@ -8,7 +8,7 @@ authors: ['Berez, Steve', 'Elk, Sarah', 'Rigby, Darrell']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07V81614Z/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07V81614Z"
 ASIN: B07V81614Z
-affiliatelink: https://www.amazon.com/dp/B07V81614Z?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07V81614Z?tag=prcptm-20
 categories: ['book']
 ---
 # Doing Agile Right: Transformation Without Chaos

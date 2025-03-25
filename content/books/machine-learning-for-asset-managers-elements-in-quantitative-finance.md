@@ -9,7 +9,7 @@ authors: ['de Prado, Marcos López']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08461XP7R/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08461XP7R"
 ASIN: B08461XP7R
-affiliatelink: https://www.amazon.com/dp/B08461XP7R?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08461XP7R?tag=prcptm-20
 categories: ['book']
 ---
 # Machine Learning for Asset Managers (Elements in Quantitative Finance) by Marcos López de Prado

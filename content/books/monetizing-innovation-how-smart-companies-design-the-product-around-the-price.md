@@ -8,7 +8,7 @@ authors: ['Tacke, Georg', 'Ramanujam, Madhavan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01F4DYY1I/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01F4DYY1I"
 ASIN: B01F4DYY1I
-affiliatelink: https://www.amazon.com/dp/B01F4DYY1I?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01F4DYY1I?tag=prcptm-20
 categories: ['book']
 ---
 

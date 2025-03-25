@@ -8,7 +8,7 @@ authors: ['Liberty, Jesse']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0978TF66B/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0978TF66B"
 ASIN: B0978TF66B
-affiliatelink: https://www.amazon.com/dp/B0978TF66B?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0978TF66B?tag=prcptm-20
 categories: ['book']
 ---
 # Git for Programmers: Master Git for Effective Implementation of Version Control for Your Programming Projects by Jessy Liberty

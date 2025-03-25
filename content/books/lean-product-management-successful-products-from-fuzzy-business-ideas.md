@@ -9,7 +9,7 @@ authors: ['Nandakumar, Mangalam']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07BWFF3F9/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07BWFF3F9"
 ASIN: B07BWFF3F9
-affiliatelink: https://www.amazon.com/dp/B07BWFF3F9?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07BWFF3F9?tag=prcptm-20
 categories: ['book']
 ---
 # Lean Product Management: Successful Products from Fuzzy Business Ideas

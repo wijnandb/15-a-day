@@ -9,6 +9,6 @@ authors: ['Skeete, Gregory']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00DC8HU2S/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00DC8HU2S"
 ASIN: B00DC8HU2S
-affiliatelink: https://www.amazon.com/dp/B00DC8HU2S?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00DC8HU2S?tag=prcptm-20
 categories: ['book']
 ---

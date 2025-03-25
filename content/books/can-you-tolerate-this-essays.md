@@ -9,7 +9,7 @@ authors: ['Young, Ashleigh']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B077CRCDK9/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B077CRCDK9"
 ASIN: B077CRCDK9
-affiliatelink: https://www.amazon.com/dp/B077CRCDK9?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B077CRCDK9?tag=prcptm-20
 categories: ['book']
 ---
 # Can You Tolerate This?: Essays by Ashleigh Young

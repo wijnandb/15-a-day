@@ -8,7 +8,7 @@ authors: ['Dewey, John']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00120954O/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00120954O"
 ASIN: B00120954O
-affiliatelink: https://www.amazon.com/dp/B00120954O?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00120954O?tag=prcptm-20
 categories: ['book']
 ---
 # Experience And Education by John Dewey

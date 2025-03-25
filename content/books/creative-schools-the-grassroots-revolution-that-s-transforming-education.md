@@ -8,7 +8,7 @@ authors: ['Aronica, Lou', 'Robinson, Ken']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00OZ0TNOK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00OZ0TNOK"
 ASIN: B00OZ0TNOK
-affiliatelink: https://www.amazon.com/dp/B00OZ0TNOK?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00OZ0TNOK?tag=prcptm-20
 categories: ['book']
 ---
 # Creative Schools: The Grassroots Revolution That's Transforming Education

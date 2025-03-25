@@ -9,7 +9,7 @@ authors: ['Shapiro, Stephen']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0855C79BS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0855C79BS"
 ASIN: B0855C79BS
-affiliatelink: https://www.amazon.com/dp/B0855C79BS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0855C79BS?tag=prcptm-20
 categories: ['book']
 ---
 # Invisible Solutions: 25 Lenses that Reframe and Help Solve Difficult Business Problems

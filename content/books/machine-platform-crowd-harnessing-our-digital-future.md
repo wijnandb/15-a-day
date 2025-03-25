@@ -9,7 +9,7 @@ authors: ['McAfee, Andrew', 'Brynjolfsson, Erik']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01MAWT25I/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01MAWT25I"
 ASIN: B01MAWT25I
-affiliatelink: https://www.amazon.com/dp/B01MAWT25I?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01MAWT25I?tag=prcptm-20
 categories: ['book']
 ---
 # Machine, Platform, Crowd: Harnessing Our Digital Future

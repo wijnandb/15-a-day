@@ -9,7 +9,7 @@ authors: ['Collins, Allan', 'Halverson, Richard']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07D1FSR19/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07D1FSR19"
 ASIN: B07D1FSR19
-affiliatelink: https://www.amazon.com/dp/B07D1FSR19?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07D1FSR19?tag=prcptm-20
 categories: ['book']
 ---
 # Rethinking Education in the Age of Technology: The Digital Revolution and Schooling in America

@@ -9,7 +9,7 @@ authors: ['Fielding, Helen']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00D1VKZ3M/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00D1VKZ3M"
 ASIN: B00D1VKZ3M
-affiliatelink: https://www.amazon.com/dp/B00D1VKZ3M?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00D1VKZ3M?tag=prcptm-20
 categories: ['book']
 ---
 # Bridget Jones: Mad About the Boy (Bridget Jones Series Book 3)

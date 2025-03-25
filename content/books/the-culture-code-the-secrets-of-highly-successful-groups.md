@@ -8,7 +8,7 @@ authors: ['Coyle, Daniel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01MSY1Y6Z/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01MSY1Y6Z"
 ASIN: B01MSY1Y6Z
-affiliatelink: https://www.amazon.com/dp/B01MSY1Y6Z?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01MSY1Y6Z?tag=prcptm-20
 categories: ['book']
 ---
 # The Culture Code: The Secrets of Highly Successful Groups by Daniel Coyle

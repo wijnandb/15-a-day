@@ -9,7 +9,7 @@ authors: ['Frankl, Viktor E.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B009U9S6FI/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B009U9S6FI"
 ASIN: B009U9S6FI
-affiliatelink: https://www.amazon.com/dp/B009U9S6FI?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B009U9S6FI?tag=prcptm-20
 categories: ['book']
 ---
 # Man's Search for Meaning by Viktor E. Frankl

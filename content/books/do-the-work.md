@@ -8,7 +8,7 @@ authors: ['Pressfield, Steven']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00NK0MJBK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00NK0MJBK"
 ASIN: B00NK0MJBK
-affiliatelink: https://www.amazon.com/dp/B00NK0MJBK?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00NK0MJBK?tag=prcptm-20
 categories: ['book']
 ---
 # Do the Work by Steven Pressfield

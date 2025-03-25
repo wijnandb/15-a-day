@@ -9,7 +9,7 @@ authors: ['Greenfeld, Audrey Roy', 'Greenfeld, Daniel Roy']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B076D5FKFX/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B076D5FKFX"
 ASIN: B076D5FKFX
-affiliatelink: https://www.amazon.com/dp/B076D5FKFX?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B076D5FKFX?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *Two Scoops of Django 1.11: Best Practices for the Django Web Framework*

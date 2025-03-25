@@ -8,7 +8,7 @@ authors: ['Wagner, Tony']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B005GG0NFU/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B005GG0NFU"
 ASIN: B005GG0NFU
-affiliatelink: https://www.amazon.com/dp/B005GG0NFU?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B005GG0NFU?tag=prcptm-20
 categories: ['book']
 ---
 # Creating Innovators: The Making of Young People Who Will Change the World

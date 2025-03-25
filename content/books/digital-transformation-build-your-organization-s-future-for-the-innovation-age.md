@@ -8,7 +8,7 @@ authors: ['Herbert, Lindsay']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0768HH7MD/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0768HH7MD"
 ASIN: B0768HH7MD
-affiliatelink: https://www.amazon.com/dp/B0768HH7MD?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0768HH7MD?tag=prcptm-20
 categories: ['book']
 ---
 # Digital Transformation: Build Your Organization's Future for the Innovation Age by Lindsay Herbert

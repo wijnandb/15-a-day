@@ -9,7 +9,7 @@ authors: ['Martin, Fowler']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07LCM8RG2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07LCM8RG2"
 ASIN: B07LCM8RG2
-affiliatelink: https://www.amazon.com/dp/B07LCM8RG2?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07LCM8RG2?tag=prcptm-20
 categories: ['book']
 ---
 # Refactoring: Improving the Design of Existing Code

@@ -8,7 +8,7 @@ authors: ['Zipursky, Michael']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B076VG72PC/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B076VG72PC"
 ASIN: B076VG72PC
-affiliatelink: https://www.amazon.com/dp/B076VG72PC?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B076VG72PC?tag=prcptm-20
 categories: ['book']
 ---
 # The Elite Consulting Mind: 16 Proven Mindsets to Attract More Clients, Increase Your Income, and Achieve Meaningful Success

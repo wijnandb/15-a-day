@@ -9,7 +9,7 @@ authors: ['Thaler, Richard H.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00NUB4GFQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00NUB4GFQ"
 ASIN: B00NUB4GFQ
-affiliatelink: https://www.amazon.com/dp/B00NUB4GFQ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00NUB4GFQ?tag=prcptm-20
 categories: ['book']
 ---
 # Misbehaving: The Making of Behavioral Economics by Richard H. Thaler

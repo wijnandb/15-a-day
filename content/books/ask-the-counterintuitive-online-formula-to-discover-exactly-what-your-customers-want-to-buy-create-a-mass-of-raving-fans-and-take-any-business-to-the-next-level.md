@@ -8,7 +8,7 @@ authors: ['Levesque, Ryan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00UD7AX66/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00UD7AX66"
 ASIN: B00UD7AX66
-affiliatelink: https://www.amazon.com/dp/B00UD7AX66?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00UD7AX66?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Ask" by Ryan Levesque

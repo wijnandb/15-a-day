@@ -9,7 +9,7 @@ authors: ['Sinek, Simon']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B079DWSYYB/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B079DWSYYB"
 ASIN: B079DWSYYB
-affiliatelink: https://www.amazon.com/dp/B079DWSYYB?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B079DWSYYB?tag=prcptm-20
 categories: ['book']
 ---
 # The Infinite Game by Simon Sinek

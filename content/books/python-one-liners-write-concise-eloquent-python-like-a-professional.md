@@ -9,7 +9,7 @@ authors: ['Mayer, Christian']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07ZY7XMX8/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07ZY7XMX8"
 ASIN: B07ZY7XMX8
-affiliatelink: https://www.amazon.com/dp/B07ZY7XMX8?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07ZY7XMX8?tag=prcptm-20
 categories: ['book']
 ---
 # Python One-Liners: Write Concise, Eloquent Python Like a Professional

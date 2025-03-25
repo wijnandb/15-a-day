@@ -8,7 +8,7 @@ authors: ['Marji, Majed']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00IE94WY4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00IE94WY4"
 ASIN: B00IE94WY4
-affiliatelink: https://www.amazon.com/dp/B00IE94WY4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00IE94WY4?tag=prcptm-20
 categories: ['book']
 ---
 # Learn to Program with Scratch: A Visual Introduction to Programming with Games, Art, Science, and Math

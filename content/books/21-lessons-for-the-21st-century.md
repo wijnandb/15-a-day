@@ -8,7 +8,7 @@ authors: ['Harari, Yuval Noah']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B079WM7KLS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B079WM7KLS"
 ASIN: B079WM7KLS
-affiliatelink: https://www.amazon.com/dp/B079WM7KLS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B079WM7KLS?tag=prcptm-20
 ---
 
 ## Summary:

@@ -9,7 +9,7 @@ authors: ['VanderPlas, Jake']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01N2JT3ST/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01N2JT3ST"
 ASIN: B01N2JT3ST
-affiliatelink: https://www.amazon.com/dp/B01N2JT3ST?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01N2JT3ST?tag=prcptm-20
 categories: ['book']
 ---
 # Python Data Science Handbook: Essential Tools for Working with Data

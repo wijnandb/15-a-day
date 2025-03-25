@@ -8,7 +8,7 @@ authors: ['Clear, James']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07D23CFGR/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07D23CFGR"
 ASIN: B07D23CFGR
-affiliatelink: https://www.amazon.com/dp/B07D23CFGR?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07D23CFGR?tag=prcptm-20
 categories: ['book']
 ---
 # Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear

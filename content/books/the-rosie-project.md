@@ -9,7 +9,7 @@ authors: ['Simsion, Graeme']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00B2FLDRQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00B2FLDRQ"
 ASIN: B00B2FLDRQ
-affiliatelink: https://www.amazon.com/dp/B00B2FLDRQ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00B2FLDRQ?tag=prcptm-20
 categories: ['book']
 ---
 # The Rosie Project by Graeme Simsion

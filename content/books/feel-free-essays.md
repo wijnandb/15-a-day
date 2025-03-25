@@ -8,7 +8,7 @@ authors: ['Smith, Zadie']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B073NNRSYV/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B073NNRSYV"
 ASIN: B073NNRSYV
-affiliatelink: https://www.amazon.com/dp/B073NNRSYV?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B073NNRSYV?tag=prcptm-20
 categories: ['book']
 ---
 # Feel Free: Essays by Zadie Smith

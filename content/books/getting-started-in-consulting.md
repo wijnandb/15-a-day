@@ -8,7 +8,7 @@ authors: ['Weiss, Alan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0023SDQUS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0023SDQUS"
 ASIN: B0023SDQUS
-affiliatelink: https://www.amazon.com/dp/B0023SDQUS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0023SDQUS?tag=prcptm-20
 categories: ['book']
 ---
 # Getting Started in Consulting by Alan Weiss

@@ -9,7 +9,7 @@ authors: ['Rooney, Sally']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07FS25XTW/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07FS25XTW"
 ASIN: B07FS25XTW
-affiliatelink: https://www.amazon.com/dp/B07FS25XTW?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07FS25XTW?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *Normal People: A Novel* by Sally Rooney

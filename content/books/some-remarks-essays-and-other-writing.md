@@ -8,7 +8,7 @@ authors: ['Stephenson, Neal']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0078XFRM8/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0078XFRM8"
 ASIN: B0078XFRM8
-affiliatelink: https://www.amazon.com/dp/B0078XFRM8?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0078XFRM8?tag=prcptm-20
 categories: ['book']
 ---
 Certainly! Here is an overview of the book "Some Remarks: Essays and Other Writing" by Neal Stephenson in markdown format:

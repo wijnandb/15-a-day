@@ -9,7 +9,7 @@ authors: ['Mulvihill, Ryan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B017DCMPGE/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B017DCMPGE"
 ASIN: B017DCMPGE
-affiliatelink: https://www.amazon.com/dp/B017DCMPGE?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B017DCMPGE?tag=prcptm-20
 categories: ['book']
 ---
 Sure, here is a structured overview of the book "Startup Idea Action Plan: Validate Your Startup And Get Customers in 7 Days" written by Ryan Mulvihill, presented in markdown format:

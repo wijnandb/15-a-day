@@ -9,7 +9,7 @@ authors: ['Eggers, Dave']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B005TIWYQ6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B005TIWYQ6"
 ASIN: B005TIWYQ6
-affiliatelink: https://www.amazon.com/dp/B005TIWYQ6?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B005TIWYQ6?tag=prcptm-20
 categories: ['book']
 ---
 # What is the What by Dave Eggers

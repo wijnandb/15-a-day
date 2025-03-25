@@ -8,7 +8,7 @@ authors: ['Ibarra, Herminia']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00O4CRR8S/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00O4CRR8S"
 ASIN: B00O4CRR8S
-affiliatelink: https://www.amazon.com/dp/B00O4CRR8S?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00O4CRR8S?tag=prcptm-20
 categories: ['book']
 ---
 # Act Like a Leader, Think Like a Leader

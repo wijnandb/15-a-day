@@ -8,7 +8,7 @@ authors: ['Tuckfield, Bradford']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B084FLBDV7/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B084FLBDV7"
 ASIN: B084FLBDV7
-affiliatelink: https://www.amazon.com/dp/B084FLBDV7?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B084FLBDV7?tag=prcptm-20
 categories: ['book']
 ---
 # Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner

@@ -9,7 +9,7 @@ authors: ['Doidge, Norman']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000QCTNIW/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B000QCTNIW"
 ASIN: B000QCTNIW
-affiliatelink: https://www.amazon.com/dp/B000QCTNIW?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B000QCTNIW?tag=prcptm-20
 categories: ['book']
 ---
 ## Summary

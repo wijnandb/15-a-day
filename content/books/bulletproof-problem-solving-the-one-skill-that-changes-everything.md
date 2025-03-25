@@ -8,7 +8,7 @@ authors: ['Conn, Charles', 'McLean, Robert']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07PFRCCY4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07PFRCCY4"
 ASIN: B07PFRCCY4
-affiliatelink: https://www.amazon.com/dp/B07PFRCCY4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07PFRCCY4?tag=prcptm-20
 categories: ['book']
 ---
 # Bulletproof Problem Solving: The One Skill That Changes Everything

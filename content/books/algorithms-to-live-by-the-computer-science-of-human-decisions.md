@@ -8,7 +8,7 @@ authors: ['Christian, Brian', 'Griffiths, Tom']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B015CKNWJI/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B015CKNWJI"
 ASIN: B015CKNWJI
-affiliatelink: https://www.amazon.com/dp/B015CKNWJI?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B015CKNWJI?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *Algorithms to Live By: The Computer Science of Human Decisions*

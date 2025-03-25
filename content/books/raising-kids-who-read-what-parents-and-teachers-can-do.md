@@ -9,7 +9,7 @@ authors: ['Willingham, Daniel T.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00QL31EU0/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00QL31EU0"
 ASIN: B00QL31EU0
-affiliatelink: https://www.amazon.com/dp/B00QL31EU0?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00QL31EU0?tag=prcptm-20
 categories: ['book']
 ---
 # Raising Kids Who Read: What Parents and Teachers Can Do by Daniel T. Willingham

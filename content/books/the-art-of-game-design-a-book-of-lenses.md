@@ -9,7 +9,7 @@ authors: ['Jesse', 'Schell']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B001V7U76S/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B001V7U76S"
 ASIN: B001V7U76S
-affiliatelink: https://www.amazon.com/dp/B001V7U76S?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B001V7U76S?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *The Art of Game Design: A Book of Lenses* by Jesse Schell

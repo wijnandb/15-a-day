@@ -8,7 +8,7 @@ authors: ['Ellis, Warren']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007ZFIMC6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007ZFIMC6"
 ASIN: B007ZFIMC6
-affiliatelink: https://www.amazon.com/dp/B007ZFIMC6?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B007ZFIMC6?tag=prcptm-20
 categories: ['book']
 ---
 # Gun Machine by Warren Ellis

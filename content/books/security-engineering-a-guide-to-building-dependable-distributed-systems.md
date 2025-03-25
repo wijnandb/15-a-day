@@ -9,7 +9,7 @@ authors: ['Anderson , Ross']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08P69FT4Q/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08P69FT4Q"
 ASIN: B08P69FT4Q
-affiliatelink: https://www.amazon.com/dp/B08P69FT4Q?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08P69FT4Q?tag=prcptm-20
 categories: ['book']
 ---
 # Security Engineering: A Guide to Building Dependable Distributed Systems by Ross Anderson

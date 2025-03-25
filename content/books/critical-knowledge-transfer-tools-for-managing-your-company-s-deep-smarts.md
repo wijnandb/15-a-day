@@ -8,7 +8,7 @@ authors: ['Swap, Walter C.', 'Leonard, Dorothy', 'Barton, Gavin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00O92Q6BM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00O92Q6BM"
 ASIN: B00O92Q6BM
-affiliatelink: https://www.amazon.com/dp/B00O92Q6BM?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00O92Q6BM?tag=prcptm-20
 categories: ['book']
 ---
 # Critical Knowledge Transfer: Tools for Managing Your Company's Deep Smarts

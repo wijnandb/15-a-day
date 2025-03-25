@@ -8,7 +8,7 @@ authors: ['Ambrose, Susan A.', 'Norman, Marie K.', 'Lovett, Marsha C.', 'DiPietr
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B003IEJZXS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B003IEJZXS"
 ASIN: B003IEJZXS
-affiliatelink: https://www.amazon.com/dp/B003IEJZXS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B003IEJZXS?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "How Learning Works: Seven Research-Based Principles for Smart Teaching"

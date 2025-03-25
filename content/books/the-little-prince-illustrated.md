@@ -9,7 +9,7 @@ authors: ['de Saint-Exupéry, Antoine']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01FROZ2S8/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01FROZ2S8"
 ASIN: B01FROZ2S8
-affiliatelink: https://www.amazon.com/dp/B01FROZ2S8?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01FROZ2S8?tag=prcptm-20
 categories: ['book']
 ---
 # The Little Prince (Illustrated) by Antoine de Saint-Exupéry

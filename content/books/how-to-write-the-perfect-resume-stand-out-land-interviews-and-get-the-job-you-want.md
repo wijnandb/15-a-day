@@ -8,7 +8,7 @@ authors: ['Clay, Dan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07DCDY77N/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07DCDY77N"
 ASIN: B07DCDY77N
-affiliatelink: https://www.amazon.com/dp/B07DCDY77N?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07DCDY77N?tag=prcptm-20
 categories: ['book']
 ---
 # How to Write the Perfect Resume: Stand Out, Land Interviews, and Get the Job You Want by Dan Clay

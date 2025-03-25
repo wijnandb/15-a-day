@@ -8,7 +8,7 @@ authors: ['Rippetoe, Mark']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B006XJR5ZA/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B006XJR5ZA"
 ASIN: B006XJR5ZA
-affiliatelink: https://www.amazon.com/dp/B006XJR5ZA?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B006XJR5ZA?tag=prcptm-20
 categories: ['book']
 ---
 # Starting Strength by Mark Rippetoe

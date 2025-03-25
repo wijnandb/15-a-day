@@ -9,7 +9,7 @@ authors: ['Varian, Hal R.', 'Shapiro, Carl']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B004OC07FI/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B004OC07FI"
 ASIN: B004OC07FI
-affiliatelink: https://www.amazon.com/dp/B004OC07FI?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B004OC07FI?tag=prcptm-20
 categories: ['book']
 ---
 # Information Rules: A Strategic Guide to the Network Economy

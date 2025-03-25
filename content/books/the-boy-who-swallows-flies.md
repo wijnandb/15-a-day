@@ -9,7 +9,7 @@ authors: ['Stewart, Michael F.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B078YZNHYX/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B078YZNHYX"
 ASIN: B078YZNHYX
-affiliatelink: https://www.amazon.com/dp/B078YZNHYX?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B078YZNHYX?tag=prcptm-20
 categories: ['book']
 ---
 I'm sorry, but I don't have specific information about "The Boy Who Swallows Flies" by Michael F. Stewart in my data. Therefore, I cannot provide a factual overview of the book's content, review, key takeaways, or specific recommendations. 

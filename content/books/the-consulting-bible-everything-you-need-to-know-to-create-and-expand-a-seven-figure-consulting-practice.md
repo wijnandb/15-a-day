@@ -9,7 +9,7 @@ authors: ['Weiss, Alan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B004PYDRLQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B004PYDRLQ"
 ASIN: B004PYDRLQ
-affiliatelink: https://www.amazon.com/dp/B004PYDRLQ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B004PYDRLQ?tag=prcptm-20
 categories: ['book']
 ---
 # The Consulting Bible: Everything You Need to Know to Create and Expand a Seven-Figure Consulting Practice

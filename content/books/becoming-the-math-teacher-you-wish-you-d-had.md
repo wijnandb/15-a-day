@@ -8,7 +8,7 @@ authors: ['Tracy Zager']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B071V9JW69/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B071V9JW69"
 ASIN: B071V9JW69
-affiliatelink: https://www.amazon.com/dp/B071V9JW69?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B071V9JW69?tag=prcptm-20
 categories: ['book']
 ---
 # Becoming the Math Teacher You Wish You'd Had

@@ -9,7 +9,7 @@ authors: ['Imam, Raza']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08DKBMJB4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08DKBMJB4"
 ASIN: B08DKBMJB4
-affiliatelink: https://www.amazon.com/dp/B08DKBMJB4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08DKBMJB4?tag=prcptm-20
 categories: ['book']
 ---
 # The LinkedIn Lead Gen System: The Secret Lead Gen System to Attract a Steady Stream of Highly Qualified B2B Leads on LinkedIn - That Are EAGER to Talk to You (Digital Marketing Mastery Book 5) by Raza Imam

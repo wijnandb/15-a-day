@@ -8,7 +8,7 @@ authors: ['Polya, G.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0073X0IOA/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0073X0IOA"
 ASIN: B0073X0IOA
-affiliatelink: https://www.amazon.com/dp/B0073X0IOA?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0073X0IOA?tag=prcptm-20
 categories: ['book']
 ---
 # How to Solve It: A New Aspect of Mathematical Method

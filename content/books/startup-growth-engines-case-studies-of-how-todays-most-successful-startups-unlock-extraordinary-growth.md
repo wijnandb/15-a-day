@@ -9,7 +9,7 @@ authors: ['Ellis, Sean', 'Brown, Morgan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00LA95B68/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00LA95B68"
 ASIN: B00LA95B68
-affiliatelink: https://www.amazon.com/dp/B00LA95B68?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00LA95B68?tag=prcptm-20
 categories: ['book']
 ---
 # Startup Growth Engines: Case Studies of How Today’s Most Successful Startups Unlock Extraordinary Growth by Sean Ellis and Morgan Brown

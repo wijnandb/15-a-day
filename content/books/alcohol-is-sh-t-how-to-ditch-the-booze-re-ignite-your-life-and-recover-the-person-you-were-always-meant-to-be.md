@@ -8,7 +8,7 @@ authors: ['Churchill, Paul']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07W39ZSHV/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07W39ZSHV"
 ASIN: B07W39ZSHV
-affiliatelink: https://www.amazon.com/dp/B07W39ZSHV?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07W39ZSHV?tag=prcptm-20
 categories: ['book']
 ---
 ## Overview of "Alcohol is SH!T: How to Ditch the Booze, Re-ignite Your Life, and Recover the Person You Were Always Meant to be"

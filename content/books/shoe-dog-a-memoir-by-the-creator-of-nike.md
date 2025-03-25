@@ -9,7 +9,7 @@ authors: ['Knight, Phil']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0176M1A44/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0176M1A44"
 ASIN: B0176M1A44
-affiliatelink: https://www.amazon.com/dp/B0176M1A44?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0176M1A44?tag=prcptm-20
 categories: ['book']
 ---
 # Shoe Dog: A Memoir by the Creator of Nike

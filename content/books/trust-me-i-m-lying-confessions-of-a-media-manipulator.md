@@ -9,7 +9,7 @@ authors: ['Holiday, Ryan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0074VTHH0/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0074VTHH0"
 ASIN: B0074VTHH0
-affiliatelink: https://www.amazon.com/dp/B0074VTHH0?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0074VTHH0?tag=prcptm-20
 categories: ['book']
 ---
 # Trust Me, I'm Lying: Confessions of a Media Manipulator by Ryan Holiday

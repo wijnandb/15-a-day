@@ -9,7 +9,7 @@ authors: ['McKey, Zoe']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B081TNPGV8/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B081TNPGV8"
 ASIN: B081TNPGV8
-affiliatelink: https://www.amazon.com/dp/B081TNPGV8?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B081TNPGV8?tag=prcptm-20
 categories: ['book']
 ---
 # Think in Systems: The Art of Strategic Planning, Effective Problem Solving, And Lasting Results by Zoe McKey

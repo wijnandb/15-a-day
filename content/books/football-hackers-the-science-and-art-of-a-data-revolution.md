@@ -8,7 +8,7 @@ authors: ['Biermann, Christoph']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07NQM3YGK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07NQM3YGK"
 ASIN: B07NQM3YGK
-affiliatelink: https://www.amazon.com/dp/B07NQM3YGK?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07NQM3YGK?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *Football Hackers: The Science and Art of a Data Revolution*

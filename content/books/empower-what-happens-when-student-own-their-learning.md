@@ -8,7 +8,7 @@ authors: ['Spencer, John', 'Juliani, A.J.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B073HJR8HR/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B073HJR8HR"
 ASIN: B073HJR8HR
-affiliatelink: https://www.amazon.com/dp/B073HJR8HR?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B073HJR8HR?tag=prcptm-20
 categories: ['book']
 ---
 # Empower: What Happens When Students Own Their Learning

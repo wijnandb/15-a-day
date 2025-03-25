@@ -9,7 +9,7 @@ authors: ['Fitzpatrick, Rob']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01H4G2J1U/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01H4G2J1U"
 ASIN: B01H4G2J1U
-affiliatelink: https://www.amazon.com/dp/B01H4G2J1U?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01H4G2J1U?tag=prcptm-20
 categories: ['book']
 ---
 # The Mom Test: How to Talk to Customers & Learn If Your Business is a Good Idea When Everyone is Lying to You

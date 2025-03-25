@@ -9,7 +9,7 @@ authors: ['Flanagan, David']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B004GTLFDM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B004GTLFDM"
 ASIN: B004GTLFDM
-affiliatelink: https://www.amazon.com/dp/B004GTLFDM?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B004GTLFDM?tag=prcptm-20
 categories: ['book']
 ---
 # jQuery Pocket Reference: Read Less, Learn More by David Flanagan

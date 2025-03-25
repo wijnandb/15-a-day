@@ -8,7 +8,7 @@ authors: ['Iansiti, Marco', 'Lakhani, Karim R.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07MWCTNSD/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07MWCTNSD"
 ASIN: B07MWCTNSD
-affiliatelink: https://www.amazon.com/dp/B07MWCTNSD?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07MWCTNSD?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World"

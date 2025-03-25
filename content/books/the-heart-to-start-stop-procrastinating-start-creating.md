@@ -9,7 +9,7 @@ authors: ['Kadavy, David']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B077XRMBR9/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B077XRMBR9"
 ASIN: B077XRMBR9
-affiliatelink: https://www.amazon.com/dp/B077XRMBR9?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B077XRMBR9?tag=prcptm-20
 categories: ['book']
 ---
 # The Heart to Start: Stop Procrastinating & Start Creating by David Kadavy

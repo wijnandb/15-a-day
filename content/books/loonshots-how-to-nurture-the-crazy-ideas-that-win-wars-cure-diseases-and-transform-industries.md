@@ -9,7 +9,7 @@ authors: ['Bahcall, Safi']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07D2BKVQR/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07D2BKVQR"
 ASIN: B07D2BKVQR
-affiliatelink: https://www.amazon.com/dp/B07D2BKVQR?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07D2BKVQR?tag=prcptm-20
 categories: ['book']
 ---
 # Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries

@@ -8,7 +8,7 @@ authors: ['Ericsson, Anders', 'Pool, Robert']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B011H56MKS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B011H56MKS"
 ASIN: B011H56MKS
-affiliatelink: https://www.amazon.com/dp/B011H56MKS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B011H56MKS?tag=prcptm-20
 categories: ['book']
 ---
 

@@ -9,7 +9,7 @@ authors: ['Kahneman, Daniel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00555X8OA/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00555X8OA"
 ASIN: B00555X8OA
-affiliatelink: https://www.amazon.com/dp/B00555X8OA?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00555X8OA?tag=prcptm-20
 categories: ['book']
 ---
 # Thinking, Fast and Slow by Daniel Kahneman

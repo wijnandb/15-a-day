@@ -9,7 +9,7 @@ authors: ['Medhora, Neville']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00F209U6S/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00F209U6S"
 ASIN: B00F209U6S
-affiliatelink: https://www.amazon.com/dp/B00F209U6S?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00F209U6S?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "This Book Will Teach You How to Write Better" by Neville Medhora

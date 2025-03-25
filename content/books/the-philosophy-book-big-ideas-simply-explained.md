@@ -8,7 +8,7 @@ authors: ['Buckingham, Will', 'Peter J. King', 'Marcus Weeks', 'Douglas Burnham'
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00TK7U4A0/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00TK7U4A0"
 ASIN: B00TK7U4A0
-affiliatelink: https://www.amazon.com/dp/B00TK7U4A0?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00TK7U4A0?tag=prcptm-20
 categories: ['book']
 ---
 # The Philosophy Book (Big Ideas Simply Explained)

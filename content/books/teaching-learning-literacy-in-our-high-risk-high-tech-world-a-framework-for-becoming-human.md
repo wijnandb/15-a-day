@@ -9,7 +9,7 @@ authors: ['Gee, James Paul']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B072BQ26SK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B072BQ26SK"
 ASIN: B072BQ26SK
-affiliatelink: https://www.amazon.com/dp/B072BQ26SK?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B072BQ26SK?tag=prcptm-20
 categories: ['book']
 ---
 # Teaching, Learning, Literacy in Our High-Risk High-Tech World: A Framework for Becoming Human by James Paul Gee

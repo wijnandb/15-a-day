@@ -9,7 +9,7 @@ authors: ['Buelta, Jaime']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B088NBRT6Z/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B088NBRT6Z"
 ASIN: B088NBRT6Z
-affiliatelink: https://www.amazon.com/dp/B088NBRT6Z?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B088NBRT6Z?tag=prcptm-20
 categories: ['book']
 ---
 # Python Automation Cookbook: 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more, 2nd Edition

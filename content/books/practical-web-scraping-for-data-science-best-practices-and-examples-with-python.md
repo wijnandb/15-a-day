@@ -9,7 +9,7 @@ authors: ['Baesens, Bart', 'vanden Broucke, Seppe']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07CH3CH51/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07CH3CH51"
 ASIN: B07CH3CH51
-affiliatelink: https://www.amazon.com/dp/B07CH3CH51?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07CH3CH51?tag=prcptm-20
 categories: ['book']
 ---
 # Practical Web Scraping for Data Science: Best Practices and Examples with Python

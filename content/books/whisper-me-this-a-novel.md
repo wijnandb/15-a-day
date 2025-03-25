@@ -8,7 +8,7 @@ authors: ['King, Kerry Anne']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B077GS75HG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B077GS75HG"
 ASIN: B077GS75HG
-affiliatelink: https://www.amazon.com/dp/B077GS75HG?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B077GS75HG?tag=prcptm-20
 categories: ['book']
 ---
 # Whisper Me This: A Novel by Kerry Anne King

@@ -8,7 +8,7 @@ authors: ['C.H.C., Kate Weiler', 'Mardigan R.D., Tara']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01EXVBVMW/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01EXVBVMW"
 ASIN: B01EXVBVMW
-affiliatelink: https://www.amazon.com/dp/B01EXVBVMW?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01EXVBVMW?tag=prcptm-20
 categories: ['book']
 ---
 # Real Fit Kitchen Overview

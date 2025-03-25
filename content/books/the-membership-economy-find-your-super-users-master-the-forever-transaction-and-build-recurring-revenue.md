@@ -9,7 +9,7 @@ authors: ['Baxter, Robbie Kellman']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00TTAL78Q/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00TTAL78Q"
 ASIN: B00TTAL78Q
-affiliatelink: https://www.amazon.com/dp/B00TTAL78Q?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00TTAL78Q?tag=prcptm-20
 categories: ['book']
 ---
 # The Membership Economy: Find Your Super Users, Master the Forever Transaction, and Build Recurring Revenue

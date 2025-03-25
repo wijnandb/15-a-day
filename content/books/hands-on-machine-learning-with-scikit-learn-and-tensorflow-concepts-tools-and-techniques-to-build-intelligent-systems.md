@@ -8,7 +8,7 @@ authors: ['Géron, Aurélien']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B06XNKV5TS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B06XNKV5TS"
 ASIN: B06XNKV5TS
-affiliatelink: https://www.amazon.com/dp/B06XNKV5TS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B06XNKV5TS?tag=prcptm-20
 categories: ['book']
 ---
 # Hands-On Machine Learning with Scikit-Learn and TensorFlow

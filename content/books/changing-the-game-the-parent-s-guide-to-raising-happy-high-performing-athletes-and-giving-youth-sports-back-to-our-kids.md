@@ -8,7 +8,7 @@ authors: ["O'Sullivan, John"]
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00DZC25LW/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00DZC25LW"
 ASIN: B00DZC25LW
-affiliatelink: https://www.amazon.com/dp/B00DZC25LW?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00DZC25LW?tag=prcptm-20
 categories: ['book']
 ---
 # Changing the Game: The Parent's Guide to Raising Happy, High Performing Athletes, and Giving Youth Sports Back to our Kids

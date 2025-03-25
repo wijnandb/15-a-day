@@ -8,7 +8,7 @@ authors: ['Westover, Tara']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B072BLVM83/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B072BLVM83"
 ASIN: B072BLVM83
-affiliatelink: https://www.amazon.com/dp/B072BLVM83?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B072BLVM83?tag=prcptm-20
 categories: ['book']
 ---
 # Educated: A Memoir by Tara Westover

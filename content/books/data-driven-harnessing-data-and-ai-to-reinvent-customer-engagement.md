@@ -8,7 +8,7 @@ authors: ['Chavez, Tom', 'O’Hara, Chris', 'Vaidya, Vivek']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07GFV6SJ6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07GFV6SJ6"
 ASIN: B07GFV6SJ6
-affiliatelink: https://www.amazon.com/dp/B07GFV6SJ6?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07GFV6SJ6?tag=prcptm-20
 categories: ['book']
 ---
 # Data Driven: Harnessing Data and AI to Reinvent Customer Engagement

@@ -9,7 +9,7 @@ authors: ['Bain, Patrice M.', 'Agarwal, Pooja K.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07RV6S4NP/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07RV6S4NP"
 ASIN: B07RV6S4NP
-affiliatelink: https://www.amazon.com/dp/B07RV6S4NP?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07RV6S4NP?tag=prcptm-20
 categories: ['book']
 ---
 ## Summary

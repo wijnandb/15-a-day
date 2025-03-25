@@ -9,7 +9,7 @@ authors: ['Fields, David A.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B06WVGXT6H/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B06WVGXT6H"
 ASIN: B06WVGXT6H
-affiliatelink: https://www.amazon.com/dp/B06WVGXT6H?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B06WVGXT6H?tag=prcptm-20
 categories: ['book']
 ---
 # The Irresistible Consultant's Guide to Winning Clients: 6 Steps to Unlimited Clients & Financial Freedom by David A. Fields

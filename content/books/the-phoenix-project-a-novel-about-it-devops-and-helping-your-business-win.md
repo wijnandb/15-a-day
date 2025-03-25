@@ -8,7 +8,7 @@ authors: ['Spafford, George', 'Kim, Gene', 'Behr, Kevin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B078Y98RG8/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B078Y98RG8"
 ASIN: B078Y98RG8
-affiliatelink: https://www.amazon.com/dp/B078Y98RG8?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B078Y98RG8?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*

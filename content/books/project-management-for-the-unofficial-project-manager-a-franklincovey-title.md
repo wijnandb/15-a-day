@@ -9,7 +9,7 @@ authors: ['Blakemore, Suzette', 'Wood, James', 'Kogon, Kory']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00RTYMOQS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00RTYMOQS"
 ASIN: B00RTYMOQS
-affiliatelink: https://www.amazon.com/dp/B00RTYMOQS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00RTYMOQS?tag=prcptm-20
 categories: ['book']
 ---
 # Project Management for the Unofficial Project Manager: A FranklinCovey Title

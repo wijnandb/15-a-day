@@ -9,7 +9,7 @@ authors: ['McGrimmon, Lisa']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00CNTMR16/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00CNTMR16"
 ASIN: B00CNTMR16
-affiliatelink: https://www.amazon.com/dp/B00CNTMR16?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00CNTMR16?tag=prcptm-20
 categories: ['book']
 ---
 # The Resume Writing Guide: A Step-by-Step Workbook for Creating a Winning Resume

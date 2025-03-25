@@ -9,7 +9,7 @@ authors: ['Camus, Albert']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B009UAO2H8/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B009UAO2H8"
 ASIN: B009UAO2H8
-affiliatelink: https://www.amazon.com/dp/B009UAO2H8?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B009UAO2H8?tag=prcptm-20
 categories: ['book']
 ---
 # The Myth of Sisyphus And Other Essays (Vintage International) by Albert Camus

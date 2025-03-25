@@ -9,7 +9,7 @@ authors: ['Moran, Brian P.', 'Lennington, Michael']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00CU9P31K/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00CU9P31K"
 ASIN: B00CU9P31K
-affiliatelink: https://www.amazon.com/dp/B00CU9P31K?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00CU9P31K?tag=prcptm-20
 categories: ['book']
 ---
 # The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months

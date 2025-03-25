@@ -8,7 +8,7 @@ authors: ['Hollins, Peter']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08TVXZYCP/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08TVXZYCP"
 ASIN: B08TVXZYCP
-affiliatelink: https://www.amazon.com/dp/B08TVXZYCP?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08TVXZYCP?tag=prcptm-20
 categories: ['book']
 ---
 # How to Teach Anything: Break Down Complex Topics and Explain with Clarity, While Keeping Engagement and Motivation

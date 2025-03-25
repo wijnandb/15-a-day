@@ -9,7 +9,7 @@ authors: ['Gawdat, Mo']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01H0IOZQ4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01H0IOZQ4"
 ASIN: B01H0IOZQ4
-affiliatelink: https://www.amazon.com/dp/B01H0IOZQ4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01H0IOZQ4?tag=prcptm-20
 categories: ['book']
 ---
 # Solve for Happy: Engineer Your Path to Joy

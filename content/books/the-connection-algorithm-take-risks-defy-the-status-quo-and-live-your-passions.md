@@ -9,7 +9,7 @@ authors: ['Tevelow, Jesse']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00XLTGBLO/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00XLTGBLO"
 ASIN: B00XLTGBLO
-affiliatelink: https://www.amazon.com/dp/B00XLTGBLO?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00XLTGBLO?tag=prcptm-20
 categories: ['book']
 ---
 # The Connection Algorithm: Take Risks, Defy the Status Quo, and Live Your Passions by Jesse Tevelow

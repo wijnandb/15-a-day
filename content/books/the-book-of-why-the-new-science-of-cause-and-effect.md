@@ -9,7 +9,7 @@ authors: ['Mackenzie, Dana', 'Pearl, Judea']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B075CR9QBJ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B075CR9QBJ"
 ASIN: B075CR9QBJ
-affiliatelink: https://www.amazon.com/dp/B075CR9QBJ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B075CR9QBJ?tag=prcptm-20
 categories: ['book']
 ---
 # The Book of Why: The New Science of Cause and Effect

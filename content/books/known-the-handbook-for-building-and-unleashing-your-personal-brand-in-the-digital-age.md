@@ -8,7 +8,7 @@ authors: ['Schaefer, Mark']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01MUVMPQP/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01MUVMPQP"
 ASIN: B01MUVMPQP
-affiliatelink: https://www.amazon.com/dp/B01MUVMPQP?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01MUVMPQP?tag=prcptm-20
 categories: ['book']
 ---
 # KNOWN: The Handbook for Building and Unleashing Your Personal Brand in the Digital Age

@@ -9,7 +9,7 @@ authors: ['Grover, Tim S.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B009R4KNMU/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B009R4KNMU"
 ASIN: B009R4KNMU
-affiliatelink: https://www.amazon.com/dp/B009R4KNMU?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B009R4KNMU?tag=prcptm-20
 categories: ['book']
 ---
 # Jump Attack: The Formula for Explosive Athletic Performance, Jumping Higher, and Training Like the Pros

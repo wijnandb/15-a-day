@@ -8,7 +8,7 @@ authors: ['Brett, Slatkin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07ZG18BH3/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07ZG18BH3"
 ASIN: B07ZG18BH3
-affiliatelink: https://www.amazon.com/dp/B07ZG18BH3?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07ZG18BH3?tag=prcptm-20
 categories: ['book']
 ---
 # Effective Python: 90 Specific Ways to Write Better Python

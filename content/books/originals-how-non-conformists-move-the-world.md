@@ -9,7 +9,7 @@ authors: ['Grant, Adam']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00XIYGCDO/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00XIYGCDO"
 ASIN: B00XIYGCDO
-affiliatelink: https://www.amazon.com/dp/B00XIYGCDO?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00XIYGCDO?tag=prcptm-20
 categories: ['book']
 ---
 # Originals: How Non-Conformists Move the World by Adam Grant

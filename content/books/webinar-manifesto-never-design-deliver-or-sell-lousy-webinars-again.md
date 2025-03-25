@@ -9,7 +9,7 @@ authors: ['Muller, Treion', 'Murdoch, Matthew']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B009NMU9X4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B009NMU9X4"
 ASIN: B009NMU9X4
-affiliatelink: https://www.amazon.com/dp/B009NMU9X4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B009NMU9X4?tag=prcptm-20
 categories: ['book']
 ---
 # Webinar Manifesto: Never Design, Deliver, or Sell Lousy Webinars Again

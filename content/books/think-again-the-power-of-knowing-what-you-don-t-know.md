@@ -9,7 +9,7 @@ authors: ['Grant, Adam']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08H177WQP/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08H177WQP"
 ASIN: B08H177WQP
-affiliatelink: https://www.amazon.com/dp/B08H177WQP?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08H177WQP?tag=prcptm-20
 categories: ['book']
 ---
 # Think Again: The Power of Knowing What You Don't Know by Adam Grant

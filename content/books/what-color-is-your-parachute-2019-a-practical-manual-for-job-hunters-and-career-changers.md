@@ -9,7 +9,7 @@ authors: ['Bolles, Richard N.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B077LNSK9Z/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B077LNSK9Z"
 ASIN: B077LNSK9Z
-affiliatelink: https://www.amazon.com/dp/B077LNSK9Z?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B077LNSK9Z?tag=prcptm-20
 categories: ['book']
 ---
 # What Color Is Your Parachute? 2019: A Practical Manual for Job-Hunters and Career-Changers

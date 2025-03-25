@@ -9,7 +9,7 @@ authors: ['Herrington, Diana', 'Keeler, Alice']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B06Y3ZBDM2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B06Y3ZBDM2"
 ASIN: B06Y3ZBDM2
-affiliatelink: https://www.amazon.com/dp/B06Y3ZBDM2?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B06Y3ZBDM2?tag=prcptm-20
 categories: ['book']
 ---
 # Teaching Math with Google Apps: 50 G Suite Activities by Diana Herrington and Alice Keeler

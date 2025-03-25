@@ -8,7 +8,7 @@ authors: ['Csikszentmihalyi, Mihaly']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000W94FE6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B000W94FE6"
 ASIN: B000W94FE6
-affiliatelink: https://www.amazon.com/dp/B000W94FE6?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B000W94FE6?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *Flow: The Psychology of Optimal Experience*

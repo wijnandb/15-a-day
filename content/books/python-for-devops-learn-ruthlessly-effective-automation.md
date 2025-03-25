@@ -9,7 +9,7 @@ authors: ['Behrman, Kennedy', 'Deza, Alfredo', 'Gift, Noah', 'Gheorghiu, Grig']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B082P97LDW/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B082P97LDW"
 ASIN: B082P97LDW
-affiliatelink: https://www.amazon.com/dp/B082P97LDW?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B082P97LDW?tag=prcptm-20
 categories: ['book']
 ---
 # Python for DevOps: Learn Ruthlessly Effective Automation

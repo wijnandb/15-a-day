@@ -9,7 +9,7 @@ authors: ['Brown, Peter C.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00JQ3FN7M/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00JQ3FN7M"
 ASIN: B00JQ3FN7M
-affiliatelink: https://www.amazon.com/dp/B00JQ3FN7M?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00JQ3FN7M?tag=prcptm-20
 categories: ['book']
 ---
 # Make It Stick by Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel

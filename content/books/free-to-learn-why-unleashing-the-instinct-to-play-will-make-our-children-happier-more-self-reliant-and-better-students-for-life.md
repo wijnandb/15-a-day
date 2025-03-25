@@ -8,7 +8,7 @@ authors: ['Gray, Peter']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00B3M3KZG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00B3M3KZG"
 ASIN: B00B3M3KZG
-affiliatelink: https://www.amazon.com/dp/B00B3M3KZG?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00B3M3KZG?tag=prcptm-20
 categories: ['book']
 ---
 # Free to Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life

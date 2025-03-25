@@ -9,7 +9,7 @@ authors: ['Rushkoff, Douglas']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B002BAPL3I/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B002BAPL3I"
 ASIN: B002BAPL3I
-affiliatelink: https://www.amazon.com/dp/B002BAPL3I?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B002BAPL3I?tag=prcptm-20
 categories: ['book']
 ---
 # Life Inc.: How the World Became a Corporation and How to Take It Back by Douglas Rushkoff

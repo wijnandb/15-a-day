@@ -8,7 +8,7 @@ authors: ['Arora, Arun', 'Hjartar, Klemens', 'Dahlstrom, Peter', 'Wunderlich, Fl
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07YXTCMZ8/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07YXTCMZ8"
 ASIN: B07YXTCMZ8
-affiliatelink: https://www.amazon.com/dp/B07YXTCMZ8?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07YXTCMZ8?tag=prcptm-20
 categories: ['book']
 ---
 # Fast Times: How Digital Winners Set Direction, Learn, and Adapt

@@ -9,7 +9,7 @@ authors: ['Crash, Jason']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B081TKS4P5/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B081TKS4P5"
 ASIN: B081TKS4P5
-affiliatelink: https://www.amazon.com/dp/B081TKS4P5?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B081TKS4P5?tag=prcptm-20
 categories: ['book']
 ---
 # Python: 2 Books in 1: Introduction Guide + Advanced Guide - The Complete Guide to Learn Python Programming Language

@@ -8,7 +8,7 @@ authors: ['Myers, Mark']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B077Z55G3B/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B077Z55G3B"
 ASIN: B077Z55G3B
-affiliatelink: https://www.amazon.com/dp/B077Z55G3B?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B077Z55G3B?tag=prcptm-20
 categories: ['book']
 ---
 # A Smarter Way to Learn Python: Learn it faster. Remember it longer by Mark Myers

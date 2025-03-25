@@ -9,7 +9,7 @@ authors: ['Jiwa, Bernadette']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B016CUPB5K/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B016CUPB5K"
 ASIN: B016CUPB5K
-affiliatelink: https://www.amazon.com/dp/B016CUPB5K?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B016CUPB5K?tag=prcptm-20
 categories: ['book']
 ---
 # Meaningful: The Story of Ideas That Fly by Bernadette Jiwa

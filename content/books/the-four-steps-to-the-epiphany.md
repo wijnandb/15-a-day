@@ -9,7 +9,7 @@ authors: ['Blank, Steve']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00FLZKNUQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00FLZKNUQ"
 ASIN: B00FLZKNUQ
-affiliatelink: https://www.amazon.com/dp/B00FLZKNUQ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00FLZKNUQ?tag=prcptm-20
 categories: ['book']
 ---
 # The Four Steps to the Epiphany by Steve Blank

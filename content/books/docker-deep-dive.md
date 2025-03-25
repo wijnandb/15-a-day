@@ -8,7 +8,7 @@ authors: ['Poulton, Nigel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01LXWQUFF/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01LXWQUFF"
 ASIN: B01LXWQUFF
-affiliatelink: https://www.amazon.com/dp/B01LXWQUFF?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01LXWQUFF?tag=prcptm-20
 categories: ['book']
 ---
 # Docker Deep Dive by Nigel Poulton

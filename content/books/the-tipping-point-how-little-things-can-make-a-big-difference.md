@@ -9,7 +9,7 @@ authors: ['Gladwell, Malcolm']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000OT8GD0/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B000OT8GD0"
 ASIN: B000OT8GD0
-affiliatelink: https://www.amazon.com/dp/B000OT8GD0?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B000OT8GD0?tag=prcptm-20
 categories: ['book']
 ---
 # The Tipping Point: How Little Things Can Make a Big Difference by Malcolm Gladwell

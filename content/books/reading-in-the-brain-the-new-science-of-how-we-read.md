@@ -9,7 +9,7 @@ authors: ['Dehaene, Stanislas']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B002SR2Q2I/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B002SR2Q2I"
 ASIN: B002SR2Q2I
-affiliatelink: https://www.amazon.com/dp/B002SR2Q2I?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B002SR2Q2I?tag=prcptm-20
 categories: ['book']
 ---
 # Reading in the Brain: The New Science of How We Read by Stanislas Dehaene

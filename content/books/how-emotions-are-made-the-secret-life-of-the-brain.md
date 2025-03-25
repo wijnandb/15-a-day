@@ -8,7 +8,7 @@ authors: ['Barrett, Lisa Feldman']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00QPHURT6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00QPHURT6"
 ASIN: B00QPHURT6
-affiliatelink: https://www.amazon.com/dp/B00QPHURT6?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00QPHURT6?tag=prcptm-20
 categories: ['book']
 ---
 # How Emotions Are Made: The Secret Life of the Brain by Lisa Feldman Barrett

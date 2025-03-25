@@ -9,7 +9,7 @@ authors: ['Kersten, Mik']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07F3DJMZ1/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07F3DJMZ1"
 ASIN: B07F3DJMZ1
-affiliatelink: https://www.amazon.com/dp/B07F3DJMZ1?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07F3DJMZ1?tag=prcptm-20
 categories: ['book']
 ---
 # Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework

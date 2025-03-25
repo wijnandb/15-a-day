@@ -9,7 +9,7 @@ authors: ['S, Bharath Chandra K', 'Badhwar, Saurabh', 'Guest, Chris', 'Bird, And
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08MB85B8Z/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08MB85B8Z"
 ASIN: B08MB85B8Z
-affiliatelink: https://www.amazon.com/dp/B08MB85B8Z?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08MB85B8Z?tag=prcptm-20
 categories: ['book']
 ---
 # **Web Development with Django: Learn to Build Modern Web Applications with a Python-Based Framework** by Ben Shaw, Saurabh Badhwar, Andrew Bird, Bharath Chandra K S, and Chris Guest

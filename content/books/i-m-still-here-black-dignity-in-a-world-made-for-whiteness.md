@@ -8,7 +8,7 @@ authors: ['Channing Brown, Austin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07466JDSH/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07466JDSH"
 ASIN: B07466JDSH
-affiliatelink: https://www.amazon.com/dp/B07466JDSH?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07466JDSH?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *I'm Still Here: Black Dignity in a World Made for Whiteness* by Austin Channing Brown

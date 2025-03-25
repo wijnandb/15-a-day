@@ -9,7 +9,7 @@ authors: ['Brafman, Ori', 'Beckstrom, Rod A.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000S1LU3M/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B000S1LU3M"
 ASIN: B000S1LU3M
-affiliatelink: https://www.amazon.com/dp/B000S1LU3M?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B000S1LU3M?tag=prcptm-20
 categories: ['book']
 ---
 # The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations

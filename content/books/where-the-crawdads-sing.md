@@ -7,7 +7,7 @@ authors: ['Owens, Delia']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B078GD3DRG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B078GD3DRG"
 ASIN: B078GD3DRG
-affiliatelink: https://www.amazon.com/dp/B078GD3DRG?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B078GD3DRG?tag=prcptm-20
 categories: ['book']
 ---
 # Where the Crawdads Sing by Delia Owens

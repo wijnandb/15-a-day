@@ -8,7 +8,7 @@ authors: ['Matthews, Michael']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B006XF5BTG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B006XF5BTG"
 ASIN: B006XF5BTG
-affiliatelink: https://www.amazon.com/dp/B006XF5BTG?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B006XF5BTG?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Bigger Leaner Stronger: The Simple Science of Building the Ultimate Male Body" by Michael Matthews

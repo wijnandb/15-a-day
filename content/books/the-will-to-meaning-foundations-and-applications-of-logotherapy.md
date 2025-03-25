@@ -9,7 +9,7 @@ authors: ['Frankl, Viktor E.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00N21QACQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00N21QACQ"
 ASIN: B00N21QACQ
-affiliatelink: https://www.amazon.com/dp/B00N21QACQ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00N21QACQ?tag=prcptm-20
 categories: ['book']
 ---
 # The Will to Meaning: Foundations and Applications of Logotherapy

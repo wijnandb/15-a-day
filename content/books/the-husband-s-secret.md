@@ -9,7 +9,7 @@ authors: ['Moriarty, Liane']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00D7Z4GQY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00D7Z4GQY"
 ASIN: B00D7Z4GQY
-affiliatelink: https://www.amazon.com/dp/B00D7Z4GQY?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00D7Z4GQY?tag=prcptm-20
 categories: ['book']
 ---
 # The Husband's Secret by Liane Moriarty

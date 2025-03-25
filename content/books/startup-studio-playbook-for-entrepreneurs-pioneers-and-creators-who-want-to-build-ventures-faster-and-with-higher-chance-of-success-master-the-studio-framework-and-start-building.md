@@ -9,7 +9,7 @@ authors: ['Szigeti, Attila']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07NVNYM4C/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07NVNYM4C"
 ASIN: B07NVNYM4C
-affiliatelink: https://www.amazon.com/dp/B07NVNYM4C?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07NVNYM4C?tag=prcptm-20
 categories: ['book']
 ---
 # Startup Studio Playbook by Attila Szigeti

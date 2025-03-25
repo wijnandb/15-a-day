@@ -8,7 +8,7 @@ authors: ['Perkin, Neil', 'Abraham, Peter']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B06XWDX5BX/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B06XWDX5BX"
 ASIN: B06XWDX5BX
-affiliatelink: https://www.amazon.com/dp/B06XWDX5BX?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B06XWDX5BX?tag=prcptm-20
 categories: ['book']
 ---
 # Building the Agile Business through Digital Transformation

@@ -9,7 +9,7 @@ authors: ['Davies, Simone']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07GNWSZBG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07GNWSZBG"
 ASIN: B07GNWSZBG
-affiliatelink: https://www.amazon.com/dp/B07GNWSZBG?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07GNWSZBG?tag=prcptm-20
 categories: ['book']
 ---
 # The Montessori Toddler: A Parent's Guide to Raising a Curious and Responsible Human Being

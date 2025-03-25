@@ -8,7 +8,7 @@ authors: ['Sunstein, Cass R.', 'Thaler, Richard H.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00A5DCALY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00A5DCALY"
 ASIN: B00A5DCALY
-affiliatelink: https://www.amazon.com/dp/B00A5DCALY?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00A5DCALY?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Nudge: Improving Decisions About Health, Wealth, and Happiness"

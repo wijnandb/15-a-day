@@ -9,7 +9,7 @@ authors: ['Mazzucco, Melania G.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B003GFIWKQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B003GFIWKQ"
 ASIN: B003GFIWKQ
-affiliatelink: https://www.amazon.com/dp/B003GFIWKQ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B003GFIWKQ?tag=prcptm-20
 categories: ['book']
 ---
 # Vita: A Novel

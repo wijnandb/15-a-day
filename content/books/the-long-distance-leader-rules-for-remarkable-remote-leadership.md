@@ -9,7 +9,7 @@ authors: ['Turmel, Wayne', 'Eikenberry, Kevin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07665C2JV/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07665C2JV"
 ASIN: B07665C2JV
-affiliatelink: https://www.amazon.com/dp/B07665C2JV?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07665C2JV?tag=prcptm-20
 categories: ['book']
 ---
 # The Long-Distance Leader: Rules for Remarkable Remote Leadership

@@ -8,7 +8,7 @@ authors: ['Stephens-Davidowitz, Seth']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01AFXZ2F4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01AFXZ2F4"
 ASIN: B01AFXZ2F4
-affiliatelink: https://www.amazon.com/dp/B01AFXZ2F4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01AFXZ2F4?tag=prcptm-20
 categories: ['book']
 ---
 # Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are

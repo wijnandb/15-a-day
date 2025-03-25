@@ -8,7 +8,7 @@ authors: ['Lockavitch, Joseph']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B005M3LW34/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B005M3LW34"
 ASIN: B005M3LW34
-affiliatelink: https://www.amazon.com/dp/B005M3LW34?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B005M3LW34?tag=prcptm-20
 categories: ['book']
 ---
 # **The Failure Free Reading Methodology: New Hope for Non-Readers** by Joseph Lockavitch

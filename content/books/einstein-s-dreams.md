@@ -8,7 +8,7 @@ authors: ['Lightman, Alan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B005RZB6C4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B005RZB6C4"
 ASIN: B005RZB6C4
-affiliatelink: https://www.amazon.com/dp/B005RZB6C4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B005RZB6C4?tag=prcptm-20
 categories: ['book']
 ---
 # Einstein's Dreams by Alan Lightman

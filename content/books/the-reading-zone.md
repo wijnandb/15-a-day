@@ -9,7 +9,7 @@ authors: ['Atwell, Nancie']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00BQFJF18/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00BQFJF18"
 ASIN: B00BQFJF18
-affiliatelink: https://www.amazon.com/dp/B00BQFJF18?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00BQFJF18?tag=prcptm-20
 categories: ['book']
 ---
 # The Reading Zone by Nancie Atwell

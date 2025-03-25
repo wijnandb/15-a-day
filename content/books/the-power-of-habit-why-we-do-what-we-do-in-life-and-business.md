@@ -8,7 +8,7 @@ authors: ['Duhigg, Charles']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0055PGUYU/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0055PGUYU"
 ASIN: B0055PGUYU
-affiliatelink: https://www.amazon.com/dp/B0055PGUYU?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0055PGUYU?tag=prcptm-20
 categories: ['book']
 ---
 # The Power of Habit: Why We Do What We Do in Life and Business

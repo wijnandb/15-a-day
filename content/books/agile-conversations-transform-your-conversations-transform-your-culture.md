@@ -8,7 +8,7 @@ authors: ['Fredrick, Jeffrey', 'Squirrel, Douglas']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07YZP8LC9/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07YZP8LC9"
 ASIN: B07YZP8LC9
-affiliatelink: https://www.amazon.com/dp/B07YZP8LC9?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07YZP8LC9?tag=prcptm-20
 categories: ['book']
 ---
 # Agile Conversations: Transform Your Conversations, Transform Your Culture

@@ -9,7 +9,7 @@ authors: ['Hughes, Damian']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B079RJSJC4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B079RJSJC4"
 ASIN: B079RJSJC4
-affiliatelink: https://www.amazon.com/dp/B079RJSJC4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B079RJSJC4?tag=prcptm-20
 categories: ['book']
 ---
 # The Barcelona Way: How to Create a High-Performance Culture

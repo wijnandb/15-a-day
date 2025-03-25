@@ -8,7 +8,7 @@ authors: ['Benanav, Aaron']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08817Q84R/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08817Q84R"
 ASIN: B08817Q84R
-affiliatelink: https://www.amazon.com/dp/B08817Q84R?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08817Q84R?tag=prcptm-20
 categories: ['book']
 ---
 # Automation and the Future of Work by Aaron Benanav

@@ -9,7 +9,7 @@ authors: ['Brody, Jessica']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B078VWDNKT/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B078VWDNKT"
 ASIN: B078VWDNKT
-affiliatelink: https://www.amazon.com/dp/B078VWDNKT?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B078VWDNKT?tag=prcptm-20
 categories: ['book']
 ---
 # Save the Cat! Writes a Novel: The Last Book On Novel Writing You'll Ever Need

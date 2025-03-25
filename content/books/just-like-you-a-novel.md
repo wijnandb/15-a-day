@@ -9,7 +9,7 @@ authors: ['Hornby, Nick']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B084FL6XFF/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B084FL6XFF"
 ASIN: B084FL6XFF
-affiliatelink: https://www.amazon.com/dp/B084FL6XFF?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B084FL6XFF?tag=prcptm-20
 categories: ['book']
 ---
 # Just Like You: A Novel by Nick Hornby

@@ -9,7 +9,7 @@ authors: ['Marr, Bernard']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08F167KJH/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08F167KJH"
 ASIN: B08F167KJH
-affiliatelink: https://www.amazon.com/dp/B08F167KJH?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08F167KJH?tag=prcptm-20
 categories: ['book']
 ---
 # The Intelligence Revolution: Transforming Your Business with AI by Bernard Marr

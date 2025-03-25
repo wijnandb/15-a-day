@@ -8,7 +8,7 @@ authors: ['Ater, Tal']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B075HP52WY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B075HP52WY"
 ASIN: B075HP52WY
-affiliatelink: https://www.amazon.com/dp/B075HP52WY?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B075HP52WY?tag=prcptm-20
 categories: ['book']
 ---
 # Building Progressive Web Apps: Bringing the Power of Native to the Browser

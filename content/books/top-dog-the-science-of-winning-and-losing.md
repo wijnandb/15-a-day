@@ -9,7 +9,7 @@ authors: ['Merryman, Ashley', 'Bronson, Po']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00BFTV2X4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00BFTV2X4"
 ASIN: B00BFTV2X4
-affiliatelink: https://www.amazon.com/dp/B00BFTV2X4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00BFTV2X4?tag=prcptm-20
 categories: ['book']
 ---
 # Top Dog: The Science of Winning and Losing

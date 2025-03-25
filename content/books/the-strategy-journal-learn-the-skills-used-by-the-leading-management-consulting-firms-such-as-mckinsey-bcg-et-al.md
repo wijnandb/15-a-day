@@ -8,7 +8,7 @@ authors: ['Kristina, Safarova']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08H2L9G9K/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08H2L9G9K"
 ASIN: B08H2L9G9K
-affiliatelink: https://www.amazon.com/dp/B08H2L9G9K?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08H2L9G9K?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *The Strategy Journal: Learn the skills used by the leading management consulting firms, such as McKinsey, BCG, et al.* by Kristina Safarova

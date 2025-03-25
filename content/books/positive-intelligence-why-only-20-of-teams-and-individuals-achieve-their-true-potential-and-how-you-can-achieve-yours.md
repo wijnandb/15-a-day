@@ -9,7 +9,7 @@ authors: ['Chamine, Shirzad']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007R0IQ70/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007R0IQ70"
 ASIN: B007R0IQ70
-affiliatelink: https://www.amazon.com/dp/B007R0IQ70?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B007R0IQ70?tag=prcptm-20
 categories: ['book']
 ---
 # Positive Intelligence: Why Only 20% of Teams and Individuals Achieve Their True Potential AND HOW YOU CAN ACHIEVE YOURS

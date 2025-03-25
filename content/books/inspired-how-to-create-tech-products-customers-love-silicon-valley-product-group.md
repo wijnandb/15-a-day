@@ -9,7 +9,7 @@ authors: ['Cagan, Marty']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B077NRB36N/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B077NRB36N"
 ASIN: B077NRB36N
-affiliatelink: https://www.amazon.com/dp/B077NRB36N?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B077NRB36N?tag=prcptm-20
 categories: ['book']
 ---
 # Inspired: How to Create Tech Products Customers Love by Marty Cagan

@@ -8,7 +8,7 @@ authors: ['Vincent, William S']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08FMVYVFR/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08FMVYVFR"
 ASIN: B08FMVYVFR
-affiliatelink: https://www.amazon.com/dp/B08FMVYVFR?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08FMVYVFR?tag=prcptm-20
 categories: ['book']
 ---
 # Django for APIs: Build web APIs with Python and Django by William S. Vincent

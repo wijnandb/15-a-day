@@ -8,7 +8,7 @@ authors: ['Gorelick, Micha', 'Ozsvald, Ian']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B087YTVL8F/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B087YTVL8F"
 ASIN: B087YTVL8F
-affiliatelink: https://www.amazon.com/dp/B087YTVL8F?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B087YTVL8F?tag=prcptm-20
 categories: ['book']
 ---
 # High Performance Python: Practical Performant Programming for Humans

@@ -9,7 +9,7 @@ authors: ['Goldsmith, Marshall', 'Mark Reiter']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000Q9J128/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B000Q9J128"
 ASIN: B000Q9J128
-affiliatelink: https://www.amazon.com/dp/B000Q9J128?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B000Q9J128?tag=prcptm-20
 categories: ['book']
 ---
 # What Got You Here Won't Get You There: How Successful People Become Even More Successful

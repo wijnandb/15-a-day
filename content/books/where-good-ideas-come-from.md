@@ -8,7 +8,7 @@ authors: ['Johnson, Steven']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B003ZK58TA/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B003ZK58TA"
 ASIN: B003ZK58TA
-affiliatelink: https://www.amazon.com/dp/B003ZK58TA?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B003ZK58TA?tag=prcptm-20
 categories: ['book']
 ---
 # Where Good Ideas Come From by Steven Johnson

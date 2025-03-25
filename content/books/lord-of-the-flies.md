@@ -9,7 +9,7 @@ authors: ['Golding, William']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000OCXIRG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B000OCXIRG"
 ASIN: B000OCXIRG
-affiliatelink: https://www.amazon.com/dp/B000OCXIRG?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B000OCXIRG?tag=prcptm-20
 categories: ['book']
 ---
 # Lord of the Flies by William Golding

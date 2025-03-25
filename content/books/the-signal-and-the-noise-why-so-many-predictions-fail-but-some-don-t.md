@@ -9,7 +9,7 @@ authors: ['Silver, Nate']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007V65R54/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007V65R54"
 ASIN: B007V65R54
-affiliatelink: https://www.amazon.com/dp/B007V65R54?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B007V65R54?tag=prcptm-20
 categories: ['book']
 ---
 # The Signal and the Noise: Why So Many Predictions Fail—but Some Don't

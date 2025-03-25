@@ -9,7 +9,7 @@ authors: ['Kapp, Karl M.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007XA3ME6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007XA3ME6"
 ASIN: B007XA3ME6
-affiliatelink: https://www.amazon.com/dp/B007XA3ME6?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B007XA3ME6?tag=prcptm-20
 categories: ['book']
 ---
 # The Gamification of Learning and Instruction: Game-based Methods and Strategies for Training and Education

@@ -8,7 +8,7 @@ authors: ['Schmarzo, Bill']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08M3XPCHW/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08M3XPCHW"
 ASIN: B08M3XPCHW
-affiliatelink: https://www.amazon.com/dp/B08M3XPCHW?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08M3XPCHW?tag=prcptm-20
 categories: ['book']
 ---
 # The Economics of Data, Analytics, and Digital Transformation by Bill Schmarzo

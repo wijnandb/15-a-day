@@ -8,7 +8,7 @@ authors: ['Davenport, Thomas H.', 'Porter, Micheal E.', 'Harvard Business Review
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07D61RYYV/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07D61RYYV"
 ASIN: B07D61RYYV
-affiliatelink: https://www.amazon.com/dp/B07D61RYYV?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07D61RYYV?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "HBR's 10 Must Reads on AI, Analytics, and the New Machine Age"

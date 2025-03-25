@@ -9,7 +9,7 @@ authors: ['Flanagan, David']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B088P9Q6BB/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B088P9Q6BB"
 ASIN: B088P9Q6BB
-affiliatelink: https://www.amazon.com/dp/B088P9Q6BB?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B088P9Q6BB?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "JavaScript: The Definitive Guide" by David Flanagan

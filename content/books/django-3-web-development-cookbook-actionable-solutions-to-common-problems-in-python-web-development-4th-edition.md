@@ -8,7 +8,7 @@ authors: ['Bendoraitis, Aidas', 'Kronika, Jake']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B084WRLDSB/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B084WRLDSB"
 ASIN: B084WRLDSB
-affiliatelink: https://www.amazon.com/dp/B084WRLDSB?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B084WRLDSB?tag=prcptm-20
 categories: ['book']
 ---
 ## Overview of *Django 3 Web Development Cookbook: Actionable Solutions to Common Problems in Python Web Development, 4th Edition*

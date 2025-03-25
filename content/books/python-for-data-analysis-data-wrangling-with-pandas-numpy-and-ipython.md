@@ -9,7 +9,7 @@ authors: ['McKinney, Wes']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B075X4LT6K/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B075X4LT6K"
 ASIN: B075X4LT6K
-affiliatelink: https://www.amazon.com/dp/B075X4LT6K?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B075X4LT6K?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython* by Wes McKinney

@@ -9,7 +9,7 @@ authors: ['Chen, Daniel Y.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0789WKTKJ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0789WKTKJ"
 ASIN: B0789WKTKJ
-affiliatelink: https://www.amazon.com/dp/B0789WKTKJ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0789WKTKJ?tag=prcptm-20
 categories: ['book']
 ---
 # Pandas for Everyone: Python Data Analysis

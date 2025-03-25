@@ -8,7 +8,7 @@ authors: ['Tal, Sharon', 'Gruber, Marc']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B075ZZ97CY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B075ZZ97CY"
 ASIN: B075ZZ97CY
-affiliatelink: https://www.amazon.com/dp/B075ZZ97CY?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B075ZZ97CY?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Where to Play: 3 Steps for Discovering Your Most Valuable Market Opportunities"

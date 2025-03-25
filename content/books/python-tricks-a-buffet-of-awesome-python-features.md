@@ -9,7 +9,7 @@ authors: ['Bader, Dan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0785Q7GSY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0785Q7GSY"
 ASIN: B0785Q7GSY
-affiliatelink: https://www.amazon.com/dp/B0785Q7GSY?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0785Q7GSY?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *Python Tricks: A Buffet of Awesome Python Features* by Dan Bader

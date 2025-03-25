@@ -8,7 +8,7 @@ authors: ['Ahrens, Sönke']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B06WVYW33Y/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B06WVYW33Y"
 ASIN: B06WVYW33Y
-affiliatelink: https://www.amazon.com/dp/B06WVYW33Y?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B06WVYW33Y?tag=prcptm-20
 categories: ['book']
 ---
 # How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers

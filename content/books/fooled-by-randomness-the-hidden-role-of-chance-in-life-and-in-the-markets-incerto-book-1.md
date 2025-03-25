@@ -8,7 +8,7 @@ authors: ['Taleb, Nassim Nicholas']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B001FA0W5W/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B001FA0W5W"
 ASIN: B001FA0W5W
-affiliatelink: https://www.amazon.com/dp/B001FA0W5W?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B001FA0W5W?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets"

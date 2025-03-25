@@ -9,7 +9,7 @@ authors: ['Percival, Harry']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B074HXXXLS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B074HXXXLS"
 ASIN: B074HXXXLS
-affiliatelink: https://www.amazon.com/dp/B074HXXXLS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B074HXXXLS?tag=prcptm-20
 categories: ['book']
 ---
 # Test-Driven Development with Python: Obey the Testing Goat

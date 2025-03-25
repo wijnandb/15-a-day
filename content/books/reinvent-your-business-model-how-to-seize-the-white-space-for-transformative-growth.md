@@ -8,7 +8,7 @@ authors: ['Johnson, Mark W.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B078S98BN3/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B078S98BN3"
 ASIN: B078S98BN3
-affiliatelink: https://www.amazon.com/dp/B078S98BN3?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B078S98BN3?tag=prcptm-20
 categories: ['book']
 ---
 

@@ -9,7 +9,7 @@ authors: ['Wasserman, Noam']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007AIXKUM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007AIXKUM"
 ASIN: B007AIXKUM
-affiliatelink: https://www.amazon.com/dp/B007AIXKUM?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B007AIXKUM?tag=prcptm-20
 categories: ['book']
 ---
 # The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup

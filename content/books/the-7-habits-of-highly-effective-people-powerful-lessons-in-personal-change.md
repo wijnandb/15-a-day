@@ -9,7 +9,7 @@ authors: ['Covey, Stephen R.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01069X4H0/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01069X4H0"
 ASIN: B01069X4H0
-affiliatelink: https://www.amazon.com/dp/B01069X4H0?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01069X4H0?tag=prcptm-20
 categories: ['book']
 ---
 

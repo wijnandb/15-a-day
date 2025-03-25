@@ -8,7 +8,7 @@ authors: ['Medina, John']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0041KLCH0/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0041KLCH0"
 ASIN: B0041KLCH0
-affiliatelink: https://www.amazon.com/dp/B0041KLCH0?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0041KLCH0?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School" by John Medina

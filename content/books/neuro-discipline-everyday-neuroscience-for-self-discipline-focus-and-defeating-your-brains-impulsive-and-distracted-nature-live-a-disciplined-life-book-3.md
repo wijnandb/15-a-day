@@ -9,7 +9,7 @@ authors: ['Hollins, Peter']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07Z8J5LFJ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07Z8J5LFJ"
 ASIN: B07Z8J5LFJ
-affiliatelink: https://www.amazon.com/dp/B07Z8J5LFJ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07Z8J5LFJ?tag=prcptm-20
 categories: ['book']
 ---
 # Neuro-Discipline: Everyday Neuroscience for Self-Discipline, Focus, and Defeating Your Brain’s Impulsive and Distracted Nature

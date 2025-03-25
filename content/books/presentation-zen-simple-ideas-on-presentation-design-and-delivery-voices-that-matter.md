@@ -9,7 +9,7 @@ authors: ['Reynolds, Garr']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B006R4H5FG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B006R4H5FG"
 ASIN: B006R4H5FG
-affiliatelink: https://www.amazon.com/dp/B006R4H5FG?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B006R4H5FG?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Presentation Zen: Simple Ideas on Presentation Design and Delivery" by Garr Reynolds

@@ -9,7 +9,7 @@ authors: ['Siegel, Daniel J.', 'Bryson, Tina Payne']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B071Y2BTT4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B071Y2BTT4"
 ASIN: B071Y2BTT4
-affiliatelink: https://www.amazon.com/dp/B071Y2BTT4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B071Y2BTT4?tag=prcptm-20
 categories: ['book']
 ---
 # The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child

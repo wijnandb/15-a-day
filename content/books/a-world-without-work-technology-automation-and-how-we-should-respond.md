@@ -8,7 +8,7 @@ authors: ['Susskind, Daniel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07R5HTCGL/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07R5HTCGL"
 ASIN: B07R5HTCGL
-affiliatelink: https://www.amazon.com/dp/B07R5HTCGL?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07R5HTCGL?tag=prcptm-20
 categories: ['book']
 ---
 # A World Without Work: Technology, Automation, and How We Should Respond by Daniel Susskind

@@ -8,7 +8,7 @@ authors: ['Levi, Jonathan A.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07WGR42TN/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07WGR42TN"
 ASIN: B07WGR42TN
-affiliatelink: https://www.amazon.com/dp/B07WGR42TN?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07WGR42TN?tag=prcptm-20
 categories: ['book']
 ---
 # The Only Skill that Matters by Jonathan A. Levi

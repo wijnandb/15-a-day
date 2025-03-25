@@ -8,7 +8,7 @@ authors: ['Perryman, Matt']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00CE5BCFG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00CE5BCFG"
 ASIN: B00CE5BCFG
-affiliatelink: https://www.amazon.com/dp/B00CE5BCFG?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00CE5BCFG?tag=prcptm-20
 categories: ['book']
 ---
 

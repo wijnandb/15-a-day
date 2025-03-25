@@ -8,7 +8,7 @@ authors: ['Fadel, Charles', 'Trilling, Bernie']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B002ONPGLE/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B002ONPGLE"
 ASIN: B002ONPGLE
-affiliatelink: https://www.amazon.com/dp/B002ONPGLE?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B002ONPGLE?tag=prcptm-20
 categories: ['book']
 ---
 # 21st Century Skills: Learning for Life in Our Times

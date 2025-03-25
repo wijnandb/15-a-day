@@ -9,7 +9,7 @@ authors: ['Bly, Robert W.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07S7L68NH/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07S7L68NH"
 ASIN: B07S7L68NH
-affiliatelink: https://www.amazon.com/dp/B07S7L68NH?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07S7L68NH?tag=prcptm-20
 categories: ['book']
 ---
 Certainly! Below is an overview of "The Copywriter's Handbook: A Step-By-Step Guide To Writing Copy That Sells (4th Edition)" by Robert W. Bly, formatted in Markdown:

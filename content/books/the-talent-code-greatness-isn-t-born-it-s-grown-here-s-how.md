@@ -9,7 +9,7 @@ authors: ['Coyle, Daniel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0026OR1UK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0026OR1UK"
 ASIN: B0026OR1UK
-affiliatelink: https://www.amazon.com/dp/B0026OR1UK?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0026OR1UK?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "The Talent Code: Greatness Isn't Born. It's Grown. Here's How" by Daniel Coyle

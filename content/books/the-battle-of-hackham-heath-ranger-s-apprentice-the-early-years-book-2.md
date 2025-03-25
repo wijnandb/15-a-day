@@ -9,7 +9,7 @@ authors: ['Flanagan, John']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01COJUHJI/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01COJUHJI"
 ASIN: B01COJUHJI
-affiliatelink: https://www.amazon.com/dp/B01COJUHJI?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01COJUHJI?tag=prcptm-20
 categories: ['book']
 ---
 # The Battle of Hackham Heath (Ranger's Apprentice: The Early Years Book 2)

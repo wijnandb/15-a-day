@@ -8,7 +8,7 @@ authors: ['Wood, Andrew']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00UCB2NK2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00UCB2NK2"
 ASIN: B00UCB2NK2
-affiliatelink: https://www.amazon.com/dp/B00UCB2NK2?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00UCB2NK2?tag=prcptm-20
 categories: ['book']
 ---
 # Digital Transformation by Andrew Wood

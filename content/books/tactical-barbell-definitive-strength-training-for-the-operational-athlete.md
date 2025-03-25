@@ -9,7 +9,7 @@ authors: ['Black, K.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01G195QU2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01G195QU2"
 ASIN: B01G195QU2
-affiliatelink: https://www.amazon.com/dp/B01G195QU2?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01G195QU2?tag=prcptm-20
 categories: ['book']
 ---
 # Tactical Barbell: Definitive Strength Training for the Operational Athlete

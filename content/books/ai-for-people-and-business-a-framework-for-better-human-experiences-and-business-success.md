@@ -8,7 +8,7 @@ authors: ['Castrounis, Alex']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07V58ZCY3/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07V58ZCY3"
 ASIN: B07V58ZCY3
-affiliatelink: https://www.amazon.com/dp/B07V58ZCY3?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07V58ZCY3?tag=prcptm-20
 categories: ['book']
 ---
 # AI for People and Business: A Framework for Better Human Experiences and Business Success

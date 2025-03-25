@@ -8,7 +8,7 @@ authors: ['Duckworth, Angela']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B010MH9V3W/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B010MH9V3W"
 ASIN: B010MH9V3W
-affiliatelink: https://www.amazon.com/dp/B010MH9V3W?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B010MH9V3W?tag=prcptm-20
 categories: ['book']
 ---
 # Grit: The Power of Passion and Perseverance

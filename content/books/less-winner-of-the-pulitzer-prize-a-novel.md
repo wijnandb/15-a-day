@@ -9,7 +9,7 @@ authors: ['Greer, Andrew Sean']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01MSICPW3/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01MSICPW3"
 ASIN: B01MSICPW3
-affiliatelink: https://www.amazon.com/dp/B01MSICPW3?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01MSICPW3?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *Less: A Novel* by Andrew Sean Greer

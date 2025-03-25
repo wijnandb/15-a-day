@@ -9,7 +9,7 @@ authors: ['Yate, Martin']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B015WPG88U/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B015WPG88U"
 ASIN: B015WPG88U
-affiliatelink: https://www.amazon.com/dp/B015WPG88U?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B015WPG88U?tag=prcptm-20
 categories: ['book']
 ---
 # Knock Em Dead Resumes 11th Edition: A Killer Resume Gets More Job Interviews

@@ -9,7 +9,7 @@ authors: ['Keret, Etgar']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00OYXWKDY/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00OYXWKDY"
 ASIN: B00OYXWKDY
-affiliatelink: https://www.amazon.com/dp/B00OYXWKDY?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00OYXWKDY?tag=prcptm-20
 categories: ['book']
 ---
 # The Seven Good Years: A Memoir by Etgar Keret

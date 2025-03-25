@@ -8,7 +8,7 @@ authors: ['Friedrich Wilhelm Nietzsche']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B06XBK358J/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B06XBK358J"
 ASIN: B06XBK358J
-affiliatelink: https://www.amazon.com/dp/B06XBK358J?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B06XBK358J?tag=prcptm-20
 categories: ['book']
 ---
 # Beyond Good and Evil by Friedrich Wilhelm Nietzsche

@@ -8,7 +8,7 @@ authors: ['Corey Phelps', 'Garrette, Bernard', 'Olivier Sibony']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07DMFYH2R/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07DMFYH2R"
 ASIN: B07DMFYH2R
-affiliatelink: https://www.amazon.com/dp/B07DMFYH2R?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07DMFYH2R?tag=prcptm-20
 categories: ['book']
 ---
 # Cracked it!: How to Solve Big Problems and Sell Solutions Like Top Strategy Consultants

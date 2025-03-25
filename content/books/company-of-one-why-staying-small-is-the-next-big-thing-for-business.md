@@ -8,7 +8,7 @@ authors: ['Jarvis, Paul']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B078962RHQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B078962RHQ"
 ASIN: B078962RHQ
-affiliatelink: https://www.amazon.com/dp/B078962RHQ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B078962RHQ?tag=prcptm-20
 categories: ['book']
 ---
 # Company of One: Why Staying Small Is the Next Big Thing for Business

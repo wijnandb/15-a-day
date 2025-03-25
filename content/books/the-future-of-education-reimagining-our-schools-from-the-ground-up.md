@@ -9,7 +9,7 @@ authors: ['Egan, Prof. Kieran']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B001JAH7YC/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B001JAH7YC"
 ASIN: B001JAH7YC
-affiliatelink: https://www.amazon.com/dp/B001JAH7YC?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B001JAH7YC?tag=prcptm-20
 categories: ['book']
 ---
 # **The Future of Education: Reimagining Our Schools from the Ground Up** by Kieran Egan

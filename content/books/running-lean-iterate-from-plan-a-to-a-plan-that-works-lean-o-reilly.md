@@ -9,7 +9,7 @@ authors: ['Maurya, Ash']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B006UKFFE0/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B006UKFFE0"
 ASIN: B006UKFFE0
-affiliatelink: https://www.amazon.com/dp/B006UKFFE0?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B006UKFFE0?tag=prcptm-20
 categories: ['book']
 ---
 # Running Lean: Iterate from Plan A to a Plan That Works

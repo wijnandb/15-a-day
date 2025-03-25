@@ -9,7 +9,7 @@ authors: ['Page, Scott E.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07B8D3V9V/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07B8D3V9V"
 ASIN: B07B8D3V9V
-affiliatelink: https://www.amazon.com/dp/B07B8D3V9V?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07B8D3V9V?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "The Model Thinker: What You Need to Know to Make Data Work for You" by Scott E. Page

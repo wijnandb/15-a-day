@@ -8,7 +8,7 @@ authors: ['Scott, David Meerman']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B073X84D6W/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B073X84D6W"
 ASIN: B073X84D6W
-affiliatelink: https://www.amazon.com/dp/B073X84D6W?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B073X84D6W?tag=prcptm-20
 categories: ['book']
 ---
 

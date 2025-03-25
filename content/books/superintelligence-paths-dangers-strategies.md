@@ -9,7 +9,7 @@ authors: ['Bostrom, Nick']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00LOOCGB2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00LOOCGB2"
 ASIN: B00LOOCGB2
-affiliatelink: https://www.amazon.com/dp/B00LOOCGB2?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00LOOCGB2?tag=prcptm-20
 categories: ['book']
 ---
 # Superintelligence: Paths, Dangers, Strategies by Nick Bostrom

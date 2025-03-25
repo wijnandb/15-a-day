@@ -8,7 +8,7 @@ authors: ['Bregman, Peter']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00NVLNZCA/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00NVLNZCA"
 ASIN: B00NVLNZCA
-affiliatelink: https://www.amazon.com/dp/B00NVLNZCA?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00NVLNZCA?tag=prcptm-20
 categories: ['book']
 ---
 # Four Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work

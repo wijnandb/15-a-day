@@ -9,7 +9,7 @@ authors: ['Wolf, Maryanne']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B074DTJ2CT/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B074DTJ2CT"
 ASIN: B074DTJ2CT
-affiliatelink: https://www.amazon.com/dp/B074DTJ2CT?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B074DTJ2CT?tag=prcptm-20
 categories: ['book']
 ---
 # Reader, Come Home: The Reading Brain in a Digital World

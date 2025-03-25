@@ -9,7 +9,7 @@ authors: ['David, Thomas', 'Hunt Andrew']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07VRS84D1/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07VRS84D1"
 ASIN: B07VRS84D1
-affiliatelink: https://www.amazon.com/dp/B07VRS84D1?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07VRS84D1?tag=prcptm-20
 categories: ['book']
 ---
 # The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition

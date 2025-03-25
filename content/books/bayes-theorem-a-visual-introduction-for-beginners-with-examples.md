@@ -8,7 +8,7 @@ authors: ['Morris, Dan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01LZ1T9IX/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01LZ1T9IX"
 ASIN: B01LZ1T9IX
-affiliatelink: https://www.amazon.com/dp/B01LZ1T9IX?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01LZ1T9IX?tag=prcptm-20
 categories: ['book']
 ---
 # Bayes' Theorem: A Visual Introduction For Beginners with Examples by Dan Morris

@@ -9,7 +9,7 @@ authors: ['Rippetoe, Mark', 'Baker, Andy']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00IU8YETW/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00IU8YETW"
 ASIN: B00IU8YETW
-affiliatelink: https://www.amazon.com/dp/B00IU8YETW?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00IU8YETW?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Practical Programming for Strength Training" by Mark Rippetoe and Andy Baker

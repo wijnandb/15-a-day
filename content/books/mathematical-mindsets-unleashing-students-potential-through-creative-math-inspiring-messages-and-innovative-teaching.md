@@ -9,7 +9,7 @@ authors: ['Boaler, Jo']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01740JWAC/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01740JWAC"
 ASIN: B01740JWAC
-affiliatelink: https://www.amazon.com/dp/B01740JWAC?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01740JWAC?tag=prcptm-20
 categories: ['book']
 ---
 # Mathematical Mindsets: Unleashing Students' Potential through Creative Math, Inspiring Messages and Innovative Teaching

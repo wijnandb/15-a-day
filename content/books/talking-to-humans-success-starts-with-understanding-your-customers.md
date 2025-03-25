@@ -9,7 +9,7 @@ authors: ['Constable, Giff']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00NSUEUL4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00NSUEUL4"
 ASIN: B00NSUEUL4
-affiliatelink: https://www.amazon.com/dp/B00NSUEUL4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00NSUEUL4?tag=prcptm-20
 categories: ['book']
 ---
 # Talking to Humans: Success Starts with Understanding Your Customers

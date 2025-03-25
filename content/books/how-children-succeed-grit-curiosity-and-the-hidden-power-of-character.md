@@ -8,7 +8,7 @@ authors: ['Tough, Paul']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0070ZLZ1G/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0070ZLZ1G"
 ASIN: B0070ZLZ1G
-affiliatelink: https://www.amazon.com/dp/B0070ZLZ1G?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0070ZLZ1G?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *How Children Succeed: Grit, Curiosity, and the Hidden Power of Character* by Paul Tough

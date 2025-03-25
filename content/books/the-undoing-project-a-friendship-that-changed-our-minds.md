@@ -9,7 +9,7 @@ authors: ['Lewis, Michael']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01GI6S7EK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01GI6S7EK"
 ASIN: B01GI6S7EK
-affiliatelink: https://www.amazon.com/dp/B01GI6S7EK?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01GI6S7EK?tag=prcptm-20
 categories: ['book']
 ---
 # The Undoing Project: A Friendship That Changed Our Minds

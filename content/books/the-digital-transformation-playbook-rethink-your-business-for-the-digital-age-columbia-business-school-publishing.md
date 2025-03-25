@@ -9,7 +9,7 @@ authors: ['Rogers, David L.', 'Rogers, David']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01C3I2ESM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01C3I2ESM"
 ASIN: B01C3I2ESM
-affiliatelink: https://www.amazon.com/dp/B01C3I2ESM?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01C3I2ESM?tag=prcptm-20
 categories: ['book']
 ---
 # The Digital Transformation Playbook: Rethink Your Business for the Digital Age

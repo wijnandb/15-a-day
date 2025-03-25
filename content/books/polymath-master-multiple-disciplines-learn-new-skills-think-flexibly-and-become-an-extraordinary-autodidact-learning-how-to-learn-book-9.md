@@ -9,7 +9,7 @@ authors: ['Hollins, Peter']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B087BNHHHC/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B087BNHHHC"
 ASIN: B087BNHHHC
-affiliatelink: https://www.amazon.com/dp/B087BNHHHC?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B087BNHHHC?tag=prcptm-20
 categories: ['book']
 ---
 # Polymath: Master Multiple Disciplines, Learn New Skills, Think Flexibly, and Become an Extraordinary Autodidact

@@ -9,7 +9,7 @@ authors: ['Link, Patrick', 'Leifer, Larry', 'Lewrick, Michael']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07CVPG1S3/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07CVPG1S3"
 ASIN: B07CVPG1S3
-affiliatelink: https://www.amazon.com/dp/B07CVPG1S3?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07CVPG1S3?tag=prcptm-20
 categories: ['book']
 ---
 # The Design Thinking Playbook

@@ -9,7 +9,7 @@ authors: ['McCourt, Frank']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000FCKI7I/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B000FCKI7I"
 ASIN: B000FCKI7I
-affiliatelink: https://www.amazon.com/dp/B000FCKI7I?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B000FCKI7I?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of *Teacher Man: A Memoir* by Frank McCourt

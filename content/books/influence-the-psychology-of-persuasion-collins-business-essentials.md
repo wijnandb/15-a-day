@@ -9,7 +9,7 @@ authors: ['Cialdini PhD, Robert B.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B002BD2UUC/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B002BD2UUC"
 ASIN: B002BD2UUC
-affiliatelink: https://www.amazon.com/dp/B002BD2UUC?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B002BD2UUC?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Influence: The Psychology of Persuasion" by Robert B. Cialdini

@@ -8,7 +8,7 @@ authors: ['Dhawan, Erica']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B08FZBJ5TM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B08FZBJ5TM"
 ASIN: B08FZBJ5TM
-affiliatelink: https://www.amazon.com/dp/B08FZBJ5TM?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B08FZBJ5TM?tag=prcptm-20
 categories: ['book']
 ---
 # Digital Body Language: How to Build Trust and Connection, No Matter the Distance

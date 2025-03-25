@@ -8,7 +8,7 @@ authors: ['Foreman, John W.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00F0WRXI0/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00F0WRXI0"
 ASIN: B00F0WRXI0
-affiliatelink: https://www.amazon.com/dp/B00F0WRXI0?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00F0WRXI0?tag=prcptm-20
 categories: ['book']
 ---
 # Data Smart: Using Data Science to Transform Information into Insight by John W. Foreman

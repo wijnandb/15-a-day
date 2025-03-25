@@ -9,7 +9,7 @@ authors: ['Ferriss, Timothy']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B003EI2EH2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B003EI2EH2"
 ASIN: B003EI2EH2
-affiliatelink: https://www.amazon.com/dp/B003EI2EH2?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B003EI2EH2?tag=prcptm-20
 categories: ['book']
 ---
 # The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman

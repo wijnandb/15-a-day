@@ -8,7 +8,7 @@ authors: ['Hegel, Georg Wilhelm Friedrich ']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007HT0QAQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007HT0QAQ"
 ASIN: B007HT0QAQ
-affiliatelink: https://www.amazon.com/dp/B007HT0QAQ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B007HT0QAQ?tag=prcptm-20
 categories: ['book']
 ---
 # Hegel's Philosophy of Mind

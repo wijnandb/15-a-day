@@ -8,7 +8,7 @@ authors: ['Hall, Taddy', 'Dillon, Karen', 'Duncan, David S.', 'Christensen, Clay
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01BBPZIHM/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01BBPZIHM"
 ASIN: B01BBPZIHM
-affiliatelink: https://www.amazon.com/dp/B01BBPZIHM?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01BBPZIHM?tag=prcptm-20
 categories: ['book']
 ---
 # Competing Against Luck: The Story of Innovation and Customer Choice

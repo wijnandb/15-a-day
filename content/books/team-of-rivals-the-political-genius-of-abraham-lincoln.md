@@ -9,7 +9,7 @@ authors: ['Goodwin, Doris Kearns']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000N2HBSO/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B000N2HBSO"
 ASIN: B000N2HBSO
-affiliatelink: https://www.amazon.com/dp/B000N2HBSO?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B000N2HBSO?tag=prcptm-20
 categories: ['book']
 ---
 # Team of Rivals: The Political Genius of Abraham Lincoln by Doris Kearns Goodwin

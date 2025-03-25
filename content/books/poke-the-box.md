@@ -9,7 +9,7 @@ authors: ['Godin, Seth']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B004J4XG0O/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B004J4XG0O"
 ASIN: B004J4XG0O
-affiliatelink: https://www.amazon.com/dp/B004J4XG0O?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B004J4XG0O?tag=prcptm-20
 categories: ['book']
 ---
 # Poke the Box by Seth Godin

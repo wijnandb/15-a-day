@@ -8,7 +8,7 @@ authors: ['Murphy, Mark A.', 'Murphy, Mark']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B005NASJRS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B005NASJRS"
 ASIN: B005NASJRS
-affiliatelink: https://www.amazon.com/dp/B005NASJRS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B005NASJRS?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Hiring for Attitude: A Revolutionary Approach to Recruiting and Selecting People with Both Tremendous Skills and Superb Attitude" by Mark Murphy

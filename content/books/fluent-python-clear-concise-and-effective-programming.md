@@ -8,7 +8,7 @@ authors: ['Ramalho, Luciano']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B0131L3PW4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B0131L3PW4"
 ASIN: B0131L3PW4
-affiliatelink: https://www.amazon.com/dp/B0131L3PW4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B0131L3PW4?tag=prcptm-20
 categories: ['book']
 ---
 # Fluent Python: Clear, Concise, and Effective Programming

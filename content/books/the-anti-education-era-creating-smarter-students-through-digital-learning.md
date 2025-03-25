@@ -9,7 +9,7 @@ authors: ['Gee, James Paul']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B009OZN6KS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B009OZN6KS"
 ASIN: B009OZN6KS
-affiliatelink: https://www.amazon.com/dp/B009OZN6KS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B009OZN6KS?tag=prcptm-20
 categories: ['book']
 ---
 # The Anti-Education Era: Creating Smarter Students through Digital Learning by James Paul Gee

@@ -9,7 +9,7 @@ authors: ['Norris, Dan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00NZFKB8S/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00NZFKB8S"
 ASIN: B00NZFKB8S
-affiliatelink: https://www.amazon.com/dp/B00NZFKB8S?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00NZFKB8S?tag=prcptm-20
 categories: ['book']
 ---
 # The 7 Day Startup: You Don't Learn Until You Launch by Dan Norris

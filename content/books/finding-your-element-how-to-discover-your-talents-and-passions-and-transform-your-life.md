@@ -8,7 +8,7 @@ authors: ['Aronica, Lou', 'Robinson, Ken']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00AFPVOTG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00AFPVOTG"
 ASIN: B00AFPVOTG
-affiliatelink: https://www.amazon.com/dp/B00AFPVOTG?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00AFPVOTG?tag=prcptm-20
 categories: ['book']
 ---
 # Finding Your Element: How to Discover Your Talents and Passions and Transform Your Life

@@ -9,7 +9,7 @@ authors: ['de Cervantes Saavedra, Miguel']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B004UIY0F4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B004UIY0F4"
 ASIN: B004UIY0F4
-affiliatelink: https://www.amazon.com/dp/B004UIY0F4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B004UIY0F4?tag=prcptm-20
 categories: ['book']
 ---
 # Don Quijote (Spanish Edition) by Miguel de Cervantes Saavedra

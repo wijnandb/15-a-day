@@ -9,7 +9,7 @@ authors: ['Heath, Dan']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07THBM1M6/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07THBM1M6"
 ASIN: B07THBM1M6
-affiliatelink: https://www.amazon.com/dp/B07THBM1M6?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07THBM1M6?tag=prcptm-20
 categories: ['book']
 ---
 # Upstream: The Quest to Solve Problems Before They Happen by Dan Heath

@@ -9,7 +9,7 @@ authors: ['Zahariades, Damon']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01JJ5CURW/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01JJ5CURW"
 ASIN: B01JJ5CURW
-affiliatelink: https://www.amazon.com/dp/B01JJ5CURW?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01JJ5CURW?tag=prcptm-20
 categories: ['book']
 ---
 # To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work!

@@ -8,7 +8,7 @@ authors: ['Umaschi Bers, Marina']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B074PVGHZ3/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B074PVGHZ3"
 ASIN: B074PVGHZ3
-affiliatelink: https://www.amazon.com/dp/B074PVGHZ3?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B074PVGHZ3?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Coding as a Playground: Programming and Computational Thinking in the Early Childhood Classroom" by Marina Umaschi Bers

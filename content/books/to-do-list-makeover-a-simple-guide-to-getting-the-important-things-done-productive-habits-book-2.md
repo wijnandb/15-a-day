@@ -9,7 +9,7 @@ authors: ['Scott, S.J.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00KEELWJU/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00KEELWJU"
 ASIN: B00KEELWJU
-affiliatelink: https://www.amazon.com/dp/B00KEELWJU?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00KEELWJU?tag=prcptm-20
 categories: ['book']
 ---
 # To-Do List Makeover: A Simple Guide to Getting the Important Things Done

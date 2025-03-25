@@ -9,7 +9,7 @@ authors: ['Pressfield, Steven']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B007A4SDCG/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B007A4SDCG"
 ASIN: B007A4SDCG
-affiliatelink: https://www.amazon.com/dp/B007A4SDCG?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B007A4SDCG?tag=prcptm-20
 categories: ['book']
 ---
 # The War of Art by Steven Pressfield

@@ -9,7 +9,7 @@ authors: ['Mills, Emily']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07PGQY9L4/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07PGQY9L4"
 ASIN: B07PGQY9L4
-affiliatelink: https://www.amazon.com/dp/B07PGQY9L4?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07PGQY9L4?tag=prcptm-20
 categories: ['book']
 ---
 # The Art of Visual Notetaking: An Interactive Guide to Visual Communication and Sketchnoting

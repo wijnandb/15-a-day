@@ -9,7 +9,7 @@ authors: ['Bishop, Gary John']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B071F7C5NQ/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B071F7C5NQ"
 ASIN: B071F7C5NQ
-affiliatelink: https://www.amazon.com/dp/B071F7C5NQ?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B071F7C5NQ?tag=prcptm-20
 categories: ['book']
 ---
 # Unfu*k Yourself: Get Out of Your Head and into Your Life

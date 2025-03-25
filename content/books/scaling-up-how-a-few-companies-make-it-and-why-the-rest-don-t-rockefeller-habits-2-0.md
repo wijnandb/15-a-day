@@ -9,7 +9,7 @@ authors: ['Harnish, Verne']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00O5RR7QO/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00O5RR7QO"
 ASIN: B00O5RR7QO
-affiliatelink: https://www.amazon.com/dp/B00O5RR7QO?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00O5RR7QO?tag=prcptm-20
 categories: ['book']
 ---
 # Scaling Up: How a Few Companies Make It...and Why the Rest Don't (Rockefeller Habits 2.0)

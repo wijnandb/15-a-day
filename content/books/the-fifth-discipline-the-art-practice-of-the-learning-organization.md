@@ -8,7 +8,7 @@ authors: ['Senge, Peter M.']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B000SEIFKK/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B000SEIFKK"
 ASIN: B000SEIFKK
-affiliatelink: https://www.amazon.com/dp/B000SEIFKK?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B000SEIFKK?tag=prcptm-20
 categories: ['book']
 ---
 ## Summary

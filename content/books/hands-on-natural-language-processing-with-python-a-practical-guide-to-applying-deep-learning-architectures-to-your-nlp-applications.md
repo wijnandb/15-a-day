@@ -8,7 +8,7 @@ authors: ['Shanmugamani, Rajalingappaa', 'Arumugam, Rajesh']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B07D6KYQYP/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B07D6KYQYP"
 ASIN: B07D6KYQYP
-affiliatelink: https://www.amazon.com/dp/B07D6KYQYP?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B07D6KYQYP?tag=prcptm-20
 categories: ['book']
 ---
 # Hands-On Natural Language Processing with Python

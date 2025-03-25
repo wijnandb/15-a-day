@@ -9,7 +9,7 @@ authors: ['Voss, Chris', 'Raz, Tahl']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B014DUR7L2/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B014DUR7L2"
 ASIN: B014DUR7L2
-affiliatelink: https://www.amazon.com/dp/B014DUR7L2?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B014DUR7L2?tag=prcptm-20
 categories: ['book']
 ---
 # Never Split the Difference: Negotiating As If Your Life Depended On It

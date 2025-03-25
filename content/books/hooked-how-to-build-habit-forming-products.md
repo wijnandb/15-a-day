@@ -8,7 +8,7 @@ authors: ['Eyal, Nir']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B00LMGLXTS/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B00LMGLXTS"
 ASIN: B00LMGLXTS
-affiliatelink: https://www.amazon.com/dp/B00LMGLXTS?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B00LMGLXTS?tag=prcptm-20
 categories: ['book']
 ---
 # Overview of "Hooked: How to Build Habit-Forming Products" by Nir Eyal

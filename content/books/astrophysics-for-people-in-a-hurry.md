@@ -8,7 +8,7 @@ authors: ['de Grasse Tyson, Neil']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01MAWT2MO/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01MAWT2MO"
 ASIN: B01MAWT2MO
-affiliatelink: https://www.amazon.com/dp/B01MAWT2MO?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01MAWT2MO?tag=prcptm-20
 categories: ['book']
 ---
 # Astrophysics for People in a Hurry by Neil deGrasse Tyson

@@ -9,7 +9,7 @@ authors: ['Shreve, Steve']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B009DOOTOW/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B009DOOTOW"
 ASIN: B009DOOTOW
-affiliatelink: https://www.amazon.com/dp/B009DOOTOW?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B009DOOTOW?tag=prcptm-20
 categories: ['book']
 ---
 # The Adventures of Benny by Steve Shreve

@@ -9,7 +9,7 @@ authors: ['Academy, iCode']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B01N1ZXVPL/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B01N1ZXVPL"
 ASIN: B01N1ZXVPL
-affiliatelink: https://www.amazon.com/dp/B01N1ZXVPL?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B01N1ZXVPL?tag=prcptm-20
 categories: ['book']
 ---
 # Python: Programming: Your Step By Step Guide To Easily Learn Python in 7 Days

@@ -9,7 +9,7 @@ authors: ['Baastrup, Loa', 'Qvist-Sorensen, Ole']
 largecover: "http://s3.cn-north-1.amazonaws.com.cn/sitbweb-cn/content/B081HVM26R/images/cover.jpg"
 readlink: "https://read.amazon.com/?asin=B081HVM26R"
 ASIN: B081HVM26R
-affiliatelink: https://www.amazon.com/dp/B081HVM26R?tag=brtt-20
+affiliatelink: https://www.amazon.com/dp/B081HVM26R?tag=prcptm-20
 categories: ['book']
 ---
 # Visual Collaboration: A Powerful Toolkit for Improving Meetings, Projects, and Processes
