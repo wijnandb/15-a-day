@@ -1,0 +1,4538 @@
+{
+    "Q1": [
+        {
+            "id": "8001175385",
+            "content": "[About rulesets - GitHub Docs](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets)"
+        },
+        {
+            "id": "8660026806",
+            "content": "Add the following [labels](https://todoist.com/help/categories/features/filters-and-labels) to your tasks: `urgent\ud83d\udd25` and `important\ud83d\udea9`. Some tasks might be both. Some tasks might be neither."
+        },
+        {
+            "id": "8660026814",
+            "content": "**`Do It`** = Tasks that are urgent and important, to be completed right away. Add a due date to get these done ahead of the deadline."
+        },
+        {
+            "id": "8660026832",
+            "content": "Learning time"
+        }
+    ],
+    "Q2": [
+        {
+            "id": "8536455219",
+            "content": "Hire Student Leidse Hogeschool"
+        },
+        {
+            "id": "8660026815",
+            "content": "**`Schedule It`** = Tasks that are important but not urgent, to be scheduled."
+        }
+    ],
+    "Q3": [
+        {
+            "id": "8660026820",
+            "content": "**`Delegate It`** = Tasks that are urgent but not important. Assign these tasks to someone else or automate if you can."
+        }
+    ],
+    "Q4": [
+        {
+            "id": "5871408235",
+            "content": "Create a food project (or home cooking)"
+        },
+        {
+            "id": "5871986652",
+            "content": "[Gerechtenlijst](https://docs.google.com/document/d/14IIWl0bz9vlio3XQMWJRdmwyd1ko3el5bKLDzSTfyCQ/edit)"
+        },
+        {
+            "id": "5873099830",
+            "content": "Stedentrip plannen"
+        },
+        {
+            "id": "5874002892",
+            "content": "Loonaangifte doen"
+        },
+        {
+            "id": "5874005186",
+            "content": "BTW aangifte doen"
+        },
+        {
+            "id": "5875733683",
+            "content": "Bespreek werkzaamheden per rol"
+        },
+        {
+            "id": "5875734351",
+            "content": "Maak screenshots per scherm per rol"
+        },
+        {
+            "id": "5875735177",
+            "content": "Schrijf Selenium script dat inlogt en screenshots maakt"
+        },
+        {
+            "id": "5877931696",
+            "content": "*Final due date* \u23f0"
+        },
+        {
+            "id": "5877931702",
+            "content": "*Link to project spec* \ud83d\udd17"
+        },
+        {
+            "id": "5877931712",
+            "content": "Define the problem to be solved as clearly as possible"
+        },
+        {
+            "id": "5877931714",
+            "content": "Brainstorm how you\u2019ll solve the problem with this project"
+        },
+        {
+            "id": "5877931717",
+            "content": "Research your solutions on the web"
+        },
+        {
+            "id": "5877931720",
+            "content": "Ask professional network for ideas"
+        },
+        {
+            "id": "5877931724",
+            "content": "Select your approach"
+        },
+        {
+            "id": "5877931731",
+            "content": "Research best practices for your idea"
+        },
+        {
+            "id": "5877931736",
+            "content": "Write out your project spec"
+        },
+        {
+            "id": "5877931739",
+            "content": "Get feedback from team for project spec"
+        },
+        {
+            "id": "5877931742",
+            "content": "Update spec based on feedback"
+        },
+        {
+            "id": "5877931744",
+            "content": "Finalize project spec"
+        },
+        {
+            "id": "5877931751",
+            "content": "Break project spec down into actionable tasks and add them below"
+        },
+        {
+            "id": "5877931753",
+            "content": "Assign tasks to your teammates and set due dates"
+        },
+        {
+            "id": "5877931762",
+            "content": "Actionable task 1"
+        },
+        {
+            "id": "5877931768",
+            "content": "Actionable task 2"
+        },
+        {
+            "id": "5877931770",
+            "content": "etc."
+        },
+        {
+            "id": "5877931777",
+            "content": "Prepare for launch"
+        },
+        {
+            "id": "5877931780",
+            "content": "Final review of project"
+        },
+        {
+            "id": "5877931783",
+            "content": "Launch day"
+        },
+        {
+            "id": "5877931789",
+            "content": "Handle any questions/concerns/complaints"
+        },
+        {
+            "id": "5877931793",
+            "content": "Do a post-mortem to review what worked and didn\u2019t"
+        },
+        {
+            "id": "5877931795",
+            "content": "Plan for future improvements"
+        },
+        {
+            "id": "5884750451",
+            "content": "Keuken opruimen"
+        },
+        {
+            "id": "5884750546",
+            "content": "Was doen"
+        },
+        {
+            "id": "5884817393",
+            "content": "10x opdrukken"
+        },
+        {
+            "id": "5884820302",
+            "content": "10x kettlebell swing"
+        },
+        {
+            "id": "5885846104",
+            "content": "TransIP Schrijf naam van domeinprovider op (van o.a. leerraar.nl)"
+        },
+        {
+            "id": "5885891846",
+            "content": "10x squats"
+        },
+        {
+            "id": "5885893224",
+            "content": "10x kettlebell swing"
+        },
+        {
+            "id": "5885904604",
+            "content": "10x kettlebell squats"
+        },
+        {
+            "id": "5885921121",
+            "content": "daily tasks"
+        },
+        {
+            "id": "5888374407",
+            "content": "Maak filmpje van Google photos"
+        },
+        {
+            "id": "5888375581",
+            "content": "Google photos openen"
+        },
+        {
+            "id": "5888624946",
+            "content": "Projecten adhv template invullen"
+        },
+        {
+            "id": "5888628990",
+            "content": "Affiliate site(s)"
+        },
+        {
+            "id": "5888631743",
+            "content": "Personal trainer"
+        },
+        {
+            "id": "5888635788",
+            "content": "Whisky site"
+        },
+        {
+            "id": "5888698686",
+            "content": "Leesniveau bepalen"
+        },
+        {
+            "id": "5889893162",
+            "content": "Zie [https://support.google.com/photos/answer/6128862?hl=en&co=GENIE.Platform%3DAndroid](https://support.google.com/photos/answer/6128862?hl=en&co=GENIE.Platform%3DAndroid)"
+        },
+        {
+            "id": "5889894523",
+            "content": "Grip: het geheim van slim werken - Rik Pastoor"
+        },
+        {
+            "id": "5889895304",
+            "content": "Deel 1: Grip op je week"
+        },
+        {
+            "id": "5889895612",
+            "content": "Deel 2: Grip op je jaar"
+        },
+        {
+            "id": "5889896173",
+            "content": "Deel 3: grip op je leven"
+        },
+        {
+            "id": "5889899701",
+            "content": "Waar kom jij je bed voor uit?"
+        },
+        {
+            "id": "5889899928",
+            "content": "Een jaarplan maken"
+        },
+        {
+            "id": "5889900531",
+            "content": "Professioneel aanmoedigen"
+        },
+        {
+            "id": "5889900959",
+            "content": "Aan de slag met deel 2"
+        },
+        {
+            "id": "5889901346",
+            "content": "Aan de slag met deel 1"
+        },
+        {
+            "id": "5889901807",
+            "content": "Hoe je jezelf beter maakt"
+        },
+        {
+            "id": "5889902269",
+            "content": "Waarom je vaker je mond moet houden"
+        },
+        {
+            "id": "5889902582",
+            "content": "Elk vraagstuk oplossen"
+        },
+        {
+            "id": "5889902836",
+            "content": "Denk groter"
+        },
+        {
+            "id": "5889903232",
+            "content": "Aan de slag met deel 3"
+        },
+        {
+            "id": "5890048384",
+            "content": "View [https://www.youtube.com/watch?v=FqdxxSWKmw4](https://www.youtube.com/watch?v=FqdxxSWKmw4)"
+        },
+        {
+            "id": "5890050003",
+            "content": "Minder calorieen eten dan verbranden"
+        },
+        {
+            "id": "5890056452",
+            "content": "Volhouden, vet in buik/rond middel verdwijnt als laatste"
+        },
+        {
+            "id": "5890058183",
+            "content": "Rotational oefeningen voor obliques"
+        },
+        {
+            "id": "5890060184",
+            "content": "Russian twist: hele bovenlichaam draaien"
+        },
+        {
+            "id": "5890069561",
+            "content": "7 minute workout abs [https://www.youtube.com/watch?v=DHD1-2P94DI](https://www.youtube.com/watch?v=DHD1-2P94DI)"
+        },
+        {
+            "id": "5890769529",
+            "content": "[7 minute workout timer](https://www.intervaltimer.com/timers/2651976-7-minute-workout)"
+        },
+        {
+            "id": "5891062481",
+            "content": "Uitvinden: \u2018s Ochtends, \u2018s middags of \u2018s avonds sporten beter voor Productiviteit?"
+        },
+        {
+            "id": "5891064377",
+            "content": "Plan een keer sporten in de ochtend"
+        },
+        {
+            "id": "5891065177",
+            "content": "Plan een keer sporten in de middag"
+        },
+        {
+            "id": "5891066032",
+            "content": "Plan een keer sporten in de avond"
+        },
+        {
+            "id": "5893240774",
+            "content": "Stoppen met drinken"
+        },
+        {
+            "id": "5893388921",
+            "content": "Lezen"
+        },
+        {
+            "id": "5893989961",
+            "content": "Opzet site maken: welke onderdelen?"
+        },
+        {
+            "id": "5893994743",
+            "content": "Financieel: welke modellen worden gehanteerd?"
+        },
+        {
+            "id": "5894015551",
+            "content": "Greenwheels"
+        },
+        {
+            "id": "5894015698",
+            "content": "Mywheels"
+        },
+        {
+            "id": "5894016315",
+            "content": "ConnectCar"
+        },
+        {
+            "id": "5894016622",
+            "content": "StudentCar"
+        },
+        {
+            "id": "5894016835",
+            "content": "SnappCar"
+        },
+        {
+            "id": "5894017230",
+            "content": "Greenwheels"
+        },
+        {
+            "id": "5894017562",
+            "content": "Stapp.in"
+        },
+        {
+            "id": "5894018268",
+            "content": "Oproepauto"
+        },
+        {
+            "id": "5894169673",
+            "content": "Rekenmodel: hoeveel auto's nodig per 100 deelnemers?"
+        },
+        {
+            "id": "5894170992",
+            "content": "Rekenmodel: hoeveel gebruikers nodig om geld te verdienen?"
+        },
+        {
+            "id": "5894172086",
+            "content": "Inschatting: hoe hoog is overhead?"
+        },
+        {
+            "id": "5894249516",
+            "content": "Parkeren, parkeervergunning, betaald parkeren"
+        },
+        {
+            "id": "5894251810",
+            "content": "Verzekering, eigen risico"
+        },
+        {
+            "id": "5894482643",
+            "content": "Dumbell press 20 kilo 20x"
+        },
+        {
+            "id": "5894555854",
+            "content": "Hammer curl 10 kilo 10 reps"
+        },
+        {
+            "id": "5894580135",
+            "content": "Ab pull down 40 kilo 25 reps"
+        },
+        {
+            "id": "5896695988",
+            "content": "Overzicht aanbieders maken: prijzen, dekkingsgebied, omvang"
+        },
+        {
+            "id": "5897151336",
+            "content": "[Documentatie](https://docs.google.com/document/d/1YWwBV-wrQx_Hz_ylXTC-BjzVHJUfV_dqjj17tYhEeFs/) prijzen"
+        },
+        {
+            "id": "5898416118",
+            "content": "10x shoulderpress 10 kilo"
+        },
+        {
+            "id": "5900228204",
+            "content": "Viraliteit inbouwen"
+        },
+        {
+            "id": "5900339659",
+            "content": "Werven nieuwe klanten"
+        },
+        {
+            "id": "5900340063",
+            "content": "Feedback vragen"
+        },
+        {
+            "id": "5900343157",
+            "content": "Staat van de auto vragen"
+        },
+        {
+            "id": "5900390830",
+            "content": "Business Model Canvas invullen"
+        },
+        {
+            "id": "5900426444",
+            "content": "Uitlegvideo per auto"
+        },
+        {
+            "id": "5900427618",
+            "content": "Herinnering bij uitstappen: spullen meenemen"
+        },
+        {
+            "id": "5900456867",
+            "content": "Platform software voor carsharing zoeken"
+        },
+        {
+            "id": "5905569632",
+            "content": "Verjaardag Hendrik-Jan vragen en in agenda zetten"
+        },
+        {
+            "id": "5905583011",
+            "content": "Schrijf manieren van communiceren voor Autodeel project"
+        },
+        {
+            "id": "5905583480",
+            "content": "Documenten delen"
+        },
+        {
+            "id": "5905583623",
+            "content": "Slack"
+        },
+        {
+            "id": "5905584155",
+            "content": "Bespreekverslag"
+        },
+        {
+            "id": "5905585087",
+            "content": "Gedeelde ToDo list (Todoist)"
+        },
+        {
+            "id": "5905591647",
+            "content": "Direct vraag stellen, geen \u201chey\u201d of \u201cgoedemorgen\u201d"
+        },
+        {
+            "id": "5905593458",
+            "content": "Notificaties uitzetten, jij bepaalt je dagindeling en wanneer je waar aan werkt. Asynchrone communicatie"
+        },
+        {
+            "id": "5905594215",
+            "content": "Status indicatie gebruiken"
+        },
+        {
+            "id": "5905596190",
+            "content": "Leer toetscombinaties kennen"
+        },
+        {
+            "id": "5905598524",
+            "content": "Leer Gmail toetscombinaties kennen"
+        },
+        {
+            "id": "5909287501",
+            "content": "Wiens verhaal is dit - Rebecca Solnit"
+        },
+        {
+            "id": "5909288069",
+            "content": "Donut Economie: In 7 stappen naar een economie voor de 21e eeuw - Kate Raworth"
+        },
+        {
+            "id": "5909289445",
+            "content": "Samen: een nieuw sociaal contract voor de 21e eeuw - Minouche Shafik"
+        },
+        {
+            "id": "5909290250",
+            "content": "1. Wat is het sociaal contract?"
+        },
+        {
+            "id": "5909290458",
+            "content": "2. Kinderen"
+        },
+        {
+            "id": "5909290632",
+            "content": "3. Onderwijs"
+        },
+        {
+            "id": "5909290865",
+            "content": "4. Gezondheid"
+        },
+        {
+            "id": "5909291095",
+            "content": "5. Werk"
+        },
+        {
+            "id": "5909291399",
+            "content": "6. Ouderen"
+        },
+        {
+            "id": "5909291662",
+            "content": "7. Generaties"
+        },
+        {
+            "id": "5909292246",
+            "content": "8. Een nieuw sociaal contract"
+        },
+        {
+            "id": "5909732328",
+            "content": "1. Veranderde doelstelling"
+        },
+        {
+            "id": "5909732888",
+            "content": "2. Het grote plaatje"
+        },
+        {
+            "id": "5909733833",
+            "content": "3. Stimuleer de menselijke natuur"
+        },
+        {
+            "id": "5909734177",
+            "content": "4. Snap de systemen"
+        },
+        {
+            "id": "5909734991",
+            "content": "5. Richt je op herverdeling"
+        },
+        {
+            "id": "5909736045",
+            "content": "6. Creeer om te regenereren"
+        },
+        {
+            "id": "5909736871",
+            "content": "7. Wees agnost als het om groei gaat"
+        },
+        {
+            "id": "5909738246",
+            "content": "We zijn allemaal economen"
+        },
+        {
+            "id": "5909772417",
+            "content": "Kathedralen en wekkers"
+        },
+        {
+            "id": "5909772423",
+            "content": "1 De schreeuwers en de gesmoorden"
+        },
+        {
+            "id": "5909772436",
+            "content": "Wiens verhaal (en land) is dit?"
+        },
+        {
+            "id": "5909772447",
+            "content": "Niemand weet het"
+        },
+        {
+            "id": "5909772456",
+            "content": "Ze denken dat ze de waarheid kunnen kneden"
+        },
+        {
+            "id": "5909772459",
+            "content": "Onbewust Vooroordeel is presidentskandidaat"
+        },
+        {
+            "id": "5909772469",
+            "content": "De onderdrukking van de kiezer begint thuis"
+        },
+        {
+            "id": "5909772480",
+            "content": "Leugens worden wetten"
+        },
+        {
+            "id": "5909772486",
+            "content": "De val van de man is schromelijk overdreven"
+        },
+        {
+            "id": "5909772491",
+            "content": "Beste Christine Blasey Ford: U bent een welkome aardbeving"
+        },
+        {
+            "id": "5909772495",
+            "content": "Laat deze stroom verhalen van vrouwen nooit stilvallen"
+        },
+        {
+            "id": "5909772504",
+            "content": "Het probleem met seks is kapitalisme"
+        },
+        {
+            "id": "5909772514",
+            "content": "Over vrouwenwerk en de mythe van het kunstmonster"
+        },
+        {
+            "id": "5909772519",
+            "content": "Al die woede"
+        },
+        {
+            "id": "5909772524",
+            "content": "Als ik een man was"
+        },
+        {
+            "id": "5909772535",
+            "content": "2 Openingen"
+        },
+        {
+            "id": "5909772541",
+            "content": "Crossing over"
+        },
+        {
+            "id": "5909772552",
+            "content": "Stad van vrouwen"
+        },
+        {
+            "id": "5909772562",
+            "content": "Een held is een ramp"
+        },
+        {
+            "id": "5909772570",
+            "content": "Lange afstand"
+        },
+        {
+            "id": "5909772576",
+            "content": "Monumentale verandering en de macht van namen"
+        },
+        {
+            "id": "5909772583",
+            "content": "Brief aan de klimaatstakers van 15 maart 2019"
+        },
+        {
+            "id": "5909847989",
+            "content": "Bekijk welke opties er zijn"
+        },
+        {
+            "id": "5909848797",
+            "content": "Wundermobilty"
+        },
+        {
+            "id": "5909868704",
+            "content": "Fleetster"
+        },
+        {
+            "id": "5910466333",
+            "content": "WeGo Carsharing"
+        },
+        {
+            "id": "5910476036",
+            "content": "Smartcar"
+        },
+        {
+            "id": "5910488301",
+            "content": "Zemtu"
+        },
+        {
+            "id": "5910489363",
+            "content": "Vulog"
+        },
+        {
+            "id": "5918005237",
+            "content": "CRM systeem"
+        },
+        {
+            "id": "5918089483",
+            "content": "Ibiola"
+        },
+        {
+            "id": "5918094833",
+            "content": "goUrban"
+        },
+        {
+            "id": "5918097944",
+            "content": "Playmoove"
+        },
+        {
+            "id": "5920249441",
+            "content": "AVG"
+        },
+        {
+            "id": "5920398841",
+            "content": "Welke type klanten zijn er?"
+        },
+        {
+            "id": "5920399186",
+            "content": "Waarom willen ze een eigen auto hebben?"
+        },
+        {
+            "id": "5920399597",
+            "content": "Waarom zouden ze een deelauto overwegen?"
+        },
+        {
+            "id": "5920525356",
+            "content": "Vraag: Waarom maak je geen gebruik van een deelauto?"
+        },
+        {
+            "id": "5920797643",
+            "content": "Autobezit is al oninteressant, je betaalt al bepaald bedrag per maand (achteraf bezien) itt huisbezit, waar waarde vermeerderd"
+        },
+        {
+            "id": "5921729829",
+            "content": "Pre owned watches referralsite"
+        },
+        {
+            "id": "5924295445",
+            "content": "Geuzen reunie, vader/kind wedstrijd"
+        },
+        {
+            "id": "5924607926",
+            "content": "Het happy 2050 scenario: alles wat je kunt doen voor een gelukkige wereld - Babette Porcelijn"
+        },
+        {
+            "id": "5925805024",
+            "content": "Atomic Habits - James Clear"
+        },
+        {
+            "id": "5932673806",
+            "content": "Deel 1 Het doel"
+        },
+        {
+            "id": "5932674176",
+            "content": "Deel 2 Het plan"
+        },
+        {
+            "id": "5932674615",
+            "content": "Deel 3 De mens"
+        },
+        {
+            "id": "5932675044",
+            "content": "Deel 4 De planeet"
+        },
+        {
+            "id": "5932675420",
+            "content": "Deel 5 De markt"
+        },
+        {
+            "id": "5932675831",
+            "content": "Deel 6 Samen sturen"
+        },
+        {
+            "id": "5949363815",
+            "content": "Rekenmodel: wanneer is het voordeliger"
+        },
+        {
+            "id": "5949364017",
+            "content": "Subsidies: [EU-Fondsenwijzer - Europa decentraal](https://europadecentraal.nl/eu-fondsenwijzer/?_themas=mobiliteit)"
+        },
+        {
+            "id": "5950300351",
+            "content": "L\u2019Agence Netflix kijken"
+        },
+        {
+            "id": "5950661842",
+            "content": "Buitenleven - Nina Polak"
+        },
+        {
+            "id": "5956620883",
+            "content": "Levi inschrijven uitwonend: wat zijn je mogelijkheden?"
+        },
+        {
+            "id": "5966982272",
+            "content": "Inschrijven kinderen studentennet woningnet"
+        },
+        {
+            "id": "5967933762",
+            "content": "Kevin Kelly cooltools opzoeken"
+        },
+        {
+            "id": "5968109780",
+            "content": "[De psychologie van totalitarisme](https://www.bruna.nl/boeken/de-psychologie-van-totalitarisme-9789464015393)"
+        },
+        {
+            "id": "5968112095",
+            "content": "[Neoliberalisme, Bram Mellink | 9789024442485 | Boeken | bol.com](https://www.bol.com/nl/nl/p/neoliberalisme/9300000063203492/)"
+        },
+        {
+            "id": "5970208590",
+            "content": "Bekijk home assistant"
+        },
+        {
+            "id": "5970608494",
+            "content": "Financieel: extra budget vragen n.a.v. extra werkzaamheden"
+        },
+        {
+            "id": "5971163050",
+            "content": "Overeenkomst archiveren, middels knop of automatisch?"
+        },
+        {
+            "id": "5972550962",
+            "content": "Home assistant installeren op Raspberry Pi"
+        },
+        {
+            "id": "5990288371",
+            "content": "Voordeur OZ5 sluit moeilijk"
+        },
+        {
+            "id": "5994276064",
+            "content": "Blockchain Revolution Specialization"
+        },
+        {
+            "id": "5994276968",
+            "content": "Course 1: Introduction to Blockchain Technologies"
+        },
+        {
+            "id": "5994277091",
+            "content": "Course 2: Transacting on the Blockchain"
+        },
+        {
+            "id": "5994277180",
+            "content": "Course 3: Blockchain and Business: Applications and Implications"
+        },
+        {
+            "id": "5994278438",
+            "content": "Week 1"
+        },
+        {
+            "id": "5994278539",
+            "content": "Week 2"
+        },
+        {
+            "id": "5994278640",
+            "content": "Week 3"
+        },
+        {
+            "id": "5994278724",
+            "content": "Week 4"
+        },
+        {
+            "id": "5994279062",
+            "content": "Week 5"
+        },
+        {
+            "id": "5994460684",
+            "content": "The Blockchain Ecosystem"
+        },
+        {
+            "id": "5994461228",
+            "content": "Blockchain Stakeholders Part 1"
+        },
+        {
+            "id": "5994461292",
+            "content": "Blockchain Stakeholders Part 2"
+        },
+        {
+            "id": "5994461403",
+            "content": "Blockchain Stakeholders Part 3"
+        },
+        {
+            "id": "5994461793",
+            "content": "Stewarding the Blockchain Revolution"
+        },
+        {
+            "id": "5994463396",
+            "content": "Blockchain Implementation Challenges Part 1"
+        },
+        {
+            "id": "5994463521",
+            "content": "Blockchain Implementation Challenges Part 2"
+        },
+        {
+            "id": "5994463627",
+            "content": "Blockchain Implementation Challenges Part 3"
+        },
+        {
+            "id": "5994463782",
+            "content": "Blockchain Implementation Challenges Part 4"
+        },
+        {
+            "id": "5994464077",
+            "content": "Module 5 Review & Evaluation"
+        },
+        {
+            "id": "5994465781",
+            "content": "Module 1 Review & Evaluation"
+        },
+        {
+            "id": "5995355626",
+            "content": "Intro to transparency"
+        },
+        {
+            "id": "5995356255",
+            "content": "Native transparency in Blockchain"
+        },
+        {
+            "id": "5995357114",
+            "content": "Transparency as a Risk and an Asset"
+        },
+        {
+            "id": "5995358314",
+            "content": "Approaches to Privacy in Blockchain"
+        },
+        {
+            "id": "5995358763",
+            "content": "Module 3 Review & Evaluation"
+        },
+        {
+            "id": "5995365111",
+            "content": "Course 4: Blockchain Opportunity Analysis"
+        },
+        {
+            "id": "5996422874",
+            "content": "Explain blockchain to a friend or family member"
+        },
+        {
+            "id": "6001674015",
+            "content": "Optrekstang in schuur"
+        },
+        {
+            "id": "6005206908",
+            "content": "Levi account aanmaken Todoist"
+        },
+        {
+            "id": "6005207979",
+            "content": "Project taken delen met Levi"
+        },
+        {
+            "id": "6007279648",
+            "content": "Week 2: 5 sets of 3 reps."
+        },
+        {
+            "id": "6007279658",
+            "content": "Week 4: 3 Sets of 6 reps."
+        },
+        {
+            "id": "6008582420",
+            "content": "Bench press 60 kilo"
+        },
+        {
+            "id": "6010625980",
+            "content": "Bekijk Github Copilot"
+        },
+        {
+            "id": "6010646306",
+            "content": "LinkedIn headline schrijven"
+        },
+        {
+            "id": "6010659500",
+            "content": "Webcrawler om LinkedIn headlines te scrapen"
+        },
+        {
+            "id": "6014056709",
+            "content": "Fitness reminders aanpassen"
+        },
+        {
+            "id": "6026050233",
+            "content": "Setup Siri to work with Todoist"
+        },
+        {
+            "id": "6030425313",
+            "content": "Cat-Cow stretch"
+        },
+        {
+            "id": "6030426935",
+            "content": "Knee-to-chest stretch"
+        },
+        {
+            "id": "6037353908",
+            "content": "Everything Everywhere All at Once"
+        },
+        {
+            "id": "6041494839",
+            "content": "The startup of you"
+        },
+        {
+            "id": "6046611335",
+            "content": "Percentages uitleggen"
+        },
+        {
+            "id": "6046615682",
+            "content": "Taal leren, woordenschat"
+        },
+        {
+            "id": "6066554205",
+            "content": "Ventilatieroosters stijlkamer"
+        },
+        {
+            "id": "6066569395",
+            "content": "Waterdruk hoger?"
+        },
+        {
+            "id": "6084598227",
+            "content": "Uit eten met vrienden"
+        },
+        {
+            "id": "6088583324",
+            "content": "Etentjes met vrienden regelen"
+        },
+        {
+            "id": "6092861739",
+            "content": "Squats unweighted"
+        },
+        {
+            "id": "6092862196",
+            "content": "Kettlebell squats 26kg"
+        },
+        {
+            "id": "6093060429",
+            "content": "Workout"
+        },
+        {
+            "id": "6096537154",
+            "content": "Scrape Whatsapp to get predictions"
+        },
+        {
+            "id": "6096558153",
+            "content": "Referral site"
+        },
+        {
+            "id": "6096558961",
+            "content": "Leesniveau bepalen"
+        },
+        {
+            "id": "6096559860",
+            "content": "Vrij lezen op school, makkelijker/beter geschikte boeken vinden"
+        },
+        {
+            "id": "6096619371",
+            "content": "Whiskysite"
+        },
+        {
+            "id": "6112033451",
+            "content": "Regular expressions leren"
+        },
+        {
+            "id": "6112123720",
+            "content": "Inloggen op app Sometoday"
+        },
+        {
+            "id": "6117149729",
+            "content": "Introduction to Data Science in Python"
+        },
+        {
+            "id": "6121773154",
+            "content": "Version Control with Git"
+        },
+        {
+            "id": "6121773637",
+            "content": "AWS Cloud Technical Essentials"
+        },
+        {
+            "id": "6121775741",
+            "content": "Week 1"
+        },
+        {
+            "id": "6121775831",
+            "content": "Week 2"
+        },
+        {
+            "id": "6121775910",
+            "content": "Week 3"
+        },
+        {
+            "id": "6121776390",
+            "content": "Week 4"
+        },
+        {
+            "id": "6121777851",
+            "content": "Add name local, global"
+        },
+        {
+            "id": "6121778793",
+            "content": "Write down used git commands"
+        },
+        {
+            "id": "6121779237",
+            "content": "Write down git commands"
+        },
+        {
+            "id": "6121791651",
+            "content": "Merging"
+        },
+        {
+            "id": "6121792761",
+            "content": "Write down git commands"
+        },
+        {
+            "id": "6121801453",
+            "content": "Perform a fast forward merge:"
+        },
+        {
+            "id": "6121807344",
+            "content": "Perform a git merge commit"
+        },
+        {
+            "id": "6121824275",
+            "content": "Resolving merge conflicts"
+        },
+        {
+            "id": "6121825060",
+            "content": "Tracking Branches"
+        },
+        {
+            "id": "6121825067",
+            "content": "Fetch, Pull and Push"
+        },
+        {
+            "id": "6121825070",
+            "content": "Rebasing"
+        },
+        {
+            "id": "6121825075",
+            "content": "Rewriting History"
+        },
+        {
+            "id": "6121825081",
+            "content": "Module 3 Assessment"
+        },
+        {
+            "id": "6121827012",
+            "content": "Pull Requests II"
+        },
+        {
+            "id": "6121827021",
+            "content": "Git Workflows"
+        },
+        {
+            "id": "6121827031",
+            "content": "Module 4 Assessment"
+        },
+        {
+            "id": "6121827282",
+            "content": "Pull Requests I"
+        },
+        {
+            "id": "6121827812",
+            "content": "Write down Git commands"
+        },
+        {
+            "id": "6122294768",
+            "content": "Kumare"
+        },
+        {
+            "id": "6131502352",
+            "content": "Django for everybody specialisation"
+        },
+        {
+            "id": "6131510871",
+            "content": "Web Application Technologies and Django"
+        },
+        {
+            "id": "6131512256",
+            "content": "Building Web Applications in Django"
+        },
+        {
+            "id": "6131513671",
+            "content": "Django Features and Libraries"
+        },
+        {
+            "id": "6131515013",
+            "content": "Using JavaScript, JQuery, and JSON in Django"
+        },
+        {
+            "id": "6136898082",
+            "content": "lowercase alle mailadressen bij upload"
+        },
+        {
+            "id": "6138948660",
+            "content": "Chess.com subscription"
+        },
+        {
+            "id": "6145274223",
+            "content": "Titels van pagina's tonen (nu allemaal Brede School Zuidoost)"
+        },
+        {
+            "id": "6147034448",
+            "content": "INVERS API"
+        },
+        {
+            "id": "6158965762",
+            "content": "Follow a course on Coursera"
+        },
+        {
+            "id": "6162919333",
+            "content": "Leuke tentjes Amsterdam rubriek maken"
+        },
+        {
+            "id": "6162920383",
+            "content": "Amsterdamse musea"
+        },
+        {
+            "id": "6172951083",
+            "content": "Phonecharger inbouwen Tesla S"
+        },
+        {
+            "id": "6177391058",
+            "content": "Communicatie met Miele apparaten"
+        },
+        {
+            "id": "6182538716",
+            "content": "Zoldering, Utrechtsestraat. Diner"
+        },
+        {
+            "id": "6183434985",
+            "content": "Kunst/foto\u2019s op Samsung The Frame"
+        },
+        {
+            "id": "6184067778",
+            "content": "Idee: countdowntimer voor kinderen, vertrek"
+        },
+        {
+            "id": "6193830139",
+            "content": "Opzet leesproject"
+        },
+        {
+            "id": "6195982391",
+            "content": "Cadeautje/kaartje voor Sander Latour zoon"
+        },
+        {
+            "id": "6201708062",
+            "content": "Reis zomer \u201824 mogelijkheden bekijken"
+        },
+        {
+            "id": "6215111874",
+            "content": "Jopen: The Numbers game (ABC Amsterdam)"
+        },
+        {
+            "id": "6242571793",
+            "content": "B5wahvn4ncdm"
+        },
+        {
+            "id": "6251674840",
+            "content": "Moving intelligence"
+        },
+        {
+            "id": "6254526674",
+            "content": "Contact opnemen met Geert Kloppenburg, mobiliteitsexpert"
+        },
+        {
+            "id": "6281474203",
+            "content": "Businesscase Wijkar"
+        },
+        {
+            "id": "6306028861",
+            "content": "Next.js uitleg lezen (REACT)"
+        },
+        {
+            "id": "6306029660",
+            "content": "Startup succes meten"
+        },
+        {
+            "id": "6311552137",
+            "content": "Vliegreis, via Thailand"
+        },
+        {
+            "id": "6311553105",
+            "content": "Datum bouwvak opzoeken"
+        },
+        {
+            "id": "6311568943",
+            "content": "Drie weken, hoe opdelen?"
+        },
+        {
+            "id": "6330589042",
+            "content": "Wie wil je spreken over Carsharing?"
+        },
+        {
+            "id": "6339845366",
+            "content": "Teksten schrijven, zie"
+        },
+        {
+            "id": "6339906684",
+            "content": "contact opnemen met Geuzen, is het mogelijk?"
+        },
+        {
+            "id": "6339906988",
+            "content": "datum bepalen"
+        },
+        {
+            "id": "6339907239",
+            "content": "mensen zoeken"
+        },
+        {
+            "id": "6339907613",
+            "content": "organisatie: wat is er nodig?"
+        },
+        {
+            "id": "6340041121",
+            "content": "Wie benaderen?"
+        },
+        {
+            "id": "6340072706",
+            "content": "Welke andere namen weet je nog?"
+        },
+        {
+            "id": "6340382858",
+            "content": "Statis files toevoegen"
+        },
+        {
+            "id": "6340383007",
+            "content": "Collectstatic draaien"
+        },
+        {
+            "id": "6340706197",
+            "content": "Footer ontwerpen/maken/vullen."
+        },
+        {
+            "id": "6342955203",
+            "content": "Voorstel hydrofoor + verlichting naar VVE"
+        },
+        {
+            "id": "6343608899",
+            "content": "The Jane reserveren"
+        },
+        {
+            "id": "6347946770",
+            "content": "Incentive voor autoproducenten: duurzaam, gaat langer mee, er wordt meer verdiend aan een auto."
+        },
+        {
+            "id": "6348109504",
+            "content": "Datum bepalen om The Jane + hotel te bezoeken"
+        },
+        {
+            "id": "6352562091",
+            "content": "C1 instructies overnemen van Mywheels"
+        },
+        {
+            "id": "6352563359",
+            "content": "Autogegevens opzoeken voor C1 en Cactus"
+        },
+        {
+            "id": "6352564022",
+            "content": "Voorpagina: tekst opzoeken in schrift"
+        },
+        {
+            "id": "6352570826",
+            "content": "Kosten: tekst schrijven, pagina maken"
+        },
+        {
+            "id": "6354815406",
+            "content": "[Word nu partner van Wijkopenautos.nl](https://www.wijkopenautos.nl/affiliate/)"
+        },
+        {
+            "id": "6354817424",
+            "content": "[Affiliate programma](https://www.ikwilvanmijnautoaf.nl/affiliate)"
+        },
+        {
+            "id": "6355638010",
+            "content": "Tekst om te gebruiken op site"
+        },
+        {
+            "id": "6355643839",
+            "content": "Startscherm"
+        },
+        {
+            "id": "6355646939",
+            "content": "Explore the app"
+        },
+        {
+            "id": "6356768266",
+            "content": "Load testing for Wijkar"
+        },
+        {
+            "id": "6356780890",
+            "content": "Load testing for Bredeschool"
+        },
+        {
+            "id": "6362128247",
+            "content": "Speed up testing Django applications"
+        },
+        {
+            "id": "6362134419",
+            "content": "Run security tests on a site"
+        },
+        {
+            "id": "6362145861",
+            "content": "Git: How to set up a global ignore file"
+        },
+        {
+            "id": "6362154394",
+            "content": "Read Docker explained"
+        },
+        {
+            "id": "6362181787",
+            "content": "Try default Django site using Docker"
+        },
+        {
+            "id": "6362449779",
+            "content": "Lees visie OV betalen"
+        },
+        {
+            "id": "6362454154",
+            "content": "E-mail check, does it work correctly?"
+        },
+        {
+            "id": "6362455957",
+            "content": "Strength of password @gurmessa"
+        },
+        {
+            "id": "6362457026",
+            "content": "Integration with OV-chipcard, what is possible?"
+        },
+        {
+            "id": "6362462510",
+            "content": "Phonenumber: countrycode separately"
+        },
+        {
+            "id": "6362556000",
+            "content": "Login voor Thomas op wijkar"
+        },
+        {
+            "id": "6362825071",
+            "content": "Send link to Thomas, Harold, Danny"
+        },
+        {
+            "id": "6363682278",
+            "content": "Housewarming HG organiseren"
+        },
+        {
+            "id": "6363683139",
+            "content": "Wie nodigen we uit?"
+        },
+        {
+            "id": "6363719636",
+            "content": "Wanneer?"
+        },
+        {
+            "id": "6364203877",
+            "content": "Hoe laat, wat voor een soort feestje?"
+        },
+        {
+            "id": "6364444493",
+            "content": "Add SENDGRID to Digital Ocean/Wijkar"
+        },
+        {
+            "id": "6364577269",
+            "content": "Onderdelen Wijkar app:"
+        },
+        {
+            "id": "6364578053",
+            "content": "Register reservation: starttijd, endtime"
+        },
+        {
+            "id": "6364579044",
+            "content": "Register rides: number of kilometers"
+        },
+        {
+            "id": "6364579255",
+            "content": "Reserve ride"
+        },
+        {
+            "id": "6364579334",
+            "content": "Open car, close car"
+        },
+        {
+            "id": "6364579677",
+            "content": "View cars on map"
+        },
+        {
+            "id": "6364579840",
+            "content": "End reservation"
+        },
+        {
+            "id": "6364580244",
+            "content": "Enable recurring reservation"
+        },
+        {
+            "id": "6364580495",
+            "content": "Calculate amount of invoice"
+        },
+        {
+            "id": "6364580610",
+            "content": "Send invoice"
+        },
+        {
+            "id": "6364585772",
+            "content": "Check drivers license in Elena"
+        },
+        {
+            "id": "6365464674",
+            "content": "Google account Britta voor photos"
+        },
+        {
+            "id": "6370642278",
+            "content": "Show status of the car: gas-level,"
+        },
+        {
+            "id": "6373215020",
+            "content": "Github actions: if correct structure for Django project, can use identical workflow files across projects"
+        },
+        {
+            "id": "6377702942",
+            "content": "Scooter in de auto"
+        },
+        {
+            "id": "6379457403",
+            "content": "Core workouts"
+        },
+        {
+            "id": "6381202892",
+            "content": "HvA, Joyce van Brecht, mogelijkheden afstudeerstage of gedragsverandering, gedragsverandering"
+        },
+        {
+            "id": "6386608755",
+            "content": "Beleggingsrekening voor kinderen"
+        },
+        {
+            "id": "6388330470",
+            "content": "Stellantis API certificate aanvragen"
+        },
+        {
+            "id": "6399373140",
+            "content": "Offerte VASMO maken"
+        },
+        {
+            "id": "6399837042",
+            "content": "Jas naar kleermaker?"
+        },
+        {
+            "id": "6402725487",
+            "content": "Python arcade"
+        },
+        {
+            "id": "6406560734",
+            "content": "Schrijf artikel over autodelen"
+        },
+        {
+            "id": "6426518240",
+            "content": "WeGo gebruik auto bekijken"
+        },
+        {
+            "id": "6445181091",
+            "content": "The square"
+        },
+        {
+            "id": "6449035411",
+            "content": "WBSO aanvraag"
+        },
+        {
+            "id": "6464709425",
+            "content": "Fitness applicatie"
+        },
+        {
+            "id": "6475669483",
+            "content": "Living (met Bill Nighy)"
+        },
+        {
+            "id": "6480994714",
+            "content": "Leesvaardigheid artikel"
+        },
+        {
+            "id": "6481013360",
+            "content": "GOOD LUCK TO YOU, LEO GRANDE"
+        },
+        {
+            "id": "6533547061",
+            "content": "Check WeGo platform voor inschrijvingen, reserveringen en ritten"
+        },
+        {
+            "id": "6565189461",
+            "content": "[Kacper Kowalski](https://www.google.com/search?channel=fs&client=ubuntu-sn&q=kacper+kowalski)"
+        },
+        {
+            "id": "6637491892",
+            "content": "Maak in ToDoist projecten aan"
+        },
+        {
+            "id": "6637494420",
+            "content": "ToDo items voor je kinderen, website/webapp"
+        },
+        {
+            "id": "6637495024",
+            "content": "Licht HG553"
+        },
+        {
+            "id": "6662220094",
+            "content": "\u201cEverything needs to have a URL\u201d"
+        },
+        {
+            "id": "6662340377",
+            "content": "Autodelen.in"
+        },
+        {
+            "id": "6683974292",
+            "content": "Twitter bio:"
+        },
+        {
+            "id": "6693901736",
+            "content": "Website ideeen"
+        },
+        {
+            "id": "6706489644",
+            "content": "Meetups: hackers&founders, startupschool"
+        },
+        {
+            "id": "6728845444",
+            "content": "Gitpod Chrome extension"
+        },
+        {
+            "id": "6728846016",
+            "content": "[Five ways to customize a Gitpod workspace](https://maier.tech/posts/five-ways-to-customize-a-gitpod-workspace)"
+        },
+        {
+            "id": "6736223039",
+            "content": "Maak een lijst met bedrijven voor wie een chatbot interessant kan zijn"
+        },
+        {
+            "id": "6736224296",
+            "content": "Maak opzet voor autodelen site voor Gurmessa"
+        },
+        {
+            "id": "6736225628",
+            "content": "Maak projecten aan in Google Drive"
+        },
+        {
+            "id": "6736226488",
+            "content": "Whisky site"
+        },
+        {
+            "id": "6736226599",
+            "content": "Chatbots"
+        },
+        {
+            "id": "6736227274",
+            "content": "Bollenstreek Digitaal"
+        },
+        {
+            "id": "6736227870",
+            "content": "Autodelen.in"
+        },
+        {
+            "id": "6736228356",
+            "content": "Wijkar, of bestaat die al?"
+        },
+        {
+            "id": "6750482877",
+            "content": "Sengrid sender verification or domain authentication"
+        },
+        {
+            "id": "6771464596",
+            "content": "Bollenstreek Digitaal website"
+        },
+        {
+            "id": "6771467097",
+            "content": "Chatbot platform opzetten"
+        },
+        {
+            "id": "6809163110",
+            "content": "Posities omhoog/omlaag"
+        },
+        {
+            "id": "6809163614",
+            "content": "Weekstand"
+        },
+        {
+            "id": "6809192636",
+            "content": "Live stand tijdens Grote Rondes"
+        },
+        {
+            "id": "6809201148",
+            "content": "Resultaten uit eerdere jaren tonen"
+        },
+        {
+            "id": "6823196112",
+            "content": "Fietspomp kopen"
+        },
+        {
+            "id": "6833432969",
+            "content": "#netflix Homeland #hbo"
+        },
+        {
+            "id": "6833445172",
+            "content": "Night Agent #netflix"
+        },
+        {
+            "id": "6850852736",
+            "content": "Twilio mogelijkheden bekijken"
+        },
+        {
+            "id": "6869109769",
+            "content": "Died: toepassingen ChatGPT"
+        },
+        {
+            "id": "6876536355",
+            "content": "Stupid idea: Waar spreken we af?"
+        },
+        {
+            "id": "6876633465",
+            "content": "Domein checken: waardan"
+        },
+        {
+            "id": "6876951938",
+            "content": "Sci-if idee boek"
+        },
+        {
+            "id": "6881223693",
+            "content": "Polypane: browser for developers"
+        },
+        {
+            "id": "6891891403",
+            "content": "5 jaren plan opzet"
+        },
+        {
+            "id": "6891983332",
+            "content": "Create postgres database"
+        },
+        {
+            "id": "6892107567",
+            "content": "Multiple sites in one Wagtail instance"
+        },
+        {
+            "id": "6892108237",
+            "content": "Include navigation"
+        },
+        {
+            "id": "6892110310",
+            "content": "Include Google analytics"
+        },
+        {
+            "id": "6892111146",
+            "content": "GDPR cookie statement"
+        },
+        {
+            "id": "6892111448",
+            "content": "Privacy statement"
+        },
+        {
+            "id": "6892154765",
+            "content": "Search implementeren"
+        },
+        {
+            "id": "6892164523",
+            "content": "Ooit: Premium content achter een wachtwoord"
+        },
+        {
+            "id": "6892165039",
+            "content": "Static site"
+        },
+        {
+            "id": "6892185455",
+            "content": "Templates aanpassen"
+        },
+        {
+            "id": "6892185941",
+            "content": "navigation"
+        },
+        {
+            "id": "6892186216",
+            "content": "call to action"
+        },
+        {
+            "id": "6892375979",
+            "content": "Sitemap genereren"
+        },
+        {
+            "id": "6892428810",
+            "content": "Verschillende base_template voor verschillende sites"
+        },
+        {
+            "id": "6898095976",
+            "content": "Viraliteit ingebouwd"
+        },
+        {
+            "id": "6915154539",
+            "content": "Wielerveiling versnellen"
+        },
+        {
+            "id": "6917587025",
+            "content": "Check out Beehiiv"
+        },
+        {
+            "id": "6919759483",
+            "content": "ChatGPT examples per industry"
+        },
+        {
+            "id": "6922855693",
+            "content": "Tax me if you can"
+        },
+        {
+            "id": "6987275275",
+            "content": "Overzichtspagina nationale kampioenen"
+        },
+        {
+            "id": "6991945047",
+            "content": "Check out Figma VScode plugin"
+        },
+        {
+            "id": "6992855347",
+            "content": "Hoeveel renners uit de WT ploegen zijn verkocht?"
+        },
+        {
+            "id": "6992870497",
+            "content": "Top 500 start seizoen: hoeveel hebben ze verdiend?"
+        },
+        {
+            "id": "6992902554",
+            "content": "Welke renners zijn jong en zijn de afgelopen jaren alleen maar gestegen?"
+        },
+        {
+            "id": "6992904146",
+            "content": "De (top)verdienende renners: wat zeggen de cijfers?"
+        },
+        {
+            "id": "6992986300",
+            "content": "Rennerpagina"
+        },
+        {
+            "id": "6995544305",
+            "content": "Daalder atelier #restaurant #amsterdam"
+        },
+        {
+            "id": "7006419285",
+            "content": "Controleer HelloFresh bestelling"
+        },
+        {
+            "id": "7008392477",
+            "content": "Nudging yourself"
+        },
+        {
+            "id": "7016277196",
+            "content": "Zoek potenti\u00eble klanten"
+        },
+        {
+            "id": "7061461653",
+            "content": "Autoverzekering Britta: mail sturen"
+        },
+        {
+            "id": "7068393931",
+            "content": "Methode om nieuwe renners toe te voegen aan startlijsten"
+        },
+        {
+            "id": "7118092760",
+            "content": "Arjan Slobbe lunch uitnodigen"
+        },
+        {
+            "id": "7125275409",
+            "content": "Advocaat van de hanen AFTh van der Heijden"
+        },
+        {
+            "id": "7140714800",
+            "content": "Mailadressen baretta.nl doorverwijzen naar .nu"
+        },
+        {
+            "id": "7140723880",
+            "content": "Contact Suzan Schouten"
+        },
+        {
+            "id": "7144194355",
+            "content": "Hoeveel renners hebben zich al terugverdiend?"
+        },
+        {
+            "id": "7160356150",
+            "content": "Tesla Model S inzetten Wijkar"
+        },
+        {
+            "id": "7160357300",
+            "content": "Prijs bepalen/opzoeken"
+        },
+        {
+            "id": "7160358339",
+            "content": "Hardware inbouwen"
+        },
+        {
+            "id": "7160358734",
+            "content": "Verzekering regelen"
+        },
+        {
+            "id": "7160363618",
+            "content": "Foto\u2019s maken"
+        },
+        {
+            "id": "7160368282",
+            "content": "Vragen over nieuwe hardware: per auto parkeermogelijkheden?"
+        },
+        {
+            "id": "7190062140",
+            "content": "Black mirror"
+        },
+        {
+            "id": "7244548051",
+            "content": "Create page speed analysis using Google page speed API"
+        },
+        {
+            "id": "7261035698",
+            "content": "Lijst met PC-er per school publiceren"
+        },
+        {
+            "id": "7265298114",
+            "content": "Box plots per ploegleider"
+        },
+        {
+            "id": "7265298389",
+            "content": "Box plot per nationaliteit"
+        },
+        {
+            "id": "7265298963",
+            "content": "Box plot per wielerploeg"
+        },
+        {
+            "id": "7265919886",
+            "content": "Template aanmaken voor visuele weergaven"
+        },
+        {
+            "id": "7265920873",
+            "content": "Overzichtspagina met links naar grafieken e.d."
+        },
+        {
+            "id": "7270409175",
+            "content": "Public roadmap maken op Github (zie Plausible)"
+        },
+        {
+            "id": "7270416652",
+            "content": "Plausible stats openbaar maken"
+        },
+        {
+            "id": "7283787845",
+            "content": "Brede School multi-language parent-role"
+        },
+        {
+            "id": "7290823705",
+            "content": "brede School issue aanmaken: te laat inschrijven kinderen, geen aanwezigheid meer kunnen invullen"
+        },
+        {
+            "id": "7292627549",
+            "content": "Splinter gebruiken voor SEO tests"
+        },
+        {
+            "id": "7292633962",
+            "content": "Load testing tool: Locust"
+        },
+        {
+            "id": "7298244386",
+            "content": "Planning software"
+        },
+        {
+            "id": "7301233522",
+            "content": "Simple analytics installeren"
+        },
+        {
+            "id": "7301234754",
+            "content": "wijnandb.github.com/games"
+        },
+        {
+            "id": "7324026446",
+            "content": "**[wielerspel-veiling]** Ploegleider heeft eigen veillijst by wijnandb [Ploegleider heeft eigen veillijst \u00b7 Issue #50 \u00b7 wijnandb/wielerspel-veiling](https://ift.tt/vXA98L2)"
+        },
+        {
+            "id": "7338193049",
+            "content": "Verschillende sites overwegen te bouwen"
+        },
+        {
+            "id": "7367468100",
+            "content": "verschillende rollen aanmaken"
+        },
+        {
+            "id": "7374277692",
+            "content": "Werkwijze nieuwe pagina\u2019s BS"
+        },
+        {
+            "id": "7382716827",
+            "content": "Financi\u00ebn Brede School: mail sturen Rachel"
+        },
+        {
+            "id": "7393183239",
+            "content": "Offerte Dachar maken"
+        },
+        {
+            "id": "7393190996",
+            "content": "Offerte PO/VO maken"
+        },
+        {
+            "id": "7478928706",
+            "content": "Simple analytics installeren als Django app op Bredeschool"
+        },
+        {
+            "id": "7478933626",
+            "content": "Bredeschool: aanbieder-rol aanmaken (acceptatie)"
+        },
+        {
+            "id": "7479010285",
+            "content": "Simple analytics installeren: Vasmo.herokuapp.com"
+        },
+        {
+            "id": "7483547145",
+            "content": "Bredeschool: docent rol aanmaken"
+        },
+        {
+            "id": "7484770195",
+            "content": "Refactoring, separation of concerns"
+        },
+        {
+            "id": "7484815593",
+            "content": "Extra\u2019s voor toeristen"
+        },
+        {
+            "id": "7485063742",
+            "content": "Meertaligheid Django: form aanmaken"
+        },
+        {
+            "id": "7485070871",
+            "content": "data op Acceptatie middels een script bijwerken met Faker data"
+        },
+        {
+            "id": "7485075630",
+            "content": "IC-er: Aanmaken nieuwe overeenkomst."
+        },
+        {
+            "id": "7485184256",
+            "content": "Contactmogelijkheid per soort gebruiker"
+        },
+        {
+            "id": "7485185422",
+            "content": "FAQ per soort gebruiker"
+        },
+        {
+            "id": "7485185727",
+            "content": "FAQ meertaligheid"
+        },
+        {
+            "id": "7485188459",
+            "content": "Feedback op site mogelijk maken"
+        },
+        {
+            "id": "7485191915",
+            "content": "Tussenvoegsel = None op"
+        },
+        {
+            "id": "7485202123",
+            "content": "\"Other mobile\" op http://127.0.0.1:8000/student/25500/contact/"
+        },
+        {
+            "id": "7485204370",
+            "content": "Bewerken of doorgeven gegevens op http://127.0.0.1:8000/student/25500/contact/"
+        },
+        {
+            "id": "7485438937",
+            "content": "Translations project"
+        },
+        {
+            "id": "7485440129",
+            "content": "Maken van vertalingen"
+        },
+        {
+            "id": "7485440565",
+            "content": "in de code elementen vertaalbaar maken"
+        },
+        {
+            "id": "7485440931",
+            "content": "language selection form maken"
+        },
+        {
+            "id": "7486462894",
+            "content": "Meertaligheid: makemessage, compilemessages"
+        },
+        {
+            "id": "7486463479",
+            "content": "Meertaligheid: vertalingen aanmaken"
+        },
+        {
+            "id": "7486654860",
+            "content": "Maak Overeenkomst"
+        },
+        {
+            "id": "7486655182",
+            "content": "Zoek Aanbieder en docent"
+        },
+        {
+            "id": "7486655787",
+            "content": "Vraag akkoord overeenkomst aan aanbieder"
+        },
+        {
+            "id": "7486656028",
+            "content": "Maak rapportage"
+        },
+        {
+            "id": "7486656329",
+            "content": "Check of aanwezigheid is ingevuld"
+        },
+        {
+            "id": "7486658969",
+            "content": "Controleer data"
+        },
+        {
+            "id": "7486659233",
+            "content": "Overzicht pagina's maken"
+        },
+        {
+            "id": "7486675190",
+            "content": "Breadcrumbs maken?"
+        },
+        {
+            "id": "7487128112",
+            "content": "Find and replace \u201creverse_lazy\u201d with \u201creverse\u201d"
+        },
+        {
+            "id": "7487149470",
+            "content": "[Brede School Zuidoost](https://acceptatiebredeschoolzuidoost.herokuapp.com/parent/children)"
+        },
+        {
+            "id": "7487473069",
+            "content": "[Re: Website verbeter punten](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DODuWwBcJlhko2u5s7kCWTndaW_K-ere4o)"
+        },
+        {
+            "id": "7487475966",
+            "content": "[Dubbele activiteiten](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DMTttMJVkmagTbzJl6GqTVp_pzvNcuBn5A)"
+        },
+        {
+            "id": "7487477359",
+            "content": "[Reminder-aanbieders op inactief zetten](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DOAUQR81a23cLnMR5ZKUtbbtiPoYHLP9T8)"
+        },
+        {
+            "id": "7489134550",
+            "content": "Meerdere tijden onder 1 overeenkomst"
+        },
+        {
+            "id": "7489363562",
+            "content": "Verwerk document in tasks [https://docs.google.com/document/d/1ONirUA3K_e7AH1Y4Fnm_HufedZmERnfq6_VtRq-YPHQ/edit#heading=h.glghjfx83abp](https://docs.google.com/document/d/1ONirUA3K_e7AH1Y4Fnm_HufedZmERnfq6_VtRq-YPHQ/edit#heading=h.glghjfx83abp)"
+        },
+        {
+            "id": "7489476606",
+            "content": "Projecten delen Todoist: mogelijkheden"
+        },
+        {
+            "id": "7489617960",
+            "content": "Modals en HTMX gebruiken voor forms"
+        },
+        {
+            "id": "7491862515",
+            "content": "[New course with TruEra and LlamaIndex: Building and Evaluating Advanced RAG Applications](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DMiFqJ_9WZ8uTm89n2DIfkxSKiGJl1ikwk)"
+        },
+        {
+            "id": "7491888800",
+            "content": "[New course with WhyLabs: Quality and Safety for LLM Applications](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DOYPuhW-X0BJ_iJQeolE99EaR8XMTODnKU)"
+        },
+        {
+            "id": "7491889189",
+            "content": "[The reviews are in! \u2b50\u2b50\u2b50\u2b50\u2b50 for Generative AI for Everyone ](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DP6vSfk1UfnBJNt_nB9ji3d1fZ_gcNEBsM)"
+        },
+        {
+            "id": "7491893819",
+            "content": "[New course: Functions, Tools and Agents with LangChain](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DM1t8pqm9WD-Y4hCccoyim2ZYYw7Cvf3kg)"
+        },
+        {
+            "id": "7491899942",
+            "content": "[New course with Google: Pair Programming with a Large Language Model ](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DMvGK-Gqor4cpT5M83H2MUrveAd9_6CJqM)"
+        },
+        {
+            "id": "7491900759",
+            "content": "[New course with Microsoft: How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DNwig4nqYtB4x1pmq3ssfljZm5XO7wAy_8)"
+        },
+        {
+            "id": "7491906137",
+            "content": "[New Course: Learn to finetune large language models](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DOWlLJ1bIguDq-q1CMWCrqkWXBkkX2juIA)"
+        },
+        {
+            "id": "7491945962",
+            "content": "[Enhance Your Search Capabilities: New Course on Large Language Models & Semantic Search](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DMBg2BoUYA7Nt0UTd2aPe5dbt1VyLch1tU)"
+        },
+        {
+            "id": "7491957291",
+            "content": "[New course with AWS: Generative AI with Large Language Models now available on Coursera!](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DM-uNCgndgENi2A7b3JtciEV0bc5EEXSXs)"
+        },
+        {
+            "id": "7492398368",
+            "content": "Feedback verzamelen, werkt het naar tevredenheid?"
+        },
+        {
+            "id": "7492987092",
+            "content": "Forms in een modal"
+        },
+        {
+            "id": "7493376168",
+            "content": "\"Terms and Conditions\" link in footer?"
+        },
+        {
+            "id": "7493377924",
+            "content": "Text \"Voorwaarden en spelregels\" vertalen"
+        },
+        {
+            "id": "7493380168",
+            "content": "Change 'dashboard\" to \"parent:children\" in urls.py"
+        },
+        {
+            "id": "7493384196",
+            "content": "Vertaal termen op ouder site"
+        },
+        {
+            "id": "7493513170",
+            "content": "Breadcrumbs kloppend maken"
+        },
+        {
+            "id": "7499195620",
+            "content": "Belastingdienst machtiging intrekken"
+        },
+        {
+            "id": "7509264048",
+            "content": "Keep loading pages"
+        },
+        {
+            "id": "7509277749",
+            "content": "Search met delay"
+        },
+        {
+            "id": "7515248517",
+            "content": "ToBeAuctioned sorteren"
+        },
+        {
+            "id": "7527057459",
+            "content": "Mail alias voor [iktel.nl](http://iktel.nl) Google Workspace aanmaken"
+        },
+        {
+            "id": "7527086877",
+            "content": "Social preview Github"
+        },
+        {
+            "id": "7527087407",
+            "content": "Social media accounts aanmaken"
+        },
+        {
+            "id": "7527087608",
+            "content": "Linkedin"
+        },
+        {
+            "id": "7527087808",
+            "content": "X/twitter"
+        },
+        {
+            "id": "7527088132",
+            "content": "Instagram"
+        },
+        {
+            "id": "7527088325",
+            "content": "Facebook?"
+        },
+        {
+            "id": "7527089480",
+            "content": "Social media plan: pak 25 minuten om daar over te schrijven #IkTel"
+        },
+        {
+            "id": "7527089815",
+            "content": "Blogartikelen toevoegen aan site"
+        },
+        {
+            "id": "7527113511",
+            "content": "Instellingen mijndomein: verwijzing Github, mail"
+        },
+        {
+            "id": "7529849068",
+            "content": "Link naar flags op rennerpagina fixen"
+        },
+        {
+            "id": "7529849763",
+            "content": "Nieuwe gegevens toevoegen (renners)"
+        },
+        {
+            "id": "7529849964",
+            "content": "Hoe ga je nieuwe ploegen toevoegen?"
+        },
+        {
+            "id": "7529854508",
+            "content": "Calendar binnenhalen (firstcycling)"
+        },
+        {
+            "id": "7529854635",
+            "content": "Graphs opzoeken"
+        },
+        {
+            "id": "7553651389",
+            "content": "Jaarplanning/overzicht maken"
+        },
+        {
+            "id": "7557009208",
+            "content": "Sales pipeline maken"
+        },
+        {
+            "id": "7557009557",
+            "content": "Marketing website"
+        },
+        {
+            "id": "7557395533",
+            "content": "Schoolvakanties invoeren"
+        },
+        {
+            "id": "7557396363",
+            "content": "Uitstapjes met Britta inzetten"
+        },
+        {
+            "id": "7557399392",
+            "content": "Japan-reis met Britta plannen"
+        },
+        {
+            "id": "7557808268",
+            "content": "Call to action"
+        },
+        {
+            "id": "7558736480",
+            "content": "Spreuken ophangen"
+        },
+        {
+            "id": "7569885264",
+            "content": "Documenten aanmaken voor alle module beschrijvingen"
+        },
+        {
+            "id": "7579572998",
+            "content": "10 jaar visie maken"
+        },
+        {
+            "id": "7583381871",
+            "content": "Ingeschreven activiteiten ook zichtbaar maken voor ouder"
+        },
+        {
+            "id": "7600797074",
+            "content": "Voorzetramen woonkamer"
+        },
+        {
+            "id": "7600803266",
+            "content": "Provide up-to-date VOG"
+        },
+        {
+            "id": "7600803997",
+            "content": "Be linked to company"
+        },
+        {
+            "id": "7600804315",
+            "content": "Be linked to activity"
+        },
+        {
+            "id": "7600805107",
+            "content": "Fill out availability - days"
+        },
+        {
+            "id": "7600805710",
+            "content": "Fill out availability - yeargroups"
+        },
+        {
+            "id": "7600806852",
+            "content": "See details of Activity to host"
+        },
+        {
+            "id": "7600807330",
+            "content": "Fill out presence/absence"
+        },
+        {
+            "id": "7600807904",
+            "content": "Upload students"
+        },
+        {
+            "id": "7600808437",
+            "content": "Fill out details of school"
+        },
+        {
+            "id": "7620004169",
+            "content": "Stand Jackpot tonen"
+        },
+        {
+            "id": "7646031274",
+            "content": "Financi\u00ebn zoons"
+        },
+        {
+            "id": "7676927960",
+            "content": "Startup coaching, docent ondernemerschap"
+        },
+        {
+            "id": "7746903215",
+            "content": "Blokken oplossing"
+        },
+        {
+            "id": "7751626004",
+            "content": "Youtube channel: stuff made here"
+        },
+        {
+            "id": "7751626514",
+            "content": "Trui: St. James"
+        },
+        {
+            "id": "7757870082",
+            "content": "Afwijkende data voor school genereren"
+        },
+        {
+            "id": "7772753474",
+            "content": "Domein [rijkeschooldagzo.nl](http://rijkeschooldagzo.nl) koppelen aan site"
+        },
+        {
+            "id": "7799646100",
+            "content": "Wat wil je doen met overeenkomsten die voorbij zijn?"
+        },
+        {
+            "id": "7799852871",
+            "content": "Dropdown scholen fixen: https://www.bredeschoolzuidoost.nl/ppozo/school/4/42/"
+        },
+        {
+            "id": "7803566192",
+            "content": "Functioneel ontwerp maken Brede School"
+        },
+        {
+            "id": "7818737153",
+            "content": "Amsterdam als klant binnen halen"
+        },
+        {
+            "id": "7818817127",
+            "content": "Geplande activiteiten weekview"
+        },
+        {
+            "id": "7818817463",
+            "content": "Geplande activiteiten dagweergave"
+        },
+        {
+            "id": "7818818207",
+            "content": "Details activiteit (modal)"
+        },
+        {
+            "id": "7818818606",
+            "content": "Aanpassen details: wat?"
+        },
+        {
+            "id": "7818819193",
+            "content": "Activiteitenbegeleider toevoegen"
+        },
+        {
+            "id": "7818856803",
+            "content": "Accepteren/afwijzen?"
+        },
+        {
+            "id": "7822852692",
+            "content": "Compressor uitpakken"
+        },
+        {
+            "id": "7822853734",
+            "content": "Indeling voor schuur maken"
+        },
+        {
+            "id": "7822856705",
+            "content": "Bank onder veranda zetten"
+        },
+        {
+            "id": "7822863726",
+            "content": "Kussens op de bank leggen"
+        },
+        {
+            "id": "7822867226",
+            "content": "Gewichtenrek verplaatsen"
+        },
+        {
+            "id": "7824425337",
+            "content": "Werken met issues GitHub"
+        },
+        {
+            "id": "7824484129",
+            "content": "Review Voorwaarden/privacy"
+        },
+        {
+            "id": "7824484744",
+            "content": "AVG: zoek op wat voorwaarden zijn"
+        },
+        {
+            "id": "7824485106",
+            "content": "Check of je voldoet aan voorwaarden"
+        },
+        {
+            "id": "7824486524",
+            "content": "Bedenk blogonderwerpen/artikelen"
+        },
+        {
+            "id": "7824486907",
+            "content": "Schrijf een prompt voor het onderwerp"
+        },
+        {
+            "id": "7824487455",
+            "content": "Maak een aparte GPT voor het schrijven van een blogpost voor Iktel"
+        },
+        {
+            "id": "7824513784",
+            "content": "Deel artikel via social media"
+        },
+        {
+            "id": "7824525294",
+            "content": "Bedenk categorie\u00ebn waarin de blogartikelen ingedeeld kunnen worden"
+        },
+        {
+            "id": "7824525955",
+            "content": "Maak een pagina waar de categorie\u00ebn met aantal artikelen vermeld staan"
+        },
+        {
+            "id": "7824537129",
+            "content": "Contact opnemen met Frank Studulski"
+        },
+        {
+            "id": "7824540705",
+            "content": "Afspraak Ger/Stichting Wijsneus maken"
+        },
+        {
+            "id": "7824547368",
+            "content": "Over ons sectie: maak het persoonlijk"
+        },
+        {
+            "id": "7824581024",
+            "content": "Aparte pagina Attendance"
+        },
+        {
+            "id": "7824581394",
+            "content": "Linken vanaf Dashboard school"
+        },
+        {
+            "id": "7824581918",
+            "content": "Overzicht van ontbrekende presentie"
+        },
+        {
+            "id": "7824582315",
+            "content": "Link naar presentie invullen activiteit"
+        },
+        {
+            "id": "7824651618",
+            "content": "Tekst uitnodiging Activitetienbegeleider"
+        },
+        {
+            "id": "7824676460",
+            "content": "Buttons aanmaken ipv links: zoek op -add"
+        },
+        {
+            "id": "7824929688",
+            "content": "Bij tonen aanbieders: inactief in apart gedeelte"
+        },
+        {
+            "id": "7824952666",
+            "content": "Stroomschema reminders sturen: aanbieder en activiteitenbegeleider"
+        },
+        {
+            "id": "7825283889",
+            "content": "Pagina's per school en periode:"
+        },
+        {
+            "id": "7825284327",
+            "content": "activititeiten (lijst)"
+        },
+        {
+            "id": "7825284817",
+            "content": "activiteiten (weekweergave)"
+        },
+        {
+            "id": "7825285043",
+            "content": "inschrijvingen (??)"
+        },
+        {
+            "id": "7825285288",
+            "content": "deelname (??)"
+        },
+        {
+            "id": "7825285418",
+            "content": "financien"
+        },
+        {
+            "id": "7825783290",
+            "content": "Toon IBAN in overzicht aanbieder??"
+        },
+        {
+            "id": "7830135633",
+            "content": "Trainingsschema maken"
+        },
+        {
+            "id": "7830136316",
+            "content": "Core exercises"
+        },
+        {
+            "id": "7830136645",
+            "content": "Chest exercises"
+        },
+        {
+            "id": "7830136835",
+            "content": "Leg exercises"
+        },
+        {
+            "id": "7830137124",
+            "content": "Compound exercises"
+        },
+        {
+            "id": "7830137505",
+            "content": "Planks"
+        },
+        {
+            "id": "7830137700",
+            "content": "Mountain climbers"
+        },
+        {
+            "id": "7830138126",
+            "content": "Flutter kicks"
+        },
+        {
+            "id": "7830138138",
+            "content": "Scissors"
+        },
+        {
+            "id": "7830138760",
+            "content": "Reverse crunch"
+        },
+        {
+            "id": "7830144614",
+            "content": "Heel touches"
+        },
+        {
+            "id": "7830145043",
+            "content": "Heel touches legs on chair"
+        },
+        {
+            "id": "7830153102",
+            "content": "Russian twist"
+        },
+        {
+            "id": "7830153631",
+            "content": "Laying leg cross"
+        },
+        {
+            "id": "7830154866",
+            "content": "Side bend kettlebell"
+        },
+        {
+            "id": "7830163767",
+            "content": "Dumbbell bench press"
+        },
+        {
+            "id": "7830164335",
+            "content": "Push ups"
+        },
+        {
+            "id": "7834045470",
+            "content": "Aanpak nieuwe activiteitenbegeleider"
+        },
+        {
+            "id": "7834046484",
+            "content": "Aanpak bestaande activiteitenbegeleiders zonder VOG"
+        },
+        {
+            "id": "7834047119",
+            "content": "Schermen presentie invoeren"
+        },
+        {
+            "id": "7835314879",
+            "content": "[Antwoord sturen Re: Hosting bredeschoolzuidoost.nl](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DNOGoQEUjSJadppGK3xgTZ4Z4iqVOicDJQ)"
+        },
+        {
+            "id": "7835316700",
+            "content": "[Rol IC: overzicht kinderen geen deelname](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DMH9YIV_WVXMC7A67T_EB3JT7OhXFodCZk)"
+        },
+        {
+            "id": "7837596879",
+            "content": "doorlinken naar pagina inschrijven leerling"
+        },
+        {
+            "id": "7837597655",
+            "content": "extra filters inbouwen: periode en groep"
+        },
+        {
+            "id": "7837598630",
+            "content": "pagination fixen?"
+        },
+        {
+            "id": "7837599113",
+            "content": "zoekfunctie toeveoegen"
+        },
+        {
+            "id": "7838041783",
+            "content": "vertalingen doorvoeren"
+        },
+        {
+            "id": "7838042106",
+            "content": "verwijderen docent"
+        },
+        {
+            "id": "7838042930",
+            "content": "redirect na uitnodigen docent"
+        },
+        {
+            "id": "7838054837",
+            "content": "Activiteitenbegeleider: telefoonnummer toevoegen bij inschrijving"
+        },
+        {
+            "id": "7838056768",
+            "content": "Voornaam en achternaam inschrijving activiteitenbegeleider: verplicht"
+        },
+        {
+            "id": "7840733543",
+            "content": "Maarten Lafeber afspreken"
+        },
+        {
+            "id": "7840845244",
+            "content": "Upload Students testen op branch nieuwe_site"
+        },
+        {
+            "id": "7847108932",
+            "content": "Boris Johnson the dream of Rome"
+        },
+        {
+            "id": "7848380708",
+            "content": "Nplv, [Nationaal Programma Leefbaarheid en Veiligheid](https://www.volkshuisvestingnederland.nl/onderwerpen/programma-leefbaarheid-en-veiligheid)"
+        },
+        {
+            "id": "7867677990",
+            "content": "Time for my weekly review \u23f0"
+        },
+        {
+            "id": "7867678007",
+            "content": "A weekly review is a dedicated hour set aside each week for reflection and planning. Customize this checklist to ensure that each area of your life is accounted for."
+        },
+        {
+            "id": "7867678017",
+            "content": "\ud83c\udfa5 Watch the [Beginner's Guide to the Weekly Review](https://www.youtube.com/watch?v=lrdKWwOonQs) to learn more about this essential productivity practice for clearing your mind and planning ahead."
+        },
+        {
+            "id": "7867678025",
+            "content": "This weekly review template is based on the Getting Things Done method, but you can customize it to fit your needs."
+        },
+        {
+            "id": "7867678037",
+            "content": "Feel free to [archive this section](https://todoist.com/help/articles/introduction-to-sections-rOrK0aEn#h_01HA6Y9MJME7BDBBQT3PZ51R3Y) once you get the hang of using this template!"
+        },
+        {
+            "id": "7867678046",
+            "content": "Process my digital inboxes"
+        },
+        {
+            "id": "7867678054",
+            "content": "Email"
+        },
+        {
+            "id": "7867678058",
+            "content": "GitHub"
+        },
+        {
+            "id": "7867678069",
+            "content": "Slack"
+        },
+        {
+            "id": "7867678074",
+            "content": "Etc."
+        },
+        {
+            "id": "7867678080",
+            "content": "Clear off my desk"
+        },
+        {
+            "id": "7867678084",
+            "content": "Close all distractions - Do Not Disturb mode"
+        },
+        {
+            "id": "7867678089",
+            "content": "Review my Next Actions list"
+        },
+        {
+            "id": "7867678093",
+            "content": "Review my Projects list"
+        },
+        {
+            "id": "7867678096",
+            "content": "Review past and upcoming calendar items"
+        },
+        {
+            "id": "7867678105",
+            "content": "Review my Waiting For list"
+        },
+        {
+            "id": "7867678110",
+            "content": "* Use [this document template](https://docs.google.com/document/d/1rJMQ6GBTvka48y9sIzCtuWSisHgxAbm_eeQBBwXdGjU/edit?usp=sharing) to log answers"
+        },
+        {
+            "id": "7867678119",
+            "content": "What went well this week?"
+        },
+        {
+            "id": "7867678126",
+            "content": "What could be adjusted?"
+        },
+        {
+            "id": "7867678136",
+            "content": "What should I stop doing?"
+        },
+        {
+            "id": "7867678145",
+            "content": "Create a task to adjust these items"
+        },
+        {
+            "id": "7867678153",
+            "content": "What should I start doing?"
+        },
+        {
+            "id": "7867678160",
+            "content": "Create a task to plan these items in more detail"
+        },
+        {
+            "id": "7867678170",
+            "content": "Review my Someday/Maybe list"
+        },
+        {
+            "id": "7867678180",
+            "content": "Review Pending and support files"
+        },
+        {
+            "id": "7867678188",
+            "content": "Review any other relevant checklists"
+        },
+        {
+            "id": "7867958124",
+            "content": "Incorporate strength training exercises into the routine, focusing on building muscle mass and bone density."
+        },
+        {
+            "id": "7867958132",
+            "content": "Incorporate cardio exercises, such as walking, running, cycling, or swimming, into the routine to improve cardiovascular health and endurance."
+        },
+        {
+            "id": "7867958146",
+            "content": "Incorporate flexibility and balance exercises, such as yoga or Pilates, to improve range of motion and reduce risk of injury."
+        },
+        {
+            "id": "7867959963",
+            "content": "Consult with a personal trainer or fitness professional to create a personalized workout plan."
+        },
+        {
+            "id": "7867959969",
+            "content": "Incorporate strength training exercises into the routine, focusing on building muscle mass and bone density."
+        },
+        {
+            "id": "7867959972",
+            "content": "Incorporate cardio exercises, such as walking, running, cycling, or swimming, into the routine to improve cardiovascular health and endurance."
+        },
+        {
+            "id": "7867959977",
+            "content": "Incorporate flexibility and balance exercises, such as yoga or Pilates, to improve range of motion and reduce risk of injury."
+        },
+        {
+            "id": "7883327266",
+            "content": "AI assistent IkTel"
+        },
+        {
+            "id": "7888281339",
+            "content": "Acceptatie Brede School: navigatie op mobiel testen"
+        },
+        {
+            "id": "7914290611",
+            "content": "LinkedIn"
+        },
+        {
+            "id": "7922523725",
+            "content": "Afspraak Ger en Esther - vervolgstappen"
+        },
+        {
+            "id": "7927903424",
+            "content": "Pricing"
+        },
+        {
+            "id": "7927909529",
+            "content": "Startup ideas"
+        },
+        {
+            "id": "7927914280",
+            "content": "100 tasks affiliate"
+        },
+        {
+            "id": "7928654980",
+            "content": "Startup steps"
+        },
+        {
+            "id": "7932869901",
+            "content": "Documentatie maken voor Brede School (FAQ, instructie)"
+        },
+        {
+            "id": "7935643628",
+            "content": "Aanpakken per rol"
+        },
+        {
+            "id": "7935644187",
+            "content": "Nadenken wat er kan gebeuren, mis kan gaan"
+        },
+        {
+            "id": "7935647137",
+            "content": "Per onderdeel duidelijke uitleg met oplossing/actie"
+        },
+        {
+            "id": "7935656648",
+            "content": "Amsterdam Nieuw-West"
+        },
+        {
+            "id": "7935656654",
+            "content": "Arnhem Oost"
+        },
+        {
+            "id": "7935656667",
+            "content": "Breda Noord"
+        },
+        {
+            "id": "7935656675",
+            "content": "Delft West"
+        },
+        {
+            "id": "7935656690",
+            "content": "Dordrecht West"
+        },
+        {
+            "id": "7935656699",
+            "content": "Eindhoven Woensel-Zuid"
+        },
+        {
+            "id": "7935656707",
+            "content": "Groningen Noord"
+        },
+        {
+            "id": "7935656710",
+            "content": "Heerlen Noord"
+        },
+        {
+            "id": "7935656720",
+            "content": "Leeuwarden Oost"
+        },
+        {
+            "id": "7935656729",
+            "content": "Lelystad Oost"
+        },
+        {
+            "id": "7935656743",
+            "content": "Nieuwegein Centrale-As"
+        },
+        {
+            "id": "7935656761",
+            "content": "Roosendaal Ring"
+        },
+        {
+            "id": "7935656769",
+            "content": "Rotterdam Zuid"
+        },
+        {
+            "id": "7935656776",
+            "content": "Schiedam Nieuwland-Oost"
+        },
+        {
+            "id": "7935656787",
+            "content": "Tilburg Noordwest"
+        },
+        {
+            "id": "7935656792",
+            "content": "Utrecht Overvecht"
+        },
+        {
+            "id": "7935656798",
+            "content": "Vlaardingen Westwijk"
+        },
+        {
+            "id": "7935656802",
+            "content": "Zaandam Oost"
+        },
+        {
+            "id": "7935662773",
+            "content": "Den Haag Zuidwest"
+        },
+        {
+            "id": "7935669612",
+            "content": "Buurtfabriek"
+        },
+        {
+            "id": "7935669630",
+            "content": "New Future Lab"
+        },
+        {
+            "id": "7935669648",
+            "content": "het Circulaire Ambachtsnetwerk"
+        },
+        {
+            "id": "7935669657",
+            "content": "Smart Makers Delft"
+        },
+        {
+            "id": "7935669670",
+            "content": "de Wijkuniversiteit"
+        },
+        {
+            "id": "7935745628",
+            "content": "[Brede Buurt School](https://debuurtschool.nl/)"
+        },
+        {
+            "id": "7935803463",
+            "content": "[Contact - SBB Den Haag](https://www.sbbdenhaag.nl/contact/)"
+        },
+        {
+            "id": "7936039745",
+            "content": "Call to Action toevoegen"
+        },
+        {
+            "id": "7936100507",
+            "content": "Dashboard met KPI\u2019s"
+        },
+        {
+            "id": "7936101108",
+            "content": "Feedback systeem op IkTel applicatie"
+        },
+        {
+            "id": "7936102537",
+            "content": "Offerte voor Wijsneus, school in West?"
+        },
+        {
+            "id": "7936556079",
+            "content": "Plan workouts, social gatherings, etc. in this project."
+        },
+        {
+            "id": "7936556108",
+            "content": "Add critical dates such as family birthdays or anniversaries here. Set them as [recurring tasks](https://todoist.com/help/articles/set-a-recurring-due-date-in-todoist-YUYVJJAV) if applicable."
+        },
+        {
+            "id": "7936556123",
+            "content": "Amir adds anything he'd like to share with the Doist team here. You can add links to things you'd like to share with your team or colleagues here."
+        },
+        {
+            "id": "7936556140",
+            "content": "Put meeting agendas or takeaways in this project."
+        },
+        {
+            "id": "7936556159",
+            "content": "Put any [tasks you share](https://todoist.com/help/articles/share-a-personal-project-tzkGUy) with your partner or family here."
+        },
+        {
+            "id": "7938983804",
+            "content": "Presentatie IkTel maken"
+        },
+        {
+            "id": "7942543976",
+            "content": "[New course with Hugging Face: Quantization Fundamentals](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DMoQ8w9vW7bmZ4samlqekfLliglBQ0DTuw)"
+        },
+        {
+            "id": "7942545704",
+            "content": "[Build a full-stack web application that uses RAG to chat with your data](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DPPXKpUFrDlCLMZkCPONsA3lQjgs8tGhHk)"
+        },
+        {
+            "id": "7944728368",
+            "content": "Learning"
+        },
+        {
+            "id": "7944764744",
+            "content": "CReeer prospect in Bigin"
+        },
+        {
+            "id": "7945238396",
+            "content": "Homeland"
+        },
+        {
+            "id": "7945887943",
+            "content": "[Deze zijn klaar : auto brieven](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DNkILjiBjlxAkghIIl0ZXLPCTl9ajrjgjk)"
+        },
+        {
+            "id": "7945891641",
+            "content": "[Re: Er is een document met je gedeeld: \u2018VOG aanvraag proces \u2018 @wachtopreactie](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DPsnNVeoM2Kvkcw64MAxsjmV89WjcElVG4)"
+        },
+        {
+            "id": "7946809892",
+            "content": "Zie ChatGPT"
+        },
+        {
+            "id": "7947307271",
+            "content": "inschrijven wiskunde cursus Economics & Business Economics"
+        },
+        {
+            "id": "7947394687",
+            "content": "Logo maken (google Fonts)"
+        },
+        {
+            "id": "7951389601",
+            "content": "Mail provider wisselen"
+        },
+        {
+            "id": "7951390408",
+            "content": "Domein verhuizen"
+        },
+        {
+            "id": "7957572943",
+            "content": "Enneagram, persoonlijkheden"
+        },
+        {
+            "id": "7971855141",
+            "content": "Bel potenti\u00eble klant IkTel"
+        },
+        {
+            "id": "7972283455",
+            "content": "Pele: lid worden van SEFA [Home](https://sefa.nl/)"
+        },
+        {
+            "id": "7974509994",
+            "content": "Customer support IkTel"
+        },
+        {
+            "id": "7974653234",
+            "content": "Sentry feedback"
+        },
+        {
+            "id": "7979637572",
+            "content": "Ventilatiesysteem uitzuigen badkamer"
+        },
+        {
+            "id": "7984423807",
+            "content": "[Document](https://docs.google.com/document/d/1yHGSS1TMjK2JCUPjRZykaxsE4DR06I4fvcvKBV40D30/edit)"
+        },
+        {
+            "id": "7984424753",
+            "content": "Zet een Hugo site op"
+        },
+        {
+            "id": "7984424757",
+            "content": "Koppel een Hugo theme aan de site"
+        },
+        {
+            "id": "7984424759",
+            "content": "Zet de instellingen goed (titel, navigatie, afbeeldingen, et cetera)"
+        },
+        {
+            "id": "7984424764",
+            "content": "Cre\u00eber een Github repo voor de site"
+        },
+        {
+            "id": "7984424768",
+            "content": "Maak een script om met behulp van de OpenAI API een artikel te schrijven"
+        },
+        {
+            "id": "7984424777",
+            "content": "Zorg dat het script een markdown file cre\u00ebert in de juiste directory"
+        },
+        {
+            "id": "7984424786",
+            "content": "Maak een script dat het artikel naar je mailt"
+        },
+        {
+            "id": "7984424792",
+            "content": "Maak een script dat de veranderingen doorplaatst naar de Github repo"
+        },
+        {
+            "id": "7984424796",
+            "content": "Maak een Github action dat de Hugo site genereert als er een verandering is doorgevoerd"
+        },
+        {
+            "id": "7984424800",
+            "content": "Bedenk hoe je een Instapost kunt maken op basis van een nieuw artikel"
+        },
+        {
+            "id": "7984424804",
+            "content": "Zoek uit hoe je een tweet kunt plaatsen op basis van een nieuw artikel"
+        },
+        {
+            "id": "7984424809",
+            "content": "Zoek uit hoe je een LinkedIn post kunt maken op basis van een nieuw artikel"
+        },
+        {
+            "id": "7984424814",
+            "content": "Koppel een domeinnaam aan de site: leerraar.nl"
+        },
+        {
+            "id": "7984431117",
+            "content": "Maak een affiliate account aan op Coursera"
+        },
+        {
+            "id": "7984431122",
+            "content": "Maak een affiliate account aan op EdX (?)"
+        },
+        {
+            "id": "7984431132",
+            "content": "Gebruik affiliate account van Amazon (is het nog actief?)"
+        },
+        {
+            "id": "7984431142",
+            "content": "Maak een affiliate account aan op Bol.com"
+        },
+        {
+            "id": "7984431152",
+            "content": "Bespreken met Pele: TikTok? Snap? Facebook?"
+        },
+        {
+            "id": "7984436784",
+            "content": "[**JavaScript RAG Web Apps with LlamaIndex](**https://learn.deeplearning.ai/courses/javascript-rag-web-apps-with-llamaindex/lesson/1/introduction)"
+        },
+        {
+            "id": "7984444258",
+            "content": "Zie ook [Affiliate sites](https://app.todoist.com/app/project/affiliatesite-s-6VFw3CFQVJgph7g5)"
+        },
+        {
+            "id": "7990284218",
+            "content": "Hugo of Jekyll?"
+        },
+        {
+            "id": "7990284840",
+            "content": "Hugo templates en themes: welke zijn geschikt"
+        },
+        {
+            "id": "7990287616",
+            "content": "Maak demo content en creeer verschillende Hugo sites (met diverse themes)"
+        },
+        {
+            "id": "7991772688",
+            "content": "Perceptum website"
+        },
+        {
+            "id": "7991802957",
+            "content": "Lijst met toegekende subsidies"
+        },
+        {
+            "id": "7992142432",
+            "content": "Financieel overzicht filteren"
+        },
+        {
+            "id": "7992142842",
+            "content": "[Lightning-Fast Web Performance Online Course from WebPageTest](https://www.webpagetest.org/learn/lightning-fast-web-performance/)"
+        },
+        {
+            "id": "7994105413",
+            "content": "Tikkie sturen naar Levi"
+        },
+        {
+            "id": "7994308674",
+            "content": "Push, Pull, Legs"
+        },
+        {
+            "id": "7997328261",
+            "content": "Sales IkTel"
+        },
+        {
+            "id": "7997526926",
+            "content": "[stukken bestuursopdracht lezen](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DOpeWRE93QfEtivftTlEy7YGku7WL4Kp90)"
+        },
+        {
+            "id": "7997529513",
+            "content": "[DEBREDESCHOOLZUIDOOST-199 - N+1 Query](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DOA-mdq0Nm19ufHekxhHfX6uth-ttyLUfA)"
+        },
+        {
+            "id": "7998569968",
+            "content": "Enable HSTS"
+        },
+        {
+            "id": "7998571141",
+            "content": "Remindermails"
+        },
+        {
+            "id": "7998573176",
+            "content": "https://docs.google.com/document/d/1BkGgc-sH_ZayMpAlqeR4CRJ4zXX54zKYgoe_YFugHqI/edit"
+        },
+        {
+            "id": "8001554404",
+            "content": "Domein toevoegen"
+        },
+        {
+            "id": "8001554903",
+            "content": "Footer fixen, nu 4 koloms met twee leeg"
+        },
+        {
+            "id": "8001555342",
+            "content": "Per project een afbeelding zoeken/maken"
+        },
+        {
+            "id": "8001570872",
+            "content": "[Weekly Report for perceptum: May 11th, 2024 - May 18th, 2024](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DPoPCimgscSJpwj0h_bdSXJ2eV9Dt394xg)"
+        },
+        {
+            "id": "8001578625",
+            "content": "Incision"
+        },
+        {
+            "id": "8001578759",
+            "content": "Khan Academie"
+        },
+        {
+            "id": "8001580162",
+            "content": "Brede School Amsterdam Zuidoost"
+        },
+        {
+            "id": "8001580612",
+            "content": "IkTel (nog niet publishen misschien?)"
+        },
+        {
+            "id": "8001614105",
+            "content": "Projecten over twee kolommen verdelen"
+        },
+        {
+            "id": "8001614497",
+            "content": "Afbeedlingen nu ovaal, beter vierkant of rond?"
+        },
+        {
+            "id": "8003559675",
+            "content": "20 idea method; Omzet verhogen"
+        },
+        {
+            "id": "8005503479",
+            "content": "Meer sales"
+        },
+        {
+            "id": "8005504042",
+            "content": "Uren maken bij Gemeente Amsterdam"
+        },
+        {
+            "id": "8005504841",
+            "content": "Andere klanten voor IkTel binnenhalen"
+        },
+        {
+            "id": "8005506597",
+            "content": "Offertes voor uitbreidingen BSZO schrijven en binnenhalen"
+        },
+        {
+            "id": "8005507853",
+            "content": "Nieuwe diensten uitrollen"
+        },
+        {
+            "id": "8005508475",
+            "content": "Zichtbaarder zijn: persoonlijke site, LinkedIn"
+        },
+        {
+            "id": "8005509445",
+            "content": "Website Perceptum (af)maken"
+        },
+        {
+            "id": "8005510050",
+            "content": "Chatbot(s) maken"
+        },
+        {
+            "id": "8005511022",
+            "content": "Customer support op BSZO (Sentry feedback)"
+        },
+        {
+            "id": "8005512063",
+            "content": "Wordpress sites omzetten naar Hugo"
+        },
+        {
+            "id": "8005512686",
+            "content": "Affiliate site(s) beginnen"
+        },
+        {
+            "id": "8005513309",
+            "content": "Startup mentor worden"
+        },
+        {
+            "id": "8005514641",
+            "content": "Content creatie met LLM"
+        },
+        {
+            "id": "8005515915",
+            "content": "LLM's voor MKB: uitleggen wat het is, wat je er mee kan"
+        },
+        {
+            "id": "8005517562",
+            "content": "Website check automated: snelheid, kwaliteit van websites meten"
+        },
+        {
+            "id": "8005519920",
+            "content": "Gestructureerd werken, duidelijk(er) per dag vooraf bepalen wat je gaat doen"
+        },
+        {
+            "id": "8005521899",
+            "content": "Influencer worden d.m.v. AI generated content"
+        },
+        {
+            "id": "8005535349",
+            "content": "(nog 3) Part-time andere baan: docent, (web)developer"
+        },
+        {
+            "id": "8005895966",
+            "content": "SEO check automated (zie Neil Patel)"
+        },
+        {
+            "id": "8005905254",
+            "content": "Affiliate site platform"
+        },
+        {
+            "id": "8005908212",
+            "content": "Virtual Personal Trainer"
+        },
+        {
+            "id": "8005916086",
+            "content": "Personal trainer platform"
+        },
+        {
+            "id": "8005923617",
+            "content": "Platform om pooltjes te organiseren"
+        },
+        {
+            "id": "8008771507",
+            "content": "Zorg dat het \"goed genoeg\" is, zodat je live kunt"
+        },
+        {
+            "id": "8008774716",
+            "content": "logo toevoegen"
+        },
+        {
+            "id": "8008783828",
+            "content": "sitespeed.io"
+        },
+        {
+            "id": "8008800959",
+            "content": "Wat is Perceptum?"
+        },
+        {
+            "id": "8008809324",
+            "content": "Footer"
+        },
+        {
+            "id": "8008809780",
+            "content": "Project teksten"
+        },
+        {
+            "id": "8008810290",
+            "content": "Khan Academie"
+        },
+        {
+            "id": "8008810743",
+            "content": "LeestMeer"
+        },
+        {
+            "id": "8008810817",
+            "content": "CodeCult"
+        },
+        {
+            "id": "8008811171",
+            "content": "Incision"
+        },
+        {
+            "id": "8008811998",
+            "content": "Brede School Zuidoost"
+        },
+        {
+            "id": "8008812235",
+            "content": "IkTel"
+        },
+        {
+            "id": "8008837648",
+            "content": "https://docs.google.com/document/d/1CwOwNRXlyw0Q367MKF23etkYCYDArdW8ZU9a6WbEQXw/edit"
+        },
+        {
+            "id": "8009004527",
+            "content": "Zie [15 minutes a day](https://www.baretta.nl)"
+        },
+        {
+            "id": "8009005068",
+            "content": "Zorg dat [https://baretta.nl](https://baretta.nl) ook werkt"
+        },
+        {
+            "id": "8009334026",
+            "content": "Favicon Perceptum"
+        },
+        {
+            "id": "8009337204",
+            "content": "Todoist affiliate"
+        },
+        {
+            "id": "8009341951",
+            "content": "Create account Partnerstack"
+        },
+        {
+            "id": "8009717719",
+            "content": "ON DELETE aanpassen. Docenten moeten verwijderd kunnen worden zonder aanwezigheid te verwijderen"
+        },
+        {
+            "id": "8010950361",
+            "content": "Dubbel account voor mini.maxwell@outlook.com"
+        },
+        {
+            "id": "8011219183",
+            "content": "Leg day"
+        },
+        {
+            "id": "8011221673",
+            "content": "Pull day every 5 days"
+        },
+        {
+            "id": "8011728008",
+            "content": "Naam Almere in sales doc"
+        },
+        {
+            "id": "8013761180",
+            "content": "Sales voorbereiden"
+        },
+        {
+            "id": "8013762106",
+            "content": "Prospect invoeren in Bigin"
+        },
+        {
+            "id": "8013762726",
+            "content": "Telefoonnummer zoeken"
+        },
+        {
+            "id": "8013763063",
+            "content": "LinkedIn zoeken"
+        },
+        {
+            "id": "8013779021",
+            "content": "Development uitbesteden"
+        },
+        {
+            "id": "8015224991",
+            "content": "Gestolen Jas(sen)"
+        },
+        {
+            "id": "8015236248",
+            "content": "Startende verkochte renners tonen"
+        },
+        {
+            "id": "8016153792",
+            "content": "Definitief niet geplaatst kan niet ongedaan gemaakt worden"
+        },
+        {
+            "id": "8016525108",
+            "content": "AI-voice cloning"
+        },
+        {
+            "id": "8018808752",
+            "content": "ChatGPT toegang geven tot documenten (Brede School)"
+        },
+        {
+            "id": "8018810696",
+            "content": "Nadenken en uitzoeken: second brain, met eigen data"
+        },
+        {
+            "id": "8019379786",
+            "content": "Perceptum website tijd inroosteren"
+        },
+        {
+            "id": "8021358375",
+            "content": "Time for my weekly review \u23f0"
+        },
+        {
+            "id": "8021358383",
+            "content": "A weekly review is a dedicated hour set aside each week for reflection and planning. Customize this checklist to ensure that each area of your life is accounted for."
+        },
+        {
+            "id": "8021358384",
+            "content": "\ud83c\udfa5 Watch the [Beginner's Guide to the Weekly Review](https://www.youtube.com/watch?v=lrdKWwOonQs) to learn more about this essential productivity practice for clearing your mind and planning ahead."
+        },
+        {
+            "id": "8021358389",
+            "content": "This weekly review template is based on the Getting Things Done method, but you can customize it to fit your needs."
+        },
+        {
+            "id": "8021358390",
+            "content": "Feel free to [archive this section](https://todoist.com/help/articles/introduction-to-sections-rOrK0aEn#h_01HA6Y9MJME7BDBBQT3PZ51R3Y) once you get the hang of using this template!"
+        },
+        {
+            "id": "8021358394",
+            "content": "Process my digital inboxes"
+        },
+        {
+            "id": "8021358396",
+            "content": "Email"
+        },
+        {
+            "id": "8021358399",
+            "content": "GitHub"
+        },
+        {
+            "id": "8021358404",
+            "content": "Slack"
+        },
+        {
+            "id": "8021358407",
+            "content": "Etc."
+        },
+        {
+            "id": "8021358410",
+            "content": "Clear off my desk"
+        },
+        {
+            "id": "8021358415",
+            "content": "Close all distractions - Do Not Disturb mode"
+        },
+        {
+            "id": "8021358418",
+            "content": "Review my Next Actions list"
+        },
+        {
+            "id": "8021358421",
+            "content": "Review my Projects list"
+        },
+        {
+            "id": "8021358427",
+            "content": "Review past and upcoming calendar items"
+        },
+        {
+            "id": "8021358429",
+            "content": "Review my Waiting For list"
+        },
+        {
+            "id": "8021358431",
+            "content": "* Use [this document template](https://docs.google.com/document/d/1rJMQ6GBTvka48y9sIzCtuWSisHgxAbm_eeQBBwXdGjU/edit?usp=sharing) to log answers"
+        },
+        {
+            "id": "8021358434",
+            "content": "What went well this week?"
+        },
+        {
+            "id": "8021358439",
+            "content": "What could be adjusted?"
+        },
+        {
+            "id": "8021358447",
+            "content": "What should I stop doing?"
+        },
+        {
+            "id": "8021358449",
+            "content": "Create a task to adjust these items"
+        },
+        {
+            "id": "8021358452",
+            "content": "What should I start doing?"
+        },
+        {
+            "id": "8021358453",
+            "content": "Create a task to plan these items in more detail"
+        },
+        {
+            "id": "8021358454",
+            "content": "Review my Someday/Maybe list"
+        },
+        {
+            "id": "8021358456",
+            "content": "Review Pending and support files"
+        },
+        {
+            "id": "8021358461",
+            "content": "Review any other relevant checklists"
+        },
+        {
+            "id": "8022485281",
+            "content": "The Game nog een keer kijken"
+        },
+        {
+            "id": "8023189401",
+            "content": "Geef tags aan items:"
+        },
+        {
+            "id": "8023191261",
+            "content": "Verfijn de \u2018weekly review"
+        },
+        {
+            "id": "8023385386",
+            "content": "Keuken opruimen"
+        },
+        {
+            "id": "8023385695",
+            "content": "Workout"
+        },
+        {
+            "id": "8023385800",
+            "content": "Wandelen"
+        },
+        {
+            "id": "8023385974",
+            "content": "Bureau opruimen"
+        },
+        {
+            "id": "8023386280",
+            "content": "Todoist doorlopen"
+        },
+        {
+            "id": "8023387812",
+            "content": "Honden uitlaten"
+        },
+        {
+            "id": "8024016586",
+            "content": "Dashboard met groene/rode lampjes:"
+        },
+        {
+            "id": "8027182719",
+            "content": "[Deeplearning courses](https://mail.google.com/mail/u/0/#label/Courses+-+DeepLearning)"
+        },
+        {
+            "id": "8027184028",
+            "content": "[Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)"
+        },
+        {
+            "id": "8027202546",
+            "content": "[AI for good]([https://www.coursera.org/specializations/ai-for-good](https://www.coursera.org/specializations/ai-for-good))"
+        },
+        {
+            "id": "8029704269",
+            "content": "Welke onderdelen moeten getoond worden op deze pagina?"
+        },
+        {
+            "id": "8029704666",
+            "content": "Hoe toon je het?"
+        },
+        {
+            "id": "8029706295",
+            "content": "Heen en weer springen tussen verschillende schermen met min of meer zelfde informatie mogelijk?"
+        },
+        {
+            "id": "8037526911",
+            "content": "Get rid of comma.html"
+        },
+        {
+            "id": "8037529256",
+            "content": "Zoek waar wordt gebruikt"
+        },
+        {
+            "id": "8037531009",
+            "content": "Vervang door {% if not forloop.last %}, {% endif %}"
+        },
+        {
+            "id": "8042754387",
+            "content": "Studiefinanciering"
+        },
+        {
+            "id": "8042755045",
+            "content": "Zorgtoeslag"
+        },
+        {
+            "id": "8048039642",
+            "content": "Planningsfunctionaliteit Brede School"
+        },
+        {
+            "id": "8048297693",
+            "content": "Protect tegen ongeauthoriseerd gebruik"
+        },
+        {
+            "id": "8048529753",
+            "content": "Kleuren op dashboard aanpassen"
+        },
+        {
+            "id": "8050248775",
+            "content": "Uitleggen hoe Activiteit centraal staat"
+        },
+        {
+            "id": "8051066634",
+            "content": "Alleen toekomstige Blokken kunnen kiezen"
+        },
+        {
+            "id": "8051091560",
+            "content": "Vragen aan zoons"
+        },
+        {
+            "id": "8113543803",
+            "content": "Extra functionaliteit Brede School"
+        },
+        {
+            "id": "8113544389",
+            "content": "Kwaliteitsbeoordeling"
+        },
+        {
+            "id": "8113544870",
+            "content": "Helpdesk"
+        },
+        {
+            "id": "8113545768",
+            "content": "FAQ verbeteren"
+        },
+        {
+            "id": "8113545984",
+            "content": "Customer support"
+        },
+        {
+            "id": "8113546269",
+            "content": "Workflows uitschrijven"
+        },
+        {
+            "id": "8116777212",
+            "content": "AI assistant"
+        },
+        {
+            "id": "8127678877",
+            "content": "Progressbar voor automatisch plaatsen"
+        },
+        {
+            "id": "8127679504",
+            "content": "Progressbar voor definitief plaatsen"
+        },
+        {
+            "id": "8127761714",
+            "content": "Filter company = 312 uit Company lijst"
+        },
+        {
+            "id": "8128090924",
+            "content": "Matching: show companies and when they are hired"
+        },
+        {
+            "id": "8128091637",
+            "content": "On /planning/: Show button"
+        },
+        {
+            "id": "8128212351",
+            "content": "Brede School, werkzaamheden opdelen in Processen"
+        },
+        {
+            "id": "8128212813",
+            "content": "Per proces de werkzaamheden uitwerken"
+        },
+        {
+            "id": "8128213235",
+            "content": "Per proces een app aanmaken"
+        },
+        {
+            "id": "8128293159",
+            "content": "Extra model om opmerkingen te kunnen plaatsen bij een datum van een Schedule:"
+        },
+        {
+            "id": "8128293188",
+            "content": "[https://chatgpt.com/g/g-OqpGqAWrG-brede-school-coding-gpt/c/d01ac647-0212-493a-8a6a-fd20f8ac0536](https://chatgpt.com/g/g-OqpGqAWrG-brede-school-coding-gpt/c/d01ac647-0212-493a-8a6a-fd20f8ac0536)"
+        },
+        {
+            "id": "8131179346",
+            "content": "Only show download button after selection"
+        },
+        {
+            "id": "8131436992",
+            "content": "Nieuwe navigatie per rol"
+        },
+        {
+            "id": "8131439786",
+            "content": "Ouder"
+        },
+        {
+            "id": "8132560454",
+            "content": "docent"
+        },
+        {
+            "id": "8132560575",
+            "content": "aanbieder"
+        },
+        {
+            "id": "8132597711",
+            "content": "talentmakelaar"
+        },
+        {
+            "id": "8132597960",
+            "content": "backoffice"
+        },
+        {
+            "id": "8136900179",
+            "content": "Maairobot schoonspuiten"
+        },
+        {
+            "id": "8144930940",
+            "content": "Rabobank zakelijk koppelen"
+        },
+        {
+            "id": "8145557184",
+            "content": "Vakantieplanning:"
+        },
+        {
+            "id": "8145558174",
+            "content": "Herfstvakantie: Britta met boys naar London"
+        },
+        {
+            "id": "8145558968",
+            "content": "Kerstvakantie: Zuid-Afrika"
+        },
+        {
+            "id": "8145559539",
+            "content": "Voorjaarsvakantie: Lech"
+        },
+        {
+            "id": "8145559888",
+            "content": "Meivakantie: Japan"
+        },
+        {
+            "id": "8145561516",
+            "content": "Zomervakantie: huis in Spanje!"
+        },
+        {
+            "id": "8148507054",
+            "content": "Brede School, Matching"
+        },
+        {
+            "id": "8148510284",
+            "content": "Daarna dropdown maken"
+        },
+        {
+            "id": "8148511965",
+            "content": "School overzicht overeenkomsten: altijd naar laatste Period (of nog beter: eerste toekomstige)"
+        },
+        {
+            "id": "8148547254",
+            "content": "In form aanmaken overeenkomst: keuze beperken tot companies die activiteit aanbieden"
+        },
+        {
+            "id": "8150668108",
+            "content": "Pagina na kiezen aanbieder aanpassen"
+        },
+        {
+            "id": "8164208770",
+            "content": "Mailgun opzetten .env"
+        },
+        {
+            "id": "8164213352",
+            "content": "Wielerspel CC berekening fixen"
+        },
+        {
+            "id": "8164218881",
+            "content": "Tesla ruitenwissers monteren"
+        },
+        {
+            "id": "8164219228",
+            "content": "Autowassen"
+        },
+        {
+            "id": "8164221763",
+            "content": "Export presentie naar verantwoordingstool"
+        },
+        {
+            "id": "8164222996",
+            "content": "Stripe: wat ga je/wil je er mee doen?"
+        },
+        {
+            "id": "8173725519",
+            "content": "Gespreksverslag Gina"
+        },
+        {
+            "id": "8174869229",
+            "content": "Meertaligheid nieuwe IkTel applicatie"
+        },
+        {
+            "id": "8176019377",
+            "content": "Dagelijkse mail over verwijderde aanwezigheidsrecords: backoffice"
+        },
+        {
+            "id": "8179192567",
+            "content": "template opzoeken"
+        },
+        {
+            "id": "8179193518",
+            "content": "bootstrap button opzoeken"
+        },
+        {
+            "id": "8179194890",
+            "content": "link vervangen door button"
+        },
+        {
+            "id": "8181098637",
+            "content": "Studiedagen Northgo opzoeken"
+        },
+        {
+            "id": "8181126064",
+            "content": "Mokum app"
+        },
+        {
+            "id": "8187880249",
+            "content": "[Stripe Reminder: activate your account](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DMqVxQbHKAzmiuQthB26U6yvp3uOhSA7nw)"
+        },
+        {
+            "id": "8189394598",
+            "content": "Aantal bestellen"
+        },
+        {
+            "id": "8207316965",
+            "content": "Check these steps"
+        },
+        {
+            "id": "8207321828",
+            "content": "Time for my weekly review \u23f0"
+        },
+        {
+            "id": "8207321850",
+            "content": "A weekly review is a dedicated hour set aside each week for reflection and planning. Customize this checklist to ensure that each area of your life is accounted for."
+        },
+        {
+            "id": "8207321861",
+            "content": "\ud83c\udfa5 Watch the [Beginner's Guide to the Weekly Review](https://www.youtube.com/watch?v=lrdKWwOonQs) to learn more about this essential productivity practice for clearing your mind and planning ahead."
+        },
+        {
+            "id": "8207321874",
+            "content": "This weekly review template is based on the Getting Things Done method, but you can customize it to fit your needs."
+        },
+        {
+            "id": "8207321888",
+            "content": "Feel free to [archive this section](https://todoist.com/help/articles/introduction-to-sections-rOrK0aEn#h_01HA6Y9MJME7BDBBQT3PZ51R3Y) once you get the hang of using this template!"
+        },
+        {
+            "id": "8207321901",
+            "content": "Process my digital inboxes"
+        },
+        {
+            "id": "8207321915",
+            "content": "Email"
+        },
+        {
+            "id": "8207321934",
+            "content": "GitHub"
+        },
+        {
+            "id": "8207321945",
+            "content": "Slack"
+        },
+        {
+            "id": "8207321961",
+            "content": "Etc."
+        },
+        {
+            "id": "8207321973",
+            "content": "Clear off my desk"
+        },
+        {
+            "id": "8207321990",
+            "content": "Close all distractions - Do Not Disturb mode"
+        },
+        {
+            "id": "8207322002",
+            "content": "Review my Next Actions list"
+        },
+        {
+            "id": "8207322018",
+            "content": "Review my Projects list"
+        },
+        {
+            "id": "8207322036",
+            "content": "Review past and upcoming calendar items"
+        },
+        {
+            "id": "8207322044",
+            "content": "Review my Waiting For list"
+        },
+        {
+            "id": "8207322061",
+            "content": "* Use [this document template](https://docs.google.com/document/d/1rJMQ6GBTvka48y9sIzCtuWSisHgxAbm_eeQBBwXdGjU/edit?usp=sharing) to log answers"
+        },
+        {
+            "id": "8207322081",
+            "content": "What went well this week?"
+        },
+        {
+            "id": "8207322109",
+            "content": "What could be adjusted?"
+        },
+        {
+            "id": "8207322128",
+            "content": "What should I stop doing?"
+        },
+        {
+            "id": "8207322147",
+            "content": "Create a task to adjust these items"
+        },
+        {
+            "id": "8207322157",
+            "content": "What should I start doing?"
+        },
+        {
+            "id": "8207322166",
+            "content": "Create a task to plan these items in more detail"
+        },
+        {
+            "id": "8207322200",
+            "content": "Review my Someday/Maybe list"
+        },
+        {
+            "id": "8207322223",
+            "content": "Review Pending and support files"
+        },
+        {
+            "id": "8207322348",
+            "content": "Review any other relevant checklists"
+        },
+        {
+            "id": "8208430728",
+            "content": "Dagelijkse taken"
+        },
+        {
+            "id": "8208431271",
+            "content": "Inbox zero"
+        },
+        {
+            "id": "8208431548",
+            "content": "ToDoist zero"
+        },
+        {
+            "id": "8208432673",
+            "content": "Pushups"
+        },
+        {
+            "id": "8208508782",
+            "content": "Nike Run Club"
+        },
+        {
+            "id": "8208512228",
+            "content": "Squats"
+        },
+        {
+            "id": "8210166752",
+            "content": "push-ups"
+        },
+        {
+            "id": "8210284764",
+            "content": "Aanbieder portaal"
+        },
+        {
+            "id": "8214127356",
+            "content": "Tandenstoken"
+        },
+        {
+            "id": "8216126425",
+            "content": "[(GitHub) Credit or debit card expiring soon for Perceptum](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DM0VUMtFZ-8euF6pV-_GeqWTug6Xjc6gy0)"
+        },
+        {
+            "id": "8216861996",
+            "content": "Aanpassen financieel van overeenkomst niet meer toegestaan na start en akkoord"
+        },
+        {
+            "id": "8216863259",
+            "content": "Knopje \"aanpassen\" verwijderen als overeenkomst akkoord is en begonnen"
+        },
+        {
+            "id": "8225038420",
+            "content": "Lampje afzuigkap vervangen"
+        },
+        {
+            "id": "8228575783",
+            "content": "Stoomapparaat reparatie"
+        },
+        {
+            "id": "8230312507",
+            "content": "BredeSchool werkend krijgen in SaasPegasus"
+        },
+        {
+            "id": "8230392220",
+            "content": "Gebruik utils/Basemodel voor alles waar je timestamps voor wilt gebruiken"
+        },
+        {
+            "id": "8230689761",
+            "content": "Multi-tenant!! Hoe zorg je dat meerdere groepen scholen gebruik kunnen maken"
+        },
+        {
+            "id": "8231213300",
+            "content": "helpers"
+        },
+        {
+            "id": "8231916834",
+            "content": "Add urls to test_rijke_schooldag urls.py"
+        },
+        {
+            "id": "8231918236",
+            "content": "Add urls to navigation items (in top_nav_app.html"
+        },
+        {
+            "id": "8231921457",
+            "content": "Run makemigrations per app"
+        },
+        {
+            "id": "8237942812",
+            "content": "[Navragen: FW: Aon sommatie](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DOMubmiYf4PVJQw1zGZ-FJObEEPOAb5ypQ)"
+        },
+        {
+            "id": "8239251162",
+            "content": "Lower back exercises doen"
+        },
+        {
+            "id": "8239308683",
+            "content": "Django HTMX library checken"
+        },
+        {
+            "id": "8239426454",
+            "content": "Process om applicatie te vullen met fake data"
+        },
+        {
+            "id": "8239756136",
+            "content": "Import core app into Saas_Pegasus"
+        },
+        {
+            "id": "8243755589",
+            "content": "Mobility exercises"
+        },
+        {
+            "id": "8262895629",
+            "content": "Fitness goals"
+        },
+        {
+            "id": "8276140213",
+            "content": "[Bellen: K\u00e4rcher Service Center ](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DPVDEo4_j7Koy6kEiFlYywk_aLj3FdYr84)"
+        },
+        {
+            "id": "8276983026",
+            "content": "Developer laten ontwikkelen"
+        },
+        {
+            "id": "8280119384",
+            "content": "Ouder app aanmaken"
+        },
+        {
+            "id": "8280120020",
+            "content": "Company side nav maken"
+        },
+        {
+            "id": "8280120483",
+            "content": "Upload leerlingen verbeteren"
+        },
+        {
+            "id": "8280121130",
+            "content": "Assign roles pagina"
+        },
+        {
+            "id": "8280264874",
+            "content": "app_nav.html items aanmaken"
+        },
+        {
+            "id": "8280265119",
+            "content": "Ouder"
+        },
+        {
+            "id": "8280865226",
+            "content": "navigatie in"
+        },
+        {
+            "id": "8297339528",
+            "content": "S3 bucket IkTel gebruiken"
+        },
+        {
+            "id": "8297341350",
+            "content": "Organisatie toevoegen IkTel"
+        },
+        {
+            "id": "8310442869",
+            "content": "Koffiemelk kopen"
+        },
+        {
+            "id": "8310771413",
+            "content": "Upwork voorstel: Company app"
+        },
+        {
+            "id": "8314397797",
+            "content": "Alles in 1 polis reviewen"
+        },
+        {
+            "id": "8317318450",
+            "content": "[Your credit card is expiring soon for perceptum](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DNBBp8f83d8Y4ijc6vH28D_WGsUPQWZjYk)"
+        },
+        {
+            "id": "8324260039",
+            "content": "Wieleruitslagen FirstCycling"
+        },
+        {
+            "id": "8324268314",
+            "content": "Van welke race zijn er uitslagen"
+        },
+        {
+            "id": "8324269388",
+            "content": "Van welke onderdelen van de race zijn er uitslagen"
+        },
+        {
+            "id": "8324275220",
+            "content": "Haal uitslag binnen"
+        },
+        {
+            "id": "8332664759",
+            "content": "Ontwerp template a la PPOZO"
+        },
+        {
+            "id": "8351690112",
+            "content": "Overzicht status overeenkomsten"
+        },
+        {
+            "id": "8352983276",
+            "content": "Mail naar Dick Bentvelzen (drafts)"
+        },
+        {
+            "id": "8352984936",
+            "content": "Download alle overeenkomsten van komende blok"
+        },
+        {
+            "id": "8355375782",
+            "content": "erica, dachar: filter op overeenkomsten aanpassen? Nieuw spreadsheet, voor periode=76?"
+        },
+        {
+            "id": "8363043982",
+            "content": "Nieuwkomersschool aanmaken"
+        },
+        {
+            "id": "8392911354",
+            "content": "Growth mindset naar Michael van Duin"
+        },
+        {
+            "id": "8393867716",
+            "content": "LinkedIn, twee vacatures/reacties"
+        },
+        {
+            "id": "8402508738",
+            "content": "APK keuring regelen"
+        },
+        {
+            "id": "8405184611",
+            "content": "Sub-navigatie Contract maken"
+        },
+        {
+            "id": "8405185038",
+            "content": "Overzicht overreenkomsten per status"
+        },
+        {
+            "id": "8405185456",
+            "content": "Overzicht overeenkomsten per aanbieder"
+        },
+        {
+            "id": "8405187978",
+            "content": "Overzicht \"extra\" pagina's maken"
+        },
+        {
+            "id": "8405189277",
+            "content": "Aanvragen per aanbieder"
+        },
+        {
+            "id": "8405189622",
+            "content": "Deelname per leerling"
+        },
+        {
+            "id": "8408750917",
+            "content": "Print papier kopen"
+        },
+        {
+            "id": "8427438644",
+            "content": "Forward Perceptum naar Iktel"
+        },
+        {
+            "id": "8433087500",
+            "content": "Robert Goedemans, IkTel"
+        },
+        {
+            "id": "8433089211",
+            "content": "Alf Span Realiance"
+        },
+        {
+            "id": "8435201954",
+            "content": "Automatisch plaatsen, definitief plaatsen: filter op Period"
+        },
+        {
+            "id": "8435531631",
+            "content": "Flitsmeister op Tesla"
+        },
+        {
+            "id": "8446963823",
+            "content": "Lech reis beslissen"
+        },
+        {
+            "id": "8447128805",
+            "content": "APK keuring Model S"
+        },
+        {
+            "id": "8448178976",
+            "content": "Aanbetaling Lech"
+        },
+        {
+            "id": "8448179704",
+            "content": "Gegevens invoeren Lech"
+        },
+        {
+            "id": "8448274004",
+            "content": "[Booking confirmation - Hotel Mohnenfluh****](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DM6Ulqx7xM-flRqUg12DGlFn5x_AYH0gXg)"
+        },
+        {
+            "id": "8456810376",
+            "content": "[Afspraak Cleyburch maken Dhr. Tjalle Baretta (20-09-2008)](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DNprBrXxdAYJ3fhRhmgE7uWA4J9Kfl2MHE)"
+        },
+        {
+            "id": "8470976611",
+            "content": "[Betalingsregeling overeengekomen met ANWB Rijopleiding Haarlem](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DMycm3rVLHyAFy3Al6NgYAS1nO4vd5lI9A)"
+        },
+        {
+            "id": "8471835959",
+            "content": "BTW aangifte indienen"
+        },
+        {
+            "id": "8473388619",
+            "content": "Pitch anything lezen 1 pagina"
+        },
+        {
+            "id": "8473389787",
+            "content": "The pricing roadmap lezen"
+        },
+        {
+            "id": "8473774981",
+            "content": "Aanwezigheids reminders: definitief geplaatst, aanwezigheidsrecord aangemaakt, plaatsing ongedaan gemaakt"
+        },
+        {
+            "id": "8473782811",
+            "content": "Helpdesk Brede School"
+        },
+        {
+            "id": "8473810883",
+            "content": "Automatische update Parnassys, bellen"
+        },
+        {
+            "id": "8496327548",
+            "content": "Aparte pagina vervanging wegens ziekte"
+        },
+        {
+            "id": "8499792374",
+            "content": "Maximum aantal plaatsen"
+        },
+        {
+            "id": "8502751764",
+            "content": "Set up a Wielerspel2025"
+        },
+        {
+            "id": "8510712833",
+            "content": "IkTel reminders:"
+        },
+        {
+            "id": "8510713927",
+            "content": "Materiaalkosten: per sessie, fixed, per deelnemer toevoegen?"
+        },
+        {
+            "id": "8510714807",
+            "content": "Generic comment fields??"
+        },
+        {
+            "id": "8517951360",
+            "content": "[Screenshots and screencasts](https://help.ubuntu.com/stable/ubuntu-help/screen-shot-record.html)"
+        },
+        {
+            "id": "8518517935",
+            "content": "[ScreencastTeam/RecordingScreencasts - Ubuntu Wiki](https://wiki.ubuntu.com/ScreencastTeam/RecordingScreencasts) Read and execute"
+        },
+        {
+            "id": "8556714246",
+            "content": "[Removed attendance records Bredeschool prod](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DOCpScyMkElLTBfdHyy3zk6SOFSAva-_jc)"
+        },
+        {
+            "id": "8558438509",
+            "content": "Vertalingen automatisch maken, Rijke Schooldag"
+        },
+        {
+            "id": "8583913635",
+            "content": "Posts van [Wijnand Baretta](http://wijnand.baretta.nu/) naar 15-a-day"
+        },
+        {
+            "id": "8584171953",
+            "content": "Serve the [15 minutes a day](http://www.baretta.nl) site from [baretta.nl](http://baretta.nl) as well"
+        },
+        {
+            "id": "8584175209",
+            "content": "Add simpleanalytics script to Hugo site"
+        },
+        {
+            "id": "8584330386",
+            "content": "Fix including Youtube url Hole in the wall"
+        },
+        {
+            "id": "8586971657",
+            "content": "http://localhost:1313/posts/markdown-syntax.html"
+        },
+        {
+            "id": "8602391230",
+            "content": "Docent ziekmelden, uitleg maken en mailadressen actieve docenten ophalen"
+        },
+        {
+            "id": "8602426527",
+            "content": "Check [GitHub - llazzaro/django-scheduler: A calendaring app for Django.](https://github.com/llazzaro/django-scheduler?tab=readme-ov-file)"
+        },
+        {
+            "id": "8602448008",
+            "content": "Sheet van Erica: check of de aantallen per week nog kloppen door naar weeknummer te kijken"
+        },
+        {
+            "id": "8602449829",
+            "content": "Locatie moet toegevoegd worden per school, vergelijkbaar met tijden, dus per dag aangeven"
+        },
+        {
+            "id": "8602452127",
+            "content": "Nathalie en/of Rachel vragen: nieuw administratiepakket?"
+        },
+        {
+            "id": "8608858150",
+            "content": "Run translations (create file)"
+        },
+        {
+            "id": "8616833312",
+            "content": "**[iktel]** Add Dutch as language and create translations by wijnandb https://ift.tt/Y4IPfFL"
+        },
+        {
+            "id": "8624962237",
+            "content": "Jolanda Doornbos koppelen aan Nathalie Bremer"
+        },
+        {
+            "id": "8624962847",
+            "content": "Jolanda Doornbos koppelen aan Frum van Egmond"
+        },
+        {
+            "id": "8624967222",
+            "content": "Verify LinkedIn profile"
+        },
+        {
+            "id": "8625992634",
+            "content": "Sales en marketing"
+        },
+        {
+            "id": "8631172040",
+            "content": "LinkedIn premium opzeggen"
+        },
+        {
+            "id": "8639129130",
+            "content": "Mission statement Perceptum"
+        },
+        {
+            "id": "8639129410",
+            "content": "OKR\u2019s"
+        },
+        {
+            "id": "8639214277",
+            "content": "Contact opnemen met contacten Rijke Schooldag"
+        },
+        {
+            "id": "8660026807",
+            "content": "Review the filter views included in this Setup whenever you plan your day or week:"
+        },
+        {
+            "id": "8660026808",
+            "content": "\ud83d\udca1**Bonus Tip:** Schedule important but not urgent tasks with recurring due dates to turn them into habits."
+        },
+        {
+            "id": "8660026809",
+            "content": "\ud83c\udfa5 Watch our [full guide to the Eisenhower Matrix](https://www.youtube.com/watch?v=tLLyi50M5KM)."
+        },
+        {
+            "id": "8660026810",
+            "content": "\ud83d\udcda Read our full [guide to the Eisenhower Matrix](https://todoist.com/productivity-methods/eisenhower-matrix)."
+        },
+        {
+            "id": "8660026824",
+            "content": "**`Delete It`** = Tasks that aren't urgent and aren't important. Delete, cancel, or (politely) decline."
+        },
+        {
+            "id": "8660796944",
+            "content": "Fitness app ChatGPT"
+        },
+        {
+            "id": "8660799730",
+            "content": "[ChatGPT - Muscle Level Tracker](https://chatgpt.com/share/6755d4f3-03f8-800a-885b-83a60c63324f)"
+        },
+        {
+            "id": "8661262410",
+            "content": "VI pro opzeggen"
+        }
+    ]
+}

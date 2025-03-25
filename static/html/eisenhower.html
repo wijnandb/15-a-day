@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eisenhower Matrix</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .matrix {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            max-width: 800px;
+            margin: auto;
+        }
+        .quadrant {
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .quadrant h3 {
+            margin: 0 0 10px;
+        }
+        .more-tasks {
+            color: blue;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Eisenhower Matrix</h1>
+    <div class="matrix" id="matrix">
+        <!-- Quadrants will be populated here -->
+    </div>
+
+    <script>
+        async function loadTasks() {
+            const response = await fetch("todoist_tasks.json");
+            const data = await response.json();
+            const matrixDiv = document.getElementById("matrix");
+
+            const quadrants = {
+                Q1: "Urgent & Important",
+                Q2: "Important, Not Urgent",
+                Q3: "Urgent, Not Important",
+                Q4: "Neither Urgent nor Important"
+            };
+
+            for (const [key, title] of Object.entries(quadrants)) {
+                const quadrantDiv = document.createElement("div");
+                quadrantDiv.classList.add("quadrant");
+
+                // Quadrant title
+                const titleElement = document.createElement("h3");
+                titleElement.textContent = title;
+                quadrantDiv.appendChild(titleElement);
+
+                // Display first 3 tasks
+                const tasks = data[key];
+                const taskList = document.createElement("ul");
+                const firstThree = tasks.slice(0, 3);
+                firstThree.forEach(task => {
+                    const taskItem = document.createElement("li");
+                    taskItem.textContent = task.content;
+                    taskList.appendChild(taskItem);
+                });
+                quadrantDiv.appendChild(taskList);
+
+                // "X more tasks" link
+                if (tasks.length > 3) {
+                    const moreLink = document.createElement("span");
+                    moreLink.textContent = `${tasks.length - 3} more tasks`;
+                    moreLink.classList.add("more-tasks");
+                    moreLink.onclick = () => alert(`${title}: ${tasks.slice(3).map(t => t.content).join(", ")}`);
+                    quadrantDiv.appendChild(moreLink);
+                }
+
+                matrixDiv.appendChild(quadrantDiv);
+            }
+        }
+
+        loadTasks();
+    </script>
+</body>
+</html>
