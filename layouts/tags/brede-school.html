@@ -1,0 +1,12 @@
+{{ define "content" }}
+<h1>{{ .Title }}</h1>
+<p>{{ .Content }}</p>
+
+<h2>Posts Tagged with "Brede School"</h2>
+<ul>
+    {{ $tag := "brede-school" }}
+    {{ range where .Site.Pages "Params.tags" $tag }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+</ul>
+{{ end }}
