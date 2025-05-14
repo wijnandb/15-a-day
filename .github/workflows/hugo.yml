@@ -1,10 +1,10 @@
-# .github/workflows/deploy-hugo-to-pages.yml
+# .github/workflows/deploy-hugo.yml
 name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches: ["main"]  # Automatically deploy on push to main
-  workflow_dispatch:     # Or run manually
+    branches: [main]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -15,10 +15,6 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-defaults:
-  run:
-    shell: bash
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -27,39 +23,23 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          submodules: recursive
-
-      # ✅ WORKAROUND: Preload upload-artifact@v3 for GitHub Pages internal use
-      - name: Preload upload-artifact (GitHub workaround)
-        uses: actions/upload-artifact@v3
-        if: false
 
       - name: Install Hugo
         run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+          wget -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i hugo.deb
 
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
-
-      - name: Setup GitHub Pages
+      - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
 
-      - name: Build with Hugo
-        env:
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
+      - name: Build Hugo site
         run: |
-          hugo \
-            --minify \
-            --forceSyncStatic \
-            --ignoreCache \
-            --cleanDestinationDir \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+          hugo --minify \
+               --cleanDestinationDir \
+               --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Upload GitHub Pages artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
@@ -71,5 +51,4 @@ jobs:
       name: github-pages
     steps:
       - name: Deploy to GitHub Pages
-        id: deploy
         uses: actions/deploy-pages@v2
