@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 title: "Using AI to lead a happier life?"
 date: "2025-03-24T17:16:23+0100"
 layout: post

@@ -7,9 +7,6 @@ tags: ["crewai", "scriv", "AI", "productivity"]
 slug: "single-agent-vs-multi-agent"
 ---
 
-
-# Single Agent vs. Multi-Agent: What’s Best for you?
-
 # Single Agent vs. Multi-Agent: What’s Best for You?
 
 ## TL;DR
