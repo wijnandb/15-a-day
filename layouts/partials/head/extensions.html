@@ -6,4 +6,8 @@
     <meta name="robots" content="{{ . }}">
 {{ end }}
 
-<meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline' https://scripts.simpleanalyticscdn.com; connect-src 'self' https://queue.simpleanalyticscdn.com; img-src 'self' https://queue.simpleanalyticscdn.com https://simpleanalyticsbadges.com;">
+<meta http-equiv="Content-Security-Policy" content="
+  script-src 'self' 'unsafe-inline' https://scripts.simpleanalyticscdn.com https://sa.perceptum.nl;
+  connect-src 'self' https://queue.simpleanalyticscdn.com https://sa.perceptum.nl;
+  img-src 'self' https://queue.simpleanalyticscdn.com https://simpleanalyticsbadges.com https://sa.perceptum.nl;
+">
