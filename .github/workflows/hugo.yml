@@ -19,7 +19,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.147.3
+      HUGO_VERSION: 0.111.3
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
