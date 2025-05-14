@@ -50,4 +50,4 @@ jobs:
           hugo \
             --minify \
             --forceSyncStatic \
-            --ignoreC
+            --ignoreCache
