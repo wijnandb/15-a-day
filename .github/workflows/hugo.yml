@@ -2,8 +2,8 @@
 name: Deploy Hugo site to GitHub Pages
 
 on:
-  push:
-    branches: ["main"]  # Trigger on push to main
+  # push:
+  #   branches: ["main"]  # Trigger on push to main
   workflow_dispatch:
 
 permissions:
@@ -68,6 +68,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deploy
         uses: actions/deploy-pages@v2
-
-      - name: Show deployed URL
-        run: echo "✅ Deployed to: ${{ steps.deploy.outputs.page_url }}"
