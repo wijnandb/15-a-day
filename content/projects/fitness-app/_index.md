@@ -331,4 +331,4 @@ For example:
 ---
 
 Great!
-Now the idea that I have is basically to provide insight into the minimum a person has to do to stay fit. Besides the challenge of determining what is "enough", I am interested to hear how the different frameworks you mentioned can help to 
+Now the idea that I have is basically to provide insight into the minimum a person has to do to stay fit. Besides the challenge of determining what is "enough", I am interested to hear how the different frameworks you mentioned can help to create a system of guidance, knowledge, motivation and nudging to help a person to get and stay fit.
