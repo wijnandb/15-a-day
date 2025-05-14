@@ -43,6 +43,17 @@ jobs:
           submodules: recursive
 #      - name: Install Node.js dependencies
 #        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      # - name: Build with Hugo complete rebuild, no cache
+      #   env:
+      #     HUGO_ENVIRONMENT: production
+      #     HUGO_ENV: production
+      #   run: |
+      #     hugo \
+      #       --minify \
+      #       --forceSyncStatic \
+      #       --ignoreCache \
+      #       --cleanDestinationDir \
+      #       --baseURL "${{ secrets.SITE_BASE_URL }}/"       
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
@@ -50,10 +61,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --forceSyncStatic \
-            --ignoreCache \
-            --cleanDestinationDir \
-            --baseURL "${{ secrets.SITE_BASE_URL }}/"       
+            --baseURL "${{ secrets.SITE_BASE_URL }}/"
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v4.3.1            
         with:
