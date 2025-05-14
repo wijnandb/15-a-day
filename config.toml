@@ -257,3 +257,5 @@ pattern = "^.+\\.(html|xml|json)$"
 gzip = true
 
 enableGitInfo = true
+
+enableRobotsTXT = true
