@@ -83,7 +83,11 @@ def format_author_name(name):
 def normalize_authors(authors):
     if len(authors) == 1 and ":" in authors[0]:  # Check for single string with colons
         # Split by colon and clean up extra spaces or colons
-        return [author.strip().strip(":") for author in authors[0].split(":")]
+        return [
+            author.strip().strip(":")
+            for author in authors[0].split(":")
+            if author.strip().strip(":")
+        ]
     return authors  # Return as is if already a clean list
 
 # Create a markdown file
