@@ -25,7 +25,7 @@ headers = {
 
 for book in books:
     link = "https://www.amazon.com/dp/" + book[0]
-    page = requests.get(link, headers)
+    page = requests.get(link, headers=headers)
     soup = BeautifulSoup(page.content, 'html.parser')
     print(soup.prettify)
     #description = soup.find('div', id='iframeContent')
