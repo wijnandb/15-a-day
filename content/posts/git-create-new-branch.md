@@ -28,6 +28,6 @@ Imagine you fixed the issue and committed it to the "issue40" branch by
 $ git commit -a -m "Fixed a bug [issue 40]"
 ```
 
-You are now ready to merge the issue40 branch into the main branch. You can eitehr do this locally, or do it on Github.
+You are now ready to merge the issue40 branch into the main branch. You can either do this locally, or do it on Github.
 
 
